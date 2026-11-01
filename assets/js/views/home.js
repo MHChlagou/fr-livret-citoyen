@@ -1,6 +1,6 @@
 import { escapeHtml, inline, percent, plural, formatDate } from "../util.js";
 import { sectionState, getSection, getExams, getUserName } from "../store.js";
-import { EXAM_QUESTION_COUNT } from "../exam.js";
+import { EXAM_QUESTION_COUNT, examQuestionsForPart } from "../exam.js";
 import { partLabel } from "./blocks.js";
 import { mountInstallCard } from "../install.js";
 
@@ -27,6 +27,7 @@ function stopMarkup(section, index) {
 function partMarkup(part, delayIndex) {
   const passed = part.sections.filter((s) => sectionState(s.id) === "passed").length;
   const quizSections = part.sections.filter((s) => s.quiz.length > 0).length;
+  const examCount = examQuestionsForPart(part.id);
   return `
     <article class="card part" style="animation-delay:${delayIndex * 60}ms">
       <div class="part-badge" aria-hidden="true">${escapeHtml(part.icon)}</div>
@@ -36,7 +37,10 @@ function partMarkup(part, delayIndex) {
             <span class="eyebrow">${partLabel(part)}</span>
             <h3>${escapeHtml(part.title)}</h3>
           </div>
-          ${quizSections ? `<span class="pill ${passed === quizSections ? "ok" : ""}">${passed} / ${quizSections} réussis</span>` : ""}
+          <div class="pill-row">
+            ${examCount ? `<span class="pill warn" title="Nombre de questions tirées dans cette partie à l'examen blanc">${examCount} / ${EXAM_QUESTION_COUNT} à l'examen</span>` : ""}
+            ${quizSections ? `<span class="pill ${passed === quizSections ? "ok" : ""}">${passed} / ${quizSections} réussis</span>` : ""}
+          </div>
         </div>
         <p class="intro">${inline(part.intro)}</p>
         <ol class="stops">${part.sections.map(stopMarkup).join("")}</ol>

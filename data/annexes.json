@@ -3,7 +3,7 @@
   "number": 0,
   "title": "Annexes",
   "icon": "📜",
-  "intro": "Les annexes du livret présentent, en résumé, la Déclaration des droits de l'homme et du citoyen de 1789 et la Charte des droits et devoirs du citoyen français, puis une liste de ressources officielles à consulter.",
+  "intro": "Les deux textes fondateurs que l'examen peut citer : la Déclaration des droits de l'homme et du citoyen de 1789 et la Charte des droits et devoirs du citoyen français, résumés point par point, puis les ressources officielles pour aller plus loin.",
   "sections": [
     {
       "id": "a1",
@@ -137,15 +137,15 @@
           "kind": "situation"
         },
         {
-          "q": "Un ami veut publier un article critiquant une décision publique. Selon l'article 11 de la Déclaration :",
+          "q": "Un policier menace d'arrêter votre voisin parce que « sa tête ne lui revient pas », sans aucune base légale. Que prévoit l'article 7 de la Déclaration ?",
           "choices": [
-            "Il doit obtenir une autorisation préalable de l'administration avant toute publication",
-            "Il peut écrire librement, mais répond des abus prévus par la loi",
-            "Toute critique publique d'une décision des autorités est interdite",
-            "Il ne peut s'exprimer qu'oralement"
+            "Un policier peut arrêter qui il veut, sans justification",
+            "Nul ne peut être arrêté ou détenu hors des cas prévus par la loi",
+            "Seul le maire peut autoriser une arrestation dans sa commune",
+            "Une arrestation est possible sur simple dénonciation d'un voisin, sans contrôle"
           ],
           "answer": 1,
-          "explain": "L'article 11 garantit la libre communication des pensées et des opinions : tout citoyen peut parler, écrire et imprimer librement, sauf à répondre de l'abus de cette liberté dans les cas déterminés par la loi.",
+          "explain": "L'article 7 prévoit que nul ne peut être accusé, arrêté ni détenu que dans les cas déterminés par la loi et selon les formes qu'elle a prescrites ; ceux qui ordonnent ou exécutent des ordres arbitraires doivent être punis.",
           "kind": "situation"
         },
         {
@@ -164,12 +164,12 @@
           "q": "À quelle condition une personne peut-elle être privée de sa propriété selon l'article 17 ?",
           "choices": [
             "Jamais, en aucun cas",
-            "Sur simple décision d'un agent public",
-            "Si la nécessité publique, légalement constatée, l'exige, avec une juste et préalable indemnité",
+            "Sur simple décision d'un agent public, sans indemnité",
+            "Pour nécessité publique, contre une juste indemnité",
             "Si un voisin en a davantage besoin"
           ],
           "answer": 2,
-          "explain": "La propriété est un droit inviolable et sacré, mais une privation est possible pour nécessité publique légalement constatée, contre une juste et préalable indemnité.",
+          "explain": "La propriété est un droit inviolable et sacré, mais une privation est possible si la nécessité publique, légalement constatée, l'exige clairement, et sous la condition d'une juste et préalable indemnité.",
           "kind": "knowledge"
         },
         {
@@ -243,6 +243,30 @@
           "answer": 3,
           "explain": "Selon l'article 5, la loi n'a le droit de défendre que les actions nuisibles à la société ; tout ce qui n'est pas défendu par la loi ne peut être empêché, et nul ne peut être contraint à faire ce qu'elle n'ordonne pas.",
           "kind": "situation"
+        },
+        {
+          "q": "Selon l'article 1er de la Déclaration, sur quoi les distinctions sociales peuvent-elles seulement être fondées ?",
+          "choices": [
+            "Sur la naissance et le rang de la famille",
+            "Sur la fortune",
+            "Sur la religion",
+            "Sur l'utilité commune"
+          ],
+          "answer": 3,
+          "explain": "L'article 1er pose que les hommes naissent et demeurent libres et égaux en droits et que les distinctions sociales ne peuvent être fondées que sur l'utilité commune.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Vous constatez qu'un service public gère mal l'argent dont il dispose et vous voulez des explications. Que prévoit l'article 15 de la Déclaration ?",
+          "choices": [
+            "Les agents publics ne doivent rendre compte qu'à leur hiérarchie",
+            "La société peut demander des comptes à tout agent public",
+            "Seul le chef de l'État peut contrôler l'administration",
+            "L'administration n'a aucune obligation d'expliquer ses choix"
+          ],
+          "answer": 1,
+          "explain": "L'article 15 donne à la société le droit de demander compte à tout agent public de son administration.",
+          "kind": "situation"
         }
       ]
     },
@@ -281,8 +305,8 @@
               "text": "Tout être humain, quelle que soit sa race, sa religion ou sa croyance, possède des **droits inaliénables**, garantis à chacun sur le territoire de la République ; chacun doit aussi les respecter. Le citoyen français a en plus des droits et devoirs particuliers : le **droit** de participer à l'**élection des représentants** du peuple, et le **devoir** de concourir à la **défense nationale** ou de participer aux **jurys d'assises**."
             },
             {
-              "type": "p",
-              "text": "**Liberté**"
+              "type": "h",
+              "text": "Liberté"
             },
             {
               "type": "list",
@@ -298,8 +322,8 @@
               ]
             },
             {
-              "type": "p",
-              "text": "**Égalité**"
+              "type": "h",
+              "text": "Égalité"
             },
             {
               "type": "list",
@@ -314,8 +338,8 @@
               ]
             },
             {
-              "type": "p",
-              "text": "**Fraternité**"
+              "type": "h",
+              "text": "Fraternité"
             },
             {
               "type": "list",
@@ -401,16 +425,16 @@
           "kind": "situation"
         },
         {
-          "q": "À partir de quel âge un citoyen français jouissant de ses droits civiques est-il électeur ?",
+          "q": "Un ami vous affirme que la République n'a pas de langue officielle et que toutes les langues sont à égalité dans les administrations. Que rappelle la Charte ?",
           "choices": [
-            "16 ans",
-            "18 ans",
-            "21 ans",
-            "25 ans"
+            "La République a deux langues officielles, le français et l'anglais",
+            "Chaque région choisit sa langue administrative",
+            "Aucune langue n'a de statut particulier",
+            "La langue de la République est le français"
           ],
-          "answer": 1,
-          "explain": "Tout citoyen français âgé de dix-huit ans et jouissant de ses droits civiques est électeur.",
-          "kind": "knowledge"
+          "answer": 3,
+          "explain": "La Charte rappelle, parmi les symboles et principes de la République, que la langue de la République est le français.",
+          "kind": "situation"
         },
         {
           "q": "Dans un couple marié, le mari veut interdire à sa femme de travailler et de gérer son salaire. Que prévoit la Charte ?",
@@ -440,12 +464,12 @@
           "q": "Dans quel cas une personne devenue française peut-elle être déchue de la nationalité française selon la Charte ?",
           "choices": [
             "Si elle ne vote pas à une élection",
-            "Si elle déménage dans une autre région",
-            "Si elle s'est soustraite à ses obligations de défense ou a commis des actes contraires aux intérêts fondamentaux de la France",
+            "Si elle a quitté la France pour s'installer durablement dans un autre pays de l'Union européenne",
+            "Si elle a manqué à ses obligations de défense ou agi contre les intérêts de la France",
             "Si elle change de religion"
           ],
           "answer": 2,
-          "explain": "La déchéance peut viser une personne qui a acquis la nationalité et qui a manqué à ses obligations de défense ou agi contre les intérêts fondamentaux de la France.",
+          "explain": "La déchéance peut viser une personne qui a acquis la nationalité française si elle s'est soustraite à ses obligations de défense ou si elle a commis des actes contraires aux intérêts fondamentaux de la France.",
           "kind": "knowledge"
         },
         {
@@ -485,16 +509,16 @@
           "kind": "situation"
         },
         {
-          "q": "Un responsable religieux affirme que les lois de la République devraient suivre les règles de sa religion. Que dit la Charte ?",
+          "q": "Selon la Charte, quels sont l'emblème national et l'hymne national de la République ?",
           "choices": [
-            "La religion majoritaire peut inspirer les lois de la République",
-            "L'État et les religions sont séparés ; la République ne reconnaît aucun culte",
-            "La République reconnaît officiellement les religions présentes depuis longtemps en France",
-            "Chaque religion peut édicter des lois pour ses fidèles"
+            "Le coq gaulois et La Marseillaise",
+            "Le drapeau tricolore et le Chant du départ",
+            "Le drapeau bleu et or et l'Hymne à la joie",
+            "Le drapeau tricolore et La Marseillaise"
           ],
-          "answer": 1,
-          "explain": "La Charte rappelle que la République est laïque : l'État et les religions sont séparés, et la République n'en reconnaît, n'en salarie ni n'en subventionne aucune.",
-          "kind": "situation"
+          "answer": 3,
+          "explain": "La Charte rappelle que l'emblème national est le drapeau tricolore bleu, blanc, rouge et que l'hymne national est La Marseillaise.",
+          "kind": "knowledge"
         },
         {
           "q": "Votre voisine âgée ne peut plus travailler en raison de son état de santé et n'a plus aucune ressource. Que prévoit la Charte ?",
@@ -531,6 +555,18 @@
           "answer": 0,
           "explain": "La Charte rattache à la qualité de citoyen français des devoirs particuliers, dont celui de concourir à la défense nationale ou de participer aux jurys d'assises ; ce devoir s'applique à tout citoyen, qu'il soit français de naissance ou devenu français.",
           "kind": "situation"
+        },
+        {
+          "q": "Quelle est la fête nationale rappelée par la Charte ?",
+          "choices": [
+            "Le 1er mai",
+            "Le 14 juillet",
+            "Le 8 mai",
+            "Le 11 novembre"
+          ],
+          "answer": 1,
+          "explain": "Parmi les symboles de la République, la Charte rappelle que la fête nationale est le 14 juillet.",
+          "kind": "knowledge"
         }
       ]
     },
@@ -545,7 +581,7 @@
               "type": "list",
               "items": [
                 "**Le préambule de la Constitution de 1946** : https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/preambule-de-la-constitution-du-27-octobre-1946",
-                "**La Constitution de la Vème République** : https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/texte-integral-de-la-constitution-du-4-octobre-1958-en-vigueur",
+                "**La Constitution de la Ve République** : https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/texte-integral-de-la-constitution-du-4-octobre-1958-en-vigueur",
                 "**La Charte de l'environnement de 2004** : https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/charte-de-l-environnement-de-2004",
                 "**Le référentiel de l'examen civique** (Annexe I de l'arrêté du **10 octobre 2025** relatif au programme, aux épreuves et aux modalités d'organisation de l'examen civique) : https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000052381620"
               ]

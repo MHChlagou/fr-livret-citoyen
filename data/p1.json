@@ -3,7 +3,7 @@
   "number": 1,
   "title": "Principes et valeurs de la République",
   "icon": "🇫🇷",
-  "intro": "Cette partie présente la devise « Liberté, Égalité, Fraternité », les symboles de la France et les quatre principes qui définissent la République : indivisible, laïque, démocratique et sociale.",
+  "intro": "Devise, drapeau, Marseillaise, laïcité : c'est le cœur de l'examen et de l'entretien. Vous apprendrez ici les trois valeurs de la devise, les symboles de la France et les quatre principes qui définissent la République : indivisible, laïque, démocratique et sociale.",
   "sections": [
     {
       "id": "p1s1",
@@ -14,7 +14,7 @@
           "blocks": [
             {
               "type": "p",
-              "text": "La devise de la France **« liberté, égalité, fraternité »** consacre les valeurs fondatrices de la République française, repères communs pour le vivre ensemble."
+              "text": "La devise de la France **« Liberté, Égalité, Fraternité »** consacre les valeurs fondatrices de la République française, repères communs pour le vivre ensemble."
             },
             {
               "type": "callout",
@@ -39,7 +39,7 @@
             },
             {
               "type": "p",
-              "text": "Les libertés sont les mêmes pour l'ensemble des citoyens, dans le respect des lois. Elles sont présentées dans la thématique des « droits et devoirs des citoyens »."
+              "text": "Les libertés sont les mêmes pour l'ensemble des citoyens, dans le respect des lois. Elles sont présentées dans la partie 3, Droits et devoirs des citoyens."
             }
           ]
         },
@@ -60,7 +60,7 @@
             },
             {
               "type": "callout",
-              "text": "**La France condamne les discriminations.** Une discrimination est le fait de traiter différemment une personne par rapport à une autre, dans une situation comparable (logement, travail, loisirs…), en raison de son origine, de son sexe, de son orientation sexuelle, de son opinion politique, de son âge, de ses convictions religieuses, de son apparence physique… Les discriminations sont **punies par la loi**."
+              "text": "**La France condamne les discriminations.** Une discrimination est le fait de traiter différemment une personne par rapport à une autre, dans une situation comparable (logement, travail, loisirs…). Le motif peut être son origine, son sexe, son orientation sexuelle, son opinion politique, son âge, ses convictions religieuses, son apparence physique… Les discriminations sont **punies par la loi**."
             },
             {
               "type": "p",
@@ -156,11 +156,11 @@
             },
             {
               "type": "p",
-              "text": "**Le drapeau tricolore** : le drapeau tricolore (**bleu, blanc, rouge**) a aussi été créé pendant la Révolution. Il est devenu le drapeau officiel de la France en **1794**, sauf lors de la période de la Restauration (**1814-1830**, détaillée dans la partie « histoire, géographie et culture »)."
+              "text": "**Le drapeau tricolore** : le drapeau tricolore (**bleu, blanc, rouge**) a aussi été créé pendant la Révolution. Il est devenu le drapeau officiel de la France en **1794**, sauf lors de la période de la Restauration (**1814-1830**, détaillée dans la partie 4, Histoire, géographie et culture)."
             },
             {
-              "type": "callout",
-              "text": "Photo du livret : la façade de la préfecture du Finistère, avec le drapeau tricolore et la devise « Liberté, Égalité, Fraternité » inscrite au-dessus de l'entrée."
+              "type": "p",
+              "text": "Sur la façade des préfectures, le drapeau tricolore est hissé et la devise « Liberté, Égalité, Fraternité » est inscrite au-dessus de l'entrée."
             },
             {
               "type": "p",
@@ -181,34 +181,40 @@
               "source": "La Marseillaise, refrain"
             },
             {
-              "type": "quote",
-              "text": "Que veut cette horde d'esclaves, / De traîtres, de rois conjurés ? / Pour qui ces ignobles entraves, / Ces fers dès longtemps préparés ? (bis) / Français, pour nous, ah ! quel outrage / Quels transports il doit exciter ! / C'est nous qu'on ose méditer / De rendre à l'antique esclavage !",
-              "source": "La Marseillaise, couplet 2"
-            },
-            {
-              "type": "quote",
-              "text": "Quoi ! des cohortes étrangères / Feraient la loi dans nos foyers ! / Quoi ! ces phalanges mercenaires / Terrasseraient nos fiers guerriers ! (bis) / Grand Dieu ! par des mains enchaînées / Nos fronts sous le joug se ploieraient / De vils despotes deviendraient / Les maîtres de nos destinées !",
-              "source": "La Marseillaise, couplet 3"
-            },
-            {
-              "type": "quote",
-              "text": "Tremblez, tyrans et vous perfides / L'opprobre de tous les partis, / Tremblez ! vos projets parricides / Vont enfin recevoir leurs prix ! (bis) / Tout est soldat pour vous combattre, / S'ils tombent, nos jeunes héros, / La terre en produit de nouveaux, / Contre vous tout prêts à se battre !",
-              "source": "La Marseillaise, couplet 4"
-            },
-            {
-              "type": "quote",
-              "text": "Français, en guerriers magnanimes, / Portez ou retenez vos coups ! / Épargnez ces tristes victimes, / À regret s'armant contre nous. (bis) / Mais ces despotes sanguinaires, / Mais ces complices de Bouillé, / Tous ces tigres qui, sans pitié, / Déchirent le sein de leur mère !",
-              "source": "La Marseillaise, couplet 5"
-            },
-            {
-              "type": "quote",
-              "text": "Amour sacré de la Patrie, / Conduis, soutiens nos bras vengeurs / Liberté, Liberté chérie, / Combats avec tes défenseurs ! (bis) / Sous nos drapeaux que la victoire / Accoure à tes mâles accents, / Que tes ennemis expirants / Voient ton triomphe et notre gloire !",
-              "source": "La Marseillaise, couplet 6"
-            },
-            {
-              "type": "quote",
-              "text": "Nous entrerons dans la carrière / Quand nos aînés n'y seront plus, / Nous y trouverons leur poussière, / Et la trace de leurs vertus, (bis) / Bien moins jaloux de leur survivre, / Que de partager leur cercueil, / Nous aurons le sublime orgueil, / De les venger ou de les suivre.",
-              "source": "La Marseillaise, couplet 7"
+              "type": "details",
+              "summary": "Voir les six autres couplets",
+              "blocks": [
+                {
+                  "type": "quote",
+                  "text": "Que veut cette horde d'esclaves, / De traîtres, de rois conjurés ? / Pour qui ces ignobles entraves, / Ces fers dès longtemps préparés ? (bis) / Français, pour nous, ah ! quel outrage / Quels transports il doit exciter ! / C'est nous qu'on ose méditer / De rendre à l'antique esclavage !",
+                  "source": "La Marseillaise, couplet 2"
+                },
+                {
+                  "type": "quote",
+                  "text": "Quoi ! des cohortes étrangères / Feraient la loi dans nos foyers ! / Quoi ! ces phalanges mercenaires / Terrasseraient nos fiers guerriers ! (bis) / Grand Dieu ! par des mains enchaînées / Nos fronts sous le joug se ploieraient / De vils despotes deviendraient / Les maîtres de nos destinées !",
+                  "source": "La Marseillaise, couplet 3"
+                },
+                {
+                  "type": "quote",
+                  "text": "Tremblez, tyrans et vous perfides / L'opprobre de tous les partis, / Tremblez ! vos projets parricides / Vont enfin recevoir leurs prix ! (bis) / Tout est soldat pour vous combattre, / S'ils tombent, nos jeunes héros, / La terre en produit de nouveaux, / Contre vous tout prêts à se battre !",
+                  "source": "La Marseillaise, couplet 4"
+                },
+                {
+                  "type": "quote",
+                  "text": "Français, en guerriers magnanimes, / Portez ou retenez vos coups ! / Épargnez ces tristes victimes, / À regret s'armant contre nous. (bis) / Mais ces despotes sanguinaires, / Mais ces complices de Bouillé, / Tous ces tigres qui, sans pitié, / Déchirent le sein de leur mère !",
+                  "source": "La Marseillaise, couplet 5"
+                },
+                {
+                  "type": "quote",
+                  "text": "Amour sacré de la Patrie, / Conduis, soutiens nos bras vengeurs / Liberté, Liberté chérie, / Combats avec tes défenseurs ! (bis) / Sous nos drapeaux que la victoire / Accoure à tes mâles accents, / Que tes ennemis expirants / Voient ton triomphe et notre gloire !",
+                  "source": "La Marseillaise, couplet 6"
+                },
+                {
+                  "type": "quote",
+                  "text": "Nous entrerons dans la carrière / Quand nos aînés n'y seront plus, / Nous y trouverons leur poussière, / Et la trace de leurs vertus, (bis) / Bien moins jaloux de leur survivre, / Que de partager leur cercueil, / Nous aurons le sublime orgueil, / De les venger ou de les suivre.",
+                  "source": "La Marseillaise, couplet 7"
+                }
+              ]
             }
           ]
         }
@@ -227,16 +233,16 @@
       ],
       "quiz": [
         {
-          "q": "Quel article de la Déclaration des droits de l'homme et du citoyen de 1789 précise que « la liberté consiste à pouvoir faire tout ce qui ne nuit pas à autrui » ?",
+          "q": "En entrant dans la mairie, vous lisez trois mots inscrits sur le fronton du bâtiment. Quelle est cette devise ?",
           "choices": [
-            "L'article 1er",
-            "L'article 10",
-            "L'article 4",
-            "L'article 3"
+            "Travail, Famille, Patrie",
+            "Unité, Indivisibilité, Fraternité",
+            "Liberté, Égalité, Fraternité",
+            "Paix, Liberté, Solidarité"
           ],
           "answer": 2,
-          "explain": "La DDHC de 1789 proclame à son article 4 que la liberté consiste à pouvoir faire tout ce qui ne nuit pas à autrui.",
-          "kind": "knowledge"
+          "explain": "La devise de la France, « Liberté, Égalité, Fraternité », est inscrite sur le fronton des bâtiments publics (préfectures, mairies…).",
+          "kind": "situation"
         },
         {
           "q": "Depuis quelle année le 14 juillet est-il le jour de la fête nationale ?",
@@ -311,16 +317,16 @@
           "kind": "knowledge"
         },
         {
-          "q": "Votre responsable vous refuse une promotion uniquement en raison de votre origine. Que dit la loi ?",
+          "q": "Quel événement a eu lieu le 14 juillet 1790, un an après la prise de la Bastille ?",
           "choices": [
-            "C'est permis si l'entreprise est privée",
-            "C'est permis si le responsable le justifie par écrit",
-            "C'est une discrimination punie par la loi",
-            "C'est autorisé si les autres salariés sont d'accord"
+            "La prise de la Bastille",
+            "La Fête de la Fédération",
+            "L'adoption du drapeau tricolore",
+            "La première fête nationale"
           ],
-          "answer": 2,
-          "explain": "Traiter différemment une personne en raison de son origine est une discrimination punie par la loi ; toute décision d'un employeur doit être fondée sur des raisons professionnelles et non personnelles.",
-          "kind": "situation"
+          "answer": 1,
+          "explain": "Le 14 juillet 1790 est célébrée la Fête de la Fédération. Depuis 1880, le 14 juillet commémore cet événement et la prise de la Bastille (1789).",
+          "kind": "knowledge"
         },
         {
           "q": "Votre voisine organise une collecte au profit d'une association humanitaire. Comment le livret qualifie-t-il ce type d'action ?",
@@ -487,7 +493,7 @@
             },
             {
               "type": "p",
-              "text": "Elle garantit la liberté de manifester ses croyances ou convictions et de pratiquer sa religion dans les limites du respect de l'ordre public comme cela est mentionné dans l'**article 10 de la Déclaration des droits de l'homme et du citoyen de 1789** (DDHC, voir à la fin du livret)."
+              "text": "Elle garantit la liberté de manifester ses croyances ou convictions et de pratiquer sa religion, dans les limites du respect de l'ordre public. Ce droit est mentionné dans l'**article 10 de la Déclaration des droits de l'homme et du citoyen de 1789** (DDHC, reproduite dans les annexes)."
             },
             {
               "type": "p",
@@ -498,8 +504,8 @@
               "text": "Une personne est dite « **athée** » lorsqu'elle ne croit en aucune religion et « **agnostique** » lorsqu'elle est sceptique vis-à-vis de la religion."
             },
             {
-              "type": "p",
-              "text": "**1. La neutralité de l'État**"
+              "type": "h",
+              "text": "1. La neutralité de l'État"
             },
             {
               "type": "p",
@@ -518,8 +524,8 @@
               "text": "L'État, les collectivités territoriales et les services publics sont neutres vis-à-vis des religions. La République française garantit à tous les citoyens d'être traités de la même manière par l'administration et les services publics, quelles que soient leur religion ou leurs convictions. C'est ce que l'on appelle la **neutralité de l'État**."
             },
             {
-              "type": "p",
-              "text": "**2. Le prosélytisme**"
+              "type": "h",
+              "text": "2. Le prosélytisme"
             },
             {
               "type": "p",
@@ -537,8 +543,8 @@
               "text": "Il est possible de distribuer des tracts sur une religion dans la rue, tant que cela ne trouble pas l'ordre public."
             },
             {
-              "type": "p",
-              "text": "**3. Le blasphème**"
+              "type": "h",
+              "text": "3. Le blasphème"
             },
             {
               "type": "p",
@@ -568,20 +574,20 @@
               ]
             },
             {
-              "type": "p",
-              "text": "**4. La mise en œuvre de la laïcité dans différents espaces**"
+              "type": "h",
+              "text": "4. La mise en œuvre de la laïcité dans différents espaces"
             },
             {
               "type": "p",
               "text": "Selon les lieux, différentes règles s'appliquent afin de respecter et faire vivre la laïcité."
             },
             {
-              "type": "p",
-              "text": "**a) La laïcité dans l'espace public**"
+              "type": "h",
+              "text": "a) La laïcité dans l'espace public"
             },
             {
               "type": "p",
-              "text": "En France, toute personne a le droit de montrer sa religion dans l'espace public : rues, parcs et jardins publics, marchés, transports… Cela signifie qu'une personne peut porter des signes religieux (voile, kippa, croix, turban…), participer à des célébrations ou rassemblements religieux ou encore exprimer ses convictions religieuses."
+              "text": "En France, toute personne a le droit de montrer sa religion dans l'espace public : rues, parcs et jardins publics, marchés, transports… Une personne peut donc porter des signes religieux (voile, kippa, croix, turban…). Elle peut aussi participer à des célébrations ou rassemblements religieux, ou encore exprimer ses convictions religieuses."
             },
             {
               "type": "p",
@@ -592,8 +598,8 @@
               "text": "La **loi du 11 octobre 2010** interdit la dissimulation du visage dans l'espace public (cagoule, masque, voile intégral…). Cette loi vise à protéger l'ordre public."
             },
             {
-              "type": "p",
-              "text": "**b) La laïcité dans les services publics**"
+              "type": "h",
+              "text": "b) La laïcité dans les services publics"
             },
             {
               "type": "p",
@@ -612,8 +618,8 @@
               "text": "Il n'est pas possible en revanche d'exiger une adaptation du service public au nom d'une religion."
             },
             {
-              "type": "p",
-              "text": "**c) La laïcité sur le lieu de travail**"
+              "type": "h",
+              "text": "c) La laïcité sur le lieu de travail"
             },
             {
               "type": "p",
@@ -631,8 +637,8 @@
               "text": "Un salarié ou un agent public peut solliciter une **autorisation d'absence** de son employeur pour une fête religieuse. L'employeur peut refuser l'autorisation à condition que cela ne soit pas discriminatoire. La décision pourra notamment être motivée par le règlement intérieur ou des nécessités de service."
             },
             {
-              "type": "p",
-              "text": "**d) La laïcité au sein des établissements scolaires publics**"
+              "type": "h",
+              "text": "d) La laïcité au sein des établissements scolaires publics"
             },
             {
               "type": "p",
@@ -884,7 +890,7 @@
             "C'est toléré en dehors des services publics"
           ],
           "answer": 0,
-          "explain": "Le prosélytisme est autorisé à condition de ne pas forcer quelqu'un à croire en une religion contre son gré, en utilisant la violence, la menace ou la pression.",
+          "explain": "Il est interdit de forcer quelqu'un à croire en une religion contre son gré, en utilisant la violence, la menace ou la pression. Le prosélytisme n'est autorisé qu'à cette condition.",
           "kind": "situation"
         },
         {

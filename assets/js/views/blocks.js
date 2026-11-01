@@ -2,6 +2,9 @@ import { escapeHtml, inline } from "../util.js";
 
 const RENDERERS = {
   p: (block) => `<p>${inline(block.text)}</p>`,
+  h: (block) => `<h3 class="lesson-sub">${inline(block.text)}</h3>`,
+  details: (block) => `
+    <details class="fold"><summary>${inline(block.summary)}</summary>${renderBlocks(block.blocks)}</details>`,
   list: (block) => `<ul>${block.items.map((item) => `<li>${inline(item)}</li>`).join("")}</ul>`,
   callout: (block) => `<div class="callout">${inline(block.text)}</div>`,
   quote: (block) => `

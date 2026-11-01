@@ -3,7 +3,7 @@ import { findSection, nextSection } from "../data.js";
 import { markRead, sectionState } from "../store.js";
 import { renderBlocks, partLabel } from "./blocks.js";
 
-export function renderSection(root, { course }, sectionId) {
+export function renderSection(root, { course, onLeave }, sectionId) {
   const section = findSection(course, sectionId);
   if (!section) {
     location.replace("#/");
@@ -32,7 +32,7 @@ export function renderSection(root, { course }, sectionId) {
       return `
         <div class="card keyfacts view">
           <span class="eyebrow">Fin de section</span>
-          <h2>📌 À retenir absolument</h2>
+          <h2 tabindex="-1">📌 À retenir absolument</h2>
           <ol>${section.keyFacts.map((fact) => `<li><span>${inline(fact)}</span></li>`).join("")}</ol>
           <div class="lesson-nav">
             <button class="btn btn-ghost" type="button" data-prev>← Leçon précédente</button>
@@ -45,7 +45,7 @@ export function renderSection(root, { course }, sectionId) {
       <article class="card lesson view">
         <header class="lesson-head">
           <span class="lesson-step">Leçon ${current + 1} sur ${section.lessons.length}</span>
-          <h1>${escapeHtml(step.title)}</h1>
+          <h1 tabindex="-1">${escapeHtml(step.title)}</h1>
         </header>
         <div class="lesson-body">${renderBlocks(step.lesson.blocks)}</div>
         <div class="lesson-nav">
@@ -63,6 +63,13 @@ export function renderSection(root, { course }, sectionId) {
     if (current === steps.length - 1) markRead(section.id);
     render();
     root.querySelector(".lesson-main").scrollIntoView({ behavior: "smooth", block: "start" });
+    root.querySelector(".lesson-main h1, .lesson-main h2")?.focus({ preventScroll: true });
+  }
+
+  function markScrollableTables() {
+    root.querySelectorAll(".table-wrap").forEach((wrap) => {
+      wrap.classList.toggle("is-scrollable", wrap.scrollWidth > wrap.clientWidth + 4);
+    });
   }
 
   function render() {
@@ -90,8 +97,11 @@ export function renderSection(root, { course }, sectionId) {
     });
     root.querySelector("[data-prev]")?.addEventListener("click", () => goTo(current - 1));
     root.querySelector("[data-next]")?.addEventListener("click", () => goTo(current + 1));
+    markScrollableTables();
   }
 
   if (steps.length === 1) markRead(section.id);
   render();
+  window.addEventListener("resize", markScrollableTables);
+  onLeave(() => window.removeEventListener("resize", markScrollableTables));
 }

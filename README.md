@@ -68,7 +68,7 @@ data/*.json              contenu du livret : leçons, points à retenir, questio
 
 Tout le contenu se trouve dans `data/` : un fichier par partie (`p1.json` à `p5.json`) et un pour les annexes (`annexes.json`). Chaque section contient :
 
-- `lessons` : les leçons, composées de blocs (`p`, `list`, `callout`, `quote`, `table`, `timeline`) ;
+- `lessons` : les leçons, composées de blocs (`p`, `h` pour un sous-titre, `details` pour un passage repliable, `list`, `callout`, `quote`, `table`, `timeline`) ;
 - `keyFacts` : les points à retenir ;
 - `quiz` : les questions, chacune avec 4 choix, l'indice de la bonne réponse (`answer`), une explication (`explain`) et un type (`knowledge` ou `situation`).
 

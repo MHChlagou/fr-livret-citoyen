@@ -45,9 +45,11 @@ export function renderExam(root, ctx) {
       onFinish: showResult,
     });
     ctx.onLeave(dispose);
+    ctx.guardLeave(() => "Quitter l'examen en cours ? Le chrono et vos réponses seront perdus.");
   }
 
   function showResult({ answers, correct, total }) {
+    ctx.guardLeave(null);
     recordExam(correct, total);
     const themes = scoreByTheme(answers);
     const verdict = readinessVerdict(correct, total, themes);

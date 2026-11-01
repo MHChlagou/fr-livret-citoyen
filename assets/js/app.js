@@ -20,11 +20,41 @@ const ROUTES = [
 ];
 
 let leaveHandlers = [];
+/** When set, returns a confirmation message to show before leaving the current view, or null. */
+let leaveGuard = null;
+let currentPath = null;
+let isRestoringHash = false;
 
 function runLeaveHandlers() {
   leaveHandlers.forEach((handler) => handler());
   leaveHandlers = [];
 }
+
+function readPath() {
+  try {
+    return decodeURIComponent(location.hash.replace(/^#/, "")) || "/";
+  } catch (error) {
+    console.warn("Adresse illisible, retour à l'accueil.", error);
+    return "/";
+  }
+}
+
+/** Returns true when the user chose to stay on the current view. */
+function isLeaveCancelled(nextPath) {
+  if (!leaveGuard || nextPath === currentPath) return false;
+  const message = leaveGuard();
+  if (!message || window.confirm(message)) return false;
+  isRestoringHash = true;
+  location.hash = `#${currentPath}`;
+  return true;
+}
+
+window.addEventListener("beforeunload", (event) => {
+  if (leaveGuard && leaveGuard()) {
+    event.preventDefault();
+    event.returnValue = "";
+  }
+});
 
 function setActiveNav(nav) {
   document.querySelectorAll("[data-nav]").forEach((link) => {
@@ -44,24 +74,49 @@ function renderError(error) {
 }
 
 async function route() {
+  if (isRestoringHash) {
+    isRestoringHash = false;
+    return;
+  }
+  const path = readPath();
+  if (isLeaveCancelled(path)) return;
+  leaveGuard = null;
   runLeaveHandlers();
-  const path = decodeURIComponent(location.hash.replace(/^#/, "")) || "/";
   const match = ROUTES.map((r) => ({ r, m: path.match(r.pattern) })).find(({ m }) => m);
   if (!match) {
     location.replace("#/");
     return;
   }
+  currentPath = path;
   setActiveNav(match.r.nav);
   main.innerHTML = `<div class="loading">Chargement…</div>`;
   try {
     const course = await loadCourse();
-    const ctx = { course, onLeave: (handler) => leaveHandlers.push(handler) };
+    const ctx = {
+      course,
+      onLeave: (handler) => leaveHandlers.push(handler),
+      guardLeave: (guard) => { leaveGuard = guard; },
+    };
     match.r.view(main, ctx, ...match.m.slice(1));
     window.scrollTo({ top: 0, behavior: "instant" });
     main.focus({ preventScroll: true });
   } catch (error) {
     renderError(error);
   }
+}
+
+const THEME_COLORS = { light: "#f6f3ec", dark: "#11132a" };
+
+function isDarkTheme() {
+  return document.documentElement.dataset.theme
+    ? document.documentElement.dataset.theme === "dark"
+    : window.matchMedia("(prefers-color-scheme: dark)").matches;
+}
+
+function applyTheme(theme) {
+  document.documentElement.dataset.theme = theme;
+  document.querySelectorAll('meta[name="theme-color"]').forEach((meta) => { meta.content = THEME_COLORS[theme]; });
+  document.querySelector(".theme-toggle").setAttribute("aria-pressed", String(theme === "dark"));
 }
 
 function setupTheme() {
@@ -71,13 +126,13 @@ function setupTheme() {
   } catch (error) {
     console.warn("Préférence de thème indisponible.", error);
   }
-  if (saved) document.documentElement.dataset.theme = saved;
-  document.querySelector(".theme-toggle").addEventListener("click", () => {
-    const isDark = document.documentElement.dataset.theme
-      ? document.documentElement.dataset.theme === "dark"
-      : window.matchMedia("(prefers-color-scheme: dark)").matches;
-    const next = isDark ? "light" : "dark";
-    document.documentElement.dataset.theme = next;
+  const toggle = document.querySelector(".theme-toggle");
+  toggle.setAttribute("aria-label", "Activer le thème sombre");
+  if (saved === "light" || saved === "dark") applyTheme(saved);
+  else toggle.setAttribute("aria-pressed", String(isDarkTheme()));
+  toggle.addEventListener("click", () => {
+    const next = isDarkTheme() ? "light" : "dark";
+    applyTheme(next);
     try {
       localStorage.setItem(THEME_KEY, next);
     } catch (error) {

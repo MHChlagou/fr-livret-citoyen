@@ -3,14 +3,14 @@
   "number": 2,
   "title": "Système institutionnel et politique",
   "icon": "🏛️",
-  "intro": "Cette partie présente le fonctionnement de la démocratie française et de l'État de droit, les institutions et le droit de vote, l'organisation territoriale de la République (communes, départements, régions, outre-mer) et l'Union européenne.",
+  "intro": "Qui gouverne, qui vote, qui décide près de chez vous, et quel rôle joue l'Europe ? Cette partie explique la démocratie et l'État de droit, les institutions et le droit de vote, le rôle des communes, départements et régions, puis l'Union européenne.",
   "sections": [
     {
       "id": "p2s1",
       "title": "Démocratie et État de droit",
       "lessons": [
         {
-          "title": "Introduction",
+          "title": "Qu'est-ce qu'un État de droit ?",
           "blocks": [
             {
               "type": "p",
@@ -31,7 +31,7 @@
             },
             {
               "type": "p",
-              "text": "Notre Constitution actuelle est celle de la **Vème République**, adoptée en **1958**."
+              "text": "Notre Constitution actuelle est celle de la **Ve République**, adoptée en **1958**."
             },
             {
               "type": "callout",
@@ -71,7 +71,7 @@
               "items": [
                 "**Le Président de la République**, chef de l'État et des armées, est élu au **suffrage universel direct** pour **cinq ans**, renouvelables **une fois**. Il nomme le Gouvernement (les ministres), issu de la majorité aux élections législatives, sur proposition du **Premier ministre** qui en dirige l'action.",
                 "**Le Parlement**, composé de l'**Assemblée nationale** et du **Sénat**, vote les lois et contrôle le Gouvernement. Les **députés** (Assemblée nationale), au nombre de **577**, sont élus au suffrage universel direct tous les **cinq ans** lors des élections législatives. Les **sénateurs** (Sénat), au nombre de **348**, sont élus au **suffrage universel indirect** pour un mandat de **six ans**.",
-                "**La justice** est rendue par les juges. Elle règle les litiges entre les particuliers ou les entreprises, et entre les citoyens et l'administration. Elle sanctionne les infractions aux règles de droit par des peines prévues par la loi (exemples : emprisonnement, amende...)."
+                "**La justice** est rendue par les juges. Elle règle les litiges entre les particuliers ou les entreprises, et entre les citoyens et l'administration. Elle sanctionne les infractions aux règles de droit par des peines prévues par la loi (exemples : emprisonnement, amende…)."
               ]
             },
             {
@@ -197,14 +197,14 @@
         }
       ],
       "keyFacts": [
-        "La Constitution actuelle est celle de la **Vème République**, adoptée en **1958** ; son **article 2** définit la démocratie : « le Gouvernement du peuple, par le peuple et pour le peuple ».",
+        "La Constitution actuelle est celle de la **Ve République**, adoptée en **1958** ; son **article 2** définit la démocratie : « le Gouvernement du peuple, par le peuple et pour le peuple ».",
         "La Constitution est modifiée par **référendum** ou par le **Parlement réuni en Congrès**.",
         "L'État de droit repose sur la protection des libertés fondamentales, la **séparation des trois pouvoirs** (législatif, exécutif, judiciaire) et l'indépendance de la justice.",
         "Le **Président de la République** est élu au suffrage universel direct pour **5 ans**, renouvelables une fois ; il faut **500 parrainages d'élus** pour être candidat.",
         "Le Parlement : **577 députés** élus au suffrage universel direct tous les 5 ans et **348 sénateurs** élus au suffrage universel indirect pour 6 ans.",
         "Le **Conseil constitutionnel** veille à la conformité des lois avec la Constitution et contrôle la régularité des élections nationales.",
         "Suffrage universel en **1848** (hommes seulement) ; droit de vote des femmes en **avril 1944**, premier vote en **avril 1945**.",
-        "Pour voter : nationalité française (ou UE pour les municipales et européennes), au moins **18 ans**, ne pas être privé de ses droits civiques, être **inscrit sur les listes électorales**.",
+        "Pour voter : nationalité française (ou ressortissant de l'Union européenne (UE) pour les municipales et européennes), au moins **18 ans**, ne pas être privé de ses droits civiques, être **inscrit sur les listes électorales**.",
         "Le vote est **personnel et secret** ; une pièce d'identité est demandée, sauf dans les communes de moins de **1 000 habitants**.",
         "Les conseillers municipaux, départementaux et régionaux sont élus pour **6 ans**."
       ],
@@ -320,10 +320,10 @@
         {
           "q": "Le jour de l'élection, un ami veut entrer avec vous dans l'isoloir pour vous conseiller. Que faites-vous ?",
           "choices": [
-            "J'accepte, car il ne votera pas à ma place",
-            "Je refuse : le vote est personnel et secret",
-            "J'accepte si le président du bureau de vote est d'accord",
-            "Je lui parle depuis l'isoloir voisin"
+            "Vous acceptez, car il ne votera pas à votre place",
+            "Vous refusez : le vote est personnel et secret",
+            "Vous acceptez si le président du bureau de vote est d'accord",
+            "Vous lui parlez depuis l'isoloir voisin"
           ],
           "answer": 1,
           "explain": "Le vote est personnel et secret : il est interdit d'entrer à plusieurs dans un isoloir et de communiquer avec une personne située dans un autre isoloir.",
@@ -424,6 +424,30 @@
           "answer": 1,
           "explain": "Dans un État de droit, la loi doit être respectée par tous, y compris par l'État ; l'administration agit dans le respect de la Constitution, des lois et des principes républicains, sous le contrôle du juge.",
           "kind": "situation"
+        },
+        {
+          "q": "Un ami vous affirme qu'en France ce sont les juges qui élaborent et votent les lois. Que lui répondez-vous ?",
+          "choices": [
+            "Il a raison",
+            "C'est faux : les lois sont votées par les députés et les sénateurs",
+            "C'est faux : les lois sont votées par les membres du Conseil constitutionnel",
+            "C'est faux : les lois sont votées par le Président de la République seul"
+          ],
+          "answer": 1,
+          "explain": "Les trois pouvoirs sont séparés : le pouvoir législatif (députés et sénateurs) élabore et vote les lois, le pouvoir exécutif (gouvernement) les met en œuvre et le pouvoir judiciaire (les juges) rend la justice.",
+          "kind": "situation"
+        },
+        {
+          "q": "Après l'élection présidentielle, un candidat conteste la régularité du scrutin. Quelle institution contrôle la régularité des élections nationales ?",
+          "choices": [
+            "Le Gouvernement réuni en Conseil des ministres",
+            "Le Sénat",
+            "Le Conseil constitutionnel",
+            "Le préfet de chaque département"
+          ],
+          "answer": 2,
+          "explain": "Le Conseil constitutionnel veille à la conformité des lois avec la Constitution et contrôle aussi la régularité des élections nationales.",
+          "kind": "knowledge"
         }
       ]
     },
@@ -432,7 +456,7 @@
       "title": "Organisation territoriale de la République",
       "lessons": [
         {
-          "title": "Introduction",
+          "title": "Communes, départements, régions : qui fait quoi ?",
           "blocks": [
             {
               "type": "p",
@@ -473,7 +497,7 @@
             },
             {
               "type": "p",
-              "text": "Enfin, les communes sont regroupées en **intercommunalités** (communautés de communes, métropoles...), qui gèrent des services publics : eau, assainissement, déchets, transports urbains..."
+              "text": "Enfin, les communes sont regroupées en **intercommunalités** (communautés de communes, métropoles…), qui gèrent des services publics : eau, assainissement, déchets, transports urbains…"
             }
           ]
         },
@@ -522,7 +546,7 @@
             },
             {
               "type": "p",
-              "text": "**Carte administrative de la France.** La carte du livret montre les 13 régions métropolitaines, leurs départements et les préfectures de région et de département. Les préfectures de région indiquées sur la carte sont :"
+              "text": "Les **13 régions métropolitaines** et leur préfecture de région :"
             },
             {
               "type": "table",
@@ -544,7 +568,7 @@
                   "Paris"
                 ],
                 [
-                  "Grand-Est",
+                  "Grand Est",
                   "Strasbourg"
                 ],
                 [
@@ -552,7 +576,7 @@
                   "Rennes"
                 ],
                 [
-                  "Pays-de-la-Loire",
+                  "Pays de la Loire",
                   "Nantes"
                 ],
                 [
@@ -607,7 +631,7 @@
                 ],
                 [
                   "**7** sont des **collectivités d'outre-mer à statut particulier**",
-                  "Nouvelle-Calédonie, Polynésie française, Saint-Martin, Saint-Barthélémy, Saint-Pierre-et-Miquelon, Terres australes et antarctiques françaises, Wallis-et-Futuna"
+                  "Nouvelle-Calédonie, Polynésie française, Saint-Martin, Saint-Barthélemy, Saint-Pierre-et-Miquelon, Terres australes et antarctiques françaises, Wallis-et-Futuna"
                 ]
               ]
             },
@@ -617,11 +641,24 @@
             },
             {
               "type": "p",
-              "text": "Sur la carte administrative du livret, les territoires d'outre-mer figurent avec leur numéro : Guadeloupe (971, préfecture Basse-Terre), Martinique (972, Fort-de-France), Guyane (973, Cayenne), La Réunion (974, Saint-Denis), Saint-Pierre-et-Miquelon (975), Mayotte (976, Mamoudzou), Saint-Barthélemy (977), Saint-Martin (978), Terres australes et antarctiques françaises (984), Wallis-et-Futuna (986), Polynésie française (987), Nouvelle-Calédonie (988)."
+              "text": "Chaque territoire d'outre-mer a un numéro, comme les départements ; les départements et régions d'outre-mer ont aussi une préfecture :"
             },
             {
-              "type": "callout",
-              "text": "Sur la carte, les départements non colorés (hors Île-de-France) sont les collectivités d'outre-mer à statut particulier."
+              "type": "list",
+              "items": [
+                "**971** Guadeloupe (préfecture : Basse-Terre) ;",
+                "**972** Martinique (préfecture : Fort-de-France) ;",
+                "**973** Guyane (préfecture : Cayenne) ;",
+                "**974** La Réunion (préfecture : Saint-Denis) ;",
+                "**975** Saint-Pierre-et-Miquelon ;",
+                "**976** Mayotte (préfecture : Mamoudzou) ;",
+                "**977** Saint-Barthélemy ;",
+                "**978** Saint-Martin ;",
+                "**984** Terres australes et antarctiques françaises ;",
+                "**986** Wallis-et-Futuna ;",
+                "**987** Polynésie française ;",
+                "**988** Nouvelle-Calédonie."
+              ]
             }
           ]
         }
@@ -631,6 +668,7 @@
         "L'État est représenté par les **préfets** de région et de département (ou des hauts commissaires dans certaines collectivités d'outre-mer).",
         "La France compte **34 875 communes** au 1er janvier 2025, chacune gérée par un **maire** et un **conseil municipal** élu pour **6 ans**.",
         "Les communes gèrent notamment les **écoles primaires** et tiennent les **registres de l'état civil** (naissances, mariages, décès).",
+        "Les communes sont regroupées en **intercommunalités** (communautés de communes, métropoles…) qui gèrent l'eau, l'assainissement, les déchets et les transports urbains.",
         "**101 départements** (96 en métropole, 5 en outre-mer), administrés par les conseils départementaux ; le plus récent est **Mayotte** (2011).",
         "Les départements sont responsables notamment des **collèges**, de l'action sociale, de la protection de l'enfance et de l'aide aux personnes âgées.",
         "**18 régions** : 13 métropolitaines et 5 en outre-mer ; elles gèrent notamment les **lycées**, les transports publics, le développement économique et la formation professionnelle.",
@@ -774,7 +812,7 @@
           "q": "Votre ami, de nationalité belge, habite en France et souhaite être candidat aux élections municipales de sa commune. Est-ce possible ?",
           "choices": [
             "Non, seuls les Français peuvent être candidats",
-            "Oui, les élections municipales permettent aux ressortissants de l'Union européenne de voter et de se présenter comme candidats",
+            "Oui, comme tout ressortissant de l'Union européenne",
             "Oui, mais seulement s'il habite en outre-mer",
             "Non, il peut seulement voter aux élections régionales"
           ],
@@ -839,7 +877,7 @@
             "Les lycées et la formation professionnelle"
           ],
           "answer": 1,
-          "explain": "Les communes sont regroupées en intercommunalités (communautés de communes, métropoles...), qui gèrent des services publics : eau, assainissement, déchets, transports urbains...",
+          "explain": "Les communes sont regroupées en intercommunalités (communautés de communes, métropoles…), qui gèrent des services publics : eau, assainissement, déchets, transports urbains…",
           "kind": "situation"
         },
         {
@@ -861,7 +899,7 @@
       "title": "L'Union européenne et ses institutions",
       "lessons": [
         {
-          "title": "Introduction",
+          "title": "L'Union européenne en bref",
           "blocks": [
             {
               "type": "p",
@@ -882,7 +920,7 @@
           ]
         },
         {
-          "title": "Les pays membres de l'Union européenne et leur date d'entrée (ou de sortie) dans l'Union",
+          "title": "Les 27 États membres et leurs dates d'entrée",
           "blocks": [
             {
               "type": "table",
@@ -947,7 +985,7 @@
             },
             {
               "type": "p",
-              "text": "La devise de l'Union européenne, adoptée en **2000**, est « **Unie dans la diversité** ». Attention : le livret officiel imprime « 2020 » par erreur ; si un examinateur se réfère au livret, c'est cette date qu'il attend."
+              "text": "La devise de l'Union européenne, adoptée en **2000**, est « **Unie dans la diversité** ». Attention : le livret officiel imprime « 2020 » par erreur. Si une question de l'examen reprend le livret, la réponse attendue sera sans doute **2020**."
             },
             {
               "type": "p",
@@ -999,7 +1037,8 @@
         "La **déclaration Schuman** du **9 mai 1950** est considérée comme l'acte de naissance de l'Union européenne ; la **journée de l'Europe** est le **9 mai**.",
         "Le **traité de Maastricht** (**1992**) crée l'Union européenne et la **citoyenneté européenne**.",
         "L'Union compte **27 États membres** ; le **Royaume-Uni** l'a quittée en **2020** (Brexit) ; la Croatie est entrée en 2013.",
-        "Symboles : drapeau à **12 étoiles**, hymne **Ode à la joie** (1985, Neuvième symphonie de Beethoven), devise « **Unie dans la diversité** ».",
+        "Symboles : drapeau à **12 étoiles**, hymne **Ode à la joie** (1985, Neuvième symphonie de Beethoven).",
+        "Devise « **Unie dans la diversité** », adoptée en **2000**. Le livret imprime 2020 par erreur : si une question de l'examen reprend le livret, la réponse attendue sera sans doute **2020**.",
         "Les citoyens européens élisent tous les **cinq ans** les députés du **Parlement européen**, qui siège à **Strasbourg**.",
         "La **Commission européenne** (1958), organe exécutif, est située à **Bruxelles** ; la **BCE** est mise en place le 1er juin 1998 à **Francfort**.",
         "L'**euro** circule depuis le **1er janvier 2002** ; la France le partage avec **20 autres pays** (21 pays aujourd'hui).",
@@ -1079,15 +1118,15 @@
           "kind": "knowledge"
         },
         {
-          "q": "Depuis quand les pièces et billets en euros sont-ils en circulation ?",
+          "q": "En quelle année est créée la Communauté européenne du charbon et de l'acier (CECA), première étape de la construction européenne ?",
           "choices": [
-            "Depuis le 1er juin 1998",
-            "Depuis le 1er janvier 1992",
-            "Depuis le 9 mai 1950",
-            "Depuis le 1er janvier 2002"
+            "1945",
+            "1957",
+            "1951",
+            "1992"
           ],
-          "answer": 3,
-          "explain": "Depuis le 1er janvier 2002 sont mis en circulation des pièces et billets en euros, d'abord dans 12 pays (21 aujourd'hui).",
+          "answer": 2,
+          "explain": "La CECA est créée en 1951 ; le traité de Rome instaure ensuite, en 1957, la Communauté économique européenne entre six pays fondateurs dont la France.",
           "kind": "knowledge"
         },
         {

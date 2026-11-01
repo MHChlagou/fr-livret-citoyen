@@ -1,4 +1,4 @@
-const CACHE = "livret-citoyen-v1";
+const CACHE = "livret-citoyen-v2";
 const FONT_CACHE = "livret-citoyen-fonts-v1";
 const NETWORK_TIMEOUT_MS = 4000;
 
@@ -24,6 +24,8 @@ const PRECACHE = [
   "assets/icons/icon-192.png",
   "assets/icons/icon-512.png",
   "assets/icons/favicon-64.png",
+  "assets/icons/icon-maskable-512.png",
+  "assets/icons/apple-touch-icon.png",
   "data/p1.json",
   "data/p2.json",
   "data/p3.json",

@@ -3,14 +3,14 @@
   "number": 4,
   "title": "Histoire, géographie et culture",
   "icon": "🗺️",
-  "intro": "Cette partie retrace les grandes périodes et les personnages de l'histoire de France, présente le territoire et la place économique du pays, puis le patrimoine, la langue, les fêtes, le sport et la gastronomie qui forment la culture française.",
+  "intro": "Dates, personnages, territoire, patrimoine : ce que tout citoyen partage. Les grandes périodes de l'histoire de France et ses figures, la géographie du pays et sa place dans le monde, puis la culture, les fêtes, le sport et la gastronomie.",
   "sections": [
     {
       "id": "p4s1",
       "title": "Principales périodes et personnages",
       "lessons": [
         {
-          "title": "Les principales périodes",
+          "title": "Le Moyen Âge et l'Ancien Régime",
           "blocks": [
             {
               "type": "p",
@@ -29,7 +29,7 @@
               ],
               "rows": [
                 [
-                  "Le Moyen-Âge",
+                  "Le Moyen Âge",
                   "476 - 1492",
                   ""
                 ],
@@ -41,7 +41,7 @@
                 [
                   "Révolution française et période révolutionnaire",
                   "1789 - 1792",
-                  "DDHC, monarchie constitutionnelle"
+                  "Déclaration des droits de l'homme et du citoyen (DDHC), monarchie constitutionnelle"
                 ],
                 [
                   "Première République",
@@ -95,7 +95,7 @@
                 ],
                 [
                   "Cinquième République",
-                  "1958 - ...",
+                  "1958 - …",
                   "Constitution"
                 ]
               ]
@@ -105,8 +105,8 @@
               "text": "La frise place la fin du Premier Empire en **1814**, mais le texte du livret indique **1804 - 1815** pour le Premier Empire et **1815 - 1848** pour la Restauration et la Monarchie de Juillet (Napoléon abdique définitivement en **1815** après Waterloo)."
             },
             {
-              "type": "p",
-              "text": "**Moyen-Âge (Vᵉ au XVᵉ siècle)**"
+              "type": "h",
+              "text": "Moyen Âge (Ve au XVe siècle)"
             },
             {
               "type": "timeline",
@@ -126,8 +126,8 @@
               "text": "Jeanne d'Arc est devenue une **héroïne nationale**, symbole du patriotisme et du courage."
             },
             {
-              "type": "p",
-              "text": "**L'Ancien Régime (1492 - 1789)**"
+              "type": "h",
+              "text": "L'Ancien Régime (1492 - 1789)"
             },
             {
               "type": "p",
@@ -145,18 +145,23 @@
                   "text": "Règne de **Louis XIV**, appelé le « **Roi-Soleil** », roi emblématique de France. Il a notamment fait construire le **château de Versailles**, joyau de l'architecture classique, situé près de Paris."
                 },
                 {
-                  "date": "XVIIᵉ siècle",
+                  "date": "XVIIe siècle",
                   "text": "**Molière**, auteur de pièces de théâtre (dramaturge) et comédien français, vit pendant le règne de Louis XIV. Il est très connu pour ses comédies, comme « L'Avare » et « Le Bourgeois gentilhomme »."
                 }
               ]
             },
             {
               "type": "p",
-              "text": "**Les philosophes des Lumières** : Rousseau, Voltaire, Diderot, Montesquieu, Condorcet, d'Alembert... sont des philosophes qui combattent, à travers leurs œuvres, pour la **tolérance**, la **liberté de pensée** et le **refus de l'arbitraire**. Leur pensée a influencé les idéaux de la Révolution française de liberté, d'égalité et de fraternité. En particulier, **Montesquieu dénonce l'esclavage**."
-            },
+              "text": "**Les philosophes des Lumières** : Rousseau, Voltaire, Diderot, Montesquieu, Condorcet, d'Alembert… sont des philosophes qui combattent, à travers leurs œuvres, pour la **tolérance**, la **liberté de pensée** et le **refus de l'arbitraire**. Leur pensée a influencé les idéaux de la Révolution française de liberté, d'égalité et de fraternité. En particulier, **Montesquieu dénonce l'esclavage**."
+            }
+          ]
+        },
+        {
+          "title": "La Révolution et l'Empire (1789-1815)",
+          "blocks": [
             {
-              "type": "p",
-              "text": "**La Révolution française (1789 - 1792)**"
+              "type": "h",
+              "text": "La Révolution française (1789 - 1792)"
             },
             {
               "type": "timeline",
@@ -188,8 +193,8 @@
               "text": "La Révolution française est à l'origine de nos **valeurs républicaines**, avec l'adoption de la Déclaration des droits de l'homme et du citoyen de 1789."
             },
             {
-              "type": "p",
-              "text": "**La Première République (1792 - 1804)**"
+              "type": "h",
+              "text": "La Première République (1792 - 1804)"
             },
             {
               "type": "p",
@@ -217,8 +222,8 @@
               ]
             },
             {
-              "type": "p",
-              "text": "**Le Premier Empire (1804 - 1815)**"
+              "type": "h",
+              "text": "Le Premier Empire (1804 - 1815)"
             },
             {
               "type": "p",
@@ -244,10 +249,15 @@
                   "text": "Affaibli par ses défaites militaires, Napoléon **abdique définitivement après la bataille de Waterloo**. Le Premier Empire prend fin et la monarchie est restaurée."
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "title": "Le XIXe siècle : monarchies, République et Empire (1815-1870)",
+          "blocks": [
             {
-              "type": "p",
-              "text": "**La Restauration et la Monarchie de Juillet (1815 - 1848)**"
+              "type": "h",
+              "text": "La Restauration et la Monarchie de Juillet (1815 - 1848)"
             },
             {
               "type": "timeline",
@@ -275,8 +285,8 @@
               "text": "Louis-Philippe (Louis-Philippe Iᵉʳ, roi des Français, 1773-1850) renforce le rôle du Parlement en lui accordant plus de pouvoirs et garantit davantage de libertés, comme celle de la presse. Le pouvoir s'appuie surtout sur la **bourgeoisie**, et le **droit de vote reste limité aux plus riches**. Peu à peu, les inégalités sociales augmentent et le refus d'élargir le droit de vote provoque des tensions."
             },
             {
-              "type": "p",
-              "text": "**La Deuxième République (1848 - 1852)**"
+              "type": "h",
+              "text": "La Deuxième République (1848 - 1852)"
             },
             {
               "type": "p",
@@ -288,7 +298,7 @@
             },
             {
               "type": "p",
-              "text": "**L'esclavage** : à partir du **XVIIᵉ siècle**, l'esclavage s'est développé autour de la **traite transatlantique** et de l'esclavage colonial dans les territoires d'outre-mer. Cette traite a impliqué la déportation forcée de **1,2 million d'Africains** vers les colonies des Antilles (Saint-Domingue, Martinique, Guadeloupe), de La Réunion et de la Guyane. L'esclavage y était pratiqué jusqu'en **1848**. Ces personnes travaillaient principalement dans les plantations (canne à sucre, café...), dans des conditions extrêmement difficiles. **Nantes** était le principal port français impliqué dans la traite transatlantique en France."
+              "text": "**L'esclavage** : à partir du **XVIIe siècle**, l'esclavage s'est développé autour de la **traite transatlantique** et de l'esclavage colonial dans les territoires d'outre-mer. Cette traite a impliqué la déportation forcée de **1,2 million d'Africains** vers les colonies des Antilles (Saint-Domingue, Martinique, Guadeloupe), de La Réunion et de la Guyane. L'esclavage y était pratiqué jusqu'en **1848**. Ces personnes travaillaient principalement dans les plantations (canne à sucre, café…), dans des conditions extrêmement difficiles. **Nantes** était le principal port français impliqué dans la traite transatlantique en France."
             },
             {
               "type": "callout",
@@ -299,8 +309,8 @@
               "text": "**Victor Hugo** (1802-1885) est l'un des plus grands écrivains français. Il s'est engagé contre les inégalités sociales et la peine de mort. Il a notamment écrit des livres très célèbres comme « Les Misérables » et « Notre-Dame de Paris »."
             },
             {
-              "type": "p",
-              "text": "**Le Second Empire (1852 - 1870)**"
+              "type": "h",
+              "text": "Le Second Empire (1852 - 1870)"
             },
             {
               "type": "timeline",
@@ -326,14 +336,19 @@
             {
               "type": "p",
               "text": "Pendant cette période, l'économie se modernise et la France s'ouvre à l'Europe."
+            }
+          ]
+        },
+        {
+          "title": "La IIIe République et les deux guerres mondiales (1870-1946)",
+          "blocks": [
+            {
+              "type": "h",
+              "text": "La Troisième République (1870 - 1940)"
             },
             {
               "type": "p",
-              "text": "**La Troisième République (1870 - 1940)**"
-            },
-            {
-              "type": "p",
-              "text": "La IIIᵉ République installe dans la durée le régime républicain en France. Cette période est marquée notamment par la généralisation de l'école publique gratuite et de l'école laïque et obligatoire, grâce aux lois de **Jules Ferry**, alors ministre de l'Instruction publique. C'est également sous ce régime que les grandes lois garantissant les libertés sont adoptées."
+              "text": "La IIIe République installe dans la durée le régime républicain en France. Cette période est marquée notamment par la généralisation de l'école publique gratuite et de l'école laïque et obligatoire, grâce aux lois de **Jules Ferry**, alors ministre de l'Instruction publique. C'est également sous ce régime que les grandes lois garantissant les libertés sont adoptées."
             },
             {
               "type": "timeline",
@@ -366,7 +381,7 @@
             },
             {
               "type": "p",
-              "text": "**La Première Guerre mondiale (1914-1918)**, aussi appelée « **la grande guerre** », est un conflit militaire impliquant dans un premier temps les puissances européennes, dont la France, et s'étendant ensuite à plusieurs continents."
+              "text": "**La Première Guerre mondiale (1914-1918)**, aussi appelée « **la Grande Guerre** », est un conflit militaire impliquant dans un premier temps les puissances européennes, dont la France, et s'étendant ensuite à plusieurs continents."
             },
             {
               "type": "timeline",
@@ -377,7 +392,7 @@
                 },
                 {
                   "date": "11 novembre 1918",
-                  "text": "**Armistice** : victoire de la France, dirigée par le Président du Conseil **Georges Clémenceau**, et de ses alliés (Grande-Bretagne, Italie et États-Unis) sur l'empire allemand et ses alliés (empire austro-hongrois et empire ottoman)."
+                  "text": "**Armistice** : victoire de la France, dirigée par le Président du Conseil **Georges Clemenceau**, et de ses alliés (Grande-Bretagne, Italie et États-Unis) sur l'empire allemand et ses alliés (empire austro-hongrois et empire ottoman)."
                 },
                 {
                   "date": "28 juin 1919",
@@ -398,17 +413,17 @@
               "items": [
                 "modification de nombreuses frontières ;",
                 "création de nouveaux pays issus de la disparition des anciens empires ;",
-                "révolution bolchévique en Russie (qui devient l'URSS : Union des républiques socialistes soviétiques) ;",
+                "révolution bolchevique en Russie (qui devient l'URSS : Union des républiques socialistes soviétiques) ;",
                 "montée en puissance des États-Unis d'Amérique."
               ]
             },
             {
               "type": "p",
-              "text": "**La Seconde Guerre mondiale**, de **1939 à 1945**, est déclenchée par **Adolf Hitler**, dictateur nazi au pouvoir en Allemagne. Il envahit notamment la France en **1940**, qui sera occupée d'abord partiellement, puis totalement à partir de **1942**. Dans les territoires qu'ils contrôlent, les nazis persécutent les opposants politiques et exterminent des millions de Juifs (**la Shoah**) ainsi que des milliers de Tsiganes, d'homosexuels et d'handicapés. Les historiens estiment que la guerre a fait **plus de 50 millions de morts**, dont une majorité de civils."
+              "text": "**La Seconde Guerre mondiale**, de **1939 à 1945**, est déclenchée par **Adolf Hitler**, dictateur nazi au pouvoir en Allemagne. Il envahit notamment la France en **1940**, qui sera occupée d'abord partiellement, puis totalement à partir de **1942**. Dans les territoires qu'ils contrôlent, les nazis persécutent les opposants politiques et exterminent des millions de Juifs (**la Shoah**) ainsi que des milliers de Tsiganes, d'homosexuels et de handicapés. Les historiens estiment que la guerre a fait **plus de 50 millions de morts**, dont une majorité de civils."
             },
             {
-              "type": "p",
-              "text": "**Le régime de Vichy (1940 - 1944)**"
+              "type": "h",
+              "text": "Le régime de Vichy (1940 - 1944)"
             },
             {
               "type": "p",
@@ -419,8 +434,8 @@
               "text": "**La Résistance** : la collaboration du régime de Vichy avec l'occupant allemand n'est pas acceptée par une partie de la population qui résiste à l'occupation. Cette résistance s'unifie sous la direction de **Jean Moulin** (qui sera arrêté et torturé à mort par les nazis), missionné en ce sens par le **Général de Gaulle**, chef de la **France libre**."
             },
             {
-              "type": "p",
-              "text": "**La fin de la Seconde Guerre mondiale**"
+              "type": "h",
+              "text": "La fin de la Seconde Guerre mondiale"
             },
             {
               "type": "timeline",
@@ -444,8 +459,8 @@
               "text": "Le **8 mai** est un **jour férié** destiné à commémorer la fin de la Seconde Guerre mondiale."
             },
             {
-              "type": "p",
-              "text": "**Le Gouvernement provisoire de la République française (1944 - 1946)**"
+              "type": "h",
+              "text": "Le Gouvernement provisoire de la République française (1944 - 1946)"
             },
             {
               "type": "p",
@@ -464,50 +479,55 @@
                 },
                 {
                   "date": "1958",
-                  "text": "Bien après la guerre, il revient au pouvoir et est à l'origine de nos institutions actuelles (la Vᵉ République, dont il devient le **premier Président**)."
+                  "text": "Bien après la guerre, il revient au pouvoir et est à l'origine de nos institutions actuelles (la Ve République, dont il devient le **premier Président**)."
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "title": "De 1946 à aujourd'hui : IVe et Ve République",
+          "blocks": [
             {
-              "type": "p",
-              "text": "**La Quatrième République (1946 - 1958)**"
+              "type": "h",
+              "text": "La Quatrième République (1946 - 1958)"
             },
             {
               "type": "p",
               "text": "La Quatrième République débute en **1946**. Elle repose sur une Constitution marquée par l'importance du **pouvoir législatif** (détenu par le Parlement) par rapport au **pouvoir exécutif** (incarné par le président du Conseil). Ce déséquilibre entre les pouvoirs et l'absence de majorité au Parlement entraîne une **instabilité du gouvernement** et affaiblit le régime qui s'effondre en **1958**."
             },
             {
-              "type": "p",
-              "text": "**La Cinquième République (1958 - ...)**"
+              "type": "h",
+              "text": "La Cinquième République (1958 - …)"
             },
             {
               "type": "p",
-              "text": "**L'instauration de la Vᵉ République** : face à la crise politique majeure liée à la **guerre d'Algérie** et à l'instabilité gouvernementale de la IVᵉ République, le Général de Gaulle est appelé au pouvoir à l'**été 1958** en tant que président du Conseil avec pour mission de rédiger une nouvelle constitution."
+              "text": "**L'instauration de la Ve République** : face à la crise politique majeure liée à la **guerre d'Algérie** et à l'instabilité gouvernementale de la IVe République, le Général de Gaulle est appelé au pouvoir à l'**été 1958** en tant que président du Conseil. Il a pour mission de rédiger une nouvelle constitution."
             },
             {
               "type": "timeline",
               "items": [
                 {
                   "date": "28 septembre 1958",
-                  "text": "La Constitution de la Vᵉ République est **adoptée par référendum**."
+                  "text": "La Constitution de la Ve République est **adoptée par référendum**."
                 },
                 {
                   "date": "4 octobre 1958",
-                  "text": "La Constitution de la Vᵉ République est **promulguée**."
+                  "text": "La Constitution de la Ve République est **promulguée**."
                 }
               ]
             },
             {
               "type": "p",
-              "text": "Elle installe un **pouvoir exécutif fort**, avec un président doté de pouvoirs importants. Afin de préserver la continuité et la stabilité du Gouvernement, la Vᵉ République limite les conditions dans lesquelles le Gouvernement peut être renversé par l'Assemblée nationale."
+              "text": "Elle installe un **pouvoir exécutif fort**, avec un président doté de pouvoirs importants. Afin de préserver la continuité et la stabilité du Gouvernement, la Ve République limite les conditions dans lesquelles le Gouvernement peut être renversé par l'Assemblée nationale."
             },
             {
               "type": "callout",
-              "text": "Le **Général de Gaulle** est le **premier Président de la Vᵉ République**. La Vᵉ République est encore aujourd'hui le régime politique de la France."
+              "text": "Le **Général de Gaulle** est le **premier Président de la Ve République**. La Ve République est encore aujourd'hui le régime politique de la France."
             },
             {
               "type": "p",
-              "text": "**La décolonisation française** : entre le **XVIIᵉ** et le **XIXᵉ siècle**, la France, comme d'autres pays européens, conquiert un vaste **empire colonial**. Cet empire s'étendait sur plusieurs continents, notamment en Afrique (Afrique de l'Ouest, Afrique équatoriale, Algérie, Madagascar, Maroc, Tunisie...) et en Asie (Indochine...). La France contrôlait ces territoires politiquement, administrativement et économiquement."
+              "text": "**La décolonisation française** : entre le **XVIIe** et le **XIXe siècle**, la France, comme d'autres pays européens, conquiert un vaste **empire colonial**. Cet empire s'étendait sur plusieurs continents, notamment en Afrique (Afrique de l'Ouest, Afrique équatoriale, Algérie, Madagascar, Maroc, Tunisie…) et en Asie (Indochine…). La France contrôlait ces territoires politiquement, administrativement et économiquement."
             },
             {
               "type": "p",
@@ -527,15 +547,15 @@
               ]
             },
             {
-              "type": "p",
-              "text": "**Les grandes évolutions de la société sous la Vᵉ République**"
+              "type": "h",
+              "text": "Les grandes évolutions de la société sous la Ve République"
             },
             {
               "type": "timeline",
               "items": [
                 {
                   "date": "Mai 1968",
-                  "text": "Un **mouvement social** est initié par des **étudiants** qui réclament une amélioration de leurs conditions d'études et davantage de libertés. Il est amplifié par une contestation sociale plus large, portée par les salariés et les syndicats d'ouvriers contre la rigidité du système politique et social. Les grèves et les manifestations sont parmi les plus importantes du XXᵉ siècle. Ce mouvement se conclut avec des avancées sociales importantes, comme l'**augmentation du salaire minimum**, et entraîne une transformation importante de la société."
+                  "text": "Un **mouvement social** est initié par des **étudiants** qui réclament une amélioration de leurs conditions d'études et davantage de libertés. Il est amplifié par une contestation sociale plus large, portée par les salariés et les syndicats d'ouvriers contre la rigidité du système politique et social. Les grèves et les manifestations sont parmi les plus importantes du XXe siècle. Ce mouvement se conclut avec des avancées sociales importantes, comme l'**augmentation du salaire minimum**, et entraîne une transformation importante de la société."
                 },
                 {
                   "date": "1974",
@@ -580,8 +600,8 @@
           "title": "Les principaux personnages historiques",
           "blocks": [
             {
-              "type": "p",
-              "text": "**1. Les présidents de la Vᵉ République**"
+              "type": "h",
+              "text": "1. Les présidents de la Ve République"
             },
             {
               "type": "timeline",
@@ -622,11 +642,11 @@
             },
             {
               "type": "callout",
-              "text": "**Georges Pompidou** est le seul président de la Vᵉ République **décédé au cours de son mandat**. Dans cette situation, le **président du Sénat** remplace le Président de la République jusqu'à la fin de l'élection présidentielle organisée en urgence."
+              "text": "**Georges Pompidou** est le seul président de la Ve République **décédé au cours de son mandat**. Dans cette situation, le **président du Sénat** remplace le Président de la République jusqu'à la fin de l'élection présidentielle organisée en urgence."
             },
             {
-              "type": "p",
-              "text": "**2. Des personnalités naturalisées qui ont contribué au rayonnement de la France**"
+              "type": "h",
+              "text": "2. Des personnalités naturalisées qui ont contribué au rayonnement de la France"
             },
             {
               "type": "p",
@@ -641,7 +661,7 @@
               "rows": [
                 [
                   "**Léon Gambetta** (1838-1882)",
-                  "Petit-fils d'un commerçant italien, fervent républicain, il aide la France à se relever après la défaite de 1870. Il est l'un des pères de la IIIᵉ République."
+                  "Petit-fils d'un commerçant italien, fervent républicain, il aide la France à se relever après la défaite de 1870. Il est l'un des pères de la IIIe République."
                 ],
                 [
                   "**Vassily Kandinsky** (1866-1944)",
@@ -649,7 +669,7 @@
                 ],
                 [
                   "**Marie Curie** (1867-1934)",
-                  "Physicienne née en Pologne. On lui doit la découverte de la radioactivité au début du XXᵉ siècle, pour laquelle elle a reçu le prix Nobel de physique en 1903, partagé avec Pierre Curie et Henri Becquerel. En 1911, elle reçut le prix Nobel de chimie pour l'isolement du radium. Elle est inhumée au Panthéon."
+                  "Physicienne née en Pologne. On lui doit la découverte de la radioactivité au début du XXe siècle, pour laquelle elle a reçu le prix Nobel de physique en 1903, partagé avec Pierre Curie et Henri Becquerel. En 1911, elle reçut le prix Nobel de chimie pour l'isolement du radium. Elle est inhumée au Panthéon."
                 ],
                 [
                   "**Maurice-François Garin** (1871-1957)",
@@ -657,7 +677,7 @@
                 ],
                 [
                   "**Guillaume Apollinaire** (1880-1918)",
-                  "Né d'une mère russe et d'un père suisse, on doit notamment à ce poète les recueils « Calligramme » et « Alcools »."
+                  "Né d'une mère russe et d'un père suisse, on doit notamment à ce poète les recueils « Calligrammes » et « Alcools »."
                 ],
                 [
                   "**Marc Chagall** (1887-1985)",
@@ -677,7 +697,7 @@
                 ],
                 [
                   "**Romain Gary** (1914-1980)",
-                  "D'origine russe, c'est le seul écrivain à recevoir le prix Goncourt à deux reprises : la 1ʳᵉ fois en 1956 sous son vrai nom pour « Les Racines du ciel », la 2ⁿᵈᵉ en 1975 sous le pseudonyme d'Émile Ajar pour « La Vie devant soi »."
+                  "D'origine russe, c'est le seul écrivain à recevoir le prix Goncourt à deux reprises : la 1re fois en 1956 sous son vrai nom pour « Les Racines du ciel », la 2de en 1975 sous le pseudonyme d'Émile Ajar pour « La Vie devant soi »."
                 ],
                 [
                   "**Françoise Giroud** (1916-2003)",
@@ -701,7 +721,7 @@
                 ],
                 [
                   "**Dalida** (1933-1987)",
-                  "Chanteuse d'origine égyptienne, ses succès populaires sont très nombreux : « Bambino », « Il venait d'avoir 18 ans », « Laissez-moi danser »..."
+                  "Chanteuse d'origine égyptienne, ses succès populaires sont très nombreux : « Bambino », « Il venait d'avoir 18 ans », « Laissez-moi danser »…"
                 ],
                 [
                   "**Georges Moustaki** (1934-2013)",
@@ -722,27 +742,29 @@
         "Louis XIV, le « **Roi-Soleil** », règne de **1643 à 1715** et fait construire le **château de Versailles**.",
         "Napoléon Bonaparte devient empereur en **1804** : Code civil, Banque de France, préfets. Il abdique définitivement en **1815** après Waterloo.",
         "**1848** : abolition de l'esclavage, décret rédigé par **Victor Schoelcher**. La **loi Taubira (2001)** reconnaît la traite et l'esclavage comme crime contre l'humanité ; le **10 mai** est la journée des mémoires.",
-        "Lois **Jules Ferry** : école publique gratuite (**1881**), laïque et obligatoire (**1882**).",
-        "Grandes lois de la IIIᵉ République : presse (**29 juillet 1881**), syndicats (**21 mars 1884**), associations (**1er juillet 1901**), séparation des Églises et de l'État (**9 décembre 1905**).",
-        "**11 novembre 1918** : armistice de la Première Guerre mondiale (jour férié). **8 mai 1945** : capitulation de l'Allemagne (jour férié).",
+        "Lois de la IIIe République : école publique gratuite (**1881**), laïque et obligatoire (**1882**, lois **Jules Ferry**) ; liberté de la presse (**29 juillet 1881**) ; syndicats (**21 mars 1884**) ; associations (**1er juillet 1901**) ; séparation des Églises et de l'État (**9 décembre 1905**).",
+        "**1914-1918** : Première Guerre mondiale (« la Grande Guerre »), 1,45 million de morts pour la France. **Armistice le 11 novembre 1918** (jour férié), victoire dirigée par **Georges Clemenceau**.",
+        "**1939-1945** : Seconde Guerre mondiale, déclenchée par Hitler ; les nazis exterminent des millions de Juifs (**la Shoah**). En **1940**, le maréchal **Pétain** installe le **régime de Vichy**, qui collabore avec l'Allemagne nazie et porte une part de responsabilité dans la déportation des Juifs.",
         "**18 juin 1940** : appel du Général de Gaulle sur la BBC, début de la Résistance, unifiée par **Jean Moulin**.",
-        "**6 juin 1944** : débarquement des Alliés en Normandie ; **25 août 1944** : libération de Paris.",
-        "Constitution de la Vᵉ République adoptée par référendum le **28 septembre 1958**, promulguée le **4 octobre 1958** ; de Gaulle en est le premier Président.",
-        "Majorité à **18 ans** en **1974** (Giscard d'Estaing) ; **loi Veil** sur l'avortement le **17 janvier 1975**.",
+        "**6 juin 1944** : débarquement des Alliés en Normandie ; **25 août 1944** : libération de Paris ; **8 mai 1945** : capitulation de l'Allemagne (jour férié).",
+        "Constitution de la Ve République adoptée par référendum le **28 septembre 1958**, promulguée le **4 octobre 1958** ; de Gaulle en est le premier Président.",
+        "Décolonisation : l'**Indochine** (conflit de **1946 à 1954**) et l'**Algérie** (conflit de **1954 à 1962**) obtiennent leur indépendance.",
+        "**Mai 1968** : mouvement étudiant puis social, conclu par des avancées comme l'augmentation du salaire minimum. Majorité à **18 ans** en **1974** (Giscard d'Estaing) ; **loi Veil** sur l'avortement le **17 janvier 1975**.",
         "Abolition de la **peine de mort** en **1981** (Robert Badinter) ; **mariage pour tous** le **17 mai 2013** (Christiane Taubira).",
-        "Présidents de la Vᵉ République : de Gaulle, Pompidou, Giscard d'Estaing, Mitterrand, Chirac, Sarkozy, Hollande, Macron (réélu en **2022**)."
+        "Présidents de la Ve République : de Gaulle, Pompidou, Giscard d'Estaing, Mitterrand, Chirac, Sarkozy, Hollande, Macron (réélu en **2022**). **Georges Pompidou** est le seul président décédé pendant son mandat.",
+        "Personnalités naturalisées : **Marie Curie** (deux prix Nobel, inhumée au Panthéon), **Joséphine Baker** (artiste engagée dans la Résistance), **Romain Gary** (deux fois prix Goncourt)."
       ],
       "quiz": [
         {
-          "q": "Quel événement du 14 juillet 1789 marque le début de la Révolution française ?",
+          "q": "Qui a unifié plusieurs royaumes francs au Ve siècle et adopté la religion chrétienne ?",
           "choices": [
-            "La prise des Tuileries",
-            "Le serment du Jeu de paume",
-            "La prise de la Bastille",
-            "L'exécution de Louis XVI"
+            "Charlemagne",
+            "Henri IV",
+            "Clovis",
+            "Louis XIV"
           ],
           "answer": 2,
-          "explain": "Le 14 juillet 1789, les Parisiens s'emparent de la Bastille, prison royale symbole du pouvoir arbitraire. Cet événement marque le début de la Révolution.",
+          "explain": "Clovis (466-511) unifie plusieurs royaumes habités par des peuples francs, une étape importante dans la construction de l'unité du territoire français. Il adopte la religion chrétienne.",
           "kind": "knowledge"
         },
         {
@@ -770,15 +792,15 @@
           "kind": "knowledge"
         },
         {
-          "q": "Parmi ces réformes, laquelle n'est PAS attribuée à Napoléon Bonaparte par le livret ?",
+          "q": "Après la défaite de la France face à l'Allemagne en 1940, quel régime le maréchal Pétain met-il en place ?",
           "choices": [
-            "Le Code civil",
-            "La Banque de France",
-            "L'école laïque et obligatoire",
-            "La création des préfets"
+            "Le Gouvernement provisoire de la République",
+            "La France libre",
+            "Le régime de Vichy",
+            "La IVe République"
           ],
           "answer": 2,
-          "explain": "Napoléon est à l'origine du Code civil, de la Banque de France et des préfets. L'école laïque et obligatoire date de 1882, avec les lois Jules Ferry.",
+          "explain": "Le maréchal Pétain met en place un régime autoritaire non démocratique dont la capitale est Vichy. Ce régime collabore avec l'Allemagne nazie et porte une part de responsabilité dans la déportation des Juifs.",
           "kind": "knowledge"
         },
         {
@@ -811,10 +833,10 @@
             "Jules Ferry",
             "Léon Gambetta",
             "Victor Hugo",
-            "Georges Clémenceau"
+            "Georges Clemenceau"
           ],
           "answer": 0,
-          "explain": "Ce sont les lois de Jules Ferry, alors ministre de l'Instruction publique, sous la IIIᵉ République.",
+          "explain": "Ce sont les lois de Jules Ferry, alors ministre de l'Instruction publique, sous la IIIe République.",
           "kind": "knowledge"
         },
         {
@@ -870,7 +892,7 @@
           "choices": [
             "Le maréchal Pétain",
             "Jean Moulin",
-            "Georges Clémenceau",
+            "Georges Clemenceau",
             "Robert Badinter"
           ],
           "answer": 1,
@@ -878,15 +900,15 @@
           "kind": "knowledge"
         },
         {
-          "q": "Comment la Constitution de la Vᵉ République a-t-elle été adoptée ?",
+          "q": "Entre 1954 et 1962, quel conflit lié à la décolonisation oppose la France à l'une de ses colonies ?",
           "choices": [
-            "Par un vote du Sénat en 1946",
-            "Par décret du Général de Gaulle en 1959",
-            "Par référendum le 28 septembre 1958",
-            "Par l'Assemblée nationale le 4 octobre 1958"
+            "La guerre d'Indochine",
+            "La guerre d'Algérie",
+            "La guerre contre la Prusse",
+            "La guerre de Cent Ans"
           ],
-          "answer": 2,
-          "explain": "Elle a été adoptée par référendum le 28 septembre 1958, puis promulguée le 4 octobre 1958.",
+          "answer": 1,
+          "explain": "La guerre d'Algérie (1954-1962) est, avec celle d'Indochine (1946-1954), l'un des deux conflits meurtriers de la décolonisation française ; l'Algérie obtient son indépendance à l'issue du conflit. La crise liée à cette guerre entraîne le retour du Général de Gaulle en 1958.",
           "kind": "knowledge"
         },
         {
@@ -914,7 +936,7 @@
           "kind": "knowledge"
         },
         {
-          "q": "Quel président de la Vᵉ République est le seul à être décédé au cours de son mandat ?",
+          "q": "Quel président de la Ve République est le seul à être décédé au cours de son mandat ?",
           "choices": [
             "Charles de Gaulle",
             "Georges Pompidou",
@@ -930,11 +952,11 @@
           "choices": [
             "La prise de la Bastille par les Parisiens en 1789",
             "L'exécution de Louis XVI en 1793",
-            "La promulgation de la Constitution de la Vᵉ République",
+            "La promulgation de la Constitution de la Ve République",
             "La libération de Paris en 1944"
           ],
           "answer": 0,
-          "explain": "Le 14 juillet 1789, les Parisiens s'emparent de la Bastille, prison royale symbole du pouvoir arbitraire : c'est le début de la Révolution française. Paris est libérée le 25 août 1944 et la Constitution de la Vᵉ République est promulguée le 4 octobre 1958.",
+          "explain": "Le 14 juillet 1789, les Parisiens s'emparent de la Bastille, prison royale symbole du pouvoir arbitraire : c'est le début de la Révolution française. Paris est libérée le 25 août 1944 et la Constitution de la Ve République est promulguée le 4 octobre 1958.",
           "kind": "situation"
         },
         {
@@ -952,13 +974,25 @@
         {
           "q": "Lors d'une discussion avec des amis, on vous demande sous quel régime politique vit la France aujourd'hui. Que répondez-vous ?",
           "choices": [
-            "La IVᵉ République, née en 1946",
+            "La IVe République, née en 1946",
             "Une monarchie constitutionnelle",
-            "La Vᵉ République, dont la Constitution date de 1958",
-            "La IIIᵉ République, le plus long régime républicain"
+            "La Ve République, dont la Constitution date de 1958",
+            "La IIIe République, le plus long régime républicain"
           ],
           "answer": 2,
-          "explain": "La Vᵉ République, dont la Constitution a été adoptée par référendum le 28 septembre 1958 et promulguée le 4 octobre 1958, est encore aujourd'hui le régime politique de la France. La IVᵉ République s'est effondrée en 1958 et la IIIᵉ a pris fin en 1940.",
+          "explain": "La Ve République, dont la Constitution a été adoptée par référendum le 28 septembre 1958 et promulguée le 4 octobre 1958, est encore aujourd'hui le régime politique de la France. La IVe République s'est effondrée en 1958 et la IIIe a pris fin en 1940.",
+          "kind": "situation"
+        },
+        {
+          "q": "Votre fille prépare un exposé sur une scientifique née en Pologne, devenue française, qui a reçu deux prix Nobel et repose au Panthéon. De qui s'agit-il ?",
+          "choices": [
+            "Simone Veil",
+            "Marguerite Yourcenar",
+            "Marie Curie",
+            "Françoise Giroud"
+          ],
+          "answer": 2,
+          "explain": "Marie Curie (1867-1934), physicienne née en Pologne, a découvert la radioactivité : prix Nobel de physique en 1903 et prix Nobel de chimie en 1911. Elle est inhumée au Panthéon.",
           "kind": "situation"
         }
       ]
@@ -1027,7 +1061,7 @@
                 "l'Organisation du Traité de l'Atlantique Nord (**OTAN**)",
                 "le **G7**",
                 "le **G20**",
-                "l'Organisation internationale de la Francophonie..."
+                "l'Organisation internationale de la Francophonie…"
               ]
             }
           ]
@@ -1037,7 +1071,7 @@
           "blocks": [
             {
               "type": "p",
-              "text": "En **2024**, la France est la **7ème puissance économique mondiale** avec un produit intérieur brut (**PIB**) de **2 830 milliards de dollars**, ce qui reflète la richesse produite chaque année."
+              "text": "En **2024**, la France est la **7e puissance économique mondiale** avec un produit intérieur brut (**PIB**) de **2 830 milliards de dollars**, ce qui reflète la richesse produite chaque année."
             },
             {
               "type": "p",
@@ -1116,8 +1150,8 @@
           "title": "Quelques éléments remarquables du territoire",
           "blocks": [
             {
-              "type": "p",
-              "text": "**1. Les chaînes de montagnes**"
+              "type": "h",
+              "text": "1. Les chaînes de montagnes"
             },
             {
               "type": "p",
@@ -1132,8 +1166,8 @@
               "text": "Le **Massif central**, le **Jura** et les **Vosges** sont aussi des massifs montagneux situés en France."
             },
             {
-              "type": "p",
-              "text": "**2. Les fleuves**"
+              "type": "h",
+              "text": "2. Les fleuves"
             },
             {
               "type": "p",
@@ -1150,8 +1184,8 @@
               ]
             },
             {
-              "type": "p",
-              "text": "**3. Les volcans**"
+              "type": "h",
+              "text": "3. Les volcans"
             },
             {
               "type": "p",
@@ -1159,11 +1193,11 @@
             },
             {
               "type": "p",
-              "text": "Le **Piton de la Fournaise**, situé sur l'île de la Réunion et atteignant **2 600 mètres** d'altitude, est l'un des volcans les plus actifs au monde. Il s'agit d'un site protégé, inscrit au **patrimoine mondial de l'UNESCO**."
+              "text": "Le **Piton de la Fournaise**, situé sur l'île de la Réunion et atteignant **2 600 mètres** d'altitude, est l'un des volcans les plus actifs au monde. Il s'agit d'un site protégé, inscrit au **patrimoine mondial** de l'Organisation des Nations unies pour l'éducation, la science et la culture (**UNESCO**)."
             },
             {
-              "type": "p",
-              "text": "**4. Les forêts**"
+              "type": "h",
+              "text": "4. Les forêts"
             },
             {
               "type": "p",
@@ -1174,8 +1208,8 @@
               "text": "La plus grande forêt en France est cependant la **forêt amazonienne** qui couvre **8 millions d'hectares en Guyane** (territoire ultramarin situé en Amérique latine, entouré du Brésil, du Suriname, et bordé par l'océan Atlantique). Cette forêt, qui s'étend sur **9 pays**, abrite la plus grande variété d'animaux (faune) et de plantes (flore) de la planète et joue un rôle dans la régulation du climat."
             },
             {
-              "type": "p",
-              "text": "**5. Les grottes préhistoriques**"
+              "type": "h",
+              "text": "5. Les grottes préhistoriques"
             },
             {
               "type": "p",
@@ -1186,8 +1220,8 @@
               "text": "Parmi ces sites, la **grotte de Lascaux** est la plus célèbre. Située dans le département de la **Dordogne**, en région **Nouvelle-Aquitaine**, on y trouve des peintures rupestres datant **entre 18 000 et 15 000 ans avant Jésus-Christ**."
             },
             {
-              "type": "callout",
-              "text": "Grotte de Lascaux : paroi de gauche de la salle des taureaux représentant un cheval brun à crinière noire entre deux grandes représentations d'aurochs."
+              "type": "p",
+              "text": "Dans la salle des taureaux de la grotte de Lascaux, les parois représentent notamment des chevaux et de grands aurochs."
             }
           ]
         }
@@ -1196,11 +1230,13 @@
         "En **2025**, la France compte **68,6 millions d'habitants** et s'étend sur **675 000 km²** (métropole et outre-mer).",
         "La France métropolitaine a des frontières terrestres avec **8 pays** : Allemagne, Andorre, Belgique, Espagne, Italie, Luxembourg, Monaco et Suisse ; elle a **5 500 km de côtes** (Manche, mer du Nord, océan Atlantique, Méditerranée).",
         "La France est **membre permanent du Conseil de sécurité de l'ONU** (créée en **1945**) et dispose d'un **droit de véto**.",
-        "En **2024**, la France est la **7ème puissance économique mondiale** (PIB de **2 830 milliards de dollars**).",
+        "La France est membre de l'Union européenne, de l'ONU, de l'**OTAN**, du **G7**, du **G20** et de l'Organisation internationale de la Francophonie ; elle a des ambassades et des consulats dans **plus de 150 pays**.",
+        "En **2024**, la France est la **7e puissance économique mondiale** (PIB de **2 830 milliards de dollars**).",
         "La France est la **deuxième puissance maritime au monde**, derrière les États-Unis ; ses plus grands ports sont Le Havre, Marseille-Fos, Dunkerque et Nantes-Saint-Nazaire.",
         "Les fusées **Ariane** décollent du pas de tir de **Kourou, en Guyane**.",
         "La France est la **première puissance agricole de l'Union européenne** (24 % des céréales européennes, premier cheptel bovin d'Europe).",
         "Le **Mont-Blanc** (**4 810 m**) est la plus haute montagne de France et d'Europe ; la **Loire** est le plus long fleuve français.",
+        "La **Seine** traverse Paris, le **Rhône** Lyon, la **Garonne** Toulouse et Bordeaux ; le **Rhin** délimite en partie la frontière avec l'Allemagne.",
         "Le **Piton de la Fournaise** (La Réunion, 2 600 m) est l'un des volcans les plus actifs au monde, inscrit au patrimoine mondial de l'UNESCO.",
         "La forêt couvre **32 %** du territoire métropolitain ; la plus grande forêt française est la **forêt amazonienne de Guyane** (8 millions d'hectares). La **grotte de Lascaux** (Dordogne) abrite des peintures rupestres de 18 000 à 15 000 ans av. J.-C."
       ],
@@ -1256,13 +1292,13 @@
         {
           "q": "En 2024, quel est le rang de la France parmi les puissances économiques mondiales ?",
           "choices": [
-            "7ème",
-            "3ème",
-            "5ème",
-            "10ème"
+            "7e",
+            "3e",
+            "5e",
+            "10e"
           ],
           "answer": 0,
-          "explain": "En 2024, la France est la 7ème puissance économique mondiale, avec un PIB de 2 830 milliards de dollars.",
+          "explain": "En 2024, la France est la 7e puissance économique mondiale, avec un PIB de 2 830 milliards de dollars.",
           "kind": "knowledge"
         },
         {
@@ -1396,7 +1432,7 @@
           "blocks": [
             {
               "type": "p",
-              "text": "La culture française s'est construite à travers des siècles d'histoire et d'influences extérieures. Elle est au cœur de l'identité du pays et constitue un repère commun qui unit les Français. Elle se manifeste notamment à travers le patrimoine architectural, la littérature, la musique, les arts visuels (peinture, sculpture, cinéma...), les festivals et les traditions locales."
+              "text": "La culture française s'est construite à travers des siècles d'histoire et d'influences extérieures. Elle est au cœur de l'identité du pays et constitue un repère commun qui unit les Français. Elle se manifeste notamment à travers le patrimoine architectural, la littérature, la musique, les arts visuels (peinture, sculpture, cinéma…), les festivals et les traditions locales."
             },
             {
               "type": "p",
@@ -1424,15 +1460,15 @@
             },
             {
               "type": "p",
-              "text": "Ce chapitre illustre, à travers quelques exemples emblématiques, la diversité du patrimoine français, qu'il s'agisse du **patrimoine matériel** (ensemble des biens et des monuments qui retracent l'histoire de la culture française) ou du **patrimoine immatériel** (qui rassemble les traditions, l'art du spectacle, les pratiques sociales et notamment les savoir-faire, comme la gastronomie)."
+              "text": "Ce chapitre illustre, à travers quelques exemples emblématiques, la diversité du patrimoine français. Le **patrimoine matériel** est l'ensemble des biens et des monuments qui retracent l'histoire de la culture française. Le **patrimoine immatériel** rassemble les traditions, l'art du spectacle, les pratiques sociales et notamment les savoir-faire, comme la gastronomie."
             },
             {
               "type": "p",
-              "text": "La France compte **plus de 1200 musées**, dont **une centaine de musées nationaux**, couvrant l'art, l'histoire, la science, l'archéologie... Parmi les musées les plus emblématiques, peuvent être cités :"
+              "text": "La France compte **plus de 1200 musées**, dont **une centaine de musées nationaux**, couvrant l'art, l'histoire, la science, l'archéologie… Parmi les musées les plus emblématiques, peuvent être cités :"
             },
             {
-              "type": "p",
-              "text": "**1. Le musée du Louvre**"
+              "type": "h",
+              "text": "1. Le musée du Louvre"
             },
             {
               "type": "p",
@@ -1443,8 +1479,8 @@
               "text": "Le tableau de « **La Joconde** », peint par **Léonard de Vinci**, est exposé au Louvre."
             },
             {
-              "type": "p",
-              "text": "**2. Le musée d'Orsay**"
+              "type": "h",
+              "text": "2. Le musée d'Orsay"
             },
             {
               "type": "p",
@@ -1476,11 +1512,11 @@
                 ],
                 [
                   "**George Sand** (1804-1876)",
-                  "Romancière française du XIXème siècle connue pour ses engagements féministes et ses œuvres comme « Indiana » et « Lélia ». De son vrai nom **Aurore Dupin**, elle a utilisé un pseudonyme masculin pour publier ses écrits."
+                  "Romancière française du XIXe siècle connue pour ses engagements féministes et ses œuvres comme « Indiana » et « Lélia ». De son vrai nom **Aurore Dupin**, elle a utilisé un pseudonyme masculin pour publier ses écrits."
                 ],
                 [
                   "**Charles Baudelaire** (1821-1867)",
-                  "Poète français majeur du XIXème siècle, célèbre pour son recueil « **Les Fleurs du Mal** » et son rôle dans la modernité poétique."
+                  "Poète français majeur du XIXe siècle, célèbre pour son recueil « **Les Fleurs du Mal** » et son rôle dans la modernité poétique."
                 ],
                 [
                   "**Paul Cézanne** (1839-1906)",
@@ -1488,7 +1524,7 @@
                 ],
                 [
                   "**Auguste Rodin** (1840-1917)",
-                  "Un des plus grands sculpteurs du XIXème siècle, il est considéré comme un des pères de la sculpture moderne. Il est notamment connu pour ses œuvres comme « L'Âge d'airain » et « **Le penseur** »."
+                  "Un des plus grands sculpteurs du XIXe siècle, il est considéré comme un des pères de la sculpture moderne. Il est notamment connu pour ses œuvres comme « L'Âge d'airain » et « **Le penseur** »."
                 ],
                 [
                   "**Claude Monet** (1840-1926)",
@@ -1496,11 +1532,11 @@
                 ],
                 [
                   "**Auguste Renoir** (1841-1919)",
-                  "Artiste français et peintre impressionniste célèbre du XIXème siècle, il est connu pour ses représentations de figures humaines, notamment de femmes et d'enfants."
+                  "Artiste français et peintre impressionniste célèbre du XIXe siècle, il est connu pour ses représentations de figures humaines, notamment de femmes et d'enfants."
                 ],
                 [
                   "**Claude Debussy** (1862-1918)",
-                  "Compositeur français, l'un des plus grands musiciens français. Il occupe une place essentielle dans la musique du début du XXème siècle."
+                  "Compositeur français, l'un des plus grands musiciens français. Il occupe une place essentielle dans la musique du début du XXe siècle."
                 ],
                 [
                   "**Suzanne Valadon** (1865-1938)",
@@ -1519,8 +1555,8 @@
                   "Écrivaine française née à Gia Đinh près de Saïgon. De son vrai nom **Marguerite Donnadieu**, elle a marqué la littérature avec son livre « **L'Amant** »."
                 ],
                 [
-                  "**Edith Piaf** (1915-1963)",
-                  "Une des figures les plus emblématiques de la chanson française du 20ème siècle avec des chansons comme « Hymne à l'Amour » ou « **La Vie en rose** ». De son vrai nom, **Édith Gassion**."
+                  "**Édith Piaf** (1915-1963)",
+                  "Une des figures les plus emblématiques de la chanson française du 20e siècle avec des chansons comme « Hymne à l'Amour » ou « **La Vie en rose** ». De son vrai nom, **Édith Gassion**."
                 ]
               ]
             }
@@ -1531,19 +1567,19 @@
           "blocks": [
             {
               "type": "p",
-              "text": "Le patrimoine architectural français est l'un des plus riches et des plus variés au monde. Il reflète des siècles d'histoires, d'innovations techniques et d'influences culturelles, depuis l'Antiquité jusqu'à la période contemporaine. En voici trois illustrations emblématiques :"
+              "text": "Le patrimoine architectural français est l'un des plus riches et des plus variés au monde. Il reflète des siècles d'histoire, d'innovations techniques et d'influences culturelles, depuis l'Antiquité jusqu'à la période contemporaine. En voici trois illustrations emblématiques :"
             },
             {
-              "type": "p",
-              "text": "**1. La tour Eiffel**"
+              "type": "h",
+              "text": "1. La tour Eiffel"
             },
             {
               "type": "p",
               "text": "La tour Eiffel a été conçue par l'ingénieur **Gustave Eiffel** pour l'**Exposition universelle de 1889**. Elle est devenue un symbole de Paris et attire **plus de 7 millions de visiteurs** chaque année."
             },
             {
-              "type": "p",
-              "text": "**2. L'abbaye du Mont-Saint-Michel**"
+              "type": "h",
+              "text": "2. L'abbaye du Mont-Saint-Michel"
             },
             {
               "type": "p",
@@ -1551,19 +1587,19 @@
             },
             {
               "type": "p",
-              "text": "Aujourd'hui, ce monument est l'un des sites touristiques les plus visités de France. Il est inscrit au **patrimoine mondial culturel par l'UNESCO**."
+              "text": "Aujourd'hui, ce monument est l'un des sites touristiques les plus visités de France. Il est inscrit au **patrimoine mondial culturel** par l'Organisation des Nations unies pour l'éducation, la science et la culture (**UNESCO**)."
+            },
+            {
+              "type": "h",
+              "text": "3. Le Palais des Papes à Avignon"
             },
             {
               "type": "p",
-              "text": "**3. Le Palais des Papes à Avignon**"
+              "text": "Le Palais des Papes est un exemple exceptionnel d'architecture médiévale. Il est situé dans le centre historique d'**Avignon**, en région **Provence-Alpes-Côte d'Azur**, sur les rives du **Rhône**."
             },
             {
               "type": "p",
-              "text": "Le Palais des Papes est un exemple exceptionnel d'architecture médiévale. Il est situé dans le centre historique d'**Avignon**, en région **Provence-Alpes-Côte-d'Azur**, sur les rives du **Rhône**."
-            },
-            {
-              "type": "p",
-              "text": "Le Palais des Papes est l'un des plus magnifiques édifices de l'**architecture gothique du XIVème siècle**. Ce monument est inscrit au **patrimoine mondial culturel par l'UNESCO**."
+              "text": "Le Palais des Papes est l'un des plus magnifiques édifices de l'**architecture gothique du XIVe siècle**. Ce monument est inscrit au **patrimoine mondial culturel par l'UNESCO**."
             }
           ]
         },
@@ -1572,7 +1608,7 @@
           "blocks": [
             {
               "type": "p",
-              "text": "Selon l'**Organisation Internationale de la Francophonie (OIF)**, le français est la **4ème langue la plus parlée au monde**, avec **plus de 300 millions de personnes** réparties dans les **5 continents**. Le français est la langue officielle dans **plus de 30 pays**, notamment en Europe, en Afrique, dans les Caraïbes et au Canada."
+              "text": "Selon l'**Organisation Internationale de la Francophonie (OIF)**, le français est la **4e langue la plus parlée au monde**, avec **plus de 300 millions de personnes** réparties sur les **5 continents**. Le français est la langue officielle dans **plus de 30 pays**, notamment en Europe, en Afrique, dans les Caraïbes et au Canada."
             },
             {
               "type": "p",
@@ -1593,11 +1629,11 @@
             },
             {
               "type": "p",
-              "text": "Ces événements sont souvent associés à des **jours fériés**, tels la fête du 14 juillet, les fêtes de fin d'année, la fête du travail, le **8 mai** (fin de la 2nde guerre mondiale), etc. En voici trois exemples :"
+              "text": "Ces événements sont souvent associés à des **jours fériés**, tels la fête du 14 juillet, les fêtes de fin d'année, la fête du travail, le **8 mai** (fin de la Seconde Guerre mondiale), etc. En voici trois exemples :"
             },
             {
-              "type": "p",
-              "text": "**1. La fête nationale du 14 juillet**"
+              "type": "h",
+              "text": "1. La fête nationale du 14 juillet"
             },
             {
               "type": "p",
@@ -1618,11 +1654,11 @@
             },
             {
               "type": "p",
-              "text": "La fête du 14 juillet est ainsi à la fois un **événement institutionnel** qui rappelle les fondements de la République avec un **défilé militaire** organisé à Paris sur les **Champs-Élysées** en présence du président de la République, et une **fête populaire** célébrant l'identité nationale dans tout le pays avec de nombreux concerts, bals et feux d'artifices..."
+              "text": "La fête du 14 juillet est ainsi à la fois un **événement institutionnel** et une **fête populaire**. L'événement institutionnel rappelle les fondements de la République, avec un **défilé militaire** organisé à Paris sur les **Champs-Élysées** en présence du président de la République. La fête populaire célèbre l'identité nationale dans tout le pays, avec de nombreux concerts, bals et feux d'artifice."
             },
             {
-              "type": "p",
-              "text": "**2. La fête du Travail**"
+              "type": "h",
+              "text": "2. La fête du Travail"
             },
             {
               "type": "p",
@@ -1633,8 +1669,8 @@
               "text": "À cette occasion, des manifestations sur la voie publique sont traditionnellement organisées chaque année par les organisations syndicales et des brins de **muguet** (fleur) sont proposés comme porte-bonheur."
             },
             {
-              "type": "p",
-              "text": "**3. La fête de la musique**"
+              "type": "h",
+              "text": "3. La fête de la musique"
             },
             {
               "type": "p",
@@ -1650,8 +1686,8 @@
               "text": "Les événements sportifs, qu'ils soient internationaux, nationaux ou locaux, occupent également une place importante dans le patrimoine culturel, social et même économique du pays. Ils reflètent les traditions et les passions collectives. En voici quelques exemples :"
             },
             {
-              "type": "p",
-              "text": "**1. Le Tour de France**"
+              "type": "h",
+              "text": "1. Le Tour de France"
             },
             {
               "type": "p",
@@ -1670,8 +1706,8 @@
               "text": "Les **20 étapes**, dont le tracé change chaque année, traversent plus d'un tiers des départements français et sont l'occasion de mettre en valeur les paysages et le patrimoine national."
             },
             {
-              "type": "p",
-              "text": "**2. La Coupe du monde de football**"
+              "type": "h",
+              "text": "2. La Coupe du monde de football"
             },
             {
               "type": "p",
@@ -1691,8 +1727,8 @@
               ]
             },
             {
-              "type": "p",
-              "text": "**3. Les Jeux Olympiques et Paralympiques de Paris 2024**"
+              "type": "h",
+              "text": "3. Les Jeux Olympiques et Paralympiques de Paris 2024"
             },
             {
               "type": "p",
@@ -1720,8 +1756,8 @@
               "text": "Que ce soit en famille, entre amis ou dans un cadre professionnel, le temps du repas est traditionnellement un moment de partage et d'échanges en France."
             },
             {
-              "type": "p",
-              "text": "**1. Le vin**"
+              "type": "h",
+              "text": "1. Le vin"
             },
             {
               "type": "p",
@@ -1733,23 +1769,23 @@
             },
             {
               "type": "p",
-              "text": "À partir du **XVIIème siècle**, en **Champagne**, les producteurs ont mis au point une méthode de fermentation en bouteille, donnant naissance au vin effervescent mondialement connu."
+              "text": "À partir du **XVIIe siècle**, en **Champagne**, les producteurs ont mis au point une méthode de fermentation en bouteille, donnant naissance au vin effervescent mondialement connu."
             },
             {
               "type": "p",
               "text": "Aujourd'hui, le vin et le champagne font partie du patrimoine national, protégés par les **appellations d'origine contrôlée (AOC)** et reconnus par l'UNESCO pour leur valeur historique et culturelle."
             },
             {
-              "type": "p",
-              "text": "**2. Des plats traditionnels**"
+              "type": "h",
+              "text": "2. Des plats traditionnels"
             },
             {
               "type": "p",
               "text": "La gastronomie française compte de nombreux plats traditionnels et populaires, comme par exemple le **pot-au-feu**, la **blanquette de veau** ou le **bœuf bourguignon**."
             },
             {
-              "type": "p",
-              "text": "**3. Les fromages**"
+              "type": "h",
+              "text": "3. Les fromages"
             },
             {
               "type": "p",
@@ -1761,14 +1797,18 @@
       "keyFacts": [
         "La France est la **première destination touristique au monde**.",
         "Les **Journées du patrimoine**, créées en France en **1984**, ont lieu chaque année en **septembre** et ouvrent des lieux habituellement fermés au public.",
+        "Grands événements culturels : le festival de théâtre d'**Avignon**, le festival de jazz de **Marciac** et le festival du cinéma de **Cannes**.",
         "La France compte **plus de 1200 musées**, dont une centaine de musées nationaux ; « **La Joconde** » de Léonard de Vinci est exposée au **Louvre**.",
         "Le **musée d'Orsay**, ancienne gare construite pour l'exposition universelle de 1900, abrite la plus grande collection de peintures impressionnistes et postimpressionnistes au monde.",
         "**Rouget de Lisle** a composé **La Marseillaise**, l'hymne national français.",
+        "Artistes : **Claude Monet** (« Impression, soleil levant »), fondateur de l'impressionnisme ; **Auguste Rodin**, sculpteur du « Penseur » ; **Albert Camus**, écrivain résistant (journal « Combat »).",
         "La **tour Eiffel** a été conçue par Gustave Eiffel pour l'**Exposition universelle de 1889** ; le **Mont-Saint-Michel** et le **Palais des Papes** (Avignon) sont inscrits au patrimoine mondial de l'UNESCO.",
-        "Le français est la **4ème langue la plus parlée au monde** (plus de 300 millions de personnes) ; l'OIF coordonne **93 États et gouvernements membres**.",
+        "Le français est la **4e langue la plus parlée au monde** (plus de 300 millions de personnes) ; l'OIF coordonne **93 États et gouvernements membres**.",
         "La fête nationale du **14 juillet** (depuis 1880) commémore la **prise de la Bastille** (1789) et la **fête de la Fédération** (1790).",
         "Le **1er mai** (fête du Travail) est férié depuis **1947** ; la **fête de la musique** a lieu le **21 juin** depuis 1982.",
-        "La France a gagné la Coupe du monde de football en **1998** (contre le Brésil) et en **2018** (contre la Croatie) ; le **repas gastronomique français** est inscrit au patrimoine culturel immatériel de l'humanité par l'UNESCO."
+        "La France a gagné la Coupe du monde de football en **1998** (contre le Brésil) et en **2018** (contre la Croatie) ; le **repas gastronomique français** est inscrit au patrimoine culturel immatériel de l'humanité par l'UNESCO.",
+        "Le **Tour de France**, créé en **1903**, est la plus grande course cycliste du monde ; il a lieu en **juillet** et arrive sur les **Champs-Élysées**.",
+        "**Jeux Olympiques et Paralympiques de Paris 2024** (cent ans après 1924) : la France remporte **64 médailles olympiques** et **74 médailles paralympiques**."
       ],
       "quiz": [
         {
@@ -1846,25 +1886,25 @@
         {
           "q": "Selon l'OIF, quelle place occupe le français parmi les langues les plus parlées au monde ?",
           "choices": [
-            "2ème",
-            "4ème",
-            "6ème",
-            "8ème"
+            "2e",
+            "4e",
+            "6e",
+            "8e"
           ],
           "answer": 1,
-          "explain": "Selon l'Organisation Internationale de la Francophonie, le français est la 4ème langue la plus parlée au monde, avec plus de 300 millions de personnes.",
+          "explain": "Selon l'Organisation Internationale de la Francophonie, le français est la 4e langue la plus parlée au monde, avec plus de 300 millions de personnes.",
           "kind": "knowledge"
         },
         {
-          "q": "Quels événements la fête nationale du 14 juillet commémore-t-elle ?",
+          "q": "Quel peintre, auteur d'« Impression, soleil levant » et des « Nymphéas », est l'un des fondateurs de l'impressionnisme ?",
           "choices": [
-            "La prise de la Bastille (1789) et la fête de la Fédération (1790)",
-            "La fin de la Seconde Guerre mondiale et la Libération de Paris",
-            "La proclamation de la République et l'adoption de la Constitution de 1958",
-            "Le sacre de Napoléon et l'abolition de la monarchie"
+            "Claude Monet",
+            "Paul Cézanne",
+            "Auguste Rodin",
+            "Claude Debussy"
           ],
           "answer": 0,
-          "explain": "Le 14 juillet commémore la prise de la Bastille du 14 juillet 1789 et la fête de la Fédération du 14 juillet 1790.",
+          "explain": "Claude Monet (1840-1926) est un des fondateurs de l'impressionnisme. Cézanne est considéré comme le père de la peinture moderne, Rodin est un sculpteur et Debussy un compositeur.",
           "kind": "knowledge"
         },
         {
@@ -1928,16 +1968,16 @@
           "kind": "situation"
         },
         {
-          "q": "Votre employeur vous informe que l'entreprise sera fermée le 8 mai car c'est un jour férié. Que commémore cette date ?",
+          "q": "Combien de médailles olympiques la France a-t-elle remportées aux Jeux de Paris 2024 ?",
           "choices": [
-            "La prise de la Bastille",
-            "La fin de la Seconde Guerre mondiale",
-            "La fête de la Fédération",
-            "La journée de huit heures"
+            "44",
+            "54",
+            "64",
+            "74"
           ],
-          "answer": 1,
-          "explain": "Le livret cite le 8 mai parmi les jours fériés, en précisant qu'il marque la fin de la Seconde Guerre mondiale.",
-          "kind": "situation"
+          "answer": 2,
+          "explain": "Aux Jeux Olympiques et Paralympiques de Paris 2024, cent ans après l'édition de 1924, la France remporte 64 médailles olympiques et 74 médailles paralympiques.",
+          "kind": "knowledge"
         },
         {
           "q": "Le 14 juillet, votre voisin vous invite au bal et au feu d'artifice de la commune. Un collègue vous dit que cette fête ne concerne que l'armée. Qu'en est-il ?",
@@ -1974,6 +2014,18 @@
           "answer": 3,
           "explain": "Le Tour de France a lieu chaque année en juillet et les coureurs arrivent sur les Champs-Élysées, à Paris.",
           "kind": "situation"
+        },
+        {
+          "q": "En quelle année a eu lieu la première édition du Tour de France ?",
+          "choices": [
+            "1880",
+            "1903",
+            "1924",
+            "1947"
+          ],
+          "answer": 1,
+          "explain": "La première édition du Tour de France a eu lieu en 1903 : 60 coureurs se sont affrontés sur six étapes et 2 300 kilomètres. C'est aujourd'hui la plus grande course cycliste du monde.",
+          "kind": "knowledge"
         }
       ]
     }

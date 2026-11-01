@@ -3,7 +3,7 @@
   "number": 5,
   "title": "Vivre dans la société française",
   "icon": "🏠",
-  "intro": "Cette partie présente les règles pratiques de la vie en France : logement, transports, assurance, civisme, environnement, santé et numéros d'urgence, puis le travail et la vie de famille (mariage, droits des parents et des enfants, école, numérique).",
+  "intro": "Se loger, se déplacer, se soigner, travailler, élever ses enfants : les règles de la vie en France, avec les chiffres à connaître (numéros d'urgence, âges, durées). Beaucoup de mises en situation de l'examen viennent de cette partie.",
   "sections": [
     {
       "id": "p5s1",
@@ -39,9 +39,9 @@
             {
               "type": "list",
               "items": [
-                "Il peut faire des **travaux décoratifs** dans son logement, comme peindre des murs. Mais s'il veut faire d'autres travaux, il doit **demander la permission au propriétaire** (article 7 de la loi n°89-462 du **6 juillet 1989**).",
+                "Il peut faire des **travaux décoratifs** dans son logement, comme peindre des murs. Mais s'il veut faire d'autres travaux, il doit **demander la permission au propriétaire** (article 7 de la loi n° 89-462 du **6 juillet 1989**).",
                 "Il peut quitter le logement en respectant une **période de préavis**, comme indiqué dans le contrat de bail.",
-                "Il doit payer le **loyer et les charges** (comme l'eau, l'électricité, le chauffage...).",
+                "Il doit payer le **loyer et les charges** (comme l'eau, l'électricité, le chauffage…).",
                 "S'il ne paie pas le loyer, le propriétaire peut engager une procédure pour obtenir l'**expulsion** du locataire."
               ]
             },
@@ -68,7 +68,7 @@
           "blocks": [
             {
               "type": "p",
-              "text": "**Le code de la route** est un ensemble de règles qui s'appliquent à tous ceux qui utilisent l'espace routier. Ces règles s'appliquent partout : sur les routes, les autoroutes, les rues, les boulevards... Il est important que chacun respecte ces règles pour la sécurité de tous."
+              "text": "**Le code de la route** est un ensemble de règles qui s'appliquent à tous ceux qui utilisent l'espace routier. Ces règles s'appliquent partout : sur les routes, les autoroutes, les rues, les boulevards… Il est important que chacun respecte ces règles pour la sécurité de tous."
             },
             {
               "type": "p",
@@ -110,7 +110,7 @@
             },
             {
               "type": "callout",
-              "text": "L'usage des transports collectifs est conditionné au paiement d'un **titre de transport** (ticket, billet...). En cas de non-paiement, la personne concernée peut être sanctionnée par une **amende**. Cependant, dans certaines villes, les transports sont gratuits."
+              "text": "L'usage des transports collectifs est conditionné au paiement d'un **titre de transport** (ticket, billet…). En cas de non-paiement, la personne concernée peut être sanctionnée par une **amende**. Cependant, dans certaines villes, les transports sont gratuits."
             }
           ]
         },
@@ -127,7 +127,7 @@
             },
             {
               "type": "callout",
-              "text": "Ces dommages peuvent survenir à tout moment : à son domicile ; en conduisant un véhicule ; dans la vie courante (activités personnelles) ; au travail..."
+              "text": "Ces dommages peuvent survenir à tout moment : à son domicile ; en conduisant un véhicule ; dans la vie courante (activités personnelles) ; au travail…"
             },
             {
               "type": "p",
@@ -136,7 +136,7 @@
             {
               "type": "list",
               "items": [
-                "**Assurance habitation** : protège contre les risques liés à son logement (incendie, dégât des eaux...).",
+                "**Assurance habitation** : protège contre les risques liés à son logement (incendie, dégât des eaux…).",
                 "**Assurance véhicule** : couvre les accidents pour les véhicules motorisés (thermique, hybride et électrique).",
                 "**Assurance scolaire et extra-scolaire** : protège les enfants pendant leurs activités à l'école ou à l'extérieur."
               ]
@@ -156,7 +156,7 @@
             },
             {
               "type": "p",
-              "text": "En particulier, il est **interdit de fumer dans les lieux publics fermés ou couverts**, ainsi que dans les espaces intérieurs accueillant du public : gares, restaurants, bars, terrasses couvertes... Fumer dans les locaux de son **lieu de travail** est également interdit."
+              "text": "En particulier, il est **interdit de fumer dans les lieux publics fermés ou couverts**, ainsi que dans les espaces intérieurs accueillant du public : gares, restaurants, bars, terrasses couvertes… Fumer dans les locaux de son **lieu de travail** est également interdit."
             },
             {
               "type": "p",
@@ -191,7 +191,7 @@
             {
               "type": "list",
               "items": [
-                "En fonction des circonstances locales dans certaines villes, la consommation d'alcool peut être interdite par **arrêté municipal**, dans les rues, les transports en commun, certains parcs... La vente d'alcool peut aussi faire l'objet de restrictions dans certains lieux, à certaines périodes, à certaines heures...",
+                "En fonction des circonstances locales dans certaines villes, la consommation d'alcool peut être interdite par **arrêté municipal**, dans les rues, les transports en commun, certains parcs… La vente d'alcool peut aussi faire l'objet de restrictions dans certains lieux, à certaines périodes, à certaines heures…",
                 "Il est **interdit de vendre de l'alcool aux mineurs de moins de 18 ans**.",
                 "En cas d'**ivresse publique**, la personne concernée peut être sanctionnée d'une amende pouvant aller jusqu'à **150 euros**.",
                 "La publicité en faveur des boissons alcooliques est par ailleurs encadrée par le **code de la santé publique**."
@@ -211,7 +211,7 @@
                 "Il est **interdit de jeter ses déchets en dehors des poubelles**. Ce geste peut être puni d'une amende.",
                 "Les **excréments de ses animaux de compagnie** (chiens) dans les espaces publics doivent obligatoirement être ramassés sous peine d'être sanctionnés.",
                 "Les **graffitis et dégradations** de biens publics ou privés sont interdits et considérés comme des actes de **vandalisme** punis par la loi. Le nettoyage, la réparation ou le remplacement des biens endommagés sont un coût pour les collectivités.",
-                "Pour préserver la tranquillité publique, la réglementation prévoit des sanctions en cas de **nuisances sonores** (musiques fortes, klaxons inutiles, fêtes, rassemblements...)."
+                "Pour préserver la tranquillité publique, la réglementation prévoit des sanctions en cas de **nuisances sonores** (musiques fortes, klaxons inutiles, fêtes, rassemblements…)."
               ]
             }
           ]
@@ -248,8 +248,8 @@
             {
               "type": "list",
               "items": [
-                "régler son chauffage à **19°C maximum** ;",
-                "régler son chauffe-eau à **55°C** et rester moins longtemps sous la douche ;",
+                "régler son chauffage à **19 °C maximum** ;",
+                "régler son chauffe-eau à **55 °C** et rester moins longtemps sous la douche ;",
                 "éteindre tous ses appareils en marche ou en veille quand ils ne sont pas utilisés ;",
                 "utiliser les appareils électriques en dehors des heures de pointe ;",
                 "installer un thermostat programmable."
@@ -336,7 +336,7 @@
                 ],
                 [
                   "112",
-                  "Appels d'urgence européen"
+                  "Numéro d'urgence européen"
                 ],
                 [
                   "115",
@@ -373,7 +373,7 @@
               "items": [
                 "Alerte attentat : **197** ;",
                 "Enfants disparus : **116 000** ;",
-                "Risque pour la sécurité dans les transports en communs : **3117** ou par SMS au **31 177** ;",
+                "Risque pour la sécurité dans les transports en commun : **3117** ou par SMS au **31 177** ;",
                 "Prévention du suicide : **31 14** ;",
                 "Secours aéronautiques : **191**."
               ]
@@ -485,13 +485,13 @@
         {
           "q": "Depuis le 1er juillet 2025, où est-il interdit de fumer pendant les heures d'ouverture ?",
           "choices": [
-            "Dans toutes les rues",
-            "Dans les parcs et jardins publics, sur les plages de baignade, sous les abribus et aux abords des écoles",
+            "Dans toutes les rues et sur tous les trottoirs",
+            "Dans les parcs, les plages et les abribus",
             "Uniquement dans les gares",
             "Dans sa voiture personnelle"
           ],
           "answer": 1,
-          "explain": "Depuis le 1er juillet 2025, il est interdit de fumer dans ces lieux pendant les heures d'ouverture ; l'infraction est punie d'une amende de 135 euros.",
+          "explain": "Depuis le 1er juillet 2025, il est interdit de fumer pendant les heures d'ouverture dans les parcs et jardins publics, sur les plages de baignade, sous les abribus, aux abords des écoles et des installations sportives ; l'infraction est punie d'une amende de 135 euros.",
           "kind": "knowledge"
         },
         {
@@ -521,13 +521,13 @@
         {
           "q": "Quel geste fait partie des gestes les plus efficaces pour limiter sa consommation d'énergie ?",
           "choices": [
-            "Régler son chauffage à 19°C maximum",
+            "Régler son chauffage à 19 °C maximum",
             "Laisser les appareils en veille",
-            "Régler son chauffe-eau à 75°C",
+            "Régler son chauffe-eau à 75 °C",
             "Utiliser les appareils aux heures de pointe"
           ],
           "answer": 0,
-          "explain": "Le livret recommande de régler son chauffage à 19°C maximum, son chauffe-eau à 55°C, d'éteindre les appareils en veille et d'éviter les heures de pointe.",
+          "explain": "Le livret recommande de régler son chauffage à 19 °C maximum, son chauffe-eau à 55 °C, d'éteindre les appareils en veille et d'éviter les heures de pointe.",
           "kind": "knowledge"
         },
         {
@@ -563,7 +563,7 @@
             "Des sanctions en cas de nuisances sonores"
           ],
           "answer": 3,
-          "explain": "Pour préserver la tranquillité publique, la réglementation prévoit des sanctions en cas de nuisances sonores (musiques fortes, klaxons inutiles, fêtes, rassemblements...).",
+          "explain": "Pour préserver la tranquillité publique, la réglementation prévoit des sanctions en cas de nuisances sonores (musiques fortes, klaxons inutiles, fêtes, rassemblements…).",
           "kind": "situation"
         },
         {
@@ -613,6 +613,30 @@
           "answer": 0,
           "explain": "Il est interdit de fumer dans les lieux publics fermés ou couverts, et fumer dans les locaux de son lieu de travail est également interdit (loi Évin) ; l'infraction est punie d'une amende de 135 euros.",
           "kind": "situation"
+        },
+        {
+          "q": "Vous êtes témoin d'un accident de la route et vous ne vous souvenez plus des numéros français. Quel numéro d'urgence, valable dans toute l'Europe, pouvez-vous composer ?",
+          "choices": [
+            "111",
+            "911",
+            "116 000",
+            "112"
+          ],
+          "answer": 3,
+          "explain": "Le 112 est le numéro d'urgence européen, gratuit et joignable 24h/24 et 7j/7. Le 116 000 est le numéro des enfants disparus.",
+          "kind": "situation"
+        },
+        {
+          "q": "Un feu se déclare dans la cuisine de votre voisin. Quel numéro composez-vous pour appeler les sapeurs-pompiers ?",
+          "choices": [
+            "15",
+            "18",
+            "17",
+            "115"
+          ],
+          "answer": 1,
+          "explain": "Le 18 est le numéro des sapeurs-pompiers. Le 15 est le SAMU, le 17 Police secours et le 115 l'hébergement d'urgence.",
+          "kind": "situation"
         }
       ]
     },
@@ -641,7 +665,7 @@
             },
             {
               "type": "p",
-              "text": "Les salariés du secteur privé, âgés d'au moins **18 ans** (**16 ans** sur autorisation parentale ou mineur émancipé), doivent percevoir un salaire au moins égal au **SMIC** (salaire minimum de croissance), qui est le salaire horaire minimum garanti en France."
+              "text": "Les salariés du secteur privé, âgés d'au moins **18 ans** (**16 ans** sur autorisation parentale ou mineur émancipé), doivent percevoir un salaire au moins égal au **salaire minimum de croissance (SMIC)**, qui est le salaire horaire minimum garanti en France."
             },
             {
               "type": "callout",
@@ -670,8 +694,8 @@
                 "le salaire,",
                 "les compétences nécessaires (ce qu'il faut savoir faire),",
                 "la date de début du contrat,",
-                "la durée du travail (combien d'heures par semaine ou par trimestre, année...),",
-                "le type de contrat..."
+                "la durée du travail (combien d'heures par semaine ou par trimestre, année…),",
+                "le type de contrat…"
               ]
             },
             {
@@ -693,7 +717,7 @@
             },
             {
               "type": "callout",
-              "text": "Si les conditions sont remplies (avoir travaillé suffisamment longtemps, ne pas avoir quitté son travail de manière volontaire...), France Travail peut verser chaque mois, aux personnes ayant perdu leur emploi, une aide financière appelée **Allocation d'aide au retour à l'emploi (ARE)**."
+              "text": "Si les conditions sont remplies (avoir travaillé suffisamment longtemps, ne pas avoir quitté son travail de manière volontaire…), France Travail peut verser chaque mois, aux personnes ayant perdu leur emploi, une aide financière appelée **Allocation d'aide au retour à l'emploi (ARE)**."
             }
           ]
         },
@@ -714,7 +738,7 @@
                 "d'enregistrer les statuts de la société,",
                 "d'immatriculer l'entreprise,",
                 "de publier son activité dans un journal d'annonces légales,",
-                "de déclarer le siège social..."
+                "de déclarer le siège social…"
               ]
             },
             {
@@ -725,14 +749,14 @@
               "type": "list",
               "items": [
                 "**L'artisanat** : l'artisan exerce une activité indépendante de production, de transformation ou de prestations de services.",
-                "**Le commerce** : le commerçant effectue des opérations commerciales (achats pour revente, opérations d'intermédiaire, transport de marchandises...).",
-                "**Les professions libérales** : elles se caractérisent essentiellement par une offre de services non commerciaux, comme les médecins, les avocats...",
+                "**Le commerce** : le commerçant effectue des opérations commerciales (achats pour revente, opérations d'intermédiaire, transport de marchandises…).",
+                "**Les professions libérales** : elles se caractérisent essentiellement par une offre de services non commerciaux, comme les médecins, les avocats…",
                 "**L'activité agricole.**"
               ]
             },
             {
               "type": "p",
-              "text": "Sur l'ensemble du territoire français, il existe des structures qui aident les personnes qui veulent créer leur entreprise. Elles peuvent donner des conseils, aider à planifier le projet et même chercher des financements (**chambre des métiers et de l'artisanat (CMA)**, **chambre de commerce et d'industrie (CCI)**...)."
+              "text": "Sur l'ensemble du territoire français, il existe des structures qui aident les personnes qui veulent créer leur entreprise. Elles peuvent donner des conseils, aider à planifier le projet et même chercher des financements (**chambre des métiers et de l'artisanat (CMA)**, **chambre de commerce et d'industrie (CCI)**…)."
             }
           ]
         },
@@ -751,9 +775,9 @@
               "type": "list",
               "items": [
                 "conditions d'âge et de diplôme ;",
-                "avoir la **nationalité française** (ou celle d'un pays de l'**Union européenne** ou de l'**Espace économique européen**) ;",
+                "avoir la **nationalité française** (ou celle d'un pays de l'**Union européenne (UE)** ou de l'**Espace économique européen (EEE)**) ;",
                 "jouir de ses **droits civiques** ;",
-                "n'avoir fait l'objet d'aucune condamnation inscrite au **bulletin n°2 du casier judiciaire**."
+                "n'avoir fait l'objet d'aucune condamnation inscrite au **bulletin n° 2 du casier judiciaire**."
               ]
             },
             {
@@ -766,7 +790,7 @@
             },
             {
               "type": "callout",
-              "text": "Qu'est-ce qu'un fonctionnaire ? (infographie Vie publique, © DILA 2024) C'est un **agent public titulaire** qui travaille dans l'une des **trois fonctions publiques** : fonction publique d'État, fonction publique territoriale, fonction publique hospitalière. Pour garantir l'égal accès à la fonction publique, il est recruté par **concours** (sauf exceptions). Après une période de stage, il est **titularisé** dans un grade (**A, B ou C**) et devient fonctionnaire. Il occupe un emploi **permanent** (selon son grade) au sein de l'administration. Son statut est régi par le **Code général de la fonction publique**."
+              "text": "Qu'est-ce qu'un fonctionnaire ? C'est un **agent public titulaire** qui travaille dans l'une des **trois fonctions publiques** : fonction publique d'État, fonction publique territoriale, fonction publique hospitalière. Pour garantir l'égal accès à la fonction publique, il est recruté par **concours** (sauf exceptions). Après une période de stage, il est **titularisé** dans un grade (**A, B ou C**) et devient fonctionnaire. Il occupe un emploi **permanent** (selon son grade) au sein de l'administration. Son statut est régi par le **Code général de la fonction publique**."
             }
           ]
         }
@@ -780,7 +804,7 @@
         "Le contrat de travail est obligatoire : CDD (travail temporaire), CDI (emploi permanent) ou contrat d'intérim.",
         "France Travail accompagne les demandeurs d'emploi et peut verser l'ARE ; les Missions Locales accompagnent les moins de 25 ans.",
         "Il n'est pas nécessaire d'être français pour créer son entreprise ; la CMA et la CCI aident les créateurs.",
-        "Concours de la fonction publique : nationalité française, UE ou EEE, droits civiques, aucune condamnation au bulletin n°2 du casier judiciaire ; emplois de souveraineté réservés aux Français.",
+        "Concours de la fonction publique : nationalité française, UE ou EEE, droits civiques, aucune condamnation au bulletin n° 2 du casier judiciaire ; emplois de souveraineté réservés aux Français.",
         "Trois fonctions publiques : d'État, territoriale et hospitalière ; grades A, B ou C."
       ],
       "quiz": [
@@ -961,7 +985,7 @@
             "Non, la fonction publique hospitalière ne recrute pas par concours"
           ],
           "answer": 1,
-          "explain": "Pour se porter candidat à un concours de la fonction publique, il faut avoir la nationalité française ou celle d'un pays de l'UE ou de l'EEE, remplir les conditions d'âge et de diplôme, jouir de ses droits civiques et n'avoir aucune condamnation au bulletin n°2 du casier judiciaire. Seuls les emplois de souveraineté sont fermés aux candidats européens.",
+          "explain": "Pour se porter candidat à un concours de la fonction publique, il faut avoir la nationalité française ou celle d'un pays de l'UE ou de l'EEE, remplir les conditions d'âge et de diplôme, jouir de ses droits civiques et n'avoir aucune condamnation au bulletin n° 2 du casier judiciaire. Seuls les emplois de souveraineté sont fermés aux candidats européens.",
           "kind": "situation"
         },
         {
@@ -1003,7 +1027,7 @@
             },
             {
               "type": "p",
-              "text": "Le mariage est possible à partir de **18 ans**. Il est aussi possible, à partir de **16 ans**, mais seulement si le **procureur de la République** accorde une autorisation spéciale et si les parents du mineur acceptent l'union (**art 145 et 148 du code civil**)."
+              "text": "Le mariage est possible à partir de **18 ans**. Il est aussi possible, à partir de **16 ans**, mais seulement si le **procureur de la République** accorde une autorisation spéciale et si les parents du mineur acceptent l'union (**articles 145 et 148 du Code civil**)."
             },
             {
               "type": "callout",
@@ -1011,7 +1035,7 @@
             },
             {
               "type": "p",
-              "text": "Depuis le **17 mai 2013**, la loi ouvrant le mariage aux couples de personnes de même sexe a été promulguée. La France est devenue le **14ème pays** du monde à autoriser le mariage homosexuel."
+              "text": "Depuis le **17 mai 2013**, la loi ouvrant le mariage aux couples de personnes de même sexe a été promulguée. La France est devenue le **14e pays** du monde à autoriser le mariage homosexuel."
             },
             {
               "type": "p",
@@ -1019,7 +1043,7 @@
             },
             {
               "type": "callout",
-              "text": "L'**état civil** permet de mettre à jour les informations officielles sur la vie d'une personne et désigne également le service public chargé au sein d'une commune (ou du Ministère des Affaires Étrangères pour les personnes nées à l'étranger), de dresser les actes d'état civil. La déclaration de la naissance des enfants (dans les **5 jours** qui suivent la naissance), des mariages et des décès est **obligatoire**."
+              "text": "L'**état civil** permet de mettre à jour les informations officielles sur la vie d'une personne et désigne également le service public chargé au sein d'une commune (ou du ministère des Affaires étrangères pour les personnes nées à l'étranger), de dresser les actes d'état civil. La déclaration de la naissance des enfants (dans les **5 jours** qui suivent la naissance), des mariages et des décès est **obligatoire**."
             }
           ]
         },
@@ -1049,7 +1073,7 @@
           "blocks": [
             {
               "type": "p",
-              "text": "En **1989**, **196 États** ont signé un document sur les droits de l'enfant dans le cadre de l'Organisation des Nations Unies (ONU). Ce document s'appelle la **Convention Internationale des Droits de l'Enfant**. Cette convention présente les droits fondamentaux des enfants. Elle impose des obligations aux États qui l'ont signée. Elle assure donc la protection des enfants."
+              "text": "En **1989**, **196 États** ont signé un document sur les droits de l'enfant dans le cadre de l'Organisation des Nations Unies (ONU). Ce document s'appelle la **Convention internationale des droits de l'enfant**. Cette convention présente les droits fondamentaux des enfants. Elle impose des obligations aux États qui l'ont signée. Elle assure donc la protection des enfants."
             },
             {
               "type": "p",
@@ -1062,15 +1086,15 @@
             {
               "type": "list",
               "items": [
-                "L'égalité (être traité de la même façon que les autres enfants) ;",
+                "Être traité de la même façon que les autres enfants (égalité) ;",
                 "Avoir un nom, une identité ;",
                 "Être soigné, protégé des maladies, avoir une alimentation suffisante et équilibrée ;",
                 "Aller à l'école ;",
-                "Protection de la vie privée ;",
+                "Être protégé dans sa vie privée ;",
                 "Être protégé contre la violence ;",
                 "Être protégé contre l'exploitation ;",
                 "Pouvoir s'informer et s'exprimer, être entendu sur les questions qui le concernent ;",
-                "Les enfants en situation de handicap ont aussi droit à la même vie que les autres. Ils peuvent par ailleurs bénéficier d'un emploi du temps aménagé."
+                "Pour les enfants en situation de handicap : avoir la même vie que les autres et pouvoir bénéficier d'un emploi du temps aménagé."
               ]
             }
           ]
@@ -1080,7 +1104,7 @@
           "blocks": [
             {
               "type": "p",
-              "text": "L'**article 371-1 du code civil** définit l'**autorité parentale**. Il s'agit d'un ensemble de droits et de devoirs dont l'objectif est de protéger l'intérêt de l'enfant et de favoriser son bien-être."
+              "text": "L'**article 371-1 du Code civil** définit l'**autorité parentale**. Il s'agit d'un ensemble de droits et de devoirs dont l'objectif est de protéger l'intérêt de l'enfant et de favoriser son bien-être."
             },
             {
               "type": "p",
@@ -1090,13 +1114,13 @@
               "type": "list",
               "items": [
                 "Les parents doivent veiller à la sécurité de l'enfant, surveiller ses relations, ses déplacements, ses communications, son utilisation des réseaux sociaux.",
-                "Ils ont l'obligation de protéger l'enfant contre, par exemple, le racket, le viol, la prostitution, les addictions, le harcèlement, la violence...",
-                "Ils doivent également assurer la santé de l'enfant, protéger sa vie privée, son image et garantir son bien-être (alimentation, hébergement, loisirs...)."
+                "Ils ont l'obligation de protéger l'enfant contre, par exemple, le racket, le viol, la prostitution, les addictions, le harcèlement, la violence…",
+                "Ils doivent également assurer la santé de l'enfant, protéger sa vie privée, son image et garantir son bien-être (alimentation, hébergement, loisirs…)."
               ]
             },
             {
               "type": "callout",
-              "text": "L'autorité parentale s'exerce **sans violences physiques ou psychologiques**. Toutes maltraitances physiques, comme l'**excision** et les **châtiments corporels**, sont interdites par la loi car elles portent atteinte à l'intégrité physique et à la dignité de l'enfant."
+              "text": "L'autorité parentale s'exerce **sans violences physiques ou psychologiques**. Toute maltraitance physique, comme l'**excision** et les **châtiments corporels**, est interdite par la loi car elle porte atteinte à l'intégrité physique et à la dignité de l'enfant."
             },
             {
               "type": "p",
@@ -1121,7 +1145,7 @@
             },
             {
               "type": "p",
-              "text": "Seules les absences pour **raisons de santé ou familiales** (mariage, enterrement...) sont acceptées par les établissements scolaires."
+              "text": "Seules les absences pour **raisons de santé ou familiales** (mariage, enterrement…) sont acceptées par les établissements scolaires."
             },
             {
               "type": "callout",
@@ -1136,7 +1160,7 @@
             },
             {
               "type": "p",
-              "text": "Les parents d'un élève ont un rôle au sein de la **communauté éducative**. Ils entretiennent, chaque année scolaire, des relations avec les professeurs, l'administration et l'ensemble des acteurs de l'équipe pédagogique (ATSEM, animateurs périscolaires...) de l'établissement où est scolarisé leur enfant. De plus, les parents peuvent aussi participer activement en se portant candidat aux **élections de représentants de parents d'élèves**, ou en rejoignant une **association de parents**."
+              "text": "Les parents d'un élève ont un rôle au sein de la **communauté éducative**. Ils entretiennent, chaque année scolaire, des relations avec les professeurs, l'administration et l'ensemble des acteurs de l'équipe pédagogique de l'établissement où est scolarisé leur enfant : agents territoriaux spécialisés des écoles maternelles (ATSEM), animateurs périscolaires… De plus, les parents peuvent aussi participer activement en se portant candidat aux **élections de représentants de parents d'élèves**, ou en rejoignant une **association de parents**."
             },
             {
               "type": "table",
@@ -1165,7 +1189,7 @@
             },
             {
               "type": "callout",
-              "text": "L'**école primaire** regroupe l'école maternelle et l'école élémentaire (du **CP au CM2**)."
+              "text": "L'**école primaire** regroupe deux écoles : l'**école maternelle** (à partir de **3 ans**) et l'**école élémentaire** (du **CP au CM2**, de **6 à 11 ans**)."
             }
           ]
         },
@@ -1174,11 +1198,11 @@
           "blocks": [
             {
               "type": "p",
-              "text": "Les écrans (téléphone, ordinateur, télévision...) sont très présents dans la vie des familles. Les enfants et adolescents les utilisent très tôt, à la maison comme à l'école. Si les écrans peuvent être utiles, trop les regarder peut avoir des conséquences sur la santé physique et mentale des enfants, ainsi que sur leur vie sociale. Les parents doivent ainsi s'assurer du bon usage des écrans fait par leur enfant."
+              "text": "Les écrans (téléphone, ordinateur, télévision…) sont très présents dans la vie des familles. Les enfants et adolescents les utilisent très tôt, à la maison comme à l'école. Si les écrans peuvent être utiles, trop les regarder peut avoir des conséquences sur la santé physique et mentale des enfants, ainsi que sur leur vie sociale. Les parents doivent ainsi s'assurer du bon usage des écrans fait par leur enfant."
             },
             {
               "type": "callout",
-              "text": "Afin de lutter contre les délits en ligne tels que le cyber-harcèlement, la loi du **7 juillet 2023** a instauré la **majorité numérique à 15 ans**. Avant cet âge, s'inscrire seul sur les réseaux sociaux n'est donc plus possible."
+              "text": "Afin de lutter contre les délits en ligne tels que le cyberharcèlement, la loi du **7 juillet 2023** a instauré la **majorité numérique à 15 ans**. Avant cet âge, s'inscrire seul sur les réseaux sociaux n'est donc plus possible."
             },
             {
               "type": "p",
@@ -1193,9 +1217,11 @@
         "Mariage pour les couples de même sexe depuis le 17 mai 2013 : la France est le 14e pays au monde à l'autoriser.",
         "La naissance d'un enfant doit être déclarée à l'état civil dans les 5 jours.",
         "Congé paternité de 28 jours depuis le 1er juillet 2021 ; congé supplémentaire de naissance d'un ou deux mois pour les enfants nés ou adoptés à partir du 1er janvier 2026.",
+        "Après la naissance ou l'adoption d'un enfant de moins de 16 ans, tout salarié peut prendre un congé parental d'éducation pour interrompre ou réduire son activité.",
         "Convention internationale des droits de l'enfant signée en 1989 par 196 États dans le cadre de l'ONU ; fondement de l'action de l'UNICEF.",
-        "L'autorité parentale (article 371-1 du code civil) s'exerce sans violences physiques ou psychologiques ; excision et châtiments corporels sont interdits.",
+        "L'autorité parentale (article 371-1 du Code civil) s'exerce sans violences physiques ou psychologiques ; excision et châtiments corporels sont interdits.",
         "L'instruction est obligatoire de 3 à 16 ans ; seules les absences pour raisons de santé ou familiales sont acceptées.",
+        "Organisation de l'école : maternelle dès 3 ans, élémentaire du CP au CM2 (6 à 11 ans), collège en quatre ans, lycée en trois ans (seconde, première, terminale).",
         "Majorité numérique à 15 ans (loi du 7 juillet 2023) : avant cet âge, impossible de s'inscrire seul sur les réseaux sociaux."
       ],
       "quiz": [
@@ -1224,16 +1250,16 @@
           "kind": "situation"
         },
         {
-          "q": "À partir de quel âge le mariage est-il possible en France, sans autorisation spéciale ?",
+          "q": "Votre enfant termine le CM2. Dans quel établissement poursuit-il sa scolarité, et pour combien d'années ?",
           "choices": [
-            "16 ans",
-            "17 ans",
-            "18 ans",
-            "21 ans"
+            "Au collège, pendant quatre ans",
+            "Au lycée, pendant trois ans",
+            "À l'école élémentaire, pendant deux ans",
+            "À l'école maternelle, pendant un an"
           ],
-          "answer": 2,
-          "explain": "Le mariage est possible à partir de 18 ans ; dès 16 ans seulement avec l'autorisation du procureur de la République et l'accord des parents.",
-          "kind": "knowledge"
+          "answer": 0,
+          "explain": "À l'issue de l'école élémentaire (du CP au CM2), le collège accueille tous les enfants pour quatre années de scolarité ; le lycée vient ensuite, en trois ans (seconde, première, terminale).",
+          "kind": "situation"
         },
         {
           "q": "Depuis quelle date le mariage est-il ouvert aux couples de personnes de même sexe en France ?",
@@ -1322,13 +1348,13 @@
         {
           "q": "Vous souhaitez partir en vacances une semaine avant la fin des cours et retirer votre enfant de l'école. Cette absence sera-t-elle acceptée ?",
           "choices": [
-            "Oui, les vacances en famille comptent parmi les motifs familiaux acceptés par l'école",
-            "Non, seules les absences pour raisons de santé ou familiales sont acceptées",
+            "Oui, les vacances en famille sont acceptées au même titre qu'un mariage ou un enterrement",
+            "Non, seules les absences pour maladie, mariage ou enterrement sont acceptées",
             "Oui, si l'enfant a de bonnes notes",
             "Oui, avec un simple mot des parents"
           ],
           "answer": 1,
-          "explain": "Seules les absences pour raisons de santé ou familiales (mariage, enterrement...) sont acceptées par les établissements scolaires.",
+          "explain": "Seules les absences pour raisons de santé ou familiales (mariage, enterrement…) sont acceptées par les établissements scolaires ; des vacances n'en font pas partie.",
           "kind": "situation"
         },
         {
@@ -1352,7 +1378,7 @@
             "Seulement avec l'autorisation du procureur et l'accord des parents"
           ],
           "answer": 3,
-          "explain": "Le mariage est possible à partir de 18 ans. À partir de 16 ans, il n'est possible que si le procureur de la République accorde une autorisation spéciale et si les parents du mineur acceptent l'union (art. 145 et 148 du code civil).",
+          "explain": "Le mariage est possible à partir de 18 ans. À partir de 16 ans, il n'est possible que si le procureur de la République accorde une autorisation spéciale et si les parents du mineur acceptent l'union (articles 145 et 148 du Code civil).",
           "kind": "situation"
         },
         {

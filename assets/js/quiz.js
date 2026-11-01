@@ -10,7 +10,7 @@ const KEYS = ["A", "B", "C", "D", "E", "F"];
  */
 export function runQuiz(root, questions, { mode, heading, timeLimitSec = null, onFinish }) {
   const isExam = mode === "exam";
-  const items = questions.map((question) => ({ question, order: shuffle(question.choices.map((_, i) => i)) }));
+  const items = shuffle(questions).map((question) => ({ question, order: shuffle(question.choices.map((_, i) => i)) }));
   const chosen = new Array(items.length).fill(null);
   let current = 0;
   let isLocked = false;
@@ -45,11 +45,11 @@ export function runQuiz(root, questions, { mode, heading, timeLimitSec = null, o
     const { question, order } = items[current];
     if (displayIndex >= order.length) return;
     chosen[current] = order[displayIndex];
+    root.querySelectorAll(".choice").forEach((button, i) => button.setAttribute("aria-pressed", String(i === displayIndex)));
     if (!isExam) {
       isLocked = true;
       showCorrection(question, order);
     } else {
-      root.querySelectorAll(".choice").forEach((button, i) => button.setAttribute("aria-pressed", String(i === displayIndex)));
       root.querySelector("[data-next]").disabled = false;
     }
   }
@@ -58,8 +58,13 @@ export function runQuiz(root, questions, { mode, heading, timeLimitSec = null, o
     const isCorrect = chosen[current] === question.answer;
     root.querySelectorAll(".choice").forEach((button, i) => {
       button.disabled = true;
-      if (order[i] === question.answer) button.classList.add("correct");
-      else if (order[i] === chosen[current]) button.classList.add("wrong");
+      if (order[i] === question.answer) {
+        button.classList.add("correct");
+        button.setAttribute("aria-label", `Bonne réponse : ${button.textContent.trim().slice(1).trim()}`);
+      } else if (order[i] === chosen[current]) {
+        button.classList.add("wrong");
+        button.setAttribute("aria-label", `Mauvaise réponse : ${button.textContent.trim().slice(1).trim()}`);
+      }
     });
     const feedback = root.querySelector(".feedback-slot");
     feedback.innerHTML = `

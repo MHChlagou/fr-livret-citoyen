@@ -4,9 +4,15 @@ export function escapeHtml(value) {
   return String(value ?? "").replace(/[&<>"']/g, (c) => HTML_ESCAPES[c]);
 }
 
-/** Escapes the text, then turns the only markup the data allows (**bold**) into <strong>. */
+/**
+ * Escapes the text, applies French typography (no line break before : ; ? ! » or after «),
+ * then turns the only markup the data allows (**bold**) into <strong>.
+ */
 export function inline(text) {
-  return escapeHtml(text).replace(/\*\*(.+?)\*\*/g, "<strong>$1</strong>");
+  return escapeHtml(text)
+    .replace(/ ([:;?!»])/g, " $1")
+    .replace(/« /g, "« ")
+    .replace(/\*\*(.+?)\*\*/g, "<strong>$1</strong>");
 }
 
 export function stripMarkup(text) {

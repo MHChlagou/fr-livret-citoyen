@@ -3,7 +3,7 @@
   --bg-elev: #fffdf8;
   --ink: #17193a;
   --ink-soft: #4a4e6e;
-  --ink-faint: #8a8da6;
+  --ink-faint: #676b87;
   --line: #e2ddd0;
   --blue: #1b2a6b;
   --blue-bright: #2f46c4;
@@ -12,7 +12,7 @@
   --red-wash: #fbe6e4;
   --green: #1f7a4d;
   --green-wash: #e2f3e9;
-  --gold: #b9861b;
+  --gold: #86620f;
   --gold-wash: #f8eed6;
   --shadow: 0 1px 2px rgb(23 25 58 / 0.06), 0 8px 24px -12px rgb(23 25 58 / 0.18);
   --radius: 18px;
@@ -221,7 +221,7 @@ main:focus-visible { outline: none; }
 .btn-primary:hover { box-shadow: 0 6px 18px -6px var(--blue); }
 .btn-ghost { background: transparent; color: var(--ink); border-color: var(--line); }
 .btn-ghost:hover { background: var(--blue-wash); }
-.btn-red { background: var(--red); color: #fff; }
+.btn-red { background: var(--red); color: var(--bg-elev); }
 .btn[disabled] { opacity: 0.45; cursor: not-allowed; transform: none; }
 .btn-row { display: flex; flex-wrap: wrap; gap: 10px; }
 
@@ -319,6 +319,7 @@ main:focus-visible { outline: none; }
 .part-head { display: flex; justify-content: space-between; align-items: flex-start; gap: 12px; flex-wrap: wrap; }
 .part-head h3 { font-size: 1.35rem; margin: 2px 0 4px; }
 .part-head .eyebrow { margin: 0; }
+.pill-row { display: flex; gap: 6px; flex-wrap: wrap; }
 .part p.intro { color: var(--ink-soft); font-size: 0.97rem; margin: 6px 0 14px; }
 @media (max-width: 560px) {
   .part { grid-template-columns: 1fr; padding: 20px; }
@@ -339,7 +340,7 @@ main:focus-visible { outline: none; }
   background: var(--bg-elev);
 }
 .stop[data-state="read"] .stop-dot { border-color: var(--gold); color: var(--gold); }
-.stop[data-state="passed"] .stop-dot { border-color: var(--green); background: var(--green); color: #fff; }
+.stop[data-state="passed"] .stop-dot { border-color: var(--green); background: var(--green); color: var(--bg-elev); }
 .stop-title { font-weight: 700; line-height: 1.3; }
 .stop-meta { display: block; font-weight: 400; font-size: 0.82rem; color: var(--ink-faint); }
 
@@ -375,7 +376,7 @@ main:focus-visible { outline: none; }
 @media (max-width: 860px) {
   .toc { position: static; padding: 12px 10px 10px; }
   .toc h2 { margin: 0 6px 8px; }
-  .toc ol { display: flex; overflow-x: auto; gap: 6px; scrollbar-width: none; }
+  .toc ol { display: flex; overflow-x: auto; gap: 6px; padding-bottom: 6px; scrollbar-width: thin; }
   .toc li { flex: none; }
   .toc button { white-space: nowrap; }
 }
@@ -388,6 +389,15 @@ main:focus-visible { outline: none; }
 .lesson-body li { margin-bottom: 0.4em; }
 .lesson-body li::marker { color: var(--red); }
 
+.lesson-sub { font-family: var(--font-body); font-size: 1.08rem; font-weight: 700; margin: 1.6em 0 0.5em; color: var(--blue); }
+.lesson-sub:first-child { margin-top: 0; }
+.fold { margin: 0 0 1.2em; border: 1px solid var(--line); border-radius: 12px; padding: 0 16px; background: var(--bg); }
+.fold summary { cursor: pointer; padding: 12px 0; font-weight: 700; color: var(--blue-bright); list-style: none; }
+.fold summary::before { content: "▸ "; display: inline-block; transition: transform 0.2s; }
+.fold[open] summary::before { transform: rotate(90deg); }
+.fold summary::-webkit-details-marker { display: none; }
+.fold > :not(summary):last-child { margin-bottom: 1em; }
+
 .callout {
   border-left: 4px solid var(--blue-bright); background: var(--blue-wash);
   padding: 14px 18px; border-radius: 0 12px 12px 0; margin: 0 0 1.2em;
@@ -399,7 +409,21 @@ blockquote {
 }
 blockquote cite { display: block; margin-top: 8px; font-family: var(--font-body); font-style: normal; font-size: 0.85rem; color: var(--ink-faint); }
 
-.table-wrap { overflow-x: auto; margin: 0 0 1.2em; border: 1px solid var(--line); border-radius: 12px; }
+.table-wrap {
+  overflow-x: auto; margin: 0 0 1.2em; border: 1px solid var(--line); border-radius: 12px;
+  background:
+    linear-gradient(to right, var(--bg-elev) 30%, transparent),
+    linear-gradient(to left, var(--bg-elev) 30%, transparent) 100% 0,
+    linear-gradient(to right, rgb(23 25 58 / 0.22), transparent),
+    linear-gradient(to left, rgb(23 25 58 / 0.22), transparent) 100% 0;
+  background-repeat: no-repeat;
+  background-size: 48px 100%, 48px 100%, 16px 100%, 16px 100%;
+  background-attachment: local, local, scroll, scroll;
+}
+.table-wrap.is-scrollable::before {
+  content: "Faites défiler le tableau →"; display: block; padding: 6px 12px;
+  font-size: 0.78rem; color: var(--ink-faint); border-bottom: 1px dashed var(--line);
+}
 table { width: 100%; border-collapse: collapse; font-size: 0.95rem; }
 th, td { padding: 10px 14px; text-align: left; border-bottom: 1px solid var(--line); vertical-align: top; }
 th { background: var(--blue-wash); font-weight: 700; }
@@ -448,9 +472,9 @@ tr:last-child td { border-bottom: 0; }
 .choice[aria-pressed="true"] { border-color: var(--blue-bright); background: var(--blue-wash); }
 .choice[aria-pressed="true"] .k { background: var(--blue-bright); color: var(--bg-elev); border-color: transparent; }
 .choice.correct { border-color: var(--green); background: var(--green-wash); }
-.choice.correct .k { background: var(--green); color: #fff; border-color: transparent; }
+.choice.correct .k { background: var(--green); color: var(--bg-elev); border-color: transparent; }
 .choice.wrong { border-color: var(--red); background: var(--red-wash); animation: shake 0.35s; }
-.choice.wrong .k { background: var(--red); color: #fff; border-color: transparent; }
+.choice.wrong .k { background: var(--red); color: var(--bg-elev); border-color: transparent; }
 .choice[disabled] { cursor: default; }
 @keyframes shake { 25% { transform: translateX(-4px); } 75% { transform: translateX(4px); } }
 
@@ -460,6 +484,7 @@ tr:last-child td { border-bottom: 0; }
 .feedback b { display: block; margin-bottom: 2px; }
 .quiz-actions { display: flex; justify-content: flex-end; gap: 10px; margin-top: 20px; }
 .kbd-hint { font-size: 0.8rem; color: var(--ink-faint); text-align: center; margin-top: 14px; }
+@media (hover: none) and (pointer: coarse) { .kbd-hint { display: none; } }
 
 .timer { font-variant-numeric: tabular-nums; font-weight: 700; }
 .timer.low { color: var(--red); }

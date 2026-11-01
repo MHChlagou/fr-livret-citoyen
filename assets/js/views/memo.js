@@ -32,11 +32,20 @@ export function renderMemo(root, { course }) {
     count.textContent = `${known} / ${facts.length} mémorisés`;
   }
 
+  /** Builds a pattern where each letter also matches its accented forms, so "egalite" highlights "Égalité". */
+  function accentInsensitivePattern(needle) {
+    const variants = { a: "aàâä", e: "eéèêë", i: "iîï", o: "oôö", u: "uùûü", c: "cç", y: "yÿ" };
+    return [...normalizeForSearch(needle)].map((char) => {
+      if (variants[char]) return `[${variants[char]}${variants[char].toUpperCase()}]`;
+      if (char === " ") return "[\\s\\u00a0]";
+      return char.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+    }).join("");
+  }
+
   function highlight(text) {
     const html = inline(text);
     if (!query) return html;
-    const escaped = escapeHtml(query).replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
-    return html.replace(new RegExp(`(${escaped})(?![^<]*>)`, "gi"), "<mark>$1</mark>");
+    return html.replace(new RegExp(`(${accentInsensitivePattern(query)})(?![^<]*>)`, "gi"), "<mark>$1</mark>");
   }
 
   function render() {

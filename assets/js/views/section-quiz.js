@@ -38,7 +38,7 @@ export function renderSectionQuiz(root, ctx, sectionId) {
           ${isNewRecord ? ` <span class="pill warn">Nouveau record</span>` : ""}</p>
           <p class="verdict">${isPassed
             ? `Bravo${getUserName() ? ` ${escapeHtml(getUserName())}` : ""} ! Vous maîtrisez cette section. Passez à la suite.`
-            : "Encore un effort : relisez les points à retenir puis retentez le quiz. Les questions et les réponses sont mélangées à chaque essai."}</p>
+            : "Encore un effort : relisez les points à retenir puis retentez le quiz. L'ordre des questions et des réponses change à chaque essai."}</p>
           <div class="btn-row">
             ${isPassed && following
               ? `<a class="btn btn-primary" href="#/section/${encodeURIComponent(following.id)}">Section suivante →</a>`
