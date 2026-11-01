@@ -1,0 +1,1205 @@
+{
+  "id": "p5",
+  "number": 5,
+  "title": "Vivre dans la société française",
+  "icon": "🏠",
+  "intro": "Cette partie présente les règles pratiques de la vie en France : logement, transports, assurance, civisme, environnement, santé et numéros d'urgence, puis le travail et la vie de famille (mariage, droits des parents et des enfants, école, numérique).",
+  "sections": [
+    {
+      "id": "p5s1",
+      "title": "La vie quotidienne",
+      "lessons": [
+        {
+          "title": "Se loger",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "**Devenir propriétaire.** Toute personne peut devenir propriétaire d'un bien immobilier ancien (déjà construit) ou neuf (projet de construction). L'achat d'un bien immobilier doit obligatoirement faire l'objet d'un **acte signé chez le notaire**."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Pour construire une maison sur un terrain, les propriétaires doivent déposer en **mairie** une demande de **permis de construire**.",
+                "Les modifications extérieures ou extensions d'un logement sont généralement soumises à **déclaration préalable** ou à **autorisation**. Il faut se renseigner auprès de la mairie avant de commencer de tels travaux.",
+                "L'**accession sociale à la propriété** est un type d'acquisition qui permet aux foyers à revenus modestes de devenir propriétaires de leur résidence principale."
+              ]
+            },
+            {
+              "type": "p",
+              "text": "**Être locataire.** En France, **40 %** de la population est locataire de son logement. Un peu moins de la moitié de ces logements loués sont des logements publics (sociaux)."
+            },
+            {
+              "type": "p",
+              "text": "Des règles encadrent les conditions dans lesquelles les logements peuvent être loués. Il s'agit soit de la réglementation générale, soit de conditions particulières définies par le **contrat de location (bail)**, par exemple le prix du loyer convenu entre le propriétaire et le locataire."
+            },
+            {
+              "type": "p",
+              "text": "Le locataire a notamment les droits et obligations suivants :"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Il peut faire des **travaux décoratifs** dans son logement, comme peindre des murs. Mais s'il veut faire d'autres travaux, il doit **demander la permission au propriétaire** (article 7 de la loi n°89-462 du **6 juillet 1989**).",
+                "Il peut quitter le logement en respectant une **période de préavis**, comme indiqué dans le contrat de bail.",
+                "Il doit payer le **loyer et les charges** (comme l'eau, l'électricité, le chauffage...).",
+                "S'il ne paie pas le loyer, le propriétaire peut engager une procédure pour obtenir l'**expulsion** du locataire."
+              ]
+            },
+            {
+              "type": "callout",
+              "text": "Le propriétaire a des responsabilités telles qu'offrir un **logement décent**, c'est-à-dire : sûr, bien entretenu, avec une bonne isolation, et accessible aux personnes handicapées."
+            },
+            {
+              "type": "p",
+              "text": "**Le logement social.** Le logement social est un dispositif public permettant d'aider les personnes disposant de ressources modestes à trouver un logement. Ces logements sont appelés aussi **HLM** (habitations à loyer modéré)."
+            },
+            {
+              "type": "p",
+              "text": "Ces maisons ou appartements sont construits avec l'aide financière de l'État. Ils doivent respecter certaines règles de construction, de gestion et des critères doivent être respectés dans le choix des locataires. En particulier, leurs revenus ne doivent pas dépasser certains seuils (**plafonds de ressources**). Les loyers sont aussi encadrés par l'État."
+            },
+            {
+              "type": "callout",
+              "text": "Pour obtenir un logement social, il faut faire une demande en déposant un dossier en ligne via le site officiel : **https://www.demande-logement-social.gouv.fr**."
+            }
+          ]
+        },
+        {
+          "title": "Se déplacer",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "**Le code de la route** est un ensemble de règles qui s'appliquent à tous ceux qui utilisent l'espace routier. Ces règles s'appliquent partout : sur les routes, les autoroutes, les rues, les boulevards... Il est important que chacun respecte ces règles pour la sécurité de tous."
+            },
+            {
+              "type": "p",
+              "text": "Pour pouvoir conduire un véhicule motorisé sur la voie publique, il faut un **permis de conduire valide** et une **carte grise** (document qui prouve que le véhicule appartient à son propriétaire). Le véhicule doit être **assuré** et avoir fait l'objet d'un **contrôle technique à jour**."
+            },
+            {
+              "type": "callout",
+              "text": "Je n'ai pas de handicap, puis-je garer mon véhicule sur une place réservée aux personnes handicapées ? **Non**, ces places sont réservées aux personnes en situation de handicap, titulaires d'une carte « **mobilité inclusion** »."
+            },
+            {
+              "type": "p",
+              "text": "Le non-respect du code de la route met la vie des autres personnes en danger. C'est pourquoi des sanctions sont prévues. Les infractions sont classées en plusieurs catégories, avec des peines en fonction de leur gravité. Par exemple :"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Un dépassement de la vitesse limite de **moins de 20 km/h** peut être sanctionné d'une amende de **68 euros** et d'un retrait d'**un point** du permis de conduire.",
+                "Un dépassement de **plus de 50 km/h** est un **délit** sanctionné par une peine de **3 mois de prison** maximum et par une amende pouvant aller jusqu'à **3 750 euros** avec un retrait de **6 points** du permis, voire la suspension du permis de conduire."
+              ]
+            },
+            {
+              "type": "p",
+              "text": "Les comportements les plus dangereux sont des **délits**. Ils sont très sévèrement sanctionnés :"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Conduire avec un taux d'alcool supérieur à **0,8 g/l de sang** peut entraîner jusqu'à **3 ans de prison**, une amende de **9 000 euros**, la saisie du véhicule et l'annulation du permis pendant **5 ans**.",
+                "Conduire **sans permis** peut être puni d'**un an de prison** et d'une amende de **15 000 euros**."
+              ]
+            },
+            {
+              "type": "p",
+              "text": "**Les transports collectifs** (ou en commun) comme les bus, les autocars, les métros, les trains ou les tramways facilitent la mobilité sur le territoire."
+            },
+            {
+              "type": "p",
+              "text": "L'utilisation des transports collectifs permet de réduire le nombre de voitures en circulation, et ainsi de réduire la consommation d'énergie et les émissions de gaz polluants. Ces pratiques de mobilité participent à la lutte contre le changement climatique, à l'amélioration de la qualité de l'air et à la réduction des nuisances sonores."
+            },
+            {
+              "type": "callout",
+              "text": "L'usage des transports collectifs est conditionné au paiement d'un **titre de transport** (ticket, billet...). En cas de non-paiement, la personne concernée peut être sanctionnée par une **amende**. Cependant, dans certaines villes, les transports sont gratuits."
+            }
+          ]
+        },
+        {
+          "title": "S'assurer : la responsabilité civile",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "La **responsabilité civile** est l'obligation de chacun de réparer les dommages **matériels, corporels ou moraux** que l'on peut causer sans le vouloir à d'autres personnes."
+            },
+            {
+              "type": "p",
+              "text": "Si un **enfant mineur**, un **animal domestique** ou un **objet** sous votre responsabilité cause un dommage, alors vous pouvez être tenu responsable et votre responsabilité civile est engagée."
+            },
+            {
+              "type": "callout",
+              "text": "Ces dommages peuvent survenir à tout moment : à son domicile ; en conduisant un véhicule ; dans la vie courante (activités personnelles) ; au travail..."
+            },
+            {
+              "type": "p",
+              "text": "Il existe différents types d'assurances :"
+            },
+            {
+              "type": "list",
+              "items": [
+                "**Assurance habitation** : protège contre les risques liés à son logement (incendie, dégât des eaux...).",
+                "**Assurance véhicule** : couvre les accidents pour les véhicules motorisés (thermique, hybride et électrique).",
+                "**Assurance scolaire et extra-scolaire** : protège les enfants pendant leurs activités à l'école ou à l'extérieur."
+              ]
+            },
+            {
+              "type": "p",
+              "text": "Ces assurances permettent d'**indemniser les victimes**, personnes blessées ou touchées en cas d'accident."
+            }
+          ]
+        },
+        {
+          "title": "Vivre ensemble dans l'espace public",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "**La consommation de tabac** dans l'espace public est encadrée par des règles strictes visant à protéger la santé de tous."
+            },
+            {
+              "type": "p",
+              "text": "En particulier, il est **interdit de fumer dans les lieux publics fermés ou couverts**, ainsi que dans les espaces intérieurs accueillant du public : gares, restaurants, bars, terrasses couvertes... Fumer dans les locaux de son **lieu de travail** est également interdit."
+            },
+            {
+              "type": "p",
+              "text": "Fumer dans l'espace public est autorisé. Cependant, depuis le **1er juillet 2025**, dans les lieux suivants, il est interdit de fumer pendant les heures ou périodes d'ouverture :"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Parcs et jardins publics ;",
+                "Plages bordant des eaux de baignade ;",
+                "Abribus ou zones couvertes d'attente des voyageurs ;",
+                "Abords des écoles, collèges, lycées et autres lieux destinés à l'accueil, à la formation ou à l'hébergement de mineurs ;",
+                "Espaces ouverts et abords des bibliothèques, piscines, stades et installations sportives."
+              ]
+            },
+            {
+              "type": "p",
+              "text": "Ces mesures proviennent de la **loi Évin**, votée le **10 janvier 1991** et complétée au fil du temps. Elles permettent de limiter l'exposition des non-fumeurs, notamment les enfants et les personnes fragiles, mais aussi de faciliter le vivre ensemble en limitant les nuisances olfactives."
+            },
+            {
+              "type": "callout",
+              "text": "Le non-respect de cette loi est une infraction punie d'une amende de **135 euros**."
+            },
+            {
+              "type": "callout",
+              "text": "Un **mégot de cigarette** est un déchet qui doit être jeté dans une poubelle, sous peine d'avoir une amende."
+            },
+            {
+              "type": "p",
+              "text": "**La consommation d'alcool** dans l'espace public, comme les rues ou les parcs, est également soumise à des règles."
+            },
+            {
+              "type": "list",
+              "items": [
+                "En fonction des circonstances locales dans certaines villes, la consommation d'alcool peut être interdite par **arrêté municipal**, dans les rues, les transports en commun, certains parcs... La vente d'alcool peut aussi faire l'objet de restrictions dans certains lieux, à certaines périodes, à certaines heures...",
+                "Il est **interdit de vendre de l'alcool aux mineurs de moins de 18 ans**.",
+                "En cas d'**ivresse publique**, la personne concernée peut être sanctionnée d'une amende pouvant aller jusqu'à **150 euros**.",
+                "La publicité en faveur des boissons alcooliques est par ailleurs encadrée par le **code de la santé publique**."
+              ]
+            },
+            {
+              "type": "p",
+              "text": "Ces mesures visent à prévenir les troubles à l'ordre public et à protéger les personnes, qu'elles soient consommatrices ou simples usagers de l'espace public."
+            },
+            {
+              "type": "p",
+              "text": "**Autres règles de civisme dans l'espace public.** Afin de maintenir la qualité des espaces publics, quelques règles s'imposent :"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Il est **interdit de jeter ses déchets en dehors des poubelles**. Ce geste peut être puni d'une amende.",
+                "Les **excréments de ses animaux de compagnie** (chiens) dans les espaces publics doivent obligatoirement être ramassés sous peine d'être sanctionnés.",
+                "Les **graffitis et dégradations** de biens publics ou privés sont interdits et considérés comme des actes de **vandalisme** punis par la loi. Le nettoyage, la réparation ou le remplacement des biens endommagés sont un coût pour les collectivités.",
+                "Pour préserver la tranquillité publique, la réglementation prévoit des sanctions en cas de **nuisances sonores** (musiques fortes, klaxons inutiles, fêtes, rassemblements...)."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Préserver l'environnement",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Les enjeux environnementaux comme le changement climatique ou la protection de la nature nous concernent tous. Au-delà des actions portées par le gouvernement ainsi que par les collectivités et les associations, **chacun peut et doit contribuer** à la préservation de la planète pour les générations futures."
+            },
+            {
+              "type": "p",
+              "text": "**Réduire ses déchets.** Chaque année, un Français produit environ **500 kg de déchets**. La réduction de ces déchets est un enjeu important."
+            },
+            {
+              "type": "list",
+              "items": [
+                "En France, la collecte des déchets ainsi que la collecte des ordures ménagères sont organisées par les **collectivités locales** avec des mesures de tri qui s'imposent à tous. Elles peuvent varier selon les territoires.",
+                "Depuis **2024**, le **tri des déchets verts et alimentaires** (destinés au compostage) est obligatoire pour les particuliers et les professionnels.",
+                "Il est important de prendre connaissance des mesures de tri prévues dans la commune où l'on habite et de les appliquer.",
+                "Des **déchèteries** sont présentes dans chaque territoire afin de permettre à tout le monde d'y déposer des appareils électroménagers, des encombrants ainsi que des déchets verts.",
+                "Les **dépôts sauvages** de déchets (fait de jeter des déchets dans la rue ou dans la nature en dehors des dispositifs de collecte prévus) sont interdits par la loi. Il s'agit d'une infraction pouvant être punie d'une amende."
+              ]
+            },
+            {
+              "type": "callout",
+              "text": "Les **sacs plastiques à usage unique** et non recyclables sont interdits en France depuis **janvier 2017**."
+            },
+            {
+              "type": "p",
+              "text": "**Limiter sa consommation d'énergie.** La consommation d'énergie a un impact significatif sur l'environnement, principalement à travers les émissions de **gaz à effet de serre (GES)**. Des gestes simples permettent de réduire cet impact et également ses factures. Les gestes les plus efficaces au quotidien sont :"
+            },
+            {
+              "type": "list",
+              "items": [
+                "régler son chauffage à **19°C maximum** ;",
+                "régler son chauffe-eau à **55°C** et rester moins longtemps sous la douche ;",
+                "éteindre tous ses appareils en marche ou en veille quand ils ne sont pas utilisés ;",
+                "utiliser les appareils électriques en dehors des heures de pointe ;",
+                "installer un thermostat programmable."
+              ]
+            },
+            {
+              "type": "p",
+              "text": "**Se déplacer de manière écologique.** Le secteur des transports représente **34 %** des émissions de dioxyde de carbone (CO₂) en France, dont près de la moitié provient des véhicules des particuliers."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Pour réduire cet impact, chacun peut choisir des moyens de transport plus écologiques. Les **transports en commun** sont de bonnes alternatives à la voiture individuelle, surtout pour des déplacements en ville.",
+                "La **marche** ou le **vélo** sont à privilégier pour les trajets courts.",
+                "Si on utilise sa voiture, il est conseillé d'adopter une **conduite souple** (rouler et accélérer doucement) pour économiser du carburant et de faire du **covoiturage**.",
+                "Le choix d'un véhicule propre ainsi qu'un entretien régulier (pneus gonflés, vidange) permettent également de diminuer la consommation et la pollution."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "La santé",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "En **1945**, à la Libération, la volonté de solidarité nationale a conduit à la création de la **Sécurité sociale**."
+            },
+            {
+              "type": "p",
+              "text": "Pour financer ce système, les employeurs, les salariés, les travailleurs indépendants paient des **cotisations**. Ces cotisations, combinées à des impôts, permettent de financer la sécurité sociale."
+            },
+            {
+              "type": "callout",
+              "text": "Ce système de Sécurité sociale représente le principe de **solidarité** et donc de **fraternité**."
+            },
+            {
+              "type": "p",
+              "text": "Toute personne vivant en France peut consulter un médecin, aller à l'hôpital ou se rendre en pharmacie."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Tous les résidents en France ont l'**obligation d'être inscrits à l'Assurance Maladie** (branche de la Sécurité sociale) selon leur situation et dans les conditions fixées par la loi.",
+                "Afin de justifier les droits à l'Assurance Maladie, chaque personne assurée reçoit une **carte « Vitale »**.",
+                "Le remboursement des frais de santé est effectué par la **Caisse primaire d'assurance maladie (CPAM)**.",
+                "Dans certains cas, les professionnels de santé pratiquent le **tiers payant** lors des consultations, ce qui permet aux patients de ne pas avancer la part remboursée par l'Assurance Maladie."
+              ]
+            },
+            {
+              "type": "p",
+              "text": "Parfois, les soins ne sont pas entièrement pris en charge par la Sécurité sociale. Toute personne peut donc souscrire à une **mutuelle complémentaire de santé**, qui aide à payer les frais restants. Les **employeurs** ont l'obligation de proposer une couverture complémentaire santé collective à l'ensemble de leurs salariés (sauf exceptions)."
+            },
+            {
+              "type": "callout",
+              "text": "Les personnels de santé ont obligation de garder secrètes les informations médicales d'un patient. Il s'agit du principe de **confidentialité** dans le domaine de la santé."
+            }
+          ]
+        },
+        {
+          "title": "Les numéros d'urgence",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "En cas d'urgence, les services d'urgence ainsi que d'autres services peuvent être contactés **24h/24 et 7j/7** par téléphone. Ces appels sont **gratuits**."
+            },
+            {
+              "type": "table",
+              "headers": [
+                "Numéro",
+                "Service"
+              ],
+              "rows": [
+                [
+                  "15",
+                  "SAMU"
+                ],
+                [
+                  "17",
+                  "Police secours"
+                ],
+                [
+                  "18",
+                  "Sapeurs-pompiers"
+                ],
+                [
+                  "112",
+                  "Appels d'urgence européen"
+                ],
+                [
+                  "115",
+                  "Hébergement d'urgence"
+                ],
+                [
+                  "119",
+                  "Enfance maltraitée"
+                ],
+                [
+                  "196",
+                  "Secours en mer"
+                ],
+                [
+                  "3919",
+                  "Violences conjugales"
+                ],
+                [
+                  "3018",
+                  "Harcèlement scolaire"
+                ],
+                [
+                  "114",
+                  "Par SMS pour les personnes malentendantes"
+                ]
+              ]
+            },
+            {
+              "type": "p",
+              "text": "D'autres services d'urgences existent :"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Alerte attentat : **197** ;",
+                "Enfants disparus : **116 000** ;",
+                "Risque pour la sécurité dans les transports en communs : **3117** ou par SMS au **31 177** ;",
+                "Prévention du suicide : **31 14** ;",
+                "Secours aéronautiques : **191**."
+              ]
+            },
+            {
+              "type": "callout",
+              "text": "Les victimes de violence peuvent **porter plainte** auprès des services de sécurité intérieure (police nationale et gendarmerie nationale) et demander de l'aide auprès d'associations."
+            }
+          ]
+        }
+      ],
+      "keyFacts": [
+        "L'achat d'un bien immobilier se fait obligatoirement par un acte signé chez le notaire ; pour construire, il faut un permis de construire déposé en mairie.",
+        "40 % de la population est locataire ; le locataire doit payer loyer et charges et demander la permission au propriétaire pour les travaux autres que décoratifs.",
+        "Les logements sociaux (HLM) sont réservés aux ménages sous plafonds de ressources ; demande en ligne sur demande-logement-social.gouv.fr.",
+        "Conduire exige un permis valide, une carte grise, une assurance et un contrôle technique à jour ; plus de 0,8 g/l d'alcool dans le sang : jusqu'à 3 ans de prison et 9 000 euros d'amende.",
+        "La responsabilité civile oblige à réparer les dommages matériels, corporels ou moraux causés sans le vouloir, y compris par son enfant mineur, son animal ou un objet.",
+        "Interdit de fumer dans les lieux publics fermés ou couverts et, depuis le 1er juillet 2025, dans les parcs, plages, abribus et abords des écoles (loi Évin du 10 janvier 1991, amende de 135 euros).",
+        "Vente d'alcool interdite aux moins de 18 ans ; ivresse publique : amende jusqu'à 150 euros.",
+        "Un Français produit environ 500 kg de déchets par an ; tri des biodéchets obligatoire depuis 2024 ; sacs plastiques à usage unique interdits depuis janvier 2017.",
+        "Sécurité sociale créée en 1945 ; inscription à l'Assurance Maladie obligatoire pour tous les résidents ; carte Vitale ; remboursement par la CPAM.",
+        "Urgences gratuites 24h/24 : 15 SAMU, 17 Police secours, 18 Pompiers, 112 européen, 115 hébergement, 119 enfance maltraitée, 3919 violences conjugales, 3018 harcèlement scolaire, 114 SMS malentendants."
+      ],
+      "quiz": [
+        {
+          "q": "Quel numéro appeler pour joindre le SAMU ?",
+          "choices": [
+            "17",
+            "18",
+            "115",
+            "15"
+          ],
+          "answer": 3,
+          "explain": "Le 15 est le numéro du SAMU. Le 17 est Police secours, le 18 les sapeurs-pompiers et le 115 l'hébergement d'urgence.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Votre voisine vous confie qu'elle subit des violences de la part de son conjoint. Quel numéro gratuit pouvez-vous lui indiquer ?",
+          "choices": [
+            "3018",
+            "3919",
+            "196",
+            "116 000"
+          ],
+          "answer": 1,
+          "explain": "Le 3919 est le numéro dédié aux violences conjugales. Les victimes peuvent aussi porter plainte auprès de la police ou de la gendarmerie.",
+          "kind": "situation"
+        },
+        {
+          "q": "Vous êtes locataire et souhaitez abattre une cloison de votre appartement. Que devez-vous faire ?",
+          "choices": [
+            "Rien, le locataire est libre de faire tous les travaux",
+            "Demander la permission au propriétaire",
+            "Prévenir seulement la mairie",
+            "Attendre la fin du bail pour le faire"
+          ],
+          "answer": 1,
+          "explain": "Le locataire peut faire des travaux décoratifs (peindre les murs), mais pour les autres travaux il doit demander la permission au propriétaire (article 7 de la loi du 6 juillet 1989).",
+          "kind": "situation"
+        },
+        {
+          "q": "L'achat d'un bien immobilier doit obligatoirement faire l'objet d'un acte signé :",
+          "choices": [
+            "chez un avocat",
+            "à la mairie",
+            "à la préfecture",
+            "chez le notaire"
+          ],
+          "answer": 3,
+          "explain": "Le livret précise que l'achat d'un bien immobilier doit obligatoirement faire l'objet d'un acte signé chez le notaire.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Vous n'avez pas de handicap et toutes les places de parking sont prises, sauf une place réservée aux personnes handicapées. Pouvez-vous vous y garer ?",
+          "choices": [
+            "Oui, si c'est pour quelques minutes",
+            "Oui, si personne n'en a besoin",
+            "Non, ces places sont réservées aux titulaires d'une carte « mobilité inclusion »",
+            "Oui, la nuit seulement"
+          ],
+          "answer": 2,
+          "explain": "Les places réservées sont destinées aux personnes en situation de handicap titulaires d'une carte « mobilité inclusion ».",
+          "kind": "situation"
+        },
+        {
+          "q": "Quelle sanction est prévue pour la conduite avec un taux d'alcool supérieur à 0,8 g/l de sang ?",
+          "choices": [
+            "Une amende de 68 euros et le retrait d'un point",
+            "Un simple avertissement",
+            "Une amende de 135 euros",
+            "Jusqu'à 3 ans de prison, 9 000 euros d'amende, saisie du véhicule et annulation du permis pendant 5 ans"
+          ],
+          "answer": 3,
+          "explain": "C'est un délit très sévèrement sanctionné : jusqu'à 3 ans de prison, 9 000 euros d'amende, saisie du véhicule et annulation du permis pendant 5 ans.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Le chien d'un ami dont vous avez la garde mord un passant et déchire ses vêtements. Qui peut être tenu responsable ?",
+          "choices": [
+            "Personne, c'est un accident",
+            "Uniquement le passant",
+            "Vous, car l'animal est sous votre responsabilité : votre responsabilité civile est engagée",
+            "La mairie de la commune"
+          ],
+          "answer": 2,
+          "explain": "Si un animal domestique sous votre responsabilité cause un dommage, votre responsabilité civile est engagée et vous devez réparer le dommage.",
+          "kind": "situation"
+        },
+        {
+          "q": "Depuis le 1er juillet 2025, où est-il interdit de fumer pendant les heures d'ouverture ?",
+          "choices": [
+            "Dans toutes les rues",
+            "Dans les parcs et jardins publics, sur les plages de baignade, sous les abribus et aux abords des écoles",
+            "Uniquement dans les gares",
+            "Dans sa voiture personnelle"
+          ],
+          "answer": 1,
+          "explain": "Depuis le 1er juillet 2025, il est interdit de fumer dans ces lieux pendant les heures d'ouverture ; l'infraction est punie d'une amende de 135 euros.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Vous tenez une épicerie. Un adolescent de 16 ans veut acheter une bouteille de vin. Que devez-vous faire ?",
+          "choices": [
+            "La lui vendre s'il paie en espèces",
+            "La lui vendre s'il dit que c'est pour ses parents",
+            "Refuser : la vente d'alcool aux mineurs de moins de 18 ans est interdite",
+            "La lui vendre après 20 heures"
+          ],
+          "answer": 2,
+          "explain": "Il est interdit de vendre de l'alcool aux mineurs de moins de 18 ans.",
+          "kind": "situation"
+        },
+        {
+          "q": "Depuis quand le tri des déchets verts et alimentaires (destinés au compostage) est-il obligatoire pour les particuliers et les professionnels ?",
+          "choices": [
+            "2017",
+            "2020",
+            "2025",
+            "2024"
+          ],
+          "answer": 3,
+          "explain": "Depuis 2024, le tri des déchets verts et alimentaires est obligatoire. 2017 correspond à l'interdiction des sacs plastiques à usage unique.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Quel geste fait partie des gestes les plus efficaces pour limiter sa consommation d'énergie ?",
+          "choices": [
+            "Régler son chauffage à 19°C maximum",
+            "Laisser les appareils en veille",
+            "Régler son chauffe-eau à 75°C",
+            "Utiliser les appareils aux heures de pointe"
+          ],
+          "answer": 0,
+          "explain": "Le livret recommande de régler son chauffage à 19°C maximum, son chauffe-eau à 55°C, d'éteindre les appareils en veille et d'éviter les heures de pointe.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "En quelle année la Sécurité sociale a-t-elle été créée ?",
+          "choices": [
+            "1905",
+            "1936",
+            "1945",
+            "1958"
+          ],
+          "answer": 2,
+          "explain": "La Sécurité sociale a été créée en 1945, à la Libération, par volonté de solidarité nationale.",
+          "kind": "knowledge"
+        }
+      ]
+    },
+    {
+      "id": "p5s2",
+      "title": "Travailler en France",
+      "lessons": [
+        {
+          "title": "La réglementation liée au travail",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Le **droit du travail** est l'ensemble des règles juridiques qui concernent les relations professionnelles entre les salariés et les employeurs."
+            },
+            {
+              "type": "p",
+              "text": "Trois types de documents définissent ces règles :"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Le **code du travail** fixe les droits et les obligations pour tous : contrat de travail, conditions de travail, salaire, durée légale du temps de travail par semaine (**35 heures**), etc.",
+                "Les **conventions collectives**, accords négociés entre les organisations représentant les employeurs et les salariés. Elles concernent une activité donnée (exemple : transport routier) et adaptent les règles du code du travail sur des points précis en fonction de situations particulières liées à cette activité. Par exemple, elles peuvent adapter les règles relatives aux congés ou aux salaires minimum.",
+                "Le **règlement intérieur** est un document rédigé par un employeur dont l'entreprise compte au moins **50 salariés**. Il présente les règles internes de l'entreprise et détaille les droits et devoirs des salariés en matière de santé, de sécurité et de comportement au travail."
+              ]
+            },
+            {
+              "type": "p",
+              "text": "Les salariés du secteur privé, âgés d'au moins **18 ans** (**16 ans** sur autorisation parentale ou mineur émancipé), doivent percevoir un salaire au moins égal au **SMIC** (salaire minimum de croissance), qui est le salaire horaire minimum garanti en France."
+            },
+            {
+              "type": "callout",
+              "text": "Chaque travailleur, sans condition, a le droit de rejoindre une **organisation syndicale** afin de le représenter au travail."
+            },
+            {
+              "type": "p",
+              "text": "Dans le cadre professionnel, **aucune discrimination** ne peut avoir lieu que ce soit envers le genre, la religion ou encore le physique. Toutefois, si un emploi exige un niveau de qualification, l'employeur peut exiger la présentation de diplômes pour vérifier que le candidat possède bien les qualifications requises."
+            },
+            {
+              "type": "callout",
+              "text": "En cas de litige entre un employeur et son salarié, le **conseil de prud'hommes** est compétent pour juger ces situations."
+            }
+          ]
+        },
+        {
+          "title": "Le contrat de travail",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Lorsqu'une personne est embauchée après un entretien, un **contrat de travail** doit être signé entre le salarié et l'employeur. Ce document est **obligatoire**, il définit les conditions de travail et indique notamment plusieurs éléments importants :"
+            },
+            {
+              "type": "list",
+              "items": [
+                "le salaire,",
+                "les compétences nécessaires (ce qu'il faut savoir faire),",
+                "la date de début du contrat,",
+                "la durée du travail (combien d'heures par semaine ou par trimestre, année...),",
+                "le type de contrat..."
+              ]
+            },
+            {
+              "type": "p",
+              "text": "Il existe plusieurs sortes de contrats dont les plus courants sont le **contrat à durée déterminée (CDD)** pour un travail temporaire, le **contrat à durée indéterminée (CDI)** pour un emploi permanent ou encore le **contrat d'intérim**."
+            }
+          ]
+        },
+        {
+          "title": "L'insertion professionnelle",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Pour être accompagné dans la recherche d'emploi et être indemnisé en cas de perte d'emploi, il faut s'inscrire à **France Travail**."
+            },
+            {
+              "type": "p",
+              "text": "Il s'agit d'un **organisme public** qui aide les personnes à trouver un emploi tant en insertion professionnelle qu'en retour à l'emploi. Il peut proposer des formations. Les conseils donnés sont adaptés à la situation de chacun. Cet accompagnement est réalisé par les **Missions Locales** pour les jeunes de **moins de 25 ans**."
+            },
+            {
+              "type": "callout",
+              "text": "Si les conditions sont remplies (avoir travaillé suffisamment longtemps, ne pas avoir quitté son travail de manière volontaire...), France Travail peut verser chaque mois, aux personnes ayant perdu leur emploi, une aide financière appelée **Allocation d'aide au retour à l'emploi (ARE)**."
+            }
+          ]
+        },
+        {
+          "title": "La création d'entreprise",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Chacun est libre de créer son entreprise en France. **Il n'est pas nécessaire d'être français.**"
+            },
+            {
+              "type": "p",
+              "text": "La création d'une activité exige cependant des démarches administratives. Il s'agit notamment :"
+            },
+            {
+              "type": "list",
+              "items": [
+                "d'enregistrer les statuts de la société,",
+                "d'immatriculer l'entreprise,",
+                "de publier son activité dans un journal d'annonces légales,",
+                "de déclarer le siège social..."
+              ]
+            },
+            {
+              "type": "p",
+              "text": "Les règles liées à la création d'entreprise varient selon la nature de l'activité. **Quatre grands secteurs** d'activités sont distingués :"
+            },
+            {
+              "type": "list",
+              "items": [
+                "**L'artisanat** : l'artisan exerce une activité indépendante de production, de transformation ou de prestations de services.",
+                "**Le commerce** : le commerçant effectue des opérations commerciales (achats pour revente, opérations d'intermédiaire, transport de marchandises...).",
+                "**Les professions libérales** : elles se caractérisent essentiellement par une offre de services non commerciaux, comme les médecins, les avocats...",
+                "**L'activité agricole.**"
+              ]
+            },
+            {
+              "type": "p",
+              "text": "Sur l'ensemble du territoire français, il existe des structures qui aident les personnes qui veulent créer leur entreprise. Elles peuvent donner des conseils, aider à planifier le projet et même chercher des financements (**chambre des métiers et de l'artisanat (CMA)**, **chambre de commerce et d'industrie (CCI)**...)."
+            }
+          ]
+        },
+        {
+          "title": "L'accès à l'emploi public",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "L'accès aux emplois dans la fonction publique est **ouvert à tous sans discrimination**. La sélection se fait uniquement en fonction des compétences et des qualités."
+            },
+            {
+              "type": "p",
+              "text": "Pour pouvoir se porter candidat à un **concours** de la fonction publique, il faut toutefois remplir des conditions :"
+            },
+            {
+              "type": "list",
+              "items": [
+                "conditions d'âge et de diplôme ;",
+                "avoir la **nationalité française** (ou celle d'un pays de l'**Union européenne** ou de l'**Espace économique européen**) ;",
+                "jouir de ses **droits civiques** ;",
+                "n'avoir fait l'objet d'aucune condamnation inscrite au **bulletin n°2 du casier judiciaire**."
+              ]
+            },
+            {
+              "type": "p",
+              "text": "Les candidats européens n'ont pas accès aux emplois dits de « **souveraineté** » (emplois dans la défense ou les affaires étrangères par exemple)."
+            },
+            {
+              "type": "p",
+              "text": "Dans la **fonction publique territoriale**, contrairement à la fonction publique d'État, l'admission au concours ne signifie pas l'affectation immédiate à un poste. Les candidats admis sont alors inscrits sur une liste et doivent ensuite postuler eux-mêmes à un emploi."
+            },
+            {
+              "type": "callout",
+              "text": "Qu'est-ce qu'un fonctionnaire ? (infographie Vie publique, © DILA 2024) C'est un **agent public titulaire** qui travaille dans l'une des **trois fonctions publiques** : fonction publique d'État, fonction publique territoriale, fonction publique hospitalière. Pour garantir l'égal accès à la fonction publique, il est recruté par **concours** (sauf exceptions). Après une période de stage, il est **titularisé** dans un grade (**A, B ou C**) et devient fonctionnaire. Il occupe un emploi **permanent** (selon son grade) au sein de l'administration. Son statut est régi par le **Code général de la fonction publique**."
+            }
+          ]
+        }
+      ],
+      "keyFacts": [
+        "Trois sources du droit du travail : le code du travail, les conventions collectives et le règlement intérieur (entreprises d'au moins 50 salariés).",
+        "La durée légale du temps de travail est de 35 heures par semaine.",
+        "Le SMIC est le salaire horaire minimum garanti pour les salariés du privé d'au moins 18 ans (16 ans sur autorisation parentale ou mineur émancipé).",
+        "Tout travailleur peut, sans condition, rejoindre un syndicat ; aucune discrimination (genre, religion, physique) n'est permise au travail.",
+        "Le conseil de prud'hommes juge les litiges entre employeur et salarié.",
+        "Le contrat de travail est obligatoire : CDD (travail temporaire), CDI (emploi permanent) ou contrat d'intérim.",
+        "France Travail accompagne les demandeurs d'emploi et peut verser l'ARE ; les Missions Locales accompagnent les moins de 25 ans.",
+        "Il n'est pas nécessaire d'être français pour créer son entreprise ; la CMA et la CCI aident les créateurs.",
+        "Concours de la fonction publique : nationalité française, UE ou EEE, droits civiques, aucune condamnation au bulletin n°2 du casier judiciaire ; emplois de souveraineté réservés aux Français.",
+        "Trois fonctions publiques : d'État, territoriale et hospitalière ; grades A, B ou C."
+      ],
+      "quiz": [
+        {
+          "q": "Quelle est la durée légale du temps de travail par semaine en France ?",
+          "choices": [
+            "32 heures",
+            "35 heures",
+            "39 heures",
+            "40 heures"
+          ],
+          "answer": 1,
+          "explain": "Le code du travail fixe la durée légale du temps de travail à 35 heures par semaine.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Vous êtes en conflit avec votre employeur qui refuse de vous payer vos dernières heures de travail. Quelle juridiction est compétente ?",
+          "choices": [
+            "Le tribunal administratif",
+            "Le Conseil constitutionnel",
+            "La cour d'assises",
+            "Le conseil de prud'hommes"
+          ],
+          "answer": 3,
+          "explain": "En cas de litige entre un employeur et son salarié, le conseil de prud'hommes est compétent.",
+          "kind": "situation"
+        },
+        {
+          "q": "Qu'est-ce que le SMIC ?",
+          "choices": [
+            "Une aide au logement",
+            "Le salaire horaire minimum garanti en France",
+            "Une allocation chômage",
+            "Un impôt sur le salaire"
+          ],
+          "answer": 1,
+          "explain": "Le SMIC (salaire minimum de croissance) est le salaire horaire minimum garanti que doivent percevoir les salariés du secteur privé.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Votre employeur vous dit que vous n'avez pas le droit d'adhérer à un syndicat car vous êtes en poste depuis peu. A-t-il raison ?",
+          "choices": [
+            "Oui, il faut au moins un an d'ancienneté",
+            "Oui, si l'entreprise a moins de 50 salariés",
+            "Non, chaque travailleur, sans condition, a le droit de rejoindre un syndicat",
+            "Oui, seuls les fonctionnaires peuvent se syndiquer"
+          ],
+          "answer": 2,
+          "explain": "Le livret précise que chaque travailleur, sans condition, a le droit de rejoindre une organisation syndicale pour le représenter au travail.",
+          "kind": "situation"
+        },
+        {
+          "q": "Lors d'un entretien d'embauche, un recruteur écarte un candidat en raison de sa religion. Est-ce autorisé ?",
+          "choices": [
+            "Oui, l'employeur choisit librement",
+            "Oui, si le contrat est un CDD",
+            "Oui, dans les petites entreprises",
+            "Non, aucune discrimination liée au genre, à la religion ou au physique n'est permise"
+          ],
+          "answer": 3,
+          "explain": "Dans le cadre professionnel, aucune discrimination ne peut avoir lieu ; l'employeur peut seulement exiger des diplômes si l'emploi demande une qualification.",
+          "kind": "situation"
+        },
+        {
+          "q": "Quel type de contrat correspond à un emploi permanent ?",
+          "choices": [
+            "Le CDD",
+            "Le contrat d'intérim",
+            "Le CDI",
+            "La convention collective"
+          ],
+          "answer": 2,
+          "explain": "Le CDI (contrat à durée indéterminée) est destiné à un emploi permanent, le CDD à un travail temporaire.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Vous venez de perdre votre emploi et cherchez du travail. Que devez-vous faire pour être accompagné et indemnisé ?",
+          "choices": [
+            "Vous inscrire à France Travail",
+            "Vous adresser au conseil de prud'hommes",
+            "Demander une carte Vitale",
+            "Vous inscrire à la CCI"
+          ],
+          "answer": 0,
+          "explain": "Il faut s'inscrire à France Travail, qui accompagne la recherche d'emploi et peut verser l'Allocation d'aide au retour à l'emploi (ARE).",
+          "kind": "situation"
+        },
+        {
+          "q": "Qui accompagne les jeunes de moins de 25 ans dans leur insertion professionnelle ?",
+          "choices": [
+            "Les mairies uniquement",
+            "Les chambres de commerce",
+            "Les conseils de prud'hommes",
+            "Les Missions Locales"
+          ],
+          "answer": 3,
+          "explain": "L'accompagnement des jeunes de moins de 25 ans est réalisé par les Missions Locales.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Un étranger résidant en France souhaite ouvrir un restaurant. Doit-il avoir la nationalité française ?",
+          "choices": [
+            "Oui, c'est obligatoire",
+            "Non, il n'est pas nécessaire d'être français pour créer son entreprise",
+            "Oui, sauf pour l'artisanat",
+            "Seulement s'il emploie plus de 50 salariés"
+          ],
+          "answer": 1,
+          "explain": "Chacun est libre de créer son entreprise en France ; il n'est pas nécessaire d'être français, mais il faut accomplir les démarches administratives.",
+          "kind": "situation"
+        },
+        {
+          "q": "Quelles sont les trois fonctions publiques ?",
+          "choices": [
+            "Nationale, régionale et municipale",
+            "D'État, territoriale et hospitalière",
+            "Civile, militaire et judiciaire",
+            "Européenne, nationale et locale"
+          ],
+          "answer": 1,
+          "explain": "Un fonctionnaire travaille dans l'une des trois fonctions publiques : d'État, territoriale ou hospitalière.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Quel emploi public n'est pas accessible aux candidats européens non français ?",
+          "choices": [
+            "Un emploi d'infirmier à l'hôpital",
+            "Un emploi dans la défense ou les affaires étrangères",
+            "Un emploi dans une mairie",
+            "Un emploi d'enseignant"
+          ],
+          "answer": 1,
+          "explain": "Les candidats européens n'ont pas accès aux emplois dits de « souveraineté », comme la défense ou les affaires étrangères.",
+          "kind": "knowledge"
+        }
+      ]
+    },
+    {
+      "id": "p5s3",
+      "title": "La vie familiale",
+      "lessons": [
+        {
+          "title": "Le mariage",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "En France, **seul le mariage civil célébré en mairie** est reconnu par la loi. Le mariage est célébré par le **maire** ou un **adjoint au maire** à la mairie de la commune où vit au moins l'un des deux futurs mariés ou l'un de leurs parents. Le jour de la cérémonie de mariage civil, les mariés reçoivent leur **acte de mariage** français et un **livret de famille**."
+            },
+            {
+              "type": "p",
+              "text": "Le mariage est possible à partir de **18 ans**. Il est aussi possible, à partir de **16 ans**, mais seulement si le **procureur de la République** accorde une autorisation spéciale et si les parents du mineur acceptent l'union (**art 145 et 148 du code civil**)."
+            },
+            {
+              "type": "callout",
+              "text": "La **polygamie** (être marié à plusieurs personnes à la fois) est interdite par la loi et constitue une **infraction pénale**."
+            },
+            {
+              "type": "p",
+              "text": "Depuis le **17 mai 2013**, la loi ouvrant le mariage aux couples de personnes de même sexe a été promulguée. La France est devenue le **14ème pays** du monde à autoriser le mariage homosexuel."
+            },
+            {
+              "type": "p",
+              "text": "En cas de séparation, les époux peuvent **divorcer** soit devant un **juge**, soit par **consentement mutuel devant un notaire**. L'**autorité parentale** sur leurs enfants continue d'être exercée par les deux parents, sauf décision de justice contraire."
+            },
+            {
+              "type": "callout",
+              "text": "L'**état civil** permet de mettre à jour les informations officielles sur la vie d'une personne et désigne également le service public chargé au sein d'une commune (ou du Ministère des Affaires Étrangères pour les personnes nées à l'étranger), de dresser les actes d'état civil. La déclaration de la naissance des enfants (dans les **5 jours** qui suivent la naissance), des mariages et des décès est **obligatoire**."
+            }
+          ]
+        },
+        {
+          "title": "Les droits des parents",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Pendant la période de grossesse et de congé maternité, la loi garantit à la femme de **conserver son emploi**. En effet, l'employeur ne peut pas licencier la salariée pour ce motif."
+            },
+            {
+              "type": "p",
+              "text": "Depuis le **1er juillet 2021**, le **congé paternité** dure **28 jours**."
+            },
+            {
+              "type": "p",
+              "text": "Après la naissance ou l'adoption d'un enfant de **moins de 16 ans**, tout(e) salarié(e) peut bénéficier d'un **congé parental d'éducation**. Ce congé permet au parent concerné d'interrompre ou de réduire son activité professionnelle pour élever cet enfant."
+            },
+            {
+              "type": "callout",
+              "text": "De plus, les parents d'un enfant né ou adopté à compter du **1er janvier 2026** bénéficient d'un « **congé supplémentaire de naissance** », d'**un ou de deux mois**, selon le choix du parent. Ce congé peut être pris à compter du mois de **juillet 2026**."
+            }
+          ]
+        },
+        {
+          "title": "Les droits des enfants",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "En **1989**, **196 États** ont signé un document sur les droits de l'enfant dans le cadre de l'Organisation des Nations Unies (ONU). Ce document s'appelle la **Convention Internationale des Droits de l'Enfant**. Cette convention présente les droits fondamentaux des enfants. Elle impose des obligations aux États qui l'ont signée. Elle assure donc la protection des enfants."
+            },
+            {
+              "type": "p",
+              "text": "C'est le fondement de toute l'action de l'**UNICEF**, une organisation qui dépend de l'ONU."
+            },
+            {
+              "type": "p",
+              "text": "Voici quelques droits de l'enfant :"
+            },
+            {
+              "type": "list",
+              "items": [
+                "L'égalité (être traité de la même façon que les autres enfants) ;",
+                "Avoir un nom, une identité ;",
+                "Être soigné, protégé des maladies, avoir une alimentation suffisante et équilibrée ;",
+                "Aller à l'école ;",
+                "Protection de la vie privée ;",
+                "Être protégé contre la violence ;",
+                "Être protégé contre l'exploitation ;",
+                "Pouvoir s'informer et s'exprimer, être entendu sur les questions qui le concernent ;",
+                "Les enfants en situation de handicap ont aussi droit à la même vie que les autres. Ils peuvent par ailleurs bénéficier d'un emploi du temps aménagé."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Les obligations parentales",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "L'**article 371-1 du code civil** définit l'**autorité parentale**. Il s'agit d'un ensemble de droits et de devoirs dont l'objectif est de protéger l'intérêt de l'enfant et de favoriser son bien-être."
+            },
+            {
+              "type": "p",
+              "text": "L'autorité parentale appartient aux parents jusqu'à ce que l'enfant devienne adulte (**majorité ou émancipation**) pour le protéger, assurer son éducation et permettre son développement dans le respect dû à sa personne (sécurité, santé, vie privée et moralité)."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Les parents doivent veiller à la sécurité de l'enfant, surveiller ses relations, ses déplacements, ses communications, son utilisation des réseaux sociaux.",
+                "Ils ont l'obligation de protéger l'enfant contre, par exemple, le racket, le viol, la prostitution, les addictions, le harcèlement, la violence...",
+                "Ils doivent également assurer la santé de l'enfant, protéger sa vie privée, son image et garantir son bien-être (alimentation, hébergement, loisirs...)."
+              ]
+            },
+            {
+              "type": "callout",
+              "text": "L'autorité parentale s'exerce **sans violences physiques ou psychologiques**. Toutes maltraitances physiques, comme l'**excision** et les **châtiments corporels**, sont interdites par la loi car elles portent atteinte à l'intégrité physique et à la dignité de l'enfant."
+            },
+            {
+              "type": "p",
+              "text": "Les parents associent l'enfant aux décisions qui le concernent, selon son âge et son degré de maturité."
+            },
+            {
+              "type": "callout",
+              "text": "Il n'est pas possible de **déshériter en totalité** son/ses enfants et le partage doit être **équitable** entre tous les membres constituant la fratrie."
+            }
+          ]
+        },
+        {
+          "title": "L'éducation",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Les parents doivent veiller à l'éducation scolaire, intellectuelle et morale."
+            },
+            {
+              "type": "p",
+              "text": "L'école (l'instruction) est **obligatoire pour les enfants de 3 à 16 ans**. Les parents qui ne respectent pas cette obligation peuvent être sanctionnés par une **amende**, ainsi qu'une **peine de prison**."
+            },
+            {
+              "type": "p",
+              "text": "Seules les absences pour **raisons de santé ou familiales** (mariage, enterrement...) sont acceptées par les établissements scolaires."
+            },
+            {
+              "type": "callout",
+              "text": "Les **mairies** sont compétentes pour gérer les inscriptions des enfants à l'école publique."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Les enfants **allophones** (dont la langue maternelle n'est pas le français) sont accueillis à l'école comme les autres enfants. Ils y apprennent le français mais aussi les autres matières.",
+                "Les enfants en situation de handicap peuvent bénéficier d'un **emploi du temps aménagé** à l'école pour suivre leurs soins."
+              ]
+            },
+            {
+              "type": "p",
+              "text": "Les parents d'un élève ont un rôle au sein de la **communauté éducative**. Ils entretiennent, chaque année scolaire, des relations avec les professeurs, l'administration et l'ensemble des acteurs de l'équipe pédagogique (ATSEM, animateurs périscolaires...) de l'établissement où est scolarisé leur enfant. De plus, les parents peuvent aussi participer activement en se portant candidat aux **élections de représentants de parents d'élèves**, ou en rejoignant une **association de parents**."
+            },
+            {
+              "type": "table",
+              "headers": [
+                "Établissement",
+                "Description"
+              ],
+              "rows": [
+                [
+                  "École maternelle",
+                  "Accueille les enfants au début de l'instruction obligatoire, qui débute à 3 ans."
+                ],
+                [
+                  "École élémentaire",
+                  "Accueille les enfants scolarisés de 6 à 11 ans."
+                ],
+                [
+                  "Collège",
+                  "Établissement de niveau secondaire qui, à l'issue de l'école élémentaire, accueille tous les enfants scolarisés. Ils y suivent quatre années de scolarité."
+                ],
+                [
+                  "Lycée",
+                  "À l'issue du collège, les élèves peuvent poursuivre leur scolarité dans un lycée d'enseignement général, technologique ou dans un lycée professionnel. La scolarité y a lieu en trois ans : la seconde, la première et la terminale."
+                ]
+              ]
+            },
+            {
+              "type": "callout",
+              "text": "L'**école primaire** regroupe l'école maternelle et l'école élémentaire (du **CP au CM2**)."
+            }
+          ]
+        },
+        {
+          "title": "Le numérique et les enfants",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Les écrans (téléphone, ordinateur, télévision...) sont très présents dans la vie des familles. Les enfants et adolescents les utilisent très tôt, à la maison comme à l'école. Si les écrans peuvent être utiles, trop les regarder peut avoir des conséquences sur la santé physique et mentale des enfants, ainsi que sur leur vie sociale. Les parents doivent ainsi s'assurer du bon usage des écrans fait par leur enfant."
+            },
+            {
+              "type": "callout",
+              "text": "Afin de lutter contre les délits en ligne tels que le cyber-harcèlement, la loi du **7 juillet 2023** a instauré la **majorité numérique à 15 ans**. Avant cet âge, s'inscrire seul sur les réseaux sociaux n'est donc plus possible."
+            },
+            {
+              "type": "p",
+              "text": "La **citoyenneté numérique**, notamment enseignée à l'école, permet d'apprendre à faire un usage efficace des technologies numériques de manière responsable, éthique et sûre."
+            }
+          ]
+        }
+      ],
+      "keyFacts": [
+        "Seul le mariage civil célébré en mairie est reconnu par la loi ; les mariés reçoivent un acte de mariage et un livret de famille.",
+        "Le mariage est possible à partir de 18 ans (dès 16 ans avec autorisation du procureur de la République et accord des parents) ; la polygamie est une infraction pénale.",
+        "Mariage pour les couples de même sexe depuis le 17 mai 2013 : la France est le 14e pays au monde à l'autoriser.",
+        "La naissance d'un enfant doit être déclarée à l'état civil dans les 5 jours.",
+        "Congé paternité de 28 jours depuis le 1er juillet 2021 ; congé supplémentaire de naissance d'un ou deux mois pour les enfants nés ou adoptés à partir du 1er janvier 2026.",
+        "Convention internationale des droits de l'enfant signée en 1989 par 196 États dans le cadre de l'ONU ; fondement de l'action de l'UNICEF.",
+        "L'autorité parentale (article 371-1 du code civil) s'exerce sans violences physiques ou psychologiques ; excision et châtiments corporels sont interdits.",
+        "L'instruction est obligatoire de 3 à 16 ans ; seules les absences pour raisons de santé ou familiales sont acceptées.",
+        "Majorité numérique à 15 ans (loi du 7 juillet 2023) : avant cet âge, impossible de s'inscrire seul sur les réseaux sociaux."
+      ],
+      "quiz": [
+        {
+          "q": "Quel mariage est reconnu par la loi en France ?",
+          "choices": [
+            "Le mariage religieux",
+            "Tout mariage célébré devant témoins",
+            "Le mariage coutumier",
+            "Le mariage civil célébré en mairie"
+          ],
+          "answer": 3,
+          "explain": "En France, seul le mariage civil célébré en mairie par le maire ou un adjoint est reconnu par la loi.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Un homme déjà marié souhaite épouser une seconde femme en France. Est-ce possible ?",
+          "choices": [
+            "Oui, si sa première épouse est d'accord",
+            "Oui, si le mariage est religieux",
+            "Non, la polygamie est interdite et constitue une infraction pénale",
+            "Oui, avec l'accord du maire"
+          ],
+          "answer": 2,
+          "explain": "La polygamie (être marié à plusieurs personnes à la fois) est interdite par la loi et constitue une infraction pénale.",
+          "kind": "situation"
+        },
+        {
+          "q": "À partir de quel âge le mariage est-il possible en France, sans autorisation spéciale ?",
+          "choices": [
+            "16 ans",
+            "17 ans",
+            "18 ans",
+            "21 ans"
+          ],
+          "answer": 2,
+          "explain": "Le mariage est possible à partir de 18 ans ; dès 16 ans seulement avec l'autorisation du procureur de la République et l'accord des parents.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Depuis quelle date le mariage est-il ouvert aux couples de personnes de même sexe en France ?",
+          "choices": [
+            "1er juillet 2021",
+            "17 mai 2013",
+            "10 janvier 1991",
+            "7 juillet 2023"
+          ],
+          "answer": 1,
+          "explain": "La loi ouvrant le mariage aux couples de même sexe a été promulguée le 17 mai 2013 ; la France est devenue le 14e pays à l'autoriser.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Votre enfant vient de naître. Dans quel délai devez-vous déclarer sa naissance à l'état civil ?",
+          "choices": [
+            "Dans les 5 jours",
+            "Dans le mois",
+            "Dans les 3 mois",
+            "Avant son entrée à l'école"
+          ],
+          "answer": 0,
+          "explain": "La déclaration de la naissance des enfants est obligatoire dans les 5 jours qui suivent la naissance.",
+          "kind": "situation"
+        },
+        {
+          "q": "Votre collègue vous annonce qu'elle est enceinte et craint d'être licenciée pour ce motif. Que lui dire ?",
+          "choices": [
+            "L'employeur peut la licencier librement",
+            "Elle perdra son emploi seulement si elle est en CDD",
+            "Elle doit démissionner avant son congé",
+            "La loi lui garantit de conserver son emploi : l'employeur ne peut pas la licencier pour ce motif"
+          ],
+          "answer": 3,
+          "explain": "Pendant la grossesse et le congé maternité, la loi garantit à la femme de conserver son emploi.",
+          "kind": "situation"
+        },
+        {
+          "q": "Depuis le 1er juillet 2021, combien de jours dure le congé paternité ?",
+          "choices": [
+            "11 jours",
+            "14 jours",
+            "28 jours",
+            "2 mois"
+          ],
+          "answer": 2,
+          "explain": "Depuis le 1er juillet 2021, le congé paternité dure 28 jours.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "En quelle année la Convention internationale des droits de l'enfant a-t-elle été signée par 196 États dans le cadre de l'ONU ?",
+          "choices": [
+            "1945",
+            "1958",
+            "1989",
+            "2013"
+          ],
+          "answer": 2,
+          "explain": "En 1989, 196 États ont signé la Convention internationale des droits de l'enfant, fondement de l'action de l'UNICEF.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Un parent estime qu'une fessée ou une correction physique fait partie de l'éducation. Qu'en dit la loi ?",
+          "choices": [
+            "C'est autorisé si c'est rare",
+            "C'est autorisé pour les enfants de moins de 10 ans",
+            "C'est interdit : l'autorité parentale s'exerce sans violences physiques ou psychologiques",
+            "C'est au parent de décider"
+          ],
+          "answer": 2,
+          "explain": "L'autorité parentale s'exerce sans violences ; les châtiments corporels sont interdits car ils portent atteinte à l'intégrité physique et à la dignité de l'enfant.",
+          "kind": "situation"
+        },
+        {
+          "q": "Pour quels âges l'instruction est-elle obligatoire en France ?",
+          "choices": [
+            "De 6 à 16 ans",
+            "De 6 à 18 ans",
+            "De 3 à 18 ans",
+            "De 3 à 16 ans"
+          ],
+          "answer": 3,
+          "explain": "L'école (l'instruction) est obligatoire pour les enfants de 3 à 16 ans ; les parents qui ne la respectent pas peuvent être sanctionnés.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Vous souhaitez partir en vacances une semaine avant la fin des cours et retirer votre enfant de l'école. Cette absence sera-t-elle acceptée ?",
+          "choices": [
+            "Oui, les vacances sont un motif familial",
+            "Non, seules les absences pour raisons de santé ou familiales (mariage, enterrement...) sont acceptées",
+            "Oui, si l'enfant a de bonnes notes",
+            "Oui, avec un simple mot des parents"
+          ],
+          "answer": 1,
+          "explain": "Seules les absences pour raisons de santé ou familiales (mariage, enterrement...) sont acceptées par les établissements scolaires.",
+          "kind": "situation"
+        },
+        {
+          "q": "Votre fille de 13 ans veut créer seule un compte sur un réseau social. Est-ce possible ?",
+          "choices": [
+            "Oui, dès 13 ans",
+            "Non, la majorité numérique est fixée à 15 ans",
+            "Oui, si elle a un téléphone personnel",
+            "Non, il faut attendre 18 ans"
+          ],
+          "answer": 1,
+          "explain": "La loi du 7 juillet 2023 a instauré la majorité numérique à 15 ans : avant cet âge, s'inscrire seul sur les réseaux sociaux n'est plus possible.",
+          "kind": "situation"
+        }
+      ]
+    }
+  ]
+}

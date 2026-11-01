@@ -1,0 +1,395 @@
+{
+  "id": "annexes",
+  "number": 0,
+  "title": "Annexes",
+  "icon": "📜",
+  "intro": "Les annexes du livret présentent, en résumé, la Déclaration des droits de l'homme et du citoyen de 1789 et la Charte des droits et devoirs du citoyen français, puis une liste de ressources officielles à consulter.",
+  "sections": [
+    {
+      "id": "a1",
+      "title": "La Déclaration des droits de l'homme et du citoyen de 1789",
+      "lessons": [
+        {
+          "title": "Les 17 articles de la Déclaration",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "La Déclaration de **1789** compte **17 articles**. Voici le sens de chacun, résumé avec nos propres mots."
+            },
+            {
+              "type": "list",
+              "items": [
+                "**Article 1** : les hommes naissent et demeurent **libres et égaux en droits** ; les distinctions sociales ne peuvent reposer que sur l'utilité commune.",
+                "**Article 2** : toute association politique a pour but de conserver les droits naturels et imprescriptibles de l'homme, qui sont **la liberté, la propriété, la sûreté et la résistance à l'oppression**.",
+                "**Article 3** : la **souveraineté** réside essentiellement dans la **Nation** ; aucun groupe ni aucun individu ne peut exercer une autorité qui n'en vient pas expressément.",
+                "**Article 4** : la liberté consiste à pouvoir faire **tout ce qui ne nuit pas à autrui** ; ses seules limites sont celles qui garantissent aux autres les mêmes droits, et seule la **loi** peut fixer ces limites.",
+                "**Article 5** : la loi ne peut interdire que les actions nuisibles à la société ; ce que la loi n'interdit pas ne peut être empêché, et personne ne peut être obligé de faire ce qu'elle n'ordonne pas.",
+                "**Article 6** : la loi est **l'expression de la volonté générale** ; tous les citoyens peuvent participer à son élaboration, directement ou par leurs représentants ; elle est la même pour tous, qu'elle protège ou qu'elle punisse ; tous les citoyens, égaux devant elle, peuvent accéder aux dignités, places et emplois publics selon leurs capacités, leurs vertus et leurs talents.",
+                "**Article 7** : personne ne peut être accusé, arrêté ou détenu en dehors des cas et des formes prévus par la loi ; ceux qui ordonnent ou exécutent des ordres arbitraires doivent être punis ; mais tout citoyen appelé ou saisi en vertu de la loi doit obéir immédiatement, sinon il se rend coupable par sa résistance.",
+                "**Article 8** : la loi ne doit prévoir que des peines strictement et évidemment nécessaires ; on ne peut être puni qu'en vertu d'une loi adoptée et promulguée **avant** le délit et appliquée légalement.",
+                "**Article 9** : toute personne est **présumée innocente** jusqu'à ce qu'elle soit déclarée coupable ; si son arrestation est indispensable, toute rigueur inutile doit être sévèrement réprimée par la loi.",
+                "**Article 10** : nul ne doit être inquiété pour ses opinions, **même religieuses**, tant que leur expression ne trouble pas l'ordre public établi par la loi.",
+                "**Article 11** : la **libre communication des pensées et des opinions** est l'un des droits les plus précieux ; chaque citoyen peut parler, écrire et imprimer librement, mais répond des abus de cette liberté dans les cas prévus par la loi.",
+                "**Article 12** : garantir les droits de l'homme et du citoyen exige une **force publique**, créée pour l'avantage de tous et non pour l'intérêt particulier de ceux à qui elle est confiée.",
+                "**Article 13** : pour financer la force publique et l'administration, une **contribution commune** est indispensable ; elle doit être répartie également entre tous les citoyens en fonction de leurs moyens (« en raison de leurs facultés »).",
+                "**Article 14** : les citoyens ont le droit, eux-mêmes ou par leurs représentants, de constater la nécessité de l'impôt, d'y consentir librement, d'en suivre l'usage et d'en fixer le montant (quotité), l'assiette, le recouvrement et la durée.",
+                "**Article 15** : la société a le droit de **demander des comptes** à tout agent public sur son administration.",
+                "**Article 16** : une société où la garantie des droits n'est pas assurée et où la **séparation des pouvoirs** n'est pas déterminée n'a pas de Constitution.",
+                "**Article 17** : la **propriété** est un droit inviolable et sacré ; nul ne peut en être privé, sauf si la nécessité publique, légalement constatée, l'exige clairement, et à condition d'une **juste et préalable indemnité**."
+              ]
+            }
+          ]
+        }
+      ],
+      "keyFacts": [
+        "La Déclaration des droits de l'homme et du citoyen date de **1789** et compte **17 articles**.",
+        "Article 1 : les hommes naissent et demeurent **libres et égaux en droits**.",
+        "Article 2 : les droits naturels sont **la liberté, la propriété, la sûreté et la résistance à l'oppression**.",
+        "Article 3 : la souveraineté réside essentiellement dans la **Nation**.",
+        "Article 6 : la loi est **l'expression de la volonté générale** et elle est la même pour tous.",
+        "Article 9 : toute personne est **présumée innocente** tant qu'elle n'a pas été déclarée coupable.",
+        "Articles 10 et 11 : liberté d'opinion, même religieuse, et libre communication des pensées, dans les limites fixées par la loi.",
+        "Article 16 : sans garantie des droits ni **séparation des pouvoirs**, il n'y a pas de Constitution."
+      ],
+      "quiz": [
+        {
+          "q": "Combien d'articles compte la Déclaration des droits de l'homme et du citoyen de 1789 ?",
+          "choices": ["10", "12", "17", "25"],
+          "answer": 2,
+          "explain": "La Déclaration reproduite en annexe du livret comprend 17 articles.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Selon l'article 2, quels sont les droits naturels et imprescriptibles de l'homme ?",
+          "choices": [
+            "La liberté, l'égalité, la fraternité et la laïcité",
+            "La liberté, la propriété, la sûreté et la résistance à l'oppression",
+            "Le travail, le logement, la santé et l'éducation",
+            "La liberté, la sécurité, le vote et la justice"
+          ],
+          "answer": 1,
+          "explain": "L'article 2 énumère quatre droits naturels : la liberté, la propriété, la sûreté et la résistance à l'oppression.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Selon l'article 3, où réside essentiellement le principe de toute souveraineté ?",
+          "choices": ["Dans le chef de l'État", "Dans le Parlement", "Dans la Nation", "Dans les tribunaux"],
+          "answer": 2,
+          "explain": "L'article 3 affirme que la souveraineté réside essentiellement dans la Nation ; nul ne peut exercer une autorité qui n'en émane pas.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Comment l'article 4 définit-il la liberté ?",
+          "choices": [
+            "Faire tout ce que l'on veut sans limite",
+            "Faire tout ce que l'État autorise expressément",
+            "Pouvoir faire tout ce qui ne nuit pas à autrui",
+            "Pouvoir désobéir à une loi injuste"
+          ],
+          "answer": 2,
+          "explain": "La liberté consiste à pouvoir faire tout ce qui ne nuit pas à autrui ; ses bornes ne peuvent être fixées que par la loi.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "D'après l'article 6, la loi est :",
+          "choices": [
+            "L'expression de la volonté générale",
+            "La décision du gouvernement",
+            "L'expression de la volonté du chef de l'État",
+            "Un ensemble de règles religieuses"
+          ],
+          "answer": 0,
+          "explain": "L'article 6 pose que la loi exprime la volonté générale et qu'elle doit être la même pour tous.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Votre voisin est arrêté par la police. Des personnes de l'immeuble disent qu'il est forcément coupable. Que prévoit la Déclaration de 1789 ?",
+          "choices": [
+            "Il est coupable dès son arrestation",
+            "Il est présumé innocent jusqu'à ce qu'il soit déclaré coupable",
+            "Il doit prouver lui-même son innocence pour être libéré",
+            "Les voisins peuvent décider de sa culpabilité"
+          ],
+          "answer": 1,
+          "explain": "L'article 9 pose la présomption d'innocence : toute personne est présumée innocente jusqu'à ce qu'elle ait été déclarée coupable.",
+          "kind": "situation"
+        },
+        {
+          "q": "Une collègue pratique une religion différente de la vôtre et en parle calmement. Un autre collègue veut la faire sanctionner pour ses convictions. Que dit la Déclaration ?",
+          "choices": [
+            "Les opinions religieuses sont interdites au travail dans tous les cas",
+            "Seules les opinions de la majorité sont protégées",
+            "Nul ne doit être inquiété pour ses opinions, même religieuses, si leur manifestation ne trouble pas l'ordre public",
+            "Il faut une autorisation de l'État pour exprimer une opinion religieuse"
+          ],
+          "answer": 2,
+          "explain": "L'article 10 protège les opinions, même religieuses, tant que leur manifestation ne trouble pas l'ordre public établi par la loi.",
+          "kind": "situation"
+        },
+        {
+          "q": "Un ami veut publier un article critiquant une décision publique. Selon l'article 11 de la Déclaration :",
+          "choices": [
+            "Il doit obtenir une autorisation préalable",
+            "Il peut parler, écrire et imprimer librement, mais répond des abus de cette liberté dans les cas prévus par la loi",
+            "Toute critique des autorités est interdite",
+            "Il ne peut s'exprimer qu'oralement"
+          ],
+          "answer": 1,
+          "explain": "La libre communication des pensées et des opinions est l'un des droits les plus précieux, avec une responsabilité en cas d'abus prévu par la loi.",
+          "kind": "situation"
+        },
+        {
+          "q": "Selon l'article 16, une société n'a pas de Constitution lorsque :",
+          "choices": [
+            "Elle n'a pas de drapeau national",
+            "La garantie des droits n'est pas assurée et la séparation des pouvoirs n'est pas déterminée",
+            "Elle n'organise pas de référendum chaque année",
+            "Elle n'a pas de religion officielle"
+          ],
+          "answer": 1,
+          "explain": "L'article 16 lie l'existence d'une Constitution à la garantie des droits et à la séparation des pouvoirs.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "À quelle condition une personne peut-elle être privée de sa propriété selon l'article 17 ?",
+          "choices": [
+            "Jamais, en aucun cas",
+            "Sur simple décision d'un agent public",
+            "Si la nécessité publique, légalement constatée, l'exige, avec une juste et préalable indemnité",
+            "Si un voisin en a davantage besoin"
+          ],
+          "answer": 2,
+          "explain": "La propriété est un droit inviolable et sacré, mais une privation est possible pour nécessité publique légalement constatée, contre une juste et préalable indemnité.",
+          "kind": "knowledge"
+        }
+      ]
+    },
+    {
+      "id": "a2",
+      "title": "La Charte des droits et devoirs du citoyen français",
+      "lessons": [
+        {
+          "title": "Principes, valeurs et symboles de la République française",
+          "blocks": [
+            {
+              "type": "callout",
+              "text": "La Charte est prévue par l'**article 21-24 du code civil**. Elle rappelle les principes et valeurs essentiels de la République et présente les droits et devoirs du citoyen qui découlent de la Constitution ou de la loi."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Le peuple français se reconnaît dans la **Déclaration des droits de l'homme et du citoyen du 26 août 1789** et dans les principes démocratiques issus de son histoire ; il respecte les symboles républicains.",
+                "Emblème national : le **drapeau tricolore bleu, blanc, rouge**. Hymne national : **La Marseillaise**. Devise : « **Liberté, Égalité, Fraternité** ». Fête nationale : le **14 juillet**. **Marianne** représente symboliquement la République. Langue de la République : le **français**.",
+                "La France est une République **indivisible, laïque, démocratique et sociale**, dont les principes sont fixés par la **Constitution du 4 octobre 1958**.",
+                "**Indivisible** : la souveraineté nationale appartient au peuple, qui l'exerce par ses représentants élus et par le **référendum** ; aucune partie du peuple ni aucun individu ne peut se l'approprier.",
+                "**Laïque** : la République assure la **liberté de conscience** et respecte toutes les croyances ; chacun peut croire, ne pas croire ou changer de religion ; elle garantit le libre exercice des cultes mais n'en reconnaît, n'en salarie et n'en subventionne aucun ; l'État et les religions sont **séparés**.",
+                "**Démocratique** : la République repose sur le gouvernement « du peuple, par le peuple et pour le peuple » ; le suffrage, direct ou indirect, est toujours **universel, égal et secret** ; la loi exprimant la volonté générale, chacun doit la respecter, et nul ne peut être forcé de faire ce qu'elle n'impose pas ; la justice, rendue au nom du peuple français, est **indépendante** ; la force publique fait respecter la loi et les décisions de justice.",
+                "**Sociale** : la Nation assure à l'individu et à la famille les conditions nécessaires à leur développement.",
+                "La République garantit à tous la **sécurité des personnes et des biens**.",
+                "La République participe à l'**Union européenne**, formée d'États qui ont librement choisi d'exercer ensemble certaines de leurs compétences."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Les droits et les devoirs du citoyen français",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Tout être humain, quelle que soit sa race, sa religion ou sa croyance, possède des **droits inaliénables**, garantis à chacun sur le territoire de la République ; chacun doit aussi les respecter. Le citoyen français a en plus des droits et devoirs particuliers : participer à l'**élection des représentants** du peuple, concourir à la **défense nationale** ou participer aux **jurys d'assises**."
+            },
+            {
+              "type": "p",
+              "text": "**Liberté**"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Les êtres humains naissent et demeurent libres et égaux en droits ; la liberté consiste à pouvoir faire tout ce qui ne nuit pas à autrui.",
+                "La **dignité** de la personne doit être respectée ; le **corps humain est inviolable**.",
+                "Chacun peut avoir ses opinions sans être inquiété, tant que leur expression ne trouble pas l'ordre public ; tout citoyen peut parler, écrire et imprimer librement, en répondant des abus prévus par la loi.",
+                "Chacun a droit au respect de sa **vie privée**.",
+                "Nul ne peut être accusé, arrêté ou détenu hors des cas et formes prévus par la loi ; chacun est **présumé innocent** tant qu'il n'a pas été jugé coupable.",
+                "Chacun peut créer une **association** ou rejoindre celle de son choix, adhérer librement à un parti ou groupement politique et défendre ses droits par l'**action syndicale**.",
+                "Tout citoyen français de **18 ans** jouissant de ses droits civiques est **électeur** ; tout électeur peut se porter candidat dans les conditions prévues par la loi. **Voter est un droit et aussi un devoir civique.**",
+                "Chacun a droit au respect des biens dont il est propriétaire."
+              ]
+            },
+            {
+              "type": "p",
+              "text": "**Égalité**"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Tous les citoyens sont égaux devant la loi, sans distinction de **sexe, d'origine, de race ou de religion** ; la loi est la même pour tous, qu'elle protège ou qu'elle punisse.",
+                "L'homme et la femme ont les **mêmes droits dans tous les domaines**.",
+                "La République favorise l'égal accès des femmes et des hommes aux mandats électoraux, aux fonctions électives et aux responsabilités professionnelles et sociales.",
+                "Chaque conjoint peut librement exercer une profession, percevoir ses revenus et en disposer comme il le souhaite après avoir contribué aux charges du ménage.",
+                "Les parents exercent **en commun l'autorité parentale** ; ils assurent l'éducation des enfants et préparent leur avenir.",
+                "L'**instruction est obligatoire** pour les filles et les garçons **jusqu'à 16 ans** ; organiser un enseignement public **gratuit et laïque** à tous les niveaux est un devoir de l'État.",
+                "Les citoyens français, étant égaux, peuvent accéder à tout **emploi public** selon leurs capacités."
+              ]
+            },
+            {
+              "type": "p",
+              "text": "**Fraternité**"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Tout citoyen français participe à la **défense** et à la **cohésion** de la Nation.",
+                "Une personne devenue française peut être **déchue de la nationalité** si elle s'est soustraite à ses obligations de défense ou si elle a commis des actes contraires aux intérêts fondamentaux de la France.",
+                "Chacun doit contribuer aux dépenses de la Nation, selon ses capacités financières, en payant des **impôts** et des **cotisations sociales**.",
+                "La Nation garantit à tous la **protection de la santé**, la sécurité matérielle et le droit à des **congés** ; une personne incapable de travailler à cause de son âge, de son état physique ou mental ou de la situation économique a droit à des moyens convenables d'existence de la part de la collectivité."
+              ]
+            }
+          ]
+        }
+      ],
+      "keyFacts": [
+        "La Charte est prévue par l'**article 21-24 du code civil**.",
+        "Symboles : drapeau **bleu, blanc, rouge**, hymne **La Marseillaise**, devise « **Liberté, Égalité, Fraternité** », fête nationale le **14 juillet**, **Marianne**, langue **française**.",
+        "La France est une République **indivisible, laïque, démocratique et sociale** (Constitution du **4 octobre 1958**).",
+        "Laïcité : liberté de croire, de ne pas croire ou de changer de religion ; l'État et les religions sont séparés.",
+        "Le suffrage est toujours **universel, égal et secret** ; voter est un droit et un devoir civique.",
+        "Tout citoyen français de **18 ans** jouissant de ses droits civiques est électeur.",
+        "L'homme et la femme ont les mêmes droits dans tous les domaines ; les parents exercent en commun l'autorité parentale.",
+        "L'instruction est obligatoire pour les enfants des deux sexes jusqu'à **16 ans**."
+      ],
+      "quiz": [
+        {
+          "q": "Quel article du code civil prévoit la Charte des droits et devoirs du citoyen français ?",
+          "choices": ["Article 1er", "Article 21-24", "Article 49-3", "Article 89"],
+          "answer": 1,
+          "explain": "La Charte est établie en application de l'article 21-24 du code civil.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "D'après la Charte, la France est une République :",
+          "choices": [
+            "Fédérale, laïque, démocratique et sociale",
+            "Indivisible, religieuse, démocratique et libérale",
+            "Indivisible, laïque, démocratique et sociale",
+            "Unitaire, neutre, parlementaire et sociale"
+          ],
+          "answer": 2,
+          "explain": "La Charte rappelle que la France est une République indivisible, laïque, démocratique et sociale, selon la Constitution du 4 octobre 1958.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Quelles sont les caractéristiques du suffrage selon la Charte ?",
+          "choices": [
+            "Universel, égal et secret",
+            "Réservé aux propriétaires",
+            "Public et à main levée",
+            "Obligatoire et censitaire"
+          ],
+          "answer": 0,
+          "explain": "Direct ou indirect, le suffrage est toujours universel, égal et secret.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Un ami vous dit qu'il veut quitter sa religion mais craint que ce soit interdit en France. Que dit la Charte ?",
+          "choices": [
+            "Changer de religion nécessite l'accord de l'État",
+            "Chacun est libre de croire, de ne pas croire ou de changer de religion",
+            "On ne peut changer de religion qu'à sa majorité et devant un juge",
+            "La République impose une religion officielle"
+          ],
+          "answer": 1,
+          "explain": "La République laïque assure la liberté de conscience : chacun est libre de croire, de ne pas croire ou de changer de religion.",
+          "kind": "situation"
+        },
+        {
+          "q": "Une association religieuse demande à la mairie de payer le salaire de son responsable du culte. Selon le principe de laïcité rappelé par la Charte :",
+          "choices": [
+            "La République doit salarier tous les ministres du culte",
+            "La République salarie seulement la religion majoritaire",
+            "La République garantit le libre exercice des cultes mais n'en salarie ni n'en subventionne aucun",
+            "La République interdit l'exercice des cultes"
+          ],
+          "answer": 2,
+          "explain": "La République garantit le libre exercice des cultes mais n'en reconnaît, n'en salarie ni n'en subventionne aucun ; l'État et les religions sont séparés.",
+          "kind": "situation"
+        },
+        {
+          "q": "À partir de quel âge un citoyen français jouissant de ses droits civiques est-il électeur ?",
+          "choices": ["16 ans", "18 ans", "21 ans", "25 ans"],
+          "answer": 1,
+          "explain": "Tout citoyen français âgé de dix-huit ans et jouissant de ses droits civiques est électeur.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Dans un couple marié, le mari veut interdire à sa femme de travailler et de gérer son salaire. Que prévoit la Charte ?",
+          "choices": [
+            "Le mari décide seul de l'activité de son épouse",
+            "Chaque conjoint peut librement exercer une profession, percevoir ses revenus et en disposer après avoir contribué aux charges communes",
+            "La femme doit demander l'autorisation de son mari pour ouvrir un compte",
+            "Seul le conjoint le mieux payé peut travailler"
+          ],
+          "answer": 1,
+          "explain": "La Charte affirme l'égalité de l'homme et de la femme et la liberté de chaque conjoint d'exercer une profession et de disposer de ses revenus.",
+          "kind": "situation"
+        },
+        {
+          "q": "Jusqu'à quel âge l'instruction est-elle obligatoire selon la Charte ?",
+          "choices": ["14 ans", "15 ans", "16 ans", "18 ans"],
+          "answer": 2,
+          "explain": "L'instruction est obligatoire pour les enfants des deux sexes jusqu'à seize ans.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Dans quel cas une personne devenue française peut-elle être déchue de la nationalité française selon la Charte ?",
+          "choices": [
+            "Si elle ne vote pas à une élection",
+            "Si elle déménage dans une autre région",
+            "Si elle s'est soustraite à ses obligations de défense ou a commis des actes contraires aux intérêts fondamentaux de la France",
+            "Si elle change de religion"
+          ],
+          "answer": 2,
+          "explain": "La déchéance peut viser une personne qui a acquis la nationalité et qui a manqué à ses obligations de défense ou agi contre les intérêts fondamentaux de la France.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Selon la Charte, comment chacun contribue-t-il aux dépenses de la Nation ?",
+          "choices": [
+            "Par le paiement d'impôts et de cotisations sociales, selon ses capacités financières",
+            "Par un montant identique pour tous, quels que soient les revenus",
+            "Uniquement par le service militaire",
+            "Par des dons volontaires aux associations"
+          ],
+          "answer": 0,
+          "explain": "Le principe de fraternité implique de contribuer aux dépenses de la Nation, selon ses capacités financières, par les impôts et les cotisations sociales.",
+          "kind": "knowledge"
+        }
+      ]
+    },
+    {
+      "id": "a3",
+      "title": "Ressources",
+      "lessons": [
+        {
+          "title": "Textes de référence en ligne",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                "**Le préambule de la Constitution de 1946** : https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/preambule-de-la-constitution-du-27-octobre-1946",
+                "**La Constitution de la Vème République** : https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/texte-integral-de-la-constitution-du-4-octobre-1958-en-vigueur",
+                "**La Charte de l'environnement de 2004** : https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/charte-de-l-environnement-de-2004",
+                "**Le référentiel de l'examen civique** (Annexe I de l'arrêté du **10 octobre 2025** relatif au programme, aux épreuves et aux modalités d'organisation de l'examen civique) : https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000052381620"
+              ]
+            },
+            {
+              "type": "callout",
+              "text": "Le livret du citoyen (édition mai 2026, Ministère de l'Intérieur, Direction générale des étrangers en France) est téléchargeable sur https://www.immigration.interieur.gouv.fr"
+            }
+          ]
+        }
+      ],
+      "keyFacts": [],
+      "quiz": []
+    }
+  ]
+}

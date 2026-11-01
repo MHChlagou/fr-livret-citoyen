@@ -1,0 +1,58 @@
+import { escapeHtml, percent, celebrate } from "../util.js";
+import { findSection, nextSection } from "../data.js";
+import { recordQuiz, getSection, PASS_RATIO } from "../store.js";
+import { runQuiz, renderReview } from "../quiz.js";
+
+export function renderSectionQuiz(root, ctx, sectionId) {
+  const section = findSection(ctx.course, sectionId);
+  if (!section || section.quiz.length === 0) {
+    location.replace(section ? `#/section/${encodeURIComponent(section.id)}` : "#/");
+    return;
+  }
+  const questions = ctx.course.questions.filter((question) => question.sectionId === section.id);
+  const following = nextSection(ctx.course, section.id);
+
+  function start() {
+    const dispose = runQuiz(root, questions, {
+      mode: "practice",
+      heading: section.title,
+      onFinish: showResult,
+    });
+    ctx.onLeave(dispose);
+  }
+
+  function showResult({ answers, correct, total }) {
+    const ratio = correct / total;
+    const previousBest = getSection(section.id).best;
+    recordQuiz(section.id, ratio);
+    const isPassed = ratio >= PASS_RATIO;
+    if (isPassed) celebrate();
+    const isNewRecord = previousBest !== null && ratio > previousBest;
+
+    root.innerHTML = `
+      <div class="quiz view">
+        <section class="card result">
+          <span class="eyebrow">${escapeHtml(section.title)}</span>
+          <div class="score">${correct} / ${total}</div>
+          <p><span class="pill ${isPassed ? "ok" : "bad"}">${percent(ratio)} % · ${isPassed ? "Section validée" : "Seuil : 80 %"}</span>
+          ${isNewRecord ? ` <span class="pill warn">Nouveau record</span>` : ""}</p>
+          <p class="verdict">${isPassed
+            ? "Bravo ! Vous maîtrisez cette section. Passez à la suite."
+            : "Encore un effort : relisez les points à retenir puis retentez le quiz. Les questions et les réponses sont mélangées à chaque essai."}</p>
+          <div class="btn-row">
+            ${isPassed && following
+              ? `<a class="btn btn-primary" href="#/section/${encodeURIComponent(following.id)}">Section suivante →</a>`
+              : ""}
+            ${isPassed && !following ? `<a class="btn btn-primary" href="#/exam">Examen blanc →</a>` : ""}
+            <button class="btn ${isPassed ? "btn-ghost" : "btn-primary"}" type="button" data-retry>Recommencer le quiz</button>
+            <a class="btn btn-ghost" href="#/section/${encodeURIComponent(section.id)}">Revoir la leçon</a>
+          </div>
+          ${renderReview(answers)}
+        </section>
+      </div>`;
+    root.querySelector("[data-retry]").addEventListener("click", start);
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  }
+
+  start();
+}

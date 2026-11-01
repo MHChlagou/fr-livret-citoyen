@@ -1,0 +1,508 @@
+{
+  "id": "p2",
+  "number": 2,
+  "title": "Système institutionnel et politique",
+  "icon": "🏛️",
+  "intro": "Cette partie présente le fonctionnement de la démocratie française et de l'État de droit, les institutions et le droit de vote, l'organisation territoriale de la République (communes, départements, régions, outre-mer) et l'Union européenne.",
+  "sections": [
+    {
+      "id": "p2s1",
+      "title": "Démocratie et État de droit",
+      "lessons": [
+        {
+          "title": "Introduction",
+          "blocks": [
+            { "type": "p", "text": "La France est une **démocratie** et un **État de droit**, c'est-à-dire un système dans lequel la loi doit être respectée par tous, y compris par l'État. L'État de droit est une condition de la démocratie, en opposition à l'État arbitraire." },
+            { "type": "p", "text": "Le principe de la démocratie est inscrit à l'**article 2 de la Constitution de 1958** :" },
+            { "type": "quote", "text": "le Gouvernement du peuple, par le peuple et pour le peuple", "source": "Article 2 de la Constitution de 1958" },
+            { "type": "p", "text": "Ce pouvoir s'exerce à travers un système institutionnel structuré par la Constitution qui, en France, est approuvée par **référendum**, c'est-à-dire par un vote où les citoyens sont consultés directement." },
+            { "type": "p", "text": "Notre Constitution actuelle est celle de la **Vème République**, adoptée en **1958**." },
+            { "type": "callout", "text": "Les modifications de la Constitution doivent être approuvées **par référendum** ou **par le Parlement réuni en Congrès**." },
+            { "type": "p", "text": "Les décisions de l'État respectent la Constitution française et la **Déclaration des droits de l'homme et du citoyen de 1789**, citée dans le préambule de la Constitution, où est aussi définie l'organisation de l'État." },
+            { "type": "p", "text": "Les principes de l'État de droit sont la **protection des libertés fondamentales**, la **séparation des trois pouvoirs** et l'**indépendance de la justice**. Les trois pouvoirs sont :" },
+            { "type": "list", "items": [
+              "le **pouvoir législatif** : élaborer et voter des lois (députés et sénateurs) ;",
+              "le **pouvoir exécutif** : définir la politique de la Nation et mettre en œuvre les lois (gouvernement) ;",
+              "le **pouvoir judiciaire** : rendre la justice (les juges)."
+            ] },
+            { "type": "p", "text": "Par ailleurs, les **partis politiques** se forment et exercent leur activité librement." },
+            { "type": "p", "text": "L'**administration** exerce également ses missions dans le respect de la Constitution, des lois et des principes républicains. Elle agit sous le contrôle du juge." }
+          ]
+        },
+        {
+          "title": "Les principales institutions de l'État",
+          "blocks": [
+            { "type": "list", "items": [
+              "**Le Président de la République**, chef de l'État et des armées, est élu au **suffrage universel direct** pour **cinq ans**, renouvelables **une fois**. Il nomme le Gouvernement (les ministres), issu de la majorité aux élections législatives, sur proposition du **Premier ministre** qui en dirige l'action.",
+              "**Le Parlement**, composé de l'**Assemblée nationale** et du **Sénat**, vote les lois et contrôle le Gouvernement. Les **députés** (Assemblée nationale), au nombre de **577**, sont élus au suffrage universel direct tous les **cinq ans** lors des élections législatives. Les **sénateurs** (Sénat), au nombre de **348**, sont élus au **suffrage universel indirect** pour un mandat de **six ans**.",
+              "**La justice** est rendue par les juges. Elle règle les litiges entre les particuliers ou les entreprises, et entre les citoyens et l'administration. Elle sanctionne les infractions aux règles de droit par des peines prévues par la loi (exemples : emprisonnement, amende...)."
+            ] },
+            { "type": "callout", "text": "Seuls les candidats qui ont obtenu **500 parrainages d'élus** peuvent se présenter à l'élection présidentielle." },
+            { "type": "p", "text": "Une institution spécifique, **le Conseil constitutionnel**, est chargée de veiller à la conformité des lois avec la Constitution. Il contrôle aussi la régularité des élections nationales." }
+          ]
+        },
+        {
+          "title": "Le droit de vote",
+          "blocks": [
+            { "type": "p", "text": "Le droit de vote est le droit reconnu aux citoyens d'exprimer leur volonté à l'occasion d'une élection." },
+            { "type": "p", "text": "En France, le **suffrage est universel**, c'est-à-dire que l'ensemble des citoyens vote." },
+            { "type": "timeline", "items": [
+              { "date": "1848", "text": "Premier vote au suffrage universel, qui ne concernait que les hommes en âge de voter." },
+              { "date": "Avril 1944", "text": "Les femmes françaises obtiennent le droit de vote." },
+              { "date": "Avril 1945", "text": "Les femmes votent pour la première fois, un an plus tard." }
+            ] },
+            { "type": "p", "text": "À ce jour, pour voter, il faut :" },
+            { "type": "list", "items": [
+              "avoir la **nationalité française** (ou être ressortissant d'un État membre de l'Union européenne pour les **élections municipales** ou les **élections du Parlement européen**) ;",
+              "être **majeur** (avoir au moins **18 ans**) ;",
+              "ne pas avoir été **privé de ses droits civiques** ;",
+              "être **inscrit sur les listes électorales** (possibilité de s'inscrire sur internet ou à la mairie de son lieu de résidence)."
+            ] },
+            { "type": "p", "text": "Si l'une de ces conditions n'est pas remplie, la personne ne pourra pas voter." },
+            { "type": "callout", "text": "La **privation des droits civiques** est une sanction pour des infractions graves, qui consiste à retirer à une personne certains de ses droits fondamentaux, tels que le droit de vote ou de se présenter à une élection." },
+            { "type": "p", "text": "Le vote est **personnel et secret**. Il se déroule dans un bureau de vote, en passant par un **isoloir** afin de mettre son bulletin de vote dans une enveloppe, qui est ensuite déposée dans une **urne**. Il est interdit d'entrer à plusieurs dans un isoloir ainsi que de communiquer avec une personne située dans un autre isoloir." },
+            { "type": "p", "text": "Lors des élections, les candidats disposent, dans chaque commune, de **panneaux d'affichage électoral**, où figure leur présentation afin d'informer les citoyens. **Aucune dégradation** n'est tolérée sur ces panneaux." },
+            { "type": "callout", "text": "Pour voter, quel document dois-je présenter à mon arrivée en bureau de vote ? Les Français ou les ressortissants de l'Union européenne doivent présenter une **pièce d'identité** (plus d'informations sur le site : https://www.service-public.gouv.fr/particuliers/vosdroits/F1361). La pièce d'identité n'est pas obligatoire dans les **communes de moins de 1 000 habitants**. Mais, en cas de doute, le président du bureau de vote peut vous demander de prouver votre identité par tout moyen." },
+            { "type": "p", "text": "**Les principales élections en France.** Les citoyens sont tous les Françaises et Français âgés de plus de 18 ans et qui n'ont pas été privés du droit de vote par une décision de justice." },
+            { "type": "table", "headers": ["Qui est élu ?", "Par qui ?", "Ce qu'indique le livret"], "rows": [
+              ["Conseillers régionaux (régions)", "Les citoyens", "Élus pour 6 ans"],
+              ["Conseillers départementaux (départements)", "Les citoyens", "Élus pour 6 ans"],
+              ["Maire, conseillers municipaux (communes)", "Les citoyens", "Élus pour 6 ans"],
+              ["Assemblée nationale (Parlement)", "Les citoyens", "Le Parlement vote les lois au nom du peuple"],
+              ["Sénat (Parlement)", "Les élus des régions, des départements et des communes élisent les sénateurs", "Le Parlement vote les lois au nom du peuple"],
+              ["Président de la République", "Les citoyens", "Élu pour 5 ans, il nomme le Premier ministre"]
+            ] },
+            { "type": "p", "text": "Le **Gouvernement** détermine et conduit la politique de la Nation. Le **Parlement** contrôle le Gouvernement." }
+          ]
+        }
+      ],
+      "keyFacts": [
+        "La Constitution actuelle est celle de la **Vème République**, adoptée en **1958** ; son **article 2** définit la démocratie : « le Gouvernement du peuple, par le peuple et pour le peuple ».",
+        "La Constitution est modifiée par **référendum** ou par le **Parlement réuni en Congrès**.",
+        "L'État de droit repose sur la protection des libertés fondamentales, la **séparation des trois pouvoirs** (législatif, exécutif, judiciaire) et l'indépendance de la justice.",
+        "Le **Président de la République** est élu au suffrage universel direct pour **5 ans**, renouvelables une fois ; il faut **500 parrainages d'élus** pour être candidat.",
+        "Le Parlement : **577 députés** élus au suffrage universel direct tous les 5 ans et **348 sénateurs** élus au suffrage universel indirect pour 6 ans.",
+        "Le **Conseil constitutionnel** veille à la conformité des lois avec la Constitution et contrôle la régularité des élections nationales.",
+        "Suffrage universel en **1848** (hommes seulement) ; droit de vote des femmes en **avril 1944**, premier vote en **avril 1945**.",
+        "Pour voter : nationalité française (ou UE pour les municipales et européennes), au moins **18 ans**, ne pas être privé de ses droits civiques, être **inscrit sur les listes électorales**.",
+        "Le vote est **personnel et secret** ; une pièce d'identité est demandée, sauf dans les communes de moins de **1 000 habitants**.",
+        "Les conseillers municipaux, départementaux et régionaux sont élus pour **6 ans**."
+      ],
+      "quiz": [
+        {
+          "q": "Quel article de la Constitution de 1958 inscrit le principe de la démocratie : « le Gouvernement du peuple, par le peuple et pour le peuple » ?",
+          "choices": ["L'article 1er", "L'article 2", "L'article 3", "L'article 5"],
+          "answer": 1,
+          "explain": "Le livret indique que le principe de la démocratie est inscrit à l'article 2 de la Constitution de 1958.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Comment les modifications de la Constitution doivent-elles être approuvées ?",
+          "choices": ["Par un décret du Président de la République", "Par le Conseil constitutionnel seul", "Par référendum ou par le Parlement réuni en Congrès", "Par un vote du Sénat uniquement"],
+          "answer": 2,
+          "explain": "Les modifications de la Constitution doivent être approuvées par référendum ou par le Parlement réuni en Congrès.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Quel est le rôle du pouvoir exécutif ?",
+          "choices": ["Définir la politique de la Nation et mettre en œuvre les lois", "Élaborer et voter les lois", "Rendre la justice", "Contrôler la régularité des élections nationales"],
+          "answer": 0,
+          "explain": "Le pouvoir exécutif (le gouvernement) définit la politique de la Nation et met en œuvre les lois ; le législatif vote les lois et le judiciaire rend la justice.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Pour combien de temps le Président de la République est-il élu ?",
+          "choices": ["Sept ans, renouvelables une fois", "Six ans, non renouvelables", "Quatre ans, renouvelables sans limite", "Cinq ans, renouvelables une fois"],
+          "answer": 3,
+          "explain": "Le Président est élu au suffrage universel direct pour cinq ans, renouvelables une fois.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Combien y a-t-il de députés à l'Assemblée nationale ?",
+          "choices": ["348", "577", "500", "101"],
+          "answer": 1,
+          "explain": "Les députés sont au nombre de 577, élus au suffrage universel direct tous les cinq ans.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Comment sont élus les 348 sénateurs ?",
+          "choices": ["Au suffrage universel direct, pour cinq ans", "Ils sont nommés par le Président de la République", "Au suffrage universel indirect, pour six ans", "Par l'Assemblée nationale, pour six ans"],
+          "answer": 2,
+          "explain": "Les sénateurs sont élus au suffrage universel indirect pour un mandat de six ans, par les élus des régions, des départements et des communes.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Quelle institution veille à la conformité des lois avec la Constitution ?",
+          "choices": ["Le Sénat", "Le Conseil constitutionnel", "Le Gouvernement", "Le Parlement réuni en Congrès"],
+          "answer": 1,
+          "explain": "Le Conseil constitutionnel veille à la conformité des lois avec la Constitution et contrôle aussi la régularité des élections nationales.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Quand les femmes françaises ont-elles obtenu le droit de vote ?",
+          "choices": ["En 1848", "En avril 1945", "En 1958", "En avril 1944"],
+          "answer": 3,
+          "explain": "Les femmes ont obtenu le droit de vote en avril 1944 et ont voté pour la première fois en avril 1945.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Votre voisine, de nationalité italienne, vit en France et est inscrite sur les listes électorales. À quelles élections peut-elle voter en France ?",
+          "choices": ["Aux élections municipales et aux élections du Parlement européen", "À l'élection présidentielle uniquement", "À toutes les élections, comme une Française", "À aucune élection, car elle n'est pas française"],
+          "answer": 0,
+          "explain": "Les ressortissants d'un État membre de l'Union européenne peuvent voter aux élections municipales et aux élections du Parlement européen.",
+          "kind": "situation"
+        },
+        {
+          "q": "Le jour de l'élection, un ami veut entrer avec vous dans l'isoloir pour vous conseiller. Que faites-vous ?",
+          "choices": ["J'accepte, car il ne votera pas à ma place", "Je refuse : le vote est personnel et secret et il est interdit d'entrer à plusieurs dans un isoloir", "J'accepte si le président du bureau de vote est d'accord", "Je lui parle depuis l'isoloir voisin"],
+          "answer": 1,
+          "explain": "Le vote est personnel et secret : il est interdit d'entrer à plusieurs dans un isoloir et de communiquer avec une personne située dans un autre isoloir.",
+          "kind": "situation"
+        },
+        {
+          "q": "Vous habitez une commune de 800 habitants et arrivez au bureau de vote sans pièce d'identité. Que prévoit la règle ?",
+          "choices": ["Vous ne pouvez en aucun cas voter", "Vous devez revenir avec un passeport uniquement", "La pièce d'identité n'est pas obligatoire, mais en cas de doute le président du bureau peut vous demander de prouver votre identité par tout moyen", "Un autre électeur peut voter à votre place"],
+          "answer": 2,
+          "explain": "La pièce d'identité n'est pas obligatoire dans les communes de moins de 1 000 habitants, mais le président du bureau de vote peut demander une preuve d'identité par tout moyen en cas de doute.",
+          "kind": "situation"
+        },
+        {
+          "q": "Pendant une campagne électorale, vous voyez quelqu'un déchirer l'affiche d'un candidat sur un panneau d'affichage électoral. Ce comportement est-il permis ?",
+          "choices": ["Oui, si l'on n'est pas d'accord avec ce candidat", "Oui, après le premier tour", "Oui, si la mairie ne le voit pas", "Non, aucune dégradation n'est tolérée sur ces panneaux"],
+          "answer": 3,
+          "explain": "Les panneaux d'affichage électoral informent les citoyens et aucune dégradation n'y est tolérée.",
+          "kind": "situation"
+        }
+      ]
+    },
+    {
+      "id": "p2s2",
+      "title": "Organisation territoriale de la République",
+      "lessons": [
+        {
+          "title": "Introduction",
+          "blocks": [
+            { "type": "p", "text": "En France, dans le cadre de la **décentralisation**, l'État transfère des compétences et des moyens à d'autres autorités, appelées **collectivités territoriales**. Il en existe plusieurs niveaux : les **communes**, les **départements**, les **régions** et les **collectivités d'outre-mer**." },
+            { "type": "p", "text": "Dans ces territoires, l'État est représenté par les **préfets de région et de département** (ou par les **hauts commissaires** dans certaines collectivités d'outre-mer)." }
+          ]
+        },
+        {
+          "title": "Les communes",
+          "blocks": [
+            { "type": "p", "text": "La France compte **34 875 communes** au **1er janvier 2025**." },
+            { "type": "p", "text": "Chaque commune est gérée par un **maire** et un **conseil municipal** élu pour **six ans**. Les élections municipales permettent aux citoyens français et aux ressortissants de l'Union européenne de voter et de se présenter comme candidats." },
+            { "type": "p", "text": "Les communes sont responsables notamment :" },
+            { "type": "list", "items": [
+              "des **écoles primaires publiques** (maternelles et élémentaires) ;",
+              "des activités sportives et culturelles ;",
+              "de l'entretien des **routes communales**."
+            ] },
+            { "type": "p", "text": "Elles tiennent les **registres de l'état civil**, c'est-à-dire qu'elles enregistrent les naissances, les mariages, les décès." },
+            { "type": "p", "text": "Enfin, les communes sont regroupées en **intercommunalités** (communautés de communes, métropoles...), qui gèrent des services publics : eau, assainissement, déchets, transports urbains..." }
+          ]
+        },
+        {
+          "title": "Les départements",
+          "blocks": [
+            { "type": "p", "text": "Ils sont administrés par les **conseils départementaux**. Ils sont notamment responsables :" },
+            { "type": "list", "items": [
+              "des **collèges publics** ;",
+              "de l'**action sociale** ;",
+              "de l'entretien des **routes départementales** ;",
+              "de la **protection de l'enfance** ;",
+              "de l'**aide aux personnes âgées**."
+            ] },
+            { "type": "p", "text": "La France compte **101 départements**, dont **96 en métropole** et **5 en outre-mer**. Le département le plus récent est **Mayotte**, créé en **2011**." }
+          ]
+        },
+        {
+          "title": "Les régions",
+          "blocks": [
+            { "type": "p", "text": "La France compte **13 régions métropolitaines** administrées par les **conseils régionaux** et **5 régions en outre-mer**, soit **18 régions** en tout." },
+            { "type": "p", "text": "Elles sont chargées notamment :" },
+            { "type": "list", "items": [
+              "des **transports publics** ;",
+              "du **développement économique** ;",
+              "de la **formation professionnelle** ;",
+              "de la construction et l'entretien des **lycées publics**."
+            ] },
+            { "type": "p", "text": "**Carte administrative de la France.** La carte du livret montre les 13 régions métropolitaines, leurs départements et les préfectures de région et de département. Les préfectures de région indiquées sur la carte sont :" },
+            { "type": "table", "headers": ["Région métropolitaine", "Préfecture de région"], "rows": [
+              ["Hauts-de-France", "Lille"],
+              ["Normandie", "Rouen"],
+              ["Île-de-France", "Paris"],
+              ["Grand-Est", "Strasbourg"],
+              ["Bretagne", "Rennes"],
+              ["Pays-de-la-Loire", "Nantes"],
+              ["Centre-Val de Loire", "Orléans"],
+              ["Bourgogne-Franche-Comté", "Dijon"],
+              ["Nouvelle-Aquitaine", "Bordeaux"],
+              ["Auvergne-Rhône-Alpes", "Lyon"],
+              ["Occitanie", "Toulouse"],
+              ["Provence-Alpes-Côte d'Azur", "Marseille"],
+              ["Corse", "Ajaccio"]
+            ] }
+          ]
+        },
+        {
+          "title": "L'outre-mer",
+          "blocks": [
+            { "type": "p", "text": "La France compte **12 territoires d'outre-mer** (situés en dehors de la France métropolitaine)." },
+            { "type": "table", "headers": ["Statut", "Territoires"], "rows": [
+              ["**5** sont à la fois des **départements et des régions**", "Guadeloupe, Martinique, Mayotte, Guyane, La Réunion"],
+              ["**7** sont des **collectivités d'outre-mer à statut particulier**", "Nouvelle-Calédonie, Polynésie française, Saint-Martin, Saint-Barthélémy, Saint-Pierre-et-Miquelon, Terres australes et antarctiques françaises, Wallis-et-Futuna"]
+            ] },
+            { "type": "callout", "text": "La **Martinique**, la **Guadeloupe**, **Saint-Martin** et **Saint-Barthélemy** sont des îles qui constituent les **Antilles françaises**." },
+            { "type": "p", "text": "Sur la carte administrative du livret, les territoires d'outre-mer figurent avec leur numéro : Guadeloupe (971, préfecture Basse-Terre), Martinique (972, Fort-de-France), Guyane (973, Cayenne), La Réunion (974, Saint-Denis), Saint-Pierre-et-Miquelon (975), Mayotte (976, Mamoudzou), Saint-Barthélemy (977), Saint-Martin (978), Terres australes et antarctiques françaises (984), Wallis-et-Futuna (986), Polynésie française (987), Nouvelle-Calédonie (988)." },
+            { "type": "callout", "text": "Sur la carte, les départements non colorés (hors Île-de-France) sont les collectivités d'outre-mer à statut particulier." }
+          ]
+        }
+      ],
+      "keyFacts": [
+        "Avec la **décentralisation**, l'État transfère des compétences et des moyens aux **collectivités territoriales** : communes, départements, régions et collectivités d'outre-mer.",
+        "L'État est représenté par les **préfets** de région et de département (ou des hauts commissaires dans certaines collectivités d'outre-mer).",
+        "La France compte **34 875 communes** au 1er janvier 2025, chacune gérée par un **maire** et un **conseil municipal** élu pour **6 ans**.",
+        "Les communes gèrent notamment les **écoles primaires** et tiennent les **registres de l'état civil** (naissances, mariages, décès).",
+        "**101 départements** (96 en métropole, 5 en outre-mer), administrés par les conseils départementaux ; le plus récent est **Mayotte** (2011).",
+        "Les départements sont responsables notamment des **collèges**, de l'action sociale, de la protection de l'enfance et de l'aide aux personnes âgées.",
+        "**18 régions** : 13 métropolitaines et 5 en outre-mer ; elles gèrent notamment les **lycées**, les transports publics, le développement économique et la formation professionnelle.",
+        "**12 territoires d'outre-mer** : 5 départements et régions (Guadeloupe, Martinique, Mayotte, Guyane, La Réunion) et 7 collectivités à statut particulier.",
+        "Martinique, Guadeloupe, Saint-Martin et Saint-Barthélemy forment les **Antilles françaises**."
+      ],
+      "quiz": [
+        {
+          "q": "Qui représente l'État dans les régions et les départements ?",
+          "choices": ["Le maire", "Le président du conseil régional", "Le préfet", "Le député"],
+          "answer": 2,
+          "explain": "L'État est représenté par les préfets de région et de département (ou par les hauts commissaires dans certaines collectivités d'outre-mer).",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Combien la France compte-t-elle de communes au 1er janvier 2025 ?",
+          "choices": ["34 875", "101", "3 487", "348 750"],
+          "answer": 0,
+          "explain": "Le livret indique 34 875 communes au 1er janvier 2025.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Pour combien de temps le conseil municipal est-il élu ?",
+          "choices": ["Quatre ans", "Cinq ans", "Sept ans", "Six ans"],
+          "answer": 3,
+          "explain": "Chaque commune est gérée par un maire et un conseil municipal élu pour six ans.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Combien la France compte-t-elle de départements ?",
+          "choices": ["96", "101", "18", "13"],
+          "answer": 1,
+          "explain": "La France compte 101 départements, dont 96 en métropole et 5 en outre-mer.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Quel est le département le plus récent ?",
+          "choices": ["La Guyane, créée en 2011", "La Réunion, créée en 2011", "La Nouvelle-Calédonie, créée en 2011", "Mayotte, créé en 2011"],
+          "answer": 3,
+          "explain": "Le département le plus récent est Mayotte, créé en 2011.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Combien la France compte-t-elle de régions en tout ?",
+          "choices": ["13", "22", "18", "12"],
+          "answer": 2,
+          "explain": "La France compte 13 régions métropolitaines et 5 régions en outre-mer, soit 18 régions.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Lequel de ces territoires est à la fois un département et une région ?",
+          "choices": ["La Réunion", "La Polynésie française", "Saint-Pierre-et-Miquelon", "Wallis-et-Futuna"],
+          "answer": 0,
+          "explain": "Guadeloupe, Martinique, Mayotte, Guyane et La Réunion sont à la fois des départements et des régions ; les autres sont des collectivités d'outre-mer à statut particulier.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Quelles îles constituent les Antilles françaises ?",
+          "choices": ["La Réunion, Mayotte, la Guyane et la Martinique", "La Martinique, la Guadeloupe, Saint-Martin et Saint-Barthélemy", "La Nouvelle-Calédonie, Wallis-et-Futuna et la Polynésie française", "La Guadeloupe, Saint-Pierre-et-Miquelon et la Corse"],
+          "answer": 1,
+          "explain": "La Martinique, la Guadeloupe, Saint-Martin et Saint-Barthélemy sont des îles qui constituent les Antilles françaises.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Votre enfant vient de naître. Quelle collectivité enregistre sa naissance dans les registres de l'état civil ?",
+          "choices": ["La région", "Le département", "La commune", "L'intercommunalité"],
+          "answer": 2,
+          "explain": "Les communes tiennent les registres de l'état civil : elles enregistrent les naissances, les mariages et les décès.",
+          "kind": "situation"
+        },
+        {
+          "q": "Votre fille entre au collège public. Quelle collectivité est responsable des collèges publics ?",
+          "choices": ["Le département", "La commune", "La région", "L'intercommunalité"],
+          "answer": 0,
+          "explain": "Les départements sont responsables des collèges publics ; les communes gèrent les écoles primaires et les régions les lycées.",
+          "kind": "situation"
+        },
+        {
+          "q": "Votre fils entre en seconde dans un lycée public qui a besoin de travaux. Quelle collectivité est chargée de la construction et de l'entretien des lycées publics ?",
+          "choices": ["La commune", "Le département", "L'intercommunalité", "La région"],
+          "answer": 3,
+          "explain": "Les régions sont chargées notamment de la construction et de l'entretien des lycées publics.",
+          "kind": "situation"
+        },
+        {
+          "q": "Votre ami, de nationalité belge, habite en France et souhaite être candidat aux élections municipales de sa commune. Est-ce possible ?",
+          "choices": ["Non, seuls les Français peuvent être candidats", "Oui, les élections municipales permettent aux ressortissants de l'Union européenne de voter et de se présenter comme candidats", "Oui, mais seulement s'il habite en outre-mer", "Non, il peut seulement voter aux élections régionales"],
+          "answer": 1,
+          "explain": "Les élections municipales permettent aux citoyens français et aux ressortissants de l'Union européenne de voter et de se présenter comme candidats.",
+          "kind": "situation"
+        }
+      ]
+    },
+    {
+      "id": "p2s3",
+      "title": "L'Union européenne et ses institutions",
+      "lessons": [
+        {
+          "title": "Introduction",
+          "blocks": [
+            { "type": "p", "text": "La France est l'un des pays à l'origine de la construction européenne." },
+            { "type": "p", "text": "Après la **Communauté européenne du charbon et de l'acier** (**1951**), le **traité de Rome** instaure en **1957** la **Communauté économique européenne** entre **six pays fondateurs** dont la France. Son objectif est de créer une union solide entre les peuples européens et de promouvoir la paix en Europe à l'issue de la Seconde Guerre mondiale." },
+            { "type": "p", "text": "Le **drapeau européen**, avec ses **12 étoiles**, symbolise l'unité et l'harmonie entre les Européens." },
+            { "type": "p", "text": "En **1992**, avec la signature du **traité de Maastricht**, l'**Union européenne** est créée et renforce la coopération des États membres. Aujourd'hui, l'Union compte **27 États membres** qui partagent des principes démocratiques. La **Charte des droits fondamentaux** de l'Union européenne, adoptée en **2000**, garantit les droits des personnes." }
+          ]
+        },
+        {
+          "title": "Les pays membres de l'Union européenne et leur date d'entrée (ou de sortie) dans l'Union",
+          "blocks": [
+            { "type": "table", "headers": ["Année d'adhésion", "Pays entrés (ou sortis) et nombre de membres"], "rows": [
+              ["1957", "France, Allemagne, Italie, Belgique, Pays-Bas, Luxembourg (6 membres, pays fondateurs)"],
+              ["1973", "Royaume-Uni, Irlande et Danemark (9 membres)"],
+              ["1981", "Grèce (10 membres)"],
+              ["1986", "Espagne et Portugal (12 membres)"],
+              ["1990", "Extension à la RDA avec la réunification allemande"],
+              ["1995", "Autriche, Suède et Finlande (15 membres)"],
+              ["2004", "Pologne, République tchèque, Hongrie, Slovaquie, Slovénie, Lettonie, Lituanie, Estonie, Malte et Chypre (25 membres)"],
+              ["2007", "Roumanie et Bulgarie (27 membres)"],
+              ["2013", "Croatie (28 membres)"],
+              ["2020", "Le Royaume-Uni quitte l'Union européenne (Brexit) (27 membres)"]
+            ] },
+            { "type": "p", "text": "Depuis **1992**, les citoyens français sont aussi **citoyens européens**. Tous les **cinq ans**, ils élisent les députés du **Parlement européen**, qui siège à **Strasbourg**, en France." },
+            { "type": "p", "text": "Les citoyens européens sont libres de **circuler**, de **travailler**, d'**étudier**, de **s'installer** dans les autres pays de l'Union européenne. Dans ce cas, ils peuvent voter aux **élections locales** du pays dans lequel ils sont installés." },
+            { "type": "p", "text": "L'Union européenne a pour hymne l'**Ode à la joie**, adopté en **1985**, extrait de la **Neuvième symphonie de Ludwig van Beethoven**. Cet hymne symbolise les valeurs de liberté, paix et solidarité." },
+            { "type": "p", "text": "La devise de l'Union européenne, adoptée en **2020** selon le livret, est « **Unie dans la diversité** »." },
+            { "type": "p", "text": "Depuis le **1er janvier 2002** sont mis en circulation des pièces et billets en **euros**. La France partage cette monnaie unique avec désormais **20 autres pays** membres de l'Union européenne." },
+            { "type": "p", "text": "Par ailleurs, la **journée de l'Europe** est célébrée le **9 mai** afin de commémorer la paix et l'unité en Europe." },
+            { "type": "callout", "text": "Lors de sa déclaration du **9 mai 1950**, **Robert Schuman**, alors ministre français des affaires étrangères, présenta les bases de la coopération européenne qui sera par la suite considérée comme l'acte de naissance de ce qu'est aujourd'hui l'Union européenne." }
+          ]
+        },
+        {
+          "title": "Les étapes clés de la construction européenne",
+          "blocks": [
+            { "type": "timeline", "items": [
+              { "date": "1951", "text": "Création de la **Communauté européenne du charbon et de l'acier (CECA)**." },
+              { "date": "1957", "text": "Création de la **Communauté économique européenne (CEE)** : marché commun." },
+              { "date": "1958", "text": "Création de la **Commission européenne**, organe exécutif de l'Union européenne situé à **Bruxelles** (Belgique)." },
+              { "date": "1992", "text": "Création de l'**Union européenne** et de la **citoyenneté européenne**. Création de la **Banque centrale européenne (BCE)**, mise en place le **1er juin 1998** à **Francfort** (Allemagne), et préparation de la monnaie unique." },
+              { "date": "2002", "text": "Mise en circulation des pièces et billets en **euros** dans **12 pays** de l'Union européenne (**21** aujourd'hui)." }
+            ] }
+          ]
+        }
+      ],
+      "keyFacts": [
+        "La **CECA** est créée en **1951** ; le **traité de Rome** (1957) instaure la **CEE** entre **six pays fondateurs** : France, Allemagne, Italie, Belgique, Pays-Bas, Luxembourg.",
+        "La **déclaration Schuman** du **9 mai 1950** est considérée comme l'acte de naissance de l'Union européenne ; la **journée de l'Europe** est le **9 mai**.",
+        "Le **traité de Maastricht** (**1992**) crée l'Union européenne et la **citoyenneté européenne**.",
+        "L'Union compte **27 États membres** ; le **Royaume-Uni** l'a quittée en **2020** (Brexit) ; la Croatie est entrée en 2013.",
+        "Symboles : drapeau à **12 étoiles**, hymne **Ode à la joie** (1985, Neuvième symphonie de Beethoven), devise « **Unie dans la diversité** ».",
+        "Les citoyens européens élisent tous les **cinq ans** les députés du **Parlement européen**, qui siège à **Strasbourg**.",
+        "La **Commission européenne** (1958), organe exécutif, est située à **Bruxelles** ; la **BCE** est mise en place le 1er juin 1998 à **Francfort**.",
+        "L'**euro** circule depuis le **1er janvier 2002** ; la France le partage avec **20 autres pays** (21 pays aujourd'hui).",
+        "La **Charte des droits fondamentaux** de l'Union européenne, adoptée en **2000**, garantit les droits des personnes."
+      ],
+      "quiz": [
+        {
+          "q": "Lequel de ces pays ne fait pas partie des six pays fondateurs de la Communauté économique européenne en 1957 ?",
+          "choices": ["La Belgique", "Le Luxembourg", "L'Espagne", "Les Pays-Bas"],
+          "answer": 2,
+          "explain": "Les six pays fondateurs sont la France, l'Allemagne, l'Italie, la Belgique, les Pays-Bas et le Luxembourg ; l'Espagne est entrée en 1986.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Quel traité crée l'Union européenne en 1992 ?",
+          "choices": ["Le traité de Maastricht", "Le traité de Rome", "Le traité de Paris", "Le traité de Lisbonne"],
+          "answer": 0,
+          "explain": "En 1992, avec la signature du traité de Maastricht, l'Union européenne est créée.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Combien d'États membres compte aujourd'hui l'Union européenne ?",
+          "choices": ["28", "25", "12", "27"],
+          "answer": 3,
+          "explain": "Aujourd'hui, l'Union compte 27 États membres, depuis la sortie du Royaume-Uni en 2020.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Quel est l'hymne de l'Union européenne ?",
+          "choices": ["La Marseillaise", "L'Ode à la joie, extrait de la Neuvième symphonie de Beethoven", "Le Chant des partisans", "Le Boléro de Ravel"],
+          "answer": 1,
+          "explain": "L'Union européenne a pour hymne l'Ode à la joie, adopté en 1985, extrait de la Neuvième symphonie de Ludwig van Beethoven.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Quelle est la devise de l'Union européenne ?",
+          "choices": ["« Liberté, Égalité, Fraternité »", "« L'union fait la force »", "« Unie dans la diversité »", "« Paix et prospérité »"],
+          "answer": 2,
+          "explain": "La devise de l'Union européenne est « Unie dans la diversité ».",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Dans quelle ville siège le Parlement européen ?",
+          "choices": ["Strasbourg", "Bruxelles", "Francfort", "Luxembourg"],
+          "answer": 0,
+          "explain": "Le Parlement européen siège à Strasbourg, en France ; la Commission européenne est à Bruxelles et la BCE à Francfort.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Depuis quand les pièces et billets en euros sont-ils en circulation ?",
+          "choices": ["Depuis le 1er juin 1998", "Depuis le 1er janvier 1992", "Depuis le 9 mai 1950", "Depuis le 1er janvier 2002"],
+          "answer": 3,
+          "explain": "Depuis le 1er janvier 2002 sont mis en circulation des pièces et billets en euros, d'abord dans 12 pays (21 aujourd'hui).",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Quel jour est célébrée la journée de l'Europe ?",
+          "choices": ["Le 14 juillet", "Le 9 mai", "Le 1er janvier", "Le 8 mai"],
+          "answer": 1,
+          "explain": "La journée de l'Europe est célébrée le 9 mai, date de la déclaration de Robert Schuman en 1950, afin de commémorer la paix et l'unité en Europe.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Où se situe la Commission européenne, organe exécutif de l'Union européenne ?",
+          "choices": ["À Strasbourg (France)", "À Francfort (Allemagne)", "À Bruxelles (Belgique)", "À Rome (Italie)"],
+          "answer": 2,
+          "explain": "Créée en 1958, la Commission européenne, organe exécutif de l'Union européenne, est située à Bruxelles (Belgique).",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Vous êtes citoyen français et une entreprise espagnole vous propose un emploi à Madrid. Pouvez-vous vous installer en Espagne pour y travailler ?",
+          "choices": ["Oui, les citoyens européens sont libres de circuler, de travailler et de s'installer dans les autres pays de l'Union", "Non, il faut d'abord renoncer à la nationalité française", "Oui, mais seulement pour une durée de trois mois", "Non, seuls les étudiants peuvent s'installer dans un autre pays de l'Union"],
+          "answer": 0,
+          "explain": "Les citoyens européens sont libres de circuler, de travailler, d'étudier et de s'installer dans les autres pays de l'Union européenne.",
+          "kind": "situation"
+        },
+        {
+          "q": "Votre collègue portugaise est installée en France depuis plusieurs années. Elle se demande à quelles élections françaises elle peut participer. Que lui répondez-vous ?",
+          "choices": ["À aucune, car elle n'est pas française", "À l'élection présidentielle", "Aux élections législatives uniquement", "Aux élections locales du pays où elle est installée, comme tout citoyen européen"],
+          "answer": 3,
+          "explain": "Les citoyens européens installés dans un autre pays de l'Union peuvent voter aux élections locales de ce pays.",
+          "kind": "situation"
+        },
+        {
+          "q": "Un ami vous dit que les Français votent pour le Parlement européen tous les sept ans. Que lui répondez-vous ?",
+          "choices": ["Il a raison", "C'est faux : les citoyens européens élisent les députés du Parlement européen tous les cinq ans", "C'est faux : ces députés sont nommés par les gouvernements", "C'est faux : on vote tous les deux ans"],
+          "answer": 1,
+          "explain": "Depuis 1992, les citoyens français sont aussi citoyens européens et élisent tous les cinq ans les députés du Parlement européen.",
+          "kind": "situation"
+        }
+      ]
+    }
+  ]
+}

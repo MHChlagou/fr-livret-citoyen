@@ -1,0 +1,376 @@
+{
+  "id": "p1",
+  "number": 1,
+  "title": "Principes et valeurs de la République",
+  "icon": "🇫🇷",
+  "intro": "Cette partie présente la devise « Liberté, Égalité, Fraternité », les symboles de la France et les quatre principes qui définissent la République : indivisible, laïque, démocratique et sociale.",
+  "sections": [
+    {
+      "id": "p1s1",
+      "title": "La devise et les symboles de la République",
+      "lessons": [
+        {
+          "title": "Liberté",
+          "blocks": [
+            { "type": "p", "text": "La devise de la France **« liberté, égalité, fraternité »** consacre les valeurs fondatrices de la République française, repères communs pour le vivre ensemble." },
+            { "type": "callout", "text": "La devise est inscrite sur le **fronton des bâtiments publics** (préfectures, mairies…)." },
+            { "type": "p", "text": "Les femmes et les hommes sont libres dans leurs choix, leurs opinions et leur manière de penser, de s'exprimer et de vivre." },
+            { "type": "p", "text": "La liberté est une valeur fondamentale inscrite dans la **Déclaration des droits de l'homme et du citoyen (DDHC) de 1789**." },
+            { "type": "quote", "text": "La liberté consiste à pouvoir faire tout ce qui ne nuit pas à autrui.", "source": "Article 4 de la Déclaration des droits de l'homme et du citoyen de 1789" },
+            { "type": "p", "text": "C'est-à-dire que l'on peut faire tout ce qui ne gêne pas les autres (et qui est défini par la loi)." },
+            { "type": "p", "text": "Les libertés sont les mêmes pour l'ensemble des citoyens, dans le respect des lois. Elles sont présentées dans la thématique des « droits et devoirs des citoyens »." }
+          ]
+        },
+        {
+          "title": "Égalité",
+          "blocks": [
+            { "type": "p", "text": "L'égalité est un principe fondamental de la République française (**article 1er de la Constitution de 1958**)." },
+            { "type": "p", "text": "Tous les citoyens ont les mêmes droits quel que soit leur sexe, leur origine, leur religion, leurs opinions ou leur orientation sexuelle (**article 1er de la DDHC**)." },
+            { "type": "p", "text": "L'égalité entre les femmes et les hommes est inscrite dans le **préambule de la Constitution depuis 1946** et elle s'applique dans tous les domaines : travail, santé, éducation…" },
+            { "type": "callout", "text": "**La France condamne les discriminations.** Une discrimination est le fait de traiter différemment une personne par rapport à une autre, dans une situation comparable (logement, travail, loisirs…), en raison de son origine, de son sexe, de son orientation sexuelle, de son opinion politique, de son âge, de ses convictions religieuses, de son apparence physique… Les discriminations sont **punies par la loi**." },
+            { "type": "p", "text": "À ce titre, l'État lutte activement contre :" },
+            { "type": "list", "items": [
+              "**Le sexisme** : traitement dénigrant envers une autre personne en raison de son sexe ;",
+              "**Le racisme** : discrimination fondée sur l'origine ou l'appartenance ethnique ou raciale d'une personne ;",
+              "**L'antisémitisme** : forme spécifique de racisme et de haine dirigée contre les Juifs, fondée sur des préjugés, des stéréotypes et des discriminations ;",
+              "**La discrimination sur critère religieux** : discrimination fondée sur la religion supposée de la personne ;",
+              "**La haine et la discrimination anti-LGBT+** : attitudes hostiles à l'égard des personnes en raison de leur orientation sexuelle."
+            ] },
+            { "type": "callout", "text": "Toute décision d'un employeur (embauche, promotion…) doit être fondée sur des **raisons professionnelles** et non personnelles." }
+          ]
+        },
+        {
+          "title": "Fraternité",
+          "blocks": [
+            { "type": "p", "text": "La France est fondée sur la volonté des citoyens de vivre ensemble. Cette volonté se traduit par la fraternité entre tous." },
+            { "type": "p", "text": "Cette fraternité repose sur la capacité à voir en l'autre un semblable malgré les différences. La fraternité républicaine est donc **civique** et non basée sur l'origine ou la religion." },
+            { "type": "p", "text": "La fraternité implique une solidarité entre les individus qui se décline sous différentes formes :" },
+            { "type": "list", "items": [
+              "**Collective** : le principe de solidarité signifie que la Nation assure aux individus une protection, par exemple, la **Sécurité sociale**. Remplir ses obligations fiscales est un acte solidaire qui permet de financer les services publics au bénéfice de tous. Le principe de solidarité exige aussi que chaque citoyen français doive participer à la **défense de la Nation** en cas de nécessité.",
+              "**Intergénérationnelle** : le principe de solidarité se traduit par le soutien entre différentes générations. Par exemple, en cotisant, chaque salarié contribue aux versements des **retraites**."
+            ] },
+            { "type": "callout", "text": "L'organisation de collectes au profit d'associations humanitaires ou l'engagement dans une association de quartier constituent d'autres exemples de participation citoyenne mettant en œuvre le principe républicain de solidarité et de fraternité." },
+            { "type": "p", "text": "La fraternité contribue donc à la réduction des inégalités, notamment sociales." }
+          ]
+        },
+        {
+          "title": "Les symboles de la France",
+          "blocks": [
+            { "type": "callout", "text": "On retrouve les symboles sur l'ensemble des sites internet et documents de l'administration." },
+            { "type": "p", "text": "**La fête nationale** : le **14 juillet 1789**, le peuple de Paris a pris la Bastille (une prison royale), ce qui marque le début de la Révolution française. Un an plus tard, le **14 juillet 1790**, est célébrée la **Fête de la Fédération**. Depuis **1880**, le 14 juillet est consacré comme jour de fête nationale pour commémorer ces deux événements." },
+            { "type": "timeline", "items": [
+              { "date": "14 juillet 1789", "text": "Prise de la Bastille, début de la Révolution française." },
+              { "date": "14 juillet 1790", "text": "Fête de la Fédération." },
+              { "date": "1880", "text": "Le 14 juillet devient le jour de fête nationale." }
+            ] },
+            { "type": "p", "text": "**L'hymne national** : en **1792**, l'hymne national français, **La Marseillaise**, a été écrit par **Rouget de Lisle**. Elle est étudiée par les enfants à l'école primaire." },
+            { "type": "p", "text": "**La langue officielle** : la langue officielle de la République est le **français**." },
+            { "type": "p", "text": "**Marianne** : Marianne, une femme portant un **bonnet phrygien** (symbole de la liberté), est devenue le symbole de la République. Elle apparaît sur les documents de l'administration française. Sa statue, placée dans toutes les mairies, rappelle la Révolution française." },
+            { "type": "p", "text": "**Le drapeau tricolore** : le drapeau tricolore (**bleu, blanc, rouge**) a aussi été créé pendant la Révolution. Il est devenu le drapeau officiel de la France en **1794**, sauf lors de la période de la Restauration (**1814-1830**, détaillée dans la partie « histoire, géographie et culture »)." },
+            { "type": "callout", "text": "Photo du livret : la façade de la préfecture du Finistère, avec le drapeau tricolore et la devise « Liberté, Égalité, Fraternité » inscrite au-dessus de l'entrée." },
+            { "type": "p", "text": "**Le coq** : le coq représente la fierté, le courage et la vigilance. Bien qu'il n'ait **pas de statut officiel** selon la Constitution, il est utilisé depuis l'Antiquité et est largement reconnu comme un symbole national." },
+            { "type": "p", "text": "Paroles de **La Marseillaise**, hymne national composé par Rouget de Lisle en 1792 (le refrain est chanté après chaque couplet) :" },
+            { "type": "quote", "text": "Allons enfants de la Patrie, / Le jour de gloire est arrivé ! / Contre nous de la tyrannie, / L'étendard sanglant est levé, (bis) / Entendez-vous dans les campagnes / Mugir ces féroces soldats ? / Ils viennent jusque dans vos bras / Égorger vos fils, vos compagnes !", "source": "La Marseillaise, couplet 1" },
+            { "type": "quote", "text": "Aux armes, citoyens, / Formez vos bataillons, / Marchons, marchons ! / Qu'un sang impur / Abreuve nos sillons !", "source": "La Marseillaise, refrain" },
+            { "type": "quote", "text": "Que veut cette horde d'esclaves, / De traîtres, de rois conjurés ? / Pour qui ces ignobles entraves, / Ces fers dès longtemps préparés ? (bis) / Français, pour nous, ah ! quel outrage / Quels transports il doit exciter ! / C'est nous qu'on ose méditer / De rendre à l'antique esclavage !", "source": "La Marseillaise, couplet 2" },
+            { "type": "quote", "text": "Quoi ! des cohortes étrangères / Feraient la loi dans nos foyers ! / Quoi ! ces phalanges mercenaires / Terrasseraient nos fiers guerriers ! (bis) / Grand Dieu ! par des mains enchaînées / Nos fronts sous le joug se ploieraient / De vils despotes deviendraient / Les maîtres de nos destinées !", "source": "La Marseillaise, couplet 3" },
+            { "type": "quote", "text": "Tremblez, tyrans et vous perfides / L'opprobre de tous les partis, / Tremblez ! vos projets parricides / Vont enfin recevoir leurs prix ! (bis) / Tout est soldat pour vous combattre, / S'ils tombent, nos jeunes héros, / La terre en produit de nouveaux, / Contre vous tout prêts à se battre !", "source": "La Marseillaise, couplet 4" },
+            { "type": "quote", "text": "Français, en guerriers magnanimes, / Portez ou retenez vos coups ! / Épargnez ces tristes victimes, / À regret s'armant contre nous. (bis) / Mais ces despotes sanguinaires, / Mais ces complices de Bouillé, / Tous ces tigres qui, sans pitié, / Déchirent le sein de leur mère !", "source": "La Marseillaise, couplet 5" },
+            { "type": "quote", "text": "Amour sacré de la Patrie, / Conduis, soutiens nos bras vengeurs / Liberté, Liberté chérie, / Combats avec tes défenseurs ! (bis) / Sous nos drapeaux que la victoire / Accoure à tes mâles accents, / Que tes ennemis expirants / Voient ton triomphe et notre gloire !", "source": "La Marseillaise, couplet 6" },
+            { "type": "quote", "text": "Nous entrerons dans la carrière / Quand nos aînés n'y seront plus, / Nous y trouverons leur poussière, / Et la trace de leurs vertus, (bis) / Bien moins jaloux de leur survivre, / Que de partager leur cercueil, / Nous aurons le sublime orgueil, / De les venger ou de les suivre.", "source": "La Marseillaise, couplet 7" }
+          ]
+        }
+      ],
+      "keyFacts": [
+        "La devise : « Liberté, Égalité, Fraternité », inscrite sur le fronton des bâtiments publics (préfectures, mairies…).",
+        "Article 4 de la DDHC de 1789 : « la liberté consiste à pouvoir faire tout ce qui ne nuit pas à autrui ».",
+        "L'égalité est un principe fondamental (article 1er de la Constitution de 1958) ; tous les citoyens ont les mêmes droits (article 1er de la DDHC).",
+        "L'égalité entre les femmes et les hommes est inscrite dans le préambule de la Constitution depuis 1946.",
+        "Les discriminations sont punies par la loi ; une décision d'un employeur doit reposer sur des raisons professionnelles.",
+        "La fraternité est civique ; elle implique une solidarité collective (Sécurité sociale, impôts, défense de la Nation) et intergénérationnelle (retraites).",
+        "Le 14 juillet est la fête nationale depuis 1880 : il commémore la prise de la Bastille (1789) et la Fête de la Fédération (1790).",
+        "La Marseillaise, hymne national, a été écrite par Rouget de Lisle en 1792.",
+        "Le drapeau tricolore (bleu, blanc, rouge) est officiel depuis 1794, sauf sous la Restauration (1814-1830) ; la langue officielle est le français.",
+        "Marianne porte un bonnet phrygien (symbole de la liberté) ; le coq n'a pas de statut officiel selon la Constitution."
+      ],
+      "quiz": [
+        {
+          "q": "Quel article de la Déclaration des droits de l'homme et du citoyen de 1789 précise que « la liberté consiste à pouvoir faire tout ce qui ne nuit pas à autrui » ?",
+          "choices": ["L'article 1er", "L'article 10", "L'article 4", "L'article 3"],
+          "answer": 2,
+          "explain": "La DDHC de 1789 proclame à son article 4 que la liberté consiste à pouvoir faire tout ce qui ne nuit pas à autrui.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Depuis quelle année le 14 juillet est-il le jour de la fête nationale ?",
+          "choices": ["1789", "1790", "1958", "1880"],
+          "answer": 3,
+          "explain": "Depuis 1880, le 14 juillet est la fête nationale, pour commémorer la prise de la Bastille (1789) et la Fête de la Fédération (1790).",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Qui a écrit La Marseillaise, et en quelle année ?",
+          "choices": ["Victor Hugo, en 1830", "Rouget de Lisle, en 1792", "Jules Ferry, en 1880", "Georges Clemenceau, en 1918"],
+          "answer": 1,
+          "explain": "L'hymne national, La Marseillaise, a été écrit par Rouget de Lisle en 1792.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Que symbolise le bonnet phrygien porté par Marianne ?",
+          "choices": ["La liberté", "La royauté", "La religion", "La paix"],
+          "answer": 0,
+          "explain": "Marianne porte un bonnet phrygien, symbole de la liberté ; elle est devenue le symbole de la République.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Depuis quand l'égalité entre les femmes et les hommes est-elle inscrite dans le préambule de la Constitution ?",
+          "choices": ["1789", "1946", "1958", "1905"],
+          "answer": 1,
+          "explain": "L'égalité entre les femmes et les hommes figure dans le préambule de la Constitution depuis 1946 et s'applique dans tous les domaines.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "En quelle année le drapeau tricolore est-il devenu le drapeau officiel de la France ?",
+          "choices": ["1814", "1789", "1880", "1794"],
+          "answer": 3,
+          "explain": "Créé pendant la Révolution, le drapeau tricolore est devenu officiel en 1794, sauf pendant la Restauration (1814-1830).",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Lequel de ces symboles n'a pas de statut officiel selon la Constitution ?",
+          "choices": ["Le drapeau tricolore", "La Marseillaise", "Le coq", "La langue française"],
+          "answer": 2,
+          "explain": "Le coq représente la fierté, le courage et la vigilance ; il est reconnu comme symbole national mais n'a pas de statut officiel selon la Constitution.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Votre responsable vous refuse une promotion uniquement en raison de votre origine. Que dit la loi ?",
+          "choices": ["C'est permis si l'entreprise est privée", "C'est permis si le responsable le justifie par écrit", "C'est une discrimination punie par la loi : la décision doit reposer sur des raisons professionnelles", "C'est autorisé si les autres salariés sont d'accord"],
+          "answer": 2,
+          "explain": "Traiter différemment une personne en raison de son origine est une discrimination punie par la loi ; toute décision d'un employeur doit être fondée sur des raisons professionnelles et non personnelles.",
+          "kind": "situation"
+        },
+        {
+          "q": "Votre voisine organise une collecte au profit d'une association humanitaire. Comment le livret qualifie-t-il ce type d'action ?",
+          "choices": ["Une obligation légale pour tous les habitants", "Une activité réservée aux associations religieuses", "Une action interdite sans l'accord de la mairie", "Un exemple de participation citoyenne mettant en œuvre la solidarité et la fraternité"],
+          "answer": 3,
+          "explain": "Les collectes au profit d'associations humanitaires ou l'engagement dans une association de quartier sont des exemples de participation citoyenne qui mettent en œuvre la solidarité et la fraternité.",
+          "kind": "situation"
+        },
+        {
+          "q": "Un ami vous dit que payer ses impôts ne sert à rien. Selon le livret, remplir ses obligations fiscales est :",
+          "choices": ["Un choix personnel sans lien avec les valeurs de la République", "Un acte solidaire qui permet de financer les services publics au bénéfice de tous", "Une obligation qui ne concerne que les entreprises", "Une contribution réservée au financement des retraites"],
+          "answer": 1,
+          "explain": "Le livret présente le paiement des impôts comme un acte solidaire, lié à la fraternité, qui finance les services publics au bénéfice de tous.",
+          "kind": "situation"
+        },
+        {
+          "q": "Un collègue tient des propos de haine contre les Juifs, fondés sur des préjugés et des stéréotypes. Comment s'appelle ce comportement, contre lequel l'État lutte activement ?",
+          "choices": ["Le sexisme", "Le prosélytisme", "L'antisémitisme", "Le blasphème"],
+          "answer": 2,
+          "explain": "L'antisémitisme est une forme spécifique de racisme et de haine dirigée contre les Juifs ; l'État lutte activement contre lui.",
+          "kind": "situation"
+        }
+      ]
+    },
+    {
+      "id": "p1s2",
+      "title": "Les principes de la République",
+      "lessons": [
+        {
+          "title": "Une République indivisible",
+          "blocks": [
+            { "type": "quote", "text": "La France est une République indivisible, laïque, démocratique et sociale.", "source": "Article 1er de la Constitution du 4 octobre 1958" },
+            { "type": "p", "text": "Les principes de la République sont définis à l'**article 1er de la Constitution du 4 octobre 1958**." },
+            { "type": "p", "text": "La Constitution est un acte fondateur d'un État. C'est un ensemble de règles fondamentales qui définissent comment le pays est organisé et dirigé." },
+            { "type": "callout", "text": "Dans un État de droit, la Constitution se situe **tout en haut de la hiérarchie des normes**, c'est-à-dire qu'elle est au-dessus de toutes les lois." },
+            { "type": "p", "text": "En France, elle fixe les droits et libertés des citoyens, explique comment les pouvoirs (le gouvernement, le Parlement et les tribunaux) sont partagés et encadre leur fonctionnement." },
+            { "type": "p", "text": "Aucun individu ou groupe ne peut décider à la place de l'ensemble des Français. Les décisions sont prises par les représentants élus par le peuple ou par le peuple lui-même lors de **référendums**." },
+            { "type": "p", "text": "Cela signifie que tous les Français, partout dans le pays, métropole et outre-mer, sont soumis aux **mêmes lois** et ont les mêmes droits et devoirs. C'est ce qu'on appelle **l'unité de la République**." },
+            { "type": "callout", "text": "De plus, la France a **une seule langue officielle** qui est le français." }
+          ]
+        },
+        {
+          "title": "Une République laïque",
+          "blocks": [
+            { "type": "p", "text": "La laïcité est un principe essentiel de la République, de **valeur constitutionnelle** et est officiellement célébrée en France le **9 décembre**." },
+            { "type": "p", "text": "La laïcité garantit la **liberté de conscience** pour tous, c'est-à-dire que chaque personne est libre d'avoir ou de ne pas avoir de religion, d'en changer (droit de se convertir) ou de ne plus en avoir." },
+            { "type": "p", "text": "Elle garantit la liberté de manifester ses croyances ou convictions et de pratiquer sa religion dans les limites du respect de l'ordre public comme cela est mentionné dans l'**article 10 de la Déclaration des droits de l'homme et du citoyen de 1789** (DDHC, voir à la fin du livret)." },
+            { "type": "p", "text": "La laïcité garantit le libre exercice des cultes et le respect de toutes les croyances. Elle impose la **neutralité de l'État**." },
+            { "type": "callout", "text": "Une personne est dite « **athée** » lorsqu'elle ne croit en aucune religion et « **agnostique** » lorsqu'elle est sceptique vis-à-vis de la religion." },
+            { "type": "p", "text": "**1. La neutralité de l'État**" },
+            { "type": "p", "text": "Le principe de laïcité implique que l'État et les organisations religieuses sont séparés (**loi de 1905** sur la séparation des Églises et de l'État). Il impose également que la loi est la même pour tout le monde, quelles que soient sa religion ou ses convictions." },
+            { "type": "p", "text": "Par conséquent, l'État ne soutient aucune organisation religieuse, les considère toutes de la même manière et n'est pas impliqué dans leur fonctionnement interne. L'État n'a, par exemple, pas le droit de financer la construction d'un édifice religieux, ni de payer un personnel religieux. Cependant, il y a quelques exceptions, comme en **Alsace et en Moselle**, où l'État, en raison de l'Histoire, a des accords spéciaux avec certaines religions." },
+            { "type": "callout", "text": "L'État a la possibilité de financer la **restauration d'un monument religieux classé au patrimoine**." },
+            { "type": "p", "text": "L'État, les collectivités territoriales et les services publics sont neutres vis-à-vis des religions. La République française garantit à tous les citoyens d'être traités de la même manière par l'administration et les services publics, quelles que soient leur religion ou leurs convictions. C'est ce que l'on appelle la **neutralité de l'État**." },
+            { "type": "p", "text": "**2. Le prosélytisme**" },
+            { "type": "p", "text": "Le prosélytisme religieux est le fait de vouloir convaincre quelqu'un d'adopter sa religion ou ses idées religieuses." },
+            { "type": "list", "items": [
+              "En France, cela est **autorisé**, à condition de ne pas forcer quelqu'un à croire en une religion contre son gré, en utilisant la violence, la menace ou la pression.",
+              "Il est par ailleurs **interdit** de faire du prosélytisme dans les **services publics**, en application du principe de neutralité de l'État."
+            ] },
+            { "type": "callout", "text": "Il est possible de distribuer des tracts sur une religion dans la rue, tant que cela ne trouble pas l'ordre public." },
+            { "type": "p", "text": "**3. Le blasphème**" },
+            { "type": "p", "text": "Le blasphème est une parole ou un discours qui insulte la divinité, la religion ou ce qui est considéré comme respectable ou sacré." },
+            { "type": "p", "text": "En France, **ce n'est pas un délit**. Chacun a le droit de critiquer ou de se moquer d'une religion, et de s'exprimer librement, y compris à travers la caricature." },
+            { "type": "p", "text": "Personne ne peut être puni pour avoir critiqué une religion ou insulté une divinité et chacun peut donc exprimer son avis. C'est la **liberté d'expression**." },
+            { "type": "p", "text": "La liberté d'expression connaît des limites, mais celles-ci ne concernent pas le blasphème. Ces limites concernent :" },
+            { "type": "list", "items": [
+              "La diffamation (dire des choses fausses sur quelqu'un pour lui nuire) et les injures publiques ;",
+              "L'encouragement à commettre certains crimes ou délits contre une religion ;",
+              "L'incitation à la haine raciale, ethnique ou religieuse ;",
+              "L'utilisation de la religion pour justifier des crimes de guerre ou du terrorisme ;",
+              "L'incitation à discriminer ;",
+              "La remise en cause de crimes contre l'humanité, dont le négationnisme (nier l'existence de la Shoah)."
+            ] },
+            { "type": "p", "text": "**4. La mise en œuvre de la laïcité dans différents espaces**" },
+            { "type": "p", "text": "Selon les lieux, différentes règles s'appliquent afin de respecter et faire vivre la laïcité." },
+            { "type": "p", "text": "**a) La laïcité dans l'espace public**" },
+            { "type": "p", "text": "En France, toute personne a le droit de montrer sa religion dans l'espace public : rues, parcs et jardins publics, marchés, transports… Cela signifie qu'une personne peut porter des signes religieux (voile, kippa, croix, turban…), participer à des célébrations ou rassemblements religieux ou encore exprimer ses convictions religieuses." },
+            { "type": "p", "text": "Cependant, le respect de l'ordre public est indispensable. Une manifestation religieuse peut être soumise à autorisation, encadrée ou interdite pour éviter des troubles à l'ordre public (exemple : prières de rue)." },
+            { "type": "callout", "text": "La **loi du 11 octobre 2010** interdit la dissimulation du visage dans l'espace public (cagoule, masque, voile intégral…). Cette loi vise à protéger l'ordre public." },
+            { "type": "p", "text": "**b) La laïcité dans les services publics**" },
+            { "type": "p", "text": "Les personnes qui travaillent dans les services publics, comme les hôpitaux, les écoles ou les mairies, doivent **rester neutres** et ne pas montrer leurs opinions ou croyances personnelles pendant leur travail. C'est l'une des conditions pour un traitement équitable des usagers." },
+            { "type": "p", "text": "Cette neutralité se traduit aussi dans les bâtiments des services publics. Aucun signe ou emblème religieux, politique ou philosophique ne doit être exposé dans les bureaux, aux guichets ou encore dans les espaces communs." },
+            { "type": "p", "text": "La neutralité ne s'impose pas aux personnes qui se rendent dans un service public en tant qu'**usagers**. Elles peuvent donc porter un signe d'appartenance religieuse au sein d'un service public, à condition de respecter les règles de fonctionnement du service." },
+            { "type": "callout", "text": "Il n'est pas possible en revanche d'exiger une adaptation du service public au nom d'une religion." },
+            { "type": "p", "text": "**c) La laïcité sur le lieu de travail**" },
+            { "type": "p", "text": "La laïcité ne s'applique pas de la même manière aux personnes qui travaillent dans les services publics (les fonctionnaires et agents publics) et à celles qui travaillent dans les entreprises privées (les salariés)." },
+            { "type": "list", "items": [
+              "Pour garantir la neutralité de l'État, les **agents publics** ne peuvent pas montrer leur religion ou leurs opinions au travail. Ils ne peuvent pas porter de signes religieux ou pratiquer leur religion au travail.",
+              "Les **salariés des entreprises privées** ont le droit d'exprimer leurs opinions religieuses, y compris en portant des tenues ou des signes religieux, sauf si cela perturbe le bon fonctionnement de l'entreprise ou pour des raisons de sécurité. L'employeur peut ainsi imposer, dans le cadre du **règlement intérieur**, des limites à la liberté de manifester son appartenance religieuse si celles-ci sont justifiées par la nature des tâches confiées au salarié."
+            ] },
+            { "type": "callout", "text": "Un salarié ou un agent public peut solliciter une **autorisation d'absence** de son employeur pour une fête religieuse. L'employeur peut refuser l'autorisation à condition que cela ne soit pas discriminatoire. La décision pourra notamment être motivée par le règlement intérieur ou des nécessités de service." },
+            { "type": "p", "text": "**d) La laïcité au sein des établissements scolaires publics**" },
+            { "type": "p", "text": "Les établissements scolaires publics et les personnels de l'Éducation nationale sont neutres vis-à-vis des religions. L'application du principe de laïcité à l'école vise à garantir la liberté de conscience des élèves, en leur permettant de penser librement, de se construire eux-mêmes leurs opinions, à l'abri des pressions et des influences." },
+            { "type": "p", "text": "L'ensemble des règles permettant de garantir l'application de la laïcité dans les écoles est listé dans la **Charte de la laïcité à l'École**. Elle s'adresse à l'ensemble des personnels de l'établissement (professeurs, animateurs périscolaires…), aux élèves ainsi qu'aux parents d'élèves." },
+            { "type": "callout", "text": "Parmi ces règles, comme le prévoit la **loi du 15 mars 2004**, il est interdit de porter un signe ou un vêtement qui montre sa religion de manière **ostensible**, c'est-à-dire que l'on peut voir immédiatement. Les signes **discrets** sont autorisés." },
+            { "type": "p", "text": "Il n'est également pas possible de refuser, en raison de sa religion, une règle de fonctionnement ou un enseignement du programme scolaire." }
+          ]
+        },
+        {
+          "title": "Une République démocratique",
+          "blocks": [
+            { "type": "p", "text": "**La France est une démocratie**, c'est-à-dire que la souveraineté nationale (le pouvoir) appartient au peuple français :" },
+            { "type": "quote", "text": "La souveraineté nationale appartient au peuple qui l'exerce par ses représentants et par la voie du référendum.", "source": "Article 3 de la Constitution de la Ve République de 1958" },
+            { "type": "p", "text": "La République est un régime politique dans lequel les dirigeants sont élus et gouvernent au nom du peuple." },
+            { "type": "p", "text": "Ainsi, le Président de la République, les parlementaires, les maires, les représentants des régions, des départements et des communes, sont élus au **suffrage universel direct ou indirect**. Cela signifie que tous les citoyens, hommes et femmes, ayant au moins **18 ans** (majorité civile) et disposant de leurs droits civils et politiques, ont le droit de voter et de se présenter aux élections dans les conditions fixées par la loi." },
+            { "type": "callout", "text": "Le **suffrage universel direct** permet aux citoyens de voter directement pour élire leurs représentants, tandis que dans le cadre du **suffrage universel indirect**, des personnes élues par les citoyens élisent à leur tour les représentants." }
+          ]
+        },
+        {
+          "title": "Une République sociale",
+          "blocks": [
+            { "type": "p", "text": "Le caractère social de la République est une conséquence du **principe d'égalité** :" },
+            { "type": "quote", "text": "Les hommes naissent et demeurent libres et égaux en droits.", "source": "Article 1er de la Déclaration des droits de l'homme et du citoyen de 1789" },
+            { "type": "p", "text": "Pour que cette égalité de droits soit réelle, l'État favorise l'**égalité des chances** et contribue à l'amélioration de la condition des plus démunis ou fragiles, en intervenant notamment dans les domaines suivants :" },
+            { "type": "list", "items": [
+              "l'**éducation** (école gratuite),",
+              "le **logement** (politique de logement social),",
+              "l'**emploi** (revenu de solidarité active et aide au retour à l'emploi),",
+              "la **santé** (Sécurité sociale)."
+            ] }
+          ]
+        }
+      ],
+      "keyFacts": [
+        "Article 1er de la Constitution du 4 octobre 1958 : « La France est une République indivisible, laïque, démocratique et sociale ».",
+        "La Constitution est tout en haut de la hiérarchie des normes : elle est au-dessus de toutes les lois.",
+        "République indivisible : tous les Français, en métropole et outre-mer, sont soumis aux mêmes lois ; une seule langue officielle, le français.",
+        "La laïcité a valeur constitutionnelle et est célébrée le 9 décembre ; elle garantit la liberté de conscience et impose la neutralité de l'État (loi de 1905 sur la séparation des Églises et de l'État).",
+        "Le blasphème n'est pas un délit en France ; le prosélytisme est autorisé sans contrainte, mais interdit dans les services publics.",
+        "Loi du 11 octobre 2010 : interdiction de dissimuler son visage dans l'espace public.",
+        "Les agents publics doivent rester neutres ; les usagers des services publics peuvent porter un signe religieux.",
+        "Loi du 15 mars 2004 : à l'école publique, les signes religieux ostensibles sont interdits, les signes discrets autorisés.",
+        "Article 3 de la Constitution : la souveraineté nationale appartient au peuple, qui l'exerce par ses représentants et par le référendum ; on vote à partir de 18 ans.",
+        "République sociale : l'État favorise l'égalité des chances (éducation, logement, emploi, santé)."
+      ],
+      "quiz": [
+        {
+          "q": "Quelle est la date de la Constitution actuelle, dont l'article 1er définit les principes de la République ?",
+          "choices": ["14 juillet 1789", "4 octobre 1958", "9 décembre 1905", "15 mars 2004"],
+          "answer": 1,
+          "explain": "Les principes de la République sont définis à l'article 1er de la Constitution du 4 octobre 1958.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Selon l'article 1er de la Constitution, la France est une République :",
+          "choices": ["unie, libre, juste et solidaire", "fédérale, laïque, démocratique et sociale", "indivisible, chrétienne, démocratique et libérale", "indivisible, laïque, démocratique et sociale"],
+          "answer": 3,
+          "explain": "L'article 1er de la Constitution précise : « La France est une République indivisible, laïque, démocratique et sociale ».",
+          "kind": "knowledge"
+        },
+        {
+          "q": "À quelle date la laïcité est-elle officiellement célébrée en France ?",
+          "choices": ["Le 14 juillet", "Le 11 novembre", "Le 9 décembre", "Le 8 mai"],
+          "answer": 2,
+          "explain": "La laïcité, principe de valeur constitutionnelle, est officiellement célébrée le 9 décembre.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "En quelle année a été votée la loi sur la séparation des Églises et de l'État ?",
+          "choices": ["1905", "1789", "1946", "1958"],
+          "answer": 0,
+          "explain": "La loi de 1905 sépare l'État et les organisations religieuses : l'État ne soutient aucune religion et les considère toutes de la même manière.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Selon l'article 3 de la Constitution, à qui appartient la souveraineté nationale ?",
+          "choices": ["Au Président de la République", "Au peuple, qui l'exerce par ses représentants et par la voie du référendum", "Au Parlement seul", "Au gouvernement"],
+          "answer": 1,
+          "explain": "L'article 3 de la Constitution de 1958 dispose que la souveraineté nationale appartient au peuple qui l'exerce par ses représentants et par le référendum.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "À partir de quel âge un citoyen disposant de ses droits civils et politiques peut-il voter ?",
+          "choices": ["21 ans", "16 ans", "25 ans", "18 ans"],
+          "answer": 3,
+          "explain": "Tous les citoyens, hommes et femmes, ayant au moins 18 ans (majorité civile) et disposant de leurs droits civils et politiques peuvent voter.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Le caractère social de la République est une conséquence de quel principe ?",
+          "choices": ["La laïcité", "L'indivisibilité", "Le principe d'égalité", "La souveraineté nationale"],
+          "answer": 2,
+          "explain": "La République sociale découle du principe d'égalité : l'État favorise l'égalité des chances (éducation, logement, emploi, santé).",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Au guichet de la mairie, l'agent qui vous reçoit porte un signe religieux bien visible. Est-ce conforme à la laïcité ?",
+          "choices": ["Oui, chacun peut montrer sa religion partout", "Non, un agent public doit rester neutre et ne peut pas porter de signe religieux au travail", "Oui, si son chef de service l'a autorisé", "Oui, tant que le signe est porté par conviction sincère"],
+          "answer": 1,
+          "explain": "Pour garantir la neutralité de l'État, les agents publics ne peuvent pas montrer leur religion ou leurs opinions au travail, ni porter de signes religieux.",
+          "kind": "situation"
+        },
+        {
+          "q": "Vous vous rendez à la préfecture en portant une kippa. Une autre personne dans la file vous dit que c'est interdit. Qui a raison ?",
+          "choices": ["Elle a raison : tout signe religieux est interdit dans un bâtiment public", "Elle a raison : il faut retirer son signe religieux au guichet", "Personne : cela dépend de la préfecture", "Vous : un usager peut porter un signe religieux dans un service public, en respectant les règles de fonctionnement du service"],
+          "answer": 3,
+          "explain": "La neutralité ne s'impose pas aux usagers : ils peuvent porter un signe d'appartenance religieuse au sein d'un service public, à condition de respecter les règles de fonctionnement du service.",
+          "kind": "situation"
+        },
+        {
+          "q": "Votre fille, élève dans un collège public, veut porter un vêtement qui montre sa religion de manière ostensible. Que prévoit la loi ?",
+          "choices": ["C'est interdit par la loi du 15 mars 2004 ; seuls les signes discrets sont autorisés", "C'est autorisé si les parents donnent leur accord écrit", "C'est autorisé seulement pendant les récréations", "C'est interdit, ainsi que tout signe religieux même discret"],
+          "answer": 0,
+          "explain": "La loi du 15 mars 2004 interdit à l'école publique les signes ou vêtements montrant sa religion de manière ostensible ; les signes discrets sont autorisés.",
+          "kind": "situation"
+        },
+        {
+          "q": "Un journal publie une caricature qui se moque d'une religion. Votre voisin veut faire condamner l'auteur pour blasphème. Que dit le droit français ?",
+          "choices": ["L'auteur sera condamné pour blasphème", "Le blasphème n'est pas un délit : critiquer ou caricaturer une religion relève de la liberté d'expression", "La caricature est interdite si elle vise une religion", "Seule la religion majoritaire est protégée contre le blasphème"],
+          "answer": 1,
+          "explain": "En France, le blasphème n'est pas un délit : chacun peut critiquer ou se moquer d'une religion, y compris par la caricature. C'est la liberté d'expression.",
+          "kind": "situation"
+        },
+        {
+          "q": "Une connaissance veut se promener dans la rue le visage entièrement dissimulé par une cagoule. Est-ce autorisé ?",
+          "choices": ["Oui, l'espace public est libre", "Oui, s'il s'agit d'une conviction religieuse", "Non, la loi du 11 octobre 2010 interdit la dissimulation du visage dans l'espace public", "Non, mais seulement dans les transports"],
+          "answer": 2,
+          "explain": "La loi du 11 octobre 2010 interdit la dissimulation du visage dans l'espace public (cagoule, masque, voile intégral…) afin de protéger l'ordre public.",
+          "kind": "situation"
+        }
+      ]
+    }
+  ]
+}
