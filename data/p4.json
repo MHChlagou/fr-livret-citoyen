@@ -848,7 +848,7 @@
             "21 mars 1884"
           ],
           "answer": 2,
-          "explain": "La loi du 9 décembre 1905 sépare les Églises et l'État (loi sur la laïcité). 1881 concerne la presse, 1884 les syndicats et 1901 les associations.",
+          "explain": "La loi du 9 décembre 1905 sépare les Églises et l'État (loi sur la laïcité).",
           "kind": "knowledge"
         },
         {
@@ -920,7 +920,7 @@
             "La loi Veil"
           ],
           "answer": 3,
-          "explain": "La loi Veil du 17 janvier 1975, portée par Simone Veil, ministre de la Santé, dépénalise l'avortement. La loi Neuwirth (1967) autorisait la contraception orale.",
+          "explain": "La loi Veil du 17 janvier 1975, portée par Simone Veil, ministre de la Santé, dépénalise l'avortement.",
           "kind": "knowledge"
         },
         {
@@ -1734,15 +1734,15 @@
           "kind": "knowledge"
         },
         {
-          "q": "Quel statut la France a-t-elle à l'ONU ?",
+          "q": "En quelle année l'Organisation des Nations Unies (ONU) a-t-elle été créée ?",
           "choices": [
-            "Membre observateur, sans droit de vote",
-            "Membre non permanent, élu tous les deux ans",
-            "Membre permanent du Conseil de sécurité (droit de veto)",
-            "Pays hôte du siège de l'organisation"
+            "1919",
+            "1945",
+            "1957",
+            "1992"
           ],
-          "answer": 2,
-          "explain": "La France est membre permanent du Conseil de sécurité de l'ONU, créée en 1945, ce qui lui donne un droit de veto.",
+          "answer": 1,
+          "explain": "L'ONU a été créée en 1945, après la Seconde Guerre mondiale, pour maintenir la paix et la sécurité internationales ; la France y siège comme membre permanent du Conseil de sécurité.",
           "kind": "knowledge"
         },
         {
@@ -2468,7 +2468,7 @@
             "Le festival d'Angoulême"
           ],
           "answer": 1,
-          "explain": "Le festival d'Avignon est cité par le livret avec Marciac (jazz) et Cannes (cinéma) parmi les grands événements culturels.",
+          "explain": "Le festival d'Avignon, dans la ville du Palais des Papes, est l'un des grands événements culturels cités par le livret.",
           "kind": "knowledge"
         },
         {
@@ -2480,7 +2480,7 @@
             "Marciac"
           ],
           "answer": 2,
-          "explain": "Le festival de Cannes est le grand rendez-vous du cinéma ; Avignon est consacré au théâtre et Marciac au jazz.",
+          "explain": "Le festival de Cannes est le grand rendez-vous du cinéma cité par le livret.",
           "kind": "knowledge"
         },
         {
@@ -2498,7 +2498,7 @@
         {
           "q": "Qu'appelle-t-on le patrimoine immatériel ?",
           "choices": [
-            "Les monuments et les biens matériels qui retracent l'histoire",
+            "Les archives et les manuscrits conservés par l'État",
             "Les traditions, les savoir-faire et les pratiques sociales",
             "Les œuvres d'art conservées dans les musées nationaux",
             "Les sites naturels protégés par l'État"

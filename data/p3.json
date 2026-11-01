@@ -1306,15 +1306,15 @@
           "kind": "knowledge"
         },
         {
-          "q": "Le vote est-il obligatoire en France ?",
+          "q": "Que permet d'assurer le vote, selon le livret ?",
           "choices": [
-            "Oui, sous peine d'amende",
-            "Oui, pour les élections nationales seulement",
-            "Non, mais c'est un devoir civique important",
-            "Non, et il n'a pas d'importance particulière"
+            "La légitimité des représentants élus",
+            "Le financement public des partis politiques",
+            "Une réduction d'impôt pour les électeurs",
+            "L'inscription automatique sur les listes"
           ],
-          "answer": 2,
-          "explain": "Le vote n'est pas obligatoire en France, contrairement à certains pays, mais c'est un devoir civique important qui assure la légitimité des élus.",
+          "answer": 0,
+          "explain": "Le vote n'est pas obligatoire, mais c'est un devoir civique important : il permet d'assurer la légitimité des représentants élus.",
           "kind": "knowledge"
         },
         {
@@ -1342,15 +1342,15 @@
           "kind": "knowledge"
         },
         {
-          "q": "Parmi les trois catégories d'infractions, laquelle est la plus grave ?",
+          "q": "Quelle catégorie d'infraction ne peut jamais donner lieu à une peine de prison ?",
           "choices": [
             "La contravention",
             "Le délit",
             "Le crime",
-            "L'amende"
+            "Toutes peuvent entraîner la prison"
           ],
-          "answer": 2,
-          "explain": "Les infractions sont classées par gravité croissante : contravention, délit, crime ; l'amende est une sanction, pas une catégorie.",
+          "answer": 0,
+          "explain": "La contravention est l'infraction la moins grave, punie d'une amende ; le délit et le crime peuvent entraîner des peines de prison.",
           "kind": "knowledge"
         },
         {

@@ -515,7 +515,7 @@
             "2024"
           ],
           "answer": 3,
-          "explain": "Depuis 2024, le tri des déchets verts et alimentaires est obligatoire. 2017 correspond à l'interdiction des sacs plastiques à usage unique.",
+          "explain": "Depuis 2024, le tri des déchets verts et alimentaires est obligatoire.",
           "kind": "knowledge"
         },
         {
@@ -1241,15 +1241,15 @@
           "kind": "knowledge"
         },
         {
-          "q": "Quel contrat de travail correspond à un emploi temporaire ?",
+          "q": "Qu'est-ce que le droit du travail ?",
           "choices": [
-            "Le CDI",
-            "Le CDD",
-            "Le contrat de fonctionnaire",
-            "Le contrat de bail"
+            "Les règles qui encadrent les relations entre salariés et employeurs",
+            "Les règles propres à la fonction publique",
+            "Les lois sur la création d'entreprise",
+            "Les règles de remboursement de la Sécurité sociale"
           ],
-          "answer": 1,
-          "explain": "Le contrat à durée déterminée (CDD) correspond à un travail temporaire ; le CDI est un contrat à durée indéterminée.",
+          "answer": 0,
+          "explain": "Le droit du travail est l'ensemble des règles juridiques qui concernent les relations professionnelles entre les salariés et les employeurs ; les conventions collectives le complètent par secteur.",
           "kind": "knowledge"
         },
         {
@@ -1522,7 +1522,7 @@
             "Le mariage civil célébré en mairie"
           ],
           "answer": 3,
-          "explain": "En France, seul le mariage civil célébré en mairie par le maire ou un adjoint est reconnu par la loi.",
+          "explain": "En France, seul le mariage civil célébré en mairie est reconnu par la loi.",
           "kind": "knowledge"
         },
         {
@@ -1766,7 +1766,7 @@
           "kind": "knowledge"
         },
         {
-          "q": "Jusqu'à quel âge de l'enfant un salarié peut-il prendre un congé parental d'éducation ?",
+          "q": "Après la naissance ou l'adoption d'un enfant de moins de quel âge un salarié peut-il bénéficier d'un congé parental d'éducation ?",
           "choices": [
             "3 ans",
             "6 ans",
