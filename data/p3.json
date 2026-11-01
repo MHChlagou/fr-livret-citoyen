@@ -53,7 +53,7 @@
             { "type": "p", "text": "La liberté d'aller et venir est aussi appelée **liberté de circulation**." },
             { "type": "p", "text": "Tout citoyen est libre de circuler sur le territoire français et dans l'**Union européenne**. Les citoyens ont le droit d'entrer et de sortir du territoire librement. Cependant, les **mineurs** doivent obtenir une **autorisation de sortie du territoire** s'ils voyagent sans leurs parents." },
             { "type": "p", "text": "Les déplacements des citoyens français sur le territoire national ne font en principe l'objet d'aucun contrôle. La circulation y est libre." },
-            { "type": "p", "text": "Plus largement, l'**espace Schengen** est une zone de libre circulation des personnes sans contrôle aux frontières intérieures. Il comprend aujourd'hui **23 États membres de l'Union européenne** et **4 États associés** (Norvège, Islande, Suisse, Liechtenstein)." },
+            { "type": "p", "text": "Plus largement, l'**espace Schengen** est une zone de libre circulation des personnes sans contrôle aux frontières intérieures. Depuis le **1er janvier 2025**, il comprend **29 pays** : **25 États membres de l'Union européenne** et **4 États associés** (Norvège, Islande, Suisse, Liechtenstein)." },
             { "type": "p", "text": "Certaines exceptions à la liberté de circulation peuvent néanmoins exister selon des situations particulières :" },
             { "type": "list", "items": [
               "les **prisonniers** sont privés de leur liberté de circulation le temps de leur peine ;",
@@ -153,7 +153,7 @@
         "Le **Code civil** a été promulgué en **1804** par **Napoléon Bonaparte** ; les lois sont consultables sur **www.legifrance.gouv.fr**.",
         "Article 4 de la DDHC : « La liberté consiste à pouvoir faire tout ce qui ne nuit pas à autrui » ; article 10 : liberté d'opinion, même religieuse ; article 11 : libre communication des pensées et des opinions.",
         "La liberté d'expression a des limites : injures, diffamation, provocation à la haine, apologie de crimes contre l'humanité et contenus incitant à la haine ou à la violence (y compris sur les réseaux sociaux) sont interdits.",
-        "L'espace Schengen comprend **23 États membres de l'UE** et **4 États associés** ; un mineur qui voyage sans ses parents a besoin d'une **autorisation de sortie du territoire**.",
+        "L'espace Schengen comprend **29 pays** : **25 États membres de l'UE** et **4 États associés** ; un mineur qui voyage sans ses parents a besoin d'une **autorisation de sortie du territoire**.",
         "IVG garantie par la Constitution depuis le **8 mars 2024** ; PMA ouverte à toutes les femmes par la loi bioéthique du **2 août 2021** ; la **GPA** est interdite et constitue un délit.",
         "En garde à vue : droit de **garder le silence**, d'être **assisté par un avocat** et de **prévenir un proche** ; toute privation de liberté est contrôlée par un juge.",
         "Accès à la justice : **aide juridictionnelle**, **Défenseur des droits** (créé en **2011**), **maisons de justice et du droit** (permanences gratuites).",
@@ -196,10 +196,10 @@
           "kind": "situation"
         },
         {
-          "q": "Combien d'États comprend l'espace Schengen selon le livret ?",
-          "choices": ["27 États membres de l'UE", "23 États membres de l'UE et 4 États associés", "20 États membres de l'UE et 7 États associés", "25 États membres de l'UE et 2 États associés"],
+          "q": "Combien de pays comprend l'espace Schengen ?",
+          "choices": ["27 États membres de l'UE", "25 États membres de l'UE et 4 États associés", "20 États membres de l'UE et 7 États associés", "23 États membres de l'UE et 4 États associés"],
           "answer": 1,
-          "explain": "L'espace Schengen comprend 23 États membres de l'Union européenne et 4 États associés (Norvège, Islande, Suisse, Liechtenstein).",
+          "explain": "L'espace Schengen comprend 29 pays : 25 États membres de l'Union européenne et 4 États associés (Norvège, Islande, Suisse, Liechtenstein).",
           "kind": "knowledge"
         },
         {
