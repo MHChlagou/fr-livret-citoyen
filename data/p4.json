@@ -427,7 +427,7 @@
               "items": [
                 {
                   "date": "6 juin 1944",
-                  "text": "La libération de la France débute par le **débarquement des Alliés** (notamment États-Unis, Royaume-Uni, Canada et Forces françaises libres) **en Normandie**, appuyés par les forces de la Résistance française."
+                  "text": "La libération de la France débute par le **débarquement des Alliés** (notamment États-Unis, Royaume-Uni, Canada et Forces françaises libres ; le livret officiel cite aussi l'URSS, qui n'y a pas participé) **en Normandie**, appuyés par les forces de la Résistance française."
                 },
                 {
                   "date": "25 août 1944",
@@ -784,7 +784,7 @@
         {
           "q": "En quelle année l'esclavage est-il aboli en France, et qui a rédigé le décret ?",
           "choices": [
-            "1794, Robespierre",
+            "1870, Léon Gambetta",
             "1848, Victor Schoelcher",
             "1815, Napoléon Bonaparte",
             "1905, Jules Ferry"
@@ -924,6 +924,42 @@
           "answer": 1,
           "explain": "Georges Pompidou (président à partir de 1969) est le seul décédé en cours de mandat ; dans ce cas, le président du Sénat remplace le Président de la République jusqu'à la fin de l'élection organisée en urgence.",
           "kind": "knowledge"
+        },
+        {
+          "q": "Le 14 juillet, votre commune organise un défilé et un feu d'artifice pour la fête nationale. Quel événement historique est à l'origine de cette date ?",
+          "choices": [
+            "La prise de la Bastille par les Parisiens en 1789",
+            "L'exécution de Louis XVI en 1793",
+            "La promulgation de la Constitution de la Vᵉ République",
+            "La libération de Paris en 1944"
+          ],
+          "answer": 0,
+          "explain": "Le 14 juillet 1789, les Parisiens s'emparent de la Bastille, prison royale symbole du pouvoir arbitraire : c'est le début de la Révolution française. Paris est libérée le 25 août 1944 et la Constitution de la Vᵉ République est promulguée le 4 octobre 1958.",
+          "kind": "situation"
+        },
+        {
+          "q": "Vous habitez avenue Victor-Hugo. Votre enfant vous demande qui était cet homme. Que répondez-vous ?",
+          "choices": [
+            "Un roi de France qui a fait construire le château de Versailles",
+            "Un grand écrivain, engagé contre les inégalités sociales et la peine de mort, auteur des « Misérables »",
+            "Un ministre qui a rendu l'école publique gratuite, laïque et obligatoire",
+            "Le général chef de la France libre pendant la Seconde Guerre mondiale"
+          ],
+          "answer": 1,
+          "explain": "Victor Hugo (1802-1885) est l'un des plus grands écrivains français ; il s'est engagé contre les inégalités sociales et la peine de mort et a écrit « Les Misérables » et « Notre-Dame de Paris ». Versailles est l'œuvre de Louis XIV, l'école gratuite celle de Jules Ferry et la France libre était dirigée par le Général de Gaulle.",
+          "kind": "situation"
+        },
+        {
+          "q": "Lors d'une discussion avec des amis, on vous demande sous quel régime politique vit la France aujourd'hui. Que répondez-vous ?",
+          "choices": [
+            "La IVᵉ République, née en 1946",
+            "Une monarchie constitutionnelle",
+            "La Vᵉ République, dont la Constitution date de 1958",
+            "La IIIᵉ République, le plus long régime républicain"
+          ],
+          "answer": 2,
+          "explain": "La Vᵉ République, dont la Constitution a été adoptée par référendum le 28 septembre 1958 et promulguée le 4 octobre 1958, est encore aujourd'hui le régime politique de la France. La IVᵉ République s'est effondrée en 1958 et la IIIᵉ a pris fin en 1940.",
+          "kind": "situation"
         }
       ]
     },
@@ -1312,6 +1348,42 @@
           "answer": 1,
           "explain": "La grotte de Lascaux est située dans le département de la Dordogne, en région Nouvelle-Aquitaine.",
           "kind": "knowledge"
+        },
+        {
+          "q": "Vous venez de vous installer à Lyon et un ami vous demande quel fleuve traverse la ville. Que lui répondez-vous ?",
+          "choices": [
+            "Le Rhône",
+            "La Seine",
+            "La Loire",
+            "La Garonne"
+          ],
+          "answer": 0,
+          "explain": "Le livret indique que le Rhône traverse Lyon, chef-lieu de la région Auvergne-Rhône-Alpes.",
+          "kind": "situation"
+        },
+        {
+          "q": "En vacances à La Réunion, vous souhaitez visiter un volcan parmi les plus actifs au monde, inscrit au patrimoine mondial de l'UNESCO. Lequel ?",
+          "choices": [
+            "La Soufrière",
+            "Le Piton de la Fournaise",
+            "Le Mont-Blanc",
+            "Le Puy de Dôme"
+          ],
+          "answer": 1,
+          "explain": "Le Piton de la Fournaise, situé sur l'île de la Réunion (2 600 m), est l'un des volcans les plus actifs au monde et un site protégé inscrit au patrimoine mondial de l'UNESCO.",
+          "kind": "situation"
+        },
+        {
+          "q": "Vous voulez emmener vos enfants voir les peintures rupestres de la grotte de Lascaux. Dans quelle région devez-vous vous rendre ?",
+          "choices": [
+            "Occitanie",
+            "Auvergne-Rhône-Alpes",
+            "Nouvelle-Aquitaine",
+            "Provence-Alpes-Côte d'Azur"
+          ],
+          "answer": 2,
+          "explain": "La grotte de Lascaux se trouve dans le département de la Dordogne, en région Nouvelle-Aquitaine.",
+          "kind": "situation"
         }
       ]
     },
@@ -1842,6 +1914,66 @@
           "answer": 1,
           "explain": "Le repas gastronomique français, qui permet de célébrer les moments importants de la vie, est inscrit par l'UNESCO sur la liste représentative du patrimoine culturel immatériel de l'humanité.",
           "kind": "knowledge"
+        },
+        {
+          "q": "Vous avez peu de moyens mais vous aimeriez visiter des musées publics avec vos enfants. Que prévoient les musées publics selon le livret ?",
+          "choices": [
+            "Ils organisent des journées gratuites ou proposent des tarifs réduits",
+            "Ils réservent la gratuité aux groupes scolaires",
+            "Ils proposent des tarifs réduits uniquement aux ressortissants français",
+            "Ils appliquent le plein tarif, sauf pour les enfants de moins de 3 ans"
+          ],
+          "answer": 0,
+          "explain": "Le livret précise que les musées publics organisent des journées gratuites ou proposent des tarifs réduits afin de rendre les œuvres accessibles à tous.",
+          "kind": "situation"
+        },
+        {
+          "q": "Votre employeur vous informe que l'entreprise sera fermée le 8 mai car c'est un jour férié. Que commémore cette date ?",
+          "choices": [
+            "La prise de la Bastille",
+            "La fin de la Seconde Guerre mondiale",
+            "La fête de la Fédération",
+            "La journée de huit heures"
+          ],
+          "answer": 1,
+          "explain": "Le livret cite le 8 mai parmi les jours fériés, en précisant qu'il marque la fin de la Seconde Guerre mondiale.",
+          "kind": "situation"
+        },
+        {
+          "q": "Le 14 juillet, votre voisin vous invite au bal et au feu d'artifice de la commune. Un collègue vous dit que cette fête ne concerne que l'armée. Qu'en est-il ?",
+          "choices": [
+            "Un défilé militaire à Paris uniquement, sans festivités dans les communes",
+            "Une fête populaire organisée par les seules associations, sans dimension officielle",
+            "Un événement institutionnel (défilé militaire) et une fête populaire ouverte à tous",
+            "Une commémoration réservée aux anciens combattants et à leurs familles"
+          ],
+          "answer": 2,
+          "explain": "Le 14 juillet est à la fois un événement institutionnel, avec le défilé militaire sur les Champs-Élysées, et une fête populaire dans tout le pays avec des concerts, bals et feux d'artifice.",
+          "kind": "situation"
+        },
+        {
+          "q": "En vacances en Corse, vous voulez goûter un fromage local à appellation protégée cité dans le livret. Lequel choisissez-vous ?",
+          "choices": [
+            "Le Camembert",
+            "Le Maroilles",
+            "Le Brocciu",
+            "Le Roquefort"
+          ],
+          "answer": 2,
+          "explain": "Le livret cite le Brocciu en Corse, le Camembert en Normandie et le Maroilles dans le Nord de la France.",
+          "kind": "situation"
+        },
+        {
+          "q": "Un ami cycliste veut assister à l'arrivée finale du Tour de France. Où et quand lui conseillez-vous d'aller ?",
+          "choices": [
+            "Au Stade de France, en juin",
+            "À Marseille, en août",
+            "Sur la Côte d'Azur, en septembre",
+            "Sur les Champs-Élysées à Paris, en juillet"
+          ],
+          "answer": 3,
+          "explain": "Le Tour de France a lieu chaque année en juillet et les coureurs arrivent sur les Champs-Élysées, à Paris.",
+          "kind": "situation"
         }
       ]
     }

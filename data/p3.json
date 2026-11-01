@@ -12,138 +12,377 @@
         {
           "title": "Introduction : citoyenneté, droits et textes de référence",
           "blocks": [
-            { "type": "p", "text": "Être citoyen d'un État signifie avoir la **nationalité** de cet État. C'est aussi, à ce titre, avoir des **droits** et des **devoirs**." },
-            { "type": "p", "text": "Ces droits et devoirs conditionnent notre vie en société et garantissent un équilibre entre les **libertés individuelles** et le **bien commun**. Ce chapitre explore successivement les droits fondamentaux des citoyens et les devoirs qui les accompagnent." },
-            { "type": "p", "text": "Certains droits et devoirs sont **spécifiques aux citoyens français**, tels que le **droit de vote** ou la participation à la **défense nationale** et au **jury d'assises**. Cependant, la plupart des droits et devoirs s'appliquent à **toutes les personnes résidant en France**, quels que soient leur nationalité ou leur statut." },
-            { "type": "p", "text": "En particulier, la loi et les règlements s'appliquent à tous. On peut, par exemple, citer le **Code civil**, qui définit les règles essentielles applicables entre les personnes, ou le **Code pénal**, qui définit les infractions et précise les peines correspondant à leur sanction." },
-            { "type": "callout", "text": "Le Code civil a été promulgué en **1804** par **Napoléon Bonaparte**." },
-            { "type": "p", "text": "En France, les droits fondamentaux sont principalement garantis par :" },
-            { "type": "list", "items": [
-              "la **Constitution de la Ve République** (notamment son préambule) ;",
-              "la **Déclaration des droits de l'homme et du citoyen de 1789** ;",
-              "le **préambule de la Constitution de 1946** ;",
-              "la **Charte de l'environnement de 2004** ;",
-              "les **textes internationaux ratifiés par la France**, comme par exemple la Convention européenne de sauvegarde des droits de l'homme et des libertés fondamentales, aussi appelée **Convention européenne des droits de l'homme (CEDH)**."
-            ] },
-            { "type": "callout", "text": "Comment vous renseigner sur les lois et les règles en vigueur ? Toutes les lois, souvent regroupées en codes, sont disponibles sur internet : **www.legifrance.gouv.fr**. Le site **www.vie-publique.fr** présente les principales règles ainsi que le fonctionnement des institutions." }
+            {
+              "type": "p",
+              "text": "Être citoyen d'un État signifie avoir la **nationalité** de cet État. C'est aussi, à ce titre, avoir des **droits** et des **devoirs**."
+            },
+            {
+              "type": "p",
+              "text": "Ces droits et devoirs conditionnent notre vie en société et garantissent un équilibre entre les **libertés individuelles** et le **bien commun**. Ce chapitre explore successivement les droits fondamentaux des citoyens et les devoirs qui les accompagnent."
+            },
+            {
+              "type": "p",
+              "text": "Certains droits et devoirs sont **spécifiques aux citoyens français**, tels que le **droit de vote** ou la participation à la **défense nationale** et au **jury d'assises**. Cependant, la plupart des droits et devoirs s'appliquent à **toutes les personnes résidant en France**, quels que soient leur nationalité ou leur statut."
+            },
+            {
+              "type": "p",
+              "text": "En particulier, la loi et les règlements s'appliquent à tous. On peut, par exemple, citer le **Code civil**, qui définit les règles essentielles applicables entre les personnes, ou le **Code pénal**, qui définit les infractions et précise les peines correspondant à leur sanction."
+            },
+            {
+              "type": "callout",
+              "text": "Le Code civil a été promulgué en **1804** par **Napoléon Bonaparte**."
+            },
+            {
+              "type": "p",
+              "text": "En France, les droits fondamentaux sont principalement garantis par :"
+            },
+            {
+              "type": "list",
+              "items": [
+                "la **Constitution de la Ve République** (notamment son préambule) ;",
+                "la **Déclaration des droits de l'homme et du citoyen de 1789** ;",
+                "le **préambule de la Constitution de 1946** ;",
+                "la **Charte de l'environnement de 2004** ;",
+                "les **textes internationaux ratifiés par la France**, comme par exemple la Convention européenne de sauvegarde des droits de l'homme et des libertés fondamentales, aussi appelée **Convention européenne des droits de l'homme (CEDH)**."
+              ]
+            },
+            {
+              "type": "callout",
+              "text": "Comment vous renseigner sur les lois et les règles en vigueur ? Toutes les lois, souvent regroupées en codes, sont disponibles sur internet : **www.legifrance.gouv.fr**. Le site **www.vie-publique.fr** présente les principales règles ainsi que le fonctionnement des institutions."
+            }
           ]
         },
         {
           "title": "Les droits liés à la liberté individuelle",
           "blocks": [
-            { "type": "p", "text": "**1. La liberté de choix**" },
-            { "type": "p", "text": "La liberté de choix est une liberté personnelle, un principe fondamental, qui permet de décider de son mode de vie, de ses relations, de ses projets **dans les limites de la loi**." },
-            { "type": "quote", "text": "La liberté consiste à pouvoir faire tout ce qui ne nuit pas à autrui.", "source": "Article 4 de la Déclaration des droits de l'homme et du citoyen de 1789, cité par le préambule de la Constitution de 1958" },
-            { "type": "callout", "text": "Illustration du livret : « La Liberté guidant le peuple », peint par **Eugène Delacroix** en **1830**." },
-            { "type": "p", "text": "**2. La liberté de pensée, de conscience et de religion**" },
-            { "type": "p", "text": "La liberté de pensée est un droit fondamental protégé notamment par la Constitution, dont le préambule renvoie à l'**article 10** de la Déclaration des droits de l'homme et du citoyen de 1789 :" },
-            { "type": "quote", "text": "Nul ne doit être inquiété pour ses opinions, même religieuses, pourvu que leur manifestation ne trouble pas l'ordre public établi par la loi.", "source": "Article 10 de la Déclaration des droits de l'homme et du citoyen de 1789" },
-            { "type": "p", "text": "La liberté de pensée et la liberté de conscience permettent ainsi à chacun de **croire, de réfléchir et de douter**, sans contrainte. Cette liberté de pensée est **totale**." },
-            { "type": "p", "text": "Chacun est donc libre de choisir sa religion et de la pratiquer librement. On peut croire en un ou plusieurs dieux, mais aussi **ne pas croire** et ne pas avoir de religion (cette notion est détaillée dans la partie « laïcité »)." },
-            { "type": "p", "text": "Enfin, tout individu est libre d'**adhérer à un parti politique** sans condition." },
-            { "type": "callout", "text": "Les personnes emprisonnées **conservent la liberté de culte** pendant leur détention." },
-            { "type": "p", "text": "**3. La liberté d'expression**" },
-            { "type": "p", "text": "Tous les individus sont libres d'exprimer leurs idées et opinions." },
-            { "type": "p", "text": "Cette liberté d'expression s'exerce **dans les limites fixées par la loi**. En effet, aucun appel à la violence n'est autorisé et aucune insulte et/ou menace ne peut être dirigée vers la personne s'étant exprimée. L'État peut donc limiter la liberté d'expression, notamment pour éviter la diffusion de **propos discriminatoires**." },
-            { "type": "p", "text": "De la même façon, la liberté d'expression sur les **réseaux sociaux** en France est protégée par la loi, mais les contenus qui **incitent à la haine ou à la violence** sont interdits." },
-            { "type": "p", "text": "**Focus sur la liberté de la presse.** Conformément à l'**article 11** de la Déclaration des droits de l'homme et du citoyen, la « libre communication des pensées et des opinions » est un principe fondamental. Dans ce cadre, la presse est libre en France. Les journalistes peuvent donc librement informer le public sur ce qu'il se passe dans le pays et dans le monde. Ils peuvent aussi exprimer leur opinion sur les événements et diffuser des informations, y compris si cela concerne des institutions, des personnalités ou des croyances religieuses." },
-            { "type": "p", "text": "Néanmoins, la liberté de la presse est **encadrée par la loi**. Les journalistes ne peuvent pas publier des propos diffamatoires, inciter à commettre des crimes ou des délits ou encore contester des crimes contre l'humanité. Dans de tels cas, ils s'exposent à des **poursuites judiciaires**." },
-            { "type": "callout", "text": "Avez-vous le droit de tout dire, de tout exprimer publiquement ? La liberté d'expression est un droit fondamental. Cependant, elle a des limites, pour respecter les droits des autres. Il est ainsi **interdit** de diffuser des **injures**, des **propos diffamatoires**, des **provocations à la haine**, ou de faire l'**apologie de crimes contre l'humanité**." },
-            { "type": "p", "text": "**4. La liberté d'aller et venir**" },
-            { "type": "p", "text": "La liberté d'aller et venir est aussi appelée **liberté de circulation**." },
-            { "type": "p", "text": "Tout citoyen est libre de circuler sur le territoire français et dans l'**Union européenne**. Les citoyens ont le droit d'entrer et de sortir du territoire librement. Cependant, les **mineurs** doivent obtenir une **autorisation de sortie du territoire** s'ils voyagent sans leurs parents." },
-            { "type": "p", "text": "Les déplacements des citoyens français sur le territoire national ne font en principe l'objet d'aucun contrôle. La circulation y est libre." },
-            { "type": "p", "text": "Plus largement, l'**espace Schengen** est une zone de libre circulation des personnes sans contrôle aux frontières intérieures. Depuis le **1er janvier 2025**, il comprend **29 pays** : **25 États membres de l'Union européenne** et **4 États associés** (Norvège, Islande, Suisse, Liechtenstein)." },
-            { "type": "p", "text": "Certaines exceptions à la liberté de circulation peuvent néanmoins exister selon des situations particulières :" },
-            { "type": "list", "items": [
-              "les **prisonniers** sont privés de leur liberté de circulation le temps de leur peine ;",
-              "les **étrangers non européens** sont limités par la souveraineté des États qui posent des conditions pour l'entrée des étrangers sur le territoire, avec les visas ;",
-              "en cas de « **crise exceptionnelle et temporaire** » comme un **état d'urgence**, l'État peut restreindre la liberté d'aller et venir."
-            ] },
-            { "type": "callout", "text": "Pour les étrangers non ressortissants de l'Union européenne, il est **obligatoire de détenir un titre de séjour** à l'expiration du visa (non renouvelé)." }
+            {
+              "type": "p",
+              "text": "**1. La liberté de choix**"
+            },
+            {
+              "type": "p",
+              "text": "La liberté de choix est une liberté personnelle, un principe fondamental, qui permet de décider de son mode de vie, de ses relations, de ses projets **dans les limites de la loi**."
+            },
+            {
+              "type": "quote",
+              "text": "La liberté consiste à pouvoir faire tout ce qui ne nuit pas à autrui.",
+              "source": "Article 4 de la Déclaration des droits de l'homme et du citoyen de 1789, cité par le préambule de la Constitution de 1958"
+            },
+            {
+              "type": "callout",
+              "text": "Illustration du livret : « La Liberté guidant le peuple », peint par **Eugène Delacroix** en **1830**."
+            },
+            {
+              "type": "p",
+              "text": "**2. La liberté de pensée, de conscience et de religion**"
+            },
+            {
+              "type": "p",
+              "text": "La liberté de pensée est un droit fondamental protégé notamment par la Constitution, dont le préambule renvoie à l'**article 10** de la Déclaration des droits de l'homme et du citoyen de 1789 :"
+            },
+            {
+              "type": "quote",
+              "text": "Nul ne doit être inquiété pour ses opinions, même religieuses, pourvu que leur manifestation ne trouble pas l'ordre public établi par la loi.",
+              "source": "Article 10 de la Déclaration des droits de l'homme et du citoyen de 1789"
+            },
+            {
+              "type": "p",
+              "text": "La liberté de pensée et la liberté de conscience permettent ainsi à chacun de **croire, de réfléchir et de douter**, sans contrainte. Cette liberté de pensée est **totale**."
+            },
+            {
+              "type": "p",
+              "text": "Chacun est donc libre de choisir sa religion et de la pratiquer librement. On peut croire en un ou plusieurs dieux, mais aussi **ne pas croire** et ne pas avoir de religion (cette notion est détaillée dans la partie « laïcité »)."
+            },
+            {
+              "type": "p",
+              "text": "Enfin, tout individu est libre d'**adhérer à un parti politique** sans condition."
+            },
+            {
+              "type": "callout",
+              "text": "Les personnes emprisonnées **conservent la liberté de culte** pendant leur détention."
+            },
+            {
+              "type": "p",
+              "text": "**3. La liberté d'expression**"
+            },
+            {
+              "type": "p",
+              "text": "Tous les individus sont libres d'exprimer leurs idées et opinions."
+            },
+            {
+              "type": "p",
+              "text": "Cette liberté d'expression s'exerce **dans les limites fixées par la loi**. En effet, aucun appel à la violence n'est autorisé et aucune insulte et/ou menace ne peut être dirigée vers la personne s'étant exprimée. L'État peut donc limiter la liberté d'expression, notamment pour éviter la diffusion de **propos discriminatoires**."
+            },
+            {
+              "type": "p",
+              "text": "De la même façon, la liberté d'expression sur les **réseaux sociaux** en France est protégée par la loi, mais les contenus qui **incitent à la haine ou à la violence** sont interdits."
+            },
+            {
+              "type": "p",
+              "text": "**Focus sur la liberté de la presse.** Conformément à l'**article 11** de la Déclaration des droits de l'homme et du citoyen, la « libre communication des pensées et des opinions » est un principe fondamental. Dans ce cadre, la presse est libre en France. Les journalistes peuvent donc librement informer le public sur ce qu'il se passe dans le pays et dans le monde. Ils peuvent aussi exprimer leur opinion sur les événements et diffuser des informations, y compris si cela concerne des institutions, des personnalités ou des croyances religieuses."
+            },
+            {
+              "type": "p",
+              "text": "Néanmoins, la liberté de la presse est **encadrée par la loi**. Les journalistes ne peuvent pas publier des propos diffamatoires, inciter à commettre des crimes ou des délits ou encore contester des crimes contre l'humanité. Dans de tels cas, ils s'exposent à des **poursuites judiciaires**."
+            },
+            {
+              "type": "callout",
+              "text": "Avez-vous le droit de tout dire, de tout exprimer publiquement ? La liberté d'expression est un droit fondamental. Cependant, elle a des limites, pour respecter les droits des autres. Il est ainsi **interdit** de diffuser des **injures**, des **propos diffamatoires**, des **provocations à la haine**, ou de faire l'**apologie de crimes contre l'humanité**."
+            },
+            {
+              "type": "p",
+              "text": "**4. La liberté d'aller et venir**"
+            },
+            {
+              "type": "p",
+              "text": "La liberté d'aller et venir est aussi appelée **liberté de circulation**."
+            },
+            {
+              "type": "p",
+              "text": "Tout citoyen est libre de circuler sur le territoire français et dans l'**Union européenne**. Les citoyens ont le droit d'entrer et de sortir du territoire librement. Cependant, les **mineurs** doivent obtenir une **autorisation de sortie du territoire** s'ils voyagent sans leurs parents."
+            },
+            {
+              "type": "p",
+              "text": "Les déplacements des citoyens français sur le territoire national ne font en principe l'objet d'aucun contrôle. La circulation y est libre."
+            },
+            {
+              "type": "p",
+              "text": "Plus largement, l'**espace Schengen** est une zone de libre circulation des personnes sans contrôle aux frontières intérieures. Il comprend aujourd'hui **29 pays** : **25 États membres de l'Union européenne** et **4 États associés** (Norvège, Islande, Suisse, Liechtenstein). Attention : le livret officiel imprime encore « 23 États membres de l'UE et 4 États associés », un chiffre antérieur à l'entrée de la Roumanie et de la Bulgarie ; si un examinateur se réfère au livret, c'est ce chiffre qu'il attend."
+            },
+            {
+              "type": "p",
+              "text": "Certaines exceptions à la liberté de circulation peuvent néanmoins exister selon des situations particulières :"
+            },
+            {
+              "type": "list",
+              "items": [
+                "les **prisonniers** sont privés de leur liberté de circulation le temps de leur peine ;",
+                "les **étrangers non européens** sont limités par la souveraineté des États qui posent des conditions pour l'entrée des étrangers sur le territoire, avec les visas ;",
+                "en cas de « **crise exceptionnelle et temporaire** » comme un **état d'urgence**, l'État peut restreindre la liberté d'aller et venir."
+              ]
+            },
+            {
+              "type": "callout",
+              "text": "Pour les étrangers non ressortissants de l'Union européenne, il est **obligatoire de détenir un titre de séjour** à l'expiration du visa (non renouvelé)."
+            }
           ]
         },
         {
           "title": "Les droits liés à la dignité",
           "blocks": [
-            { "type": "p", "text": "**1. Le droit au respect de la vie privée**" },
-            { "type": "p", "text": "Le droit au respect de la vie privée est **garanti par la Constitution**. Il implique notamment :" },
-            { "type": "list", "items": [
-              "le respect de l'intimité, du secret médical, du droit à l'image… ;",
-              "des limites aux pratiques de surveillance et d'enquête (comme les écoutes téléphoniques) ;",
-              "la mise en place de règles afin de limiter les risques liés aux outils numériques."
-            ] },
-            { "type": "p", "text": "Le **juge judiciaire** veille au respect du droit à la vie privée. La protection contre les atteintes à ce droit inclut notamment :" },
-            { "type": "list", "items": [
-              "le **secret professionnel et médical** : un médecin ne peut révéler les éléments du dossier médical d'une personne sans son consentement ;",
-              "la **protection de l'intimité** : des éléments concernant les relations amoureuses ou les préférences sexuelles d'une personne ne peuvent être dévoilés à son insu ;",
-              "la **protection du droit à l'image** : le droit à la vie privée et le droit à l'image sont des droits distincts mais étroitement liés. Il est interdit de photographier, filmer ou enregistrer une personne **sans son autorisation**, dans un lieu privé ou un lieu public où elle peut supposer qu'elle ne sera pas observée ou écoutée."
-            ] },
-            { "type": "callout", "text": "Je suis victime d'une violation de mon droit à la vie privée, que puis-je faire ? Vous pouvez **déposer une plainte** auprès des forces de sécurité intérieure (**police nationale** ou **gendarmerie nationale**)." },
-            { "type": "p", "text": "**2. Le droit à la dignité de la personne humaine**" },
-            { "type": "p", "text": "Le droit à la dignité humaine implique qu'une personne ne doit **jamais être traitée comme un objet ou un moyen**. Ce principe est inscrit dans le **préambule de la Constitution de 1946**." },
-            { "type": "p", "text": "La **Charte des droits fondamentaux de l'Union européenne** identifie **5 droits essentiels** liés au respect de la personne humaine :" },
-            { "type": "list", "items": [
-              "la dignité humaine ;",
-              "le droit à la vie ;",
-              "le droit à l'intégrité de la personne (protection du corps et de l'esprit d'une personne) ;",
-              "l'interdiction de la torture et des traitements inhumains ou dégradants ;",
-              "l'interdiction de l'esclavage et du travail forcé."
-            ] },
-            { "type": "callout", "text": "Une personne employée par une entreprise et **non rémunérée** est dans une situation d'**atteinte à la dignité**." },
-            { "type": "p", "text": "**3. Le droit à disposer de son corps**" },
-            { "type": "p", "text": "Toute personne est libre de faire elle-même ses propres choix concernant son corps, notamment sur le plan médical, dans le respect de son intégrité et de sa dignité." },
-            { "type": "p", "text": "Toute atteinte (**viol, mutilation, stérilisation forcée, excision**…) est interdite. Ces actes représentent une violation de ce droit, qui est sanctionnée par le juge." },
-            { "type": "p", "text": "Le droit à disposer de son corps est garanti par plusieurs dispositifs législatifs et de santé publique." },
-            { "type": "callout", "text": "La **vaccination est obligatoire pour les enfants**. En revanche, toute personne est libre de **refuser un traitement ou un acte médical**." },
-            { "type": "p", "text": "Le **droit à la contraception**, c'est-à-dire pouvoir choisir de ne pas devenir parent en usant de moyens de contraception afin d'éviter une grossesse, est ainsi garanti, **y compris pour les mineurs**." },
-            { "type": "p", "text": "Depuis le **8 mars 2024**, la liberté de recourir à l'**avortement** (appelé aussi interruption volontaire de grossesse ou **IVG**) est **garantie par la Constitution**. Ainsi une femme enceinte, **même mineure**, peut demander l'arrêt de sa grossesse en recourant à une IVG dans les conditions fixées par la loi." },
-            { "type": "p", "text": "La décision d'avoir un enfant est aussi une liberté personnelle. La **loi bioéthique du 2 août 2021** autorise la **procréation médicalement assistée (PMA)** à toutes les femmes. Elle aide les couples hétérosexuels, les couples lesbiens, ainsi que les femmes seules, à concevoir un enfant." },
-            { "type": "callout", "text": "Le recours à la **gestation pour autrui (GPA)**, où une autre femme porte un enfant pour un couple, **n'est pas autorisé et est un délit**." }
+            {
+              "type": "p",
+              "text": "**1. Le droit au respect de la vie privée**"
+            },
+            {
+              "type": "p",
+              "text": "Le droit au respect de la vie privée est **garanti par la Constitution**. Il implique notamment :"
+            },
+            {
+              "type": "list",
+              "items": [
+                "le respect de l'intimité, du secret médical, du droit à l'image… ;",
+                "des limites aux pratiques de surveillance et d'enquête (comme les écoutes téléphoniques) ;",
+                "la mise en place de règles afin de limiter les risques liés aux outils numériques."
+              ]
+            },
+            {
+              "type": "p",
+              "text": "Le **juge judiciaire** veille au respect du droit à la vie privée. La protection contre les atteintes à ce droit inclut notamment :"
+            },
+            {
+              "type": "list",
+              "items": [
+                "le **secret professionnel et médical** : un médecin ne peut révéler les éléments du dossier médical d'une personne sans son consentement ;",
+                "la **protection de l'intimité** : des éléments concernant les relations amoureuses ou les préférences sexuelles d'une personne ne peuvent être dévoilés à son insu ;",
+                "la **protection du droit à l'image** : le droit à la vie privée et le droit à l'image sont des droits distincts mais étroitement liés. Il est interdit de photographier, filmer ou enregistrer une personne **sans son autorisation**, dans un lieu privé ou un lieu public où elle peut supposer qu'elle ne sera pas observée ou écoutée."
+              ]
+            },
+            {
+              "type": "callout",
+              "text": "Je suis victime d'une violation de mon droit à la vie privée, que puis-je faire ? Vous pouvez **déposer une plainte** auprès des forces de sécurité intérieure (**police nationale** ou **gendarmerie nationale**)."
+            },
+            {
+              "type": "p",
+              "text": "**2. Le droit à la dignité de la personne humaine**"
+            },
+            {
+              "type": "p",
+              "text": "Le droit à la dignité humaine implique qu'une personne ne doit **jamais être traitée comme un objet ou un moyen**. Ce principe est inscrit dans le **préambule de la Constitution de 1946**."
+            },
+            {
+              "type": "p",
+              "text": "La **Charte des droits fondamentaux de l'Union européenne** identifie **5 droits essentiels** liés au respect de la personne humaine :"
+            },
+            {
+              "type": "list",
+              "items": [
+                "la dignité humaine ;",
+                "le droit à la vie ;",
+                "le droit à l'intégrité de la personne (protection du corps et de l'esprit d'une personne) ;",
+                "l'interdiction de la torture et des traitements inhumains ou dégradants ;",
+                "l'interdiction de l'esclavage et du travail forcé."
+              ]
+            },
+            {
+              "type": "callout",
+              "text": "Une personne employée par une entreprise et **non rémunérée** est dans une situation d'**atteinte à la dignité**."
+            },
+            {
+              "type": "p",
+              "text": "**3. Le droit à disposer de son corps**"
+            },
+            {
+              "type": "p",
+              "text": "Toute personne est libre de faire elle-même ses propres choix concernant son corps, notamment sur le plan médical, dans le respect de son intégrité et de sa dignité."
+            },
+            {
+              "type": "p",
+              "text": "Toute atteinte (**viol, mutilation, stérilisation forcée, excision**…) est interdite. Ces actes représentent une violation de ce droit, qui est sanctionnée par le juge."
+            },
+            {
+              "type": "p",
+              "text": "Le droit à disposer de son corps est garanti par plusieurs dispositifs législatifs et de santé publique."
+            },
+            {
+              "type": "callout",
+              "text": "La **vaccination est obligatoire pour les enfants**. En revanche, toute personne est libre de **refuser un traitement ou un acte médical**."
+            },
+            {
+              "type": "p",
+              "text": "Le **droit à la contraception**, c'est-à-dire pouvoir choisir de ne pas devenir parent en usant de moyens de contraception afin d'éviter une grossesse, est ainsi garanti, **y compris pour les mineurs**."
+            },
+            {
+              "type": "p",
+              "text": "Depuis le **8 mars 2024**, la liberté de recourir à l'**avortement** (appelé aussi interruption volontaire de grossesse ou **IVG**) est **garantie par la Constitution**. Ainsi une femme enceinte, **même mineure**, peut demander l'arrêt de sa grossesse en recourant à une IVG dans les conditions fixées par la loi."
+            },
+            {
+              "type": "p",
+              "text": "La décision d'avoir un enfant est aussi une liberté personnelle. La **loi bioéthique du 2 août 2021** autorise la **procréation médicalement assistée (PMA)** à toutes les femmes. Elle aide les couples hétérosexuels, les couples lesbiens, ainsi que les femmes seules, à concevoir un enfant."
+            },
+            {
+              "type": "callout",
+              "text": "Le recours à la **gestation pour autrui (GPA)**, où une autre femme porte un enfant pour un couple, **n'est pas autorisé et est un délit**."
+            }
           ]
         },
         {
           "title": "Les droits liés à la sûreté et à la justice",
           "blocks": [
-            { "type": "p", "text": "**1. Le droit à la sûreté**" },
-            { "type": "p", "text": "Il protège les personnes contre toute **arrestation, détention ou sanction arbitraire**." },
-            { "type": "p", "text": "Personne ne peut être arrêté ou enfermé sans raison légale ou sans que les procédures prévues par la loi n'aient été respectées. **Toute privation de liberté est contrôlée par un juge.**" },
-            { "type": "p", "text": "La **police** et la **gendarmerie** assurent les missions de maintien de l'ordre et de la sécurité publique. Elles mènent les enquêtes judiciaires et ont des missions de prévention et d'assistance. Dans le cadre de ces missions et **sous le contrôle du juge**, elles ont le pouvoir d'arrêter, de détenir, d'interroger et de fouiller des personnes." },
-            { "type": "callout", "text": "En cas d'arrestation ou de **garde à vue**, la personne concernée est informée des motifs d'arrestation et de ses droits, notamment le droit de **garder le silence**, d'être **assistée par un avocat** et de **prévenir un proche**." },
-            { "type": "p", "text": "**2. Le droit à la justice**" },
-            { "type": "p", "text": "Toute personne a la possibilité de faire valoir ses droits devant les tribunaux." },
-            { "type": "p", "text": "Chacun a droit à un **procès équitable**, conduit par des **juges indépendants et impartiaux**. Toute personne a le droit d'être entendue, de se défendre, d'être assistée par un avocat et d'être traitée de manière égale." },
-            { "type": "p", "text": "La **présomption d'innocence** s'applique tant qu'aucune condamnation définitive n'a été prononcée. Les peines doivent être **prévues par la loi** et **proportionnées** aux faits reprochés." },
-            { "type": "p", "text": "Ces principes assurent une justice équitable, transparente et respectueuse des droits fondamentaux. Pour faciliter l'accès à la justice, plusieurs aides existent, comme :" },
-            { "type": "list", "items": [
-              "l'**aide juridictionnelle** : aide financière de l'État pour les personnes ayant peu de moyens financiers et qui ont besoin d'être accompagnées par un avocat lors d'un procès devant un tribunal français ;",
-              "le **Défenseur des droits** : autorité administrative indépendante, créée en **2011**, qui intervient en cas de litige avec une administration, de discrimination ou d'atteinte aux droits. Il défend, entre autres, les droits des usagers des services publics. Il est possible d'être reçu par un délégué dans des structures locales ;",
-              "les **maisons de justice et du droit** : elles orientent et conseillent les personnes dans leurs démarches juridiques. Elles assurent des **permanences gratuites** grâce à des associations spécialisées, sous la coordination des conseils départementaux d'accès au droit (**CDAD**)."
-            ] }
+            {
+              "type": "p",
+              "text": "**1. Le droit à la sûreté**"
+            },
+            {
+              "type": "p",
+              "text": "Il protège les personnes contre toute **arrestation, détention ou sanction arbitraire**."
+            },
+            {
+              "type": "p",
+              "text": "Personne ne peut être arrêté ou enfermé sans raison légale ou sans que les procédures prévues par la loi n'aient été respectées. **Toute privation de liberté est contrôlée par un juge.**"
+            },
+            {
+              "type": "p",
+              "text": "La **police** et la **gendarmerie** assurent les missions de maintien de l'ordre et de la sécurité publique. Elles mènent les enquêtes judiciaires et ont des missions de prévention et d'assistance. Dans le cadre de ces missions et **sous le contrôle du juge**, elles ont le pouvoir d'arrêter, de détenir, d'interroger et de fouiller des personnes."
+            },
+            {
+              "type": "callout",
+              "text": "En cas d'arrestation ou de **garde à vue**, la personne concernée est informée des motifs d'arrestation et de ses droits, notamment le droit de **garder le silence**, d'être **assistée par un avocat** et de **prévenir un proche**."
+            },
+            {
+              "type": "p",
+              "text": "**2. Le droit à la justice**"
+            },
+            {
+              "type": "p",
+              "text": "Toute personne a la possibilité de faire valoir ses droits devant les tribunaux."
+            },
+            {
+              "type": "p",
+              "text": "Chacun a droit à un **procès équitable**, conduit par des **juges indépendants et impartiaux**. Toute personne a le droit d'être entendue, de se défendre, d'être assistée par un avocat et d'être traitée de manière égale."
+            },
+            {
+              "type": "p",
+              "text": "La **présomption d'innocence** s'applique tant qu'aucune condamnation définitive n'a été prononcée. Les peines doivent être **prévues par la loi** et **proportionnées** aux faits reprochés."
+            },
+            {
+              "type": "p",
+              "text": "Ces principes assurent une justice équitable, transparente et respectueuse des droits fondamentaux. Pour faciliter l'accès à la justice, plusieurs aides existent, comme :"
+            },
+            {
+              "type": "list",
+              "items": [
+                "l'**aide juridictionnelle** : aide financière de l'État pour les personnes ayant peu de moyens financiers et qui ont besoin d'être accompagnées par un avocat lors d'un procès devant un tribunal français ;",
+                "le **Défenseur des droits** : autorité administrative indépendante, créée en **2011**, qui intervient en cas de litige avec une administration, de discrimination ou d'atteinte aux droits. Il défend, entre autres, les droits des usagers des services publics. Il est possible d'être reçu par un délégué dans des structures locales ;",
+                "les **maisons de justice et du droit** : elles orientent et conseillent les personnes dans leurs démarches juridiques. Elles assurent des **permanences gratuites** grâce à des associations spécialisées, sous la coordination des conseils départementaux d'accès au droit (**CDAD**)."
+              ]
+            }
           ]
         },
         {
           "title": "Les droits politiques",
           "blocks": [
-            { "type": "p", "text": "**1. Le droit de vote et de se porter candidat aux élections**" },
-            { "type": "p", "text": "Le droit de vote et le droit de se porter candidat aux élections constituent les **fondements de la démocratie représentative**." },
-            { "type": "p", "text": "Les modalités d'exercice de ces droits sont présentées dans les thématiques « système institutionnel et politique » et « principes et valeurs de la République » du livret." },
-            { "type": "p", "text": "**2. La liberté de réunion**" },
-            { "type": "p", "text": "Toute personne dispose de la liberté de se rassembler **pacifiquement** pour exprimer des opinions, débattre ou défendre des intérêts communs. C'est une liberté importante pour le fonctionnement de la démocratie." },
-            { "type": "p", "text": "Toutefois, s'il existe un **risque de trouble à l'ordre public**, par exemple de violences ou d'émeutes, l'autorité administrative (**maire, préfet**…) peut restreindre cette liberté, **sous le contrôle du juge**." },
-            { "type": "p", "text": "**3. La liberté de manifester**" },
-            { "type": "p", "text": "Manifester fait partie des moyens d'expression collective traditionnels dans la vie politique et sociale française. Reconnue comme une liberté fondamentale dans la **Déclaration des droits de l'homme et du citoyen**, la manifestation est inscrite dans le droit français." },
-            { "type": "callout", "text": "Pour éviter les troubles à l'ordre public, une manifestation **doit être déclarée auprès de l'administration**. Cette déclaration préalable précise notamment le **parcours** de la manifestation et identifie les **organisateurs**." },
-            { "type": "p", "text": "**4. La liberté d'association**" },
-            { "type": "p", "text": "La **loi du 1er juillet 1901** reconnaît le droit de **créer ou de rejoindre une association**. Elle préserve la liberté et les droits des individus tout en permettant leur action." },
-            { "type": "p", "text": "Cependant, les associations doivent respecter les lois de la République. Ainsi, une association qui ne respecte pas les principes républicains **peut être dissoute par l'État**." }
+            {
+              "type": "p",
+              "text": "**1. Le droit de vote et de se porter candidat aux élections**"
+            },
+            {
+              "type": "p",
+              "text": "Le droit de vote et le droit de se porter candidat aux élections constituent les **fondements de la démocratie représentative**."
+            },
+            {
+              "type": "p",
+              "text": "Les modalités d'exercice de ces droits sont présentées dans les thématiques « système institutionnel et politique » et « principes et valeurs de la République » du livret."
+            },
+            {
+              "type": "p",
+              "text": "**2. La liberté de réunion**"
+            },
+            {
+              "type": "p",
+              "text": "Toute personne dispose de la liberté de se rassembler **pacifiquement** pour exprimer des opinions, débattre ou défendre des intérêts communs. C'est une liberté importante pour le fonctionnement de la démocratie."
+            },
+            {
+              "type": "p",
+              "text": "Toutefois, s'il existe un **risque de trouble à l'ordre public**, par exemple de violences ou d'émeutes, l'autorité administrative (**maire, préfet**…) peut restreindre cette liberté, **sous le contrôle du juge**."
+            },
+            {
+              "type": "p",
+              "text": "**3. La liberté de manifester**"
+            },
+            {
+              "type": "p",
+              "text": "Manifester fait partie des moyens d'expression collective traditionnels dans la vie politique et sociale française. Reconnue comme une liberté fondamentale dans la **Déclaration des droits de l'homme et du citoyen**, la manifestation est inscrite dans le droit français."
+            },
+            {
+              "type": "callout",
+              "text": "Pour éviter les troubles à l'ordre public, une manifestation **doit être déclarée auprès de l'administration**. Cette déclaration préalable précise notamment le **parcours** de la manifestation et identifie les **organisateurs**."
+            },
+            {
+              "type": "p",
+              "text": "**4. La liberté d'association**"
+            },
+            {
+              "type": "p",
+              "text": "La **loi du 1er juillet 1901** reconnaît le droit de **créer ou de rejoindre une association**. Elle préserve la liberté et les droits des individus tout en permettant leur action."
+            },
+            {
+              "type": "p",
+              "text": "Cependant, les associations doivent respecter les lois de la République. Ainsi, une association qui ne respecte pas les principes républicains **peut être dissoute par l'État**."
+            }
           ]
         },
         {
           "title": "Les droits environnementaux",
           "blocks": [
-            { "type": "p", "text": "Chacun a le droit de vivre dans un **environnement équilibré et respectueux de la santé**." },
-            { "type": "callout", "text": "Ce droit est reconnu par la **Charte de l'environnement de 2004**, intégrée dans la **Constitution de 1958**." }
+            {
+              "type": "p",
+              "text": "Chacun a le droit de vivre dans un **environnement équilibré et respectueux de la santé**."
+            },
+            {
+              "type": "callout",
+              "text": "Ce droit est reconnu par la **Charte de l'environnement de 2004**, intégrée dans la **Constitution de 1958**."
+            }
           ]
         }
       ],
@@ -162,86 +401,218 @@
       "quiz": [
         {
           "q": "En quelle année le Code civil a-t-il été promulgué par Napoléon Bonaparte ?",
-          "choices": ["1789", "1848", "1804", "1958"],
+          "choices": [
+            "1789",
+            "1848",
+            "1804",
+            "1958"
+          ],
           "answer": 2,
           "explain": "Le livret indique que le Code civil, qui définit les règles essentielles applicables entre les personnes, a été promulgué en 1804 par Napoléon Bonaparte.",
           "kind": "knowledge"
         },
         {
           "q": "Lequel de ces droits est réservé aux citoyens français ?",
-          "choices": ["La liberté d'expression", "Le droit de vote", "Le droit à un procès équitable", "La liberté de religion"],
+          "choices": [
+            "La liberté d'expression",
+            "Le droit de vote",
+            "Le droit à un procès équitable",
+            "La liberté de religion"
+          ],
           "answer": 1,
           "explain": "Le droit de vote, la participation à la défense nationale et au jury d'assises sont spécifiques aux citoyens français ; la plupart des autres droits s'appliquent à toute personne résidant en France.",
           "kind": "knowledge"
         },
         {
           "q": "Selon l'article 4 de la Déclaration des droits de l'homme et du citoyen de 1789, en quoi consiste la liberté ?",
-          "choices": ["Pouvoir faire tout ce que la majorité approuve", "Pouvoir faire tout ce que l'on souhaite sans aucune limite", "Pouvoir faire tout ce que l'État autorise expressément", "Pouvoir faire tout ce qui ne nuit pas à autrui"],
+          "choices": [
+            "Pouvoir faire tout ce que la majorité approuve",
+            "Pouvoir faire tout ce que l'on souhaite sans aucune limite",
+            "Pouvoir faire tout ce que l'État autorise expressément",
+            "Pouvoir faire tout ce qui ne nuit pas à autrui"
+          ],
           "answer": 3,
           "explain": "« La liberté consiste à pouvoir faire tout ce qui ne nuit pas à autrui » (article 4 de la DDHC, cité par le préambule de la Constitution de 1958).",
           "kind": "knowledge"
         },
         {
           "q": "Une personne publie sur un réseau social un message appelant à la haine contre un groupe de personnes. Que dit la loi ?",
-          "choices": ["C'est interdit : les contenus qui incitent à la haine ou à la violence sont interdits", "C'est autorisé, car la liberté d'expression est totale sur internet", "C'est autorisé si le compte est privé", "C'est interdit seulement si le message vise un élu"],
+          "choices": [
+            "C'est interdit : ce contenu incite à la haine",
+            "C'est autorisé, car la liberté d'expression est totale sur internet",
+            "C'est autorisé si le compte est privé et réservé aux abonnés",
+            "C'est interdit seulement si le message vise un élu"
+          ],
           "answer": 0,
           "explain": "La liberté d'expression sur les réseaux sociaux est protégée, mais les contenus qui incitent à la haine ou à la violence sont interdits.",
           "kind": "situation"
         },
         {
           "q": "Votre fils de 15 ans part en voyage scolaire à l'étranger sans vous. De quoi a-t-il besoin selon le livret ?",
-          "choices": ["D'un titre de séjour", "D'une autorisation du maire", "D'une autorisation de sortie du territoire", "D'aucun document particulier"],
+          "choices": [
+            "D'un titre de séjour",
+            "D'une autorisation du maire",
+            "D'une autorisation de sortie du territoire",
+            "D'aucun document particulier"
+          ],
           "answer": 2,
           "explain": "Les mineurs doivent obtenir une autorisation de sortie du territoire s'ils voyagent sans leurs parents.",
           "kind": "situation"
         },
         {
-          "q": "Combien de pays comprend l'espace Schengen ?",
-          "choices": ["27 États membres de l'UE", "25 États membres de l'UE et 4 États associés", "20 États membres de l'UE et 7 États associés", "23 États membres de l'UE et 4 États associés"],
+          "q": "Qu'est-ce que l'espace Schengen ?",
+          "choices": [
+            "La zone où l'euro est la monnaie unique",
+            "Une zone de libre circulation sans contrôle aux frontières intérieures",
+            "L'ensemble des pays membres de l'Union européenne, sans aucun État associé",
+            "Une alliance militaire entre pays européens"
+          ],
           "answer": 1,
-          "explain": "L'espace Schengen comprend 29 pays : 25 États membres de l'Union européenne et 4 États associés (Norvège, Islande, Suisse, Liechtenstein).",
+          "explain": "L'espace Schengen est une zone de libre circulation des personnes sans contrôle aux frontières intérieures. Il regroupe des États membres de l'UE et des États associés (Norvège, Islande, Suisse, Liechtenstein), mais pas tous les pays de l'UE.",
           "kind": "knowledge"
         },
         {
           "q": "Votre médecin raconte à votre employeur les détails de votre dossier médical sans votre accord. Que faut-il en penser ?",
-          "choices": ["C'est autorisé si l'employeur le demande", "C'est autorisé si l'information est utile à l'entreprise", "C'est autorisé uniquement par téléphone", "C'est interdit : le médecin ne peut révéler le dossier médical sans votre consentement"],
-          "answer": 3,
+          "choices": [
+            "C'est interdit sans votre consentement : c'est le secret médical",
+            "C'est autorisé si l'employeur le demande",
+            "C'est autorisé si l'information est utile au bon fonctionnement de l'entreprise",
+            "C'est autorisé uniquement par téléphone"
+          ],
+          "answer": 0,
           "explain": "Le secret professionnel et médical protège la vie privée : un médecin ne peut révéler les éléments du dossier médical d'une personne sans son consentement.",
           "kind": "situation"
         },
         {
           "q": "Vous êtes victime d'une violation de votre droit à la vie privée. Que pouvez-vous faire ?",
-          "choices": ["Déposer une plainte auprès de la police nationale ou de la gendarmerie nationale", "Écrire au président de la République, seul compétent", "Rien, ce droit n'est pas protégé par la loi", "Publier vous-même des informations privées sur l'auteur"],
+          "choices": [
+            "Déposer une plainte auprès de la police ou de la gendarmerie",
+            "Écrire au président de la République, seul compétent",
+            "Rien, ce droit n'est pas protégé par la loi",
+            "Publier vous-même des informations privées sur l'auteur pour vous venger"
+          ],
           "answer": 0,
           "explain": "Le livret indique que vous pouvez déposer une plainte auprès des forces de sécurité intérieure (police nationale ou gendarmerie nationale).",
           "kind": "situation"
         },
         {
           "q": "Depuis quand la liberté de recourir à l'IVG est-elle garantie par la Constitution ?",
-          "choices": ["Depuis le 2 août 2021", "Depuis le 8 mars 2024", "Depuis le 1er janvier 2026", "Depuis le 4 octobre 1958"],
+          "choices": [
+            "Depuis le 2 août 2021",
+            "Depuis le 8 mars 2024",
+            "Depuis le 1er janvier 2026",
+            "Depuis le 4 octobre 1958"
+          ],
           "answer": 1,
           "explain": "Depuis le 8 mars 2024, la liberté de recourir à l'avortement (IVG) est garantie par la Constitution, y compris pour une femme mineure.",
           "kind": "knowledge"
         },
         {
           "q": "Une personne travaille pour une entreprise sans être payée. Comment le livret qualifie-t-il cette situation ?",
-          "choices": ["Une situation normale de période d'essai", "Une simple contravention", "Une atteinte à la dignité", "Une forme de bénévolat autorisée"],
+          "choices": [
+            "Une situation normale de période d'essai",
+            "Une simple contravention",
+            "Une atteinte à la dignité",
+            "Une forme de bénévolat autorisée"
+          ],
           "answer": 2,
           "explain": "Selon le livret, une personne employée par une entreprise et non rémunérée est dans une situation d'atteinte à la dignité.",
           "kind": "situation"
         },
         {
           "q": "Un ami est placé en garde à vue. Quels droits doit-on lui faire connaître ?",
-          "choices": ["Aucun droit tant que l'enquête n'est pas terminée", "Seulement le droit de téléphoner à son employeur", "Le droit de quitter les locaux quand il le souhaite", "Le droit de garder le silence, d'être assisté par un avocat et de prévenir un proche"],
+          "choices": [
+            "Aucun droit tant que l'enquête n'est pas terminée",
+            "Seulement le droit de téléphoner à son employeur",
+            "Le droit de quitter les locaux quand il le souhaite",
+            "Le droit de garder le silence, d'être assisté par un avocat et de prévenir un proche"
+          ],
           "answer": 3,
           "explain": "En cas d'arrestation ou de garde à vue, la personne est informée des motifs et de ses droits, notamment garder le silence, être assistée par un avocat et prévenir un proche.",
           "kind": "situation"
         },
         {
           "q": "Vous avez un litige avec une administration ou vous êtes victime de discrimination. Quelle autorité administrative indépendante, créée en 2011, pouvez-vous saisir ?",
-          "choices": ["Le Défenseur des droits", "Le Conseil constitutionnel", "Le préfet", "La cour d'assises"],
+          "choices": [
+            "Le Défenseur des droits",
+            "Le Conseil constitutionnel",
+            "Le préfet",
+            "La cour d'assises"
+          ],
           "answer": 0,
           "explain": "Le Défenseur des droits, créé en 2011, intervient en cas de litige avec une administration, de discrimination ou d'atteinte aux droits.",
+          "kind": "situation"
+        },
+        {
+          "q": "Votre voisin, de nationalité étrangère et résidant en France depuis dix ans, demande s'il peut être juré à la cour d'assises. Que dit le livret ?",
+          "choices": [
+            "Oui, dès qu'il réside en France depuis plus de cinq ans de façon régulière",
+            "Non : le jury d'assises est réservé aux citoyens français",
+            "Oui, s'il paie ses impôts en France",
+            "Non, le jury d'assises est réservé aux magistrats"
+          ],
+          "answer": 1,
+          "explain": "Certains droits et devoirs sont spécifiques aux citoyens français : le droit de vote, la participation à la défense nationale et au jury d'assises. La plupart des autres droits et devoirs s'appliquent à toute personne résidant en France.",
+          "kind": "situation"
+        },
+        {
+          "q": "Un journaliste publie une enquête critique sur une personnalité politique et sur une croyance religieuse. Que prévoit le livret ?",
+          "choices": [
+            "C'est interdit : on ne peut pas critiquer une religion dans la presse",
+            "C'est autorisé seulement pour les personnalités politiques, jamais pour les croyances religieuses",
+            "C'est autorisé si l'article a été validé par le préfet",
+            "C'est permis : la presse est libre, sous réserve des limites fixées par la loi"
+          ],
+          "answer": 3,
+          "explain": "La presse est libre en France (article 11 de la DDHC) : les journalistes peuvent diffuser des informations y compris sur des institutions, des personnalités ou des croyances religieuses, mais ils s'exposent à des poursuites s'ils publient des propos diffamatoires, incitent à commettre des crimes ou contestent des crimes contre l'humanité.",
+          "kind": "situation"
+        },
+        {
+          "q": "Une famille envisage de faire pratiquer une excision sur sa fille. Que dit la loi française ?",
+          "choices": [
+            "C'est interdit : c'est une atteinte au corps sanctionnée par le juge",
+            "C'est autorisé avec l'accord des deux parents",
+            "C'est autorisé si l'acte est pratiqué par un médecin dans un établissement de santé",
+            "C'est une simple contravention punie d'une amende"
+          ],
+          "answer": 0,
+          "explain": "Le livret précise que toute atteinte au corps (viol, mutilation, stérilisation forcée, excision) est interdite et constitue une violation du droit à disposer de son corps, sanctionnée par le juge.",
+          "kind": "situation"
+        },
+        {
+          "q": "Votre médecin vous propose une opération que vous ne souhaitez pas subir. Pouvez-vous refuser ?",
+          "choices": [
+            "Non, un acte médical prescrit par un médecin est obligatoire",
+            "Non, sauf autorisation d'un juge",
+            "Oui : toute personne est libre de refuser un traitement ou un acte médical",
+            "Oui, mais seulement si un second médecin confirme votre choix"
+          ],
+          "answer": 2,
+          "explain": "Selon le livret, toute personne est libre de refuser un traitement ou un acte médical ; seule la vaccination des enfants est obligatoire.",
+          "kind": "situation"
+        },
+        {
+          "q": "Vous souhaitez organiser une manifestation dans votre ville pour défendre une cause. Que devez-vous faire ?",
+          "choices": [
+            "Rien : la liberté de manifester ne connaît aucune formalité",
+            "La déclarer auprès de l'administration, en précisant le parcours et les organisateurs",
+            "Obtenir l'autorisation du Conseil constitutionnel",
+            "Être membre d'un parti politique"
+          ],
+          "answer": 1,
+          "explain": "Pour éviter les troubles à l'ordre public, une manifestation doit être déclarée auprès de l'administration ; cette déclaration préalable précise notamment le parcours et identifie les organisateurs.",
+          "kind": "situation"
+        },
+        {
+          "q": "Vous devez vous défendre lors d'un procès mais vous n'avez pas les moyens de payer un avocat. Quelle aide prévoit le livret ?",
+          "choices": [
+            "Vous devez renoncer au procès",
+            "Vous devez vous défendre seul, sans avocat",
+            "Vous pouvez demander une aide au maire de votre commune",
+            "Vous pouvez demander l'aide juridictionnelle"
+          ],
+          "answer": 3,
+          "explain": "L'aide juridictionnelle est une aide financière de l'État pour les personnes ayant peu de moyens et qui ont besoin d'être accompagnées par un avocat lors d'un procès devant un tribunal français.",
           "kind": "situation"
         }
       ]
@@ -253,101 +624,271 @@
         {
           "title": "Respecter les lois et les institutions",
           "blocks": [
-            { "type": "p", "text": "Les droits fondamentaux s'accompagnent de devoirs, qui visent à garantir la **cohésion sociale**, le **respect des lois** et le **bon fonctionnement de la démocratie**. Voici les principaux devoirs des citoyens français, tels qu'ils découlent de la Constitution, des lois et des principes républicains." },
-            { "type": "p", "text": "**1. Le respect de la Constitution et des lois**" },
-            { "type": "p", "text": "**Toute personne vivant en France** a l'obligation de respecter les lois en vigueur, qui garantissent l'ordre public et la sécurité de tous." },
-            { "type": "p", "text": "Le **juge judiciaire** veille à la bonne application des lois. Il peut prononcer des sanctions prévues par la loi si elle n'est pas respectée." },
-            { "type": "p", "text": "Les infractions sont classées en **trois catégories** en fonction de leur gravité :" },
-            { "type": "table",
-              "headers": ["Catégorie", "Exemples", "Sanctions", "Juridiction"],
+            {
+              "type": "p",
+              "text": "Les droits fondamentaux s'accompagnent de devoirs, qui visent à garantir la **cohésion sociale**, le **respect des lois** et le **bon fonctionnement de la démocratie**. Voici les principaux devoirs des citoyens français, tels qu'ils découlent de la Constitution, des lois et des principes républicains."
+            },
+            {
+              "type": "p",
+              "text": "**1. Le respect de la Constitution et des lois**"
+            },
+            {
+              "type": "p",
+              "text": "**Toute personne vivant en France** a l'obligation de respecter les lois en vigueur, qui garantissent l'ordre public et la sécurité de tous."
+            },
+            {
+              "type": "p",
+              "text": "Le **juge judiciaire** veille à la bonne application des lois. Il peut prononcer des sanctions prévues par la loi si elle n'est pas respectée."
+            },
+            {
+              "type": "p",
+              "text": "Les infractions sont classées en **trois catégories** en fonction de leur gravité :"
+            },
+            {
+              "type": "table",
+              "headers": [
+                "Catégorie",
+                "Exemples",
+                "Sanctions",
+                "Juridiction"
+              ],
               "rows": [
-                ["**Contraventions** (infractions les moins graves)", "Excès de vitesse, tapage nocturne", "Ne peuvent pas donner lieu à une peine de prison ; amende que la personne mise en cause est obligée de payer", "Tribunal de police"],
-                ["**Délits** (infractions intermédiaires)", "Vol, fraude fiscale, abus de biens sociaux, harcèlement moral, agression sexuelle, homicide involontaire…", "Amende égale ou supérieure à **3 750 euros** et peine d'emprisonnement pouvant aller jusqu'à **10 ans**", "Tribunal correctionnel"],
-                ["**Crimes** (infractions les plus graves)", "Braquage, viol, assassinat, meurtre, terrorisme…", "Réclusion criminelle pouvant aller jusqu'à la **perpétuité** (prison à vie)", "Cour d'assises ou cour criminelle"]
+                [
+                  "**Contraventions** (infractions les moins graves)",
+                  "Excès de vitesse, tapage nocturne",
+                  "Ne peuvent pas donner lieu à une peine de prison ; amende que la personne mise en cause est obligée de payer",
+                  "Tribunal de police"
+                ],
+                [
+                  "**Délits** (infractions intermédiaires)",
+                  "Vol, fraude fiscale, abus de biens sociaux, harcèlement moral, agression sexuelle, homicide involontaire…",
+                  "Amende égale ou supérieure à **3 750 euros** et peine d'emprisonnement pouvant aller jusqu'à **10 ans**",
+                  "Tribunal correctionnel"
+                ],
+                [
+                  "**Crimes** (infractions les plus graves)",
+                  "Braquage, viol, assassinat, meurtre, terrorisme…",
+                  "Réclusion criminelle pouvant aller jusqu'à la **perpétuité** (prison à vie)",
+                  "Cour d'assises ou cour criminelle"
+                ]
               ]
             },
-            { "type": "callout", "text": "Certaines condamnations graves (par exemple pour viols ou agressions sexuelles) peuvent entraîner la **privation des droits civiques et politiques**. Par conséquent, pendant plusieurs années, la personne condamnée ne peut plus voter ni se présenter à des élections." },
-            { "type": "p", "text": "**2. Le respect des institutions**" },
-            { "type": "p", "text": "Le respect des institutions françaises repose sur la reconnaissance de l'autorité de l'**État**, des **collectivités territoriales** et de la **justice**, qui sont les fondements de l'organisation républicaine. Cela implique de respecter les **agents publics**, les **élus locaux** et les **juges** dans leurs fonctions." },
-            { "type": "p", "text": "Pour garantir ce respect, le **Code pénal** prévoit des **sanctions aggravées** en cas d'atteinte à des personnes chargées d'une mission de service public comme les agents des forces de l'ordre, les juges ou les enseignants." },
-            { "type": "p", "text": "L'**article 433-5 du Code pénal** sanctionne aussi l'**outrage** commis envers une personne chargée d'une mission de service public. Des peines renforcées sont prévues lorsqu'il vise une personne dépositaire de l'autorité publique, comme un policier, un magistrat ou un élu." },
-            { "type": "p", "text": "Le **refus d'obéir à un ordre d'un policier ou d'un gendarme** est aussi un **délit** qui expose celui qui le commet à une sanction pénale." },
-            { "type": "p", "text": "Afin de protéger les symboles qui représentent l'autorité et l'unité de la République, les atteintes aux **symboles de la République** sont également punies. Le Code pénal sanctionne ainsi l'**outrage au drapeau tricolore ou à l'hymne national**, notamment lorsqu'il est commis lors d'une manifestation publique." },
-            { "type": "callout", "text": "Les **décisions de justice** doivent être respectées par tous, conformément au principe de l'**État de droit**." }
+            {
+              "type": "callout",
+              "text": "Certaines condamnations graves (par exemple pour viols ou agressions sexuelles) peuvent entraîner la **privation des droits civiques et politiques**. Par conséquent, pendant plusieurs années, la personne condamnée ne peut plus voter ni se présenter à des élections."
+            },
+            {
+              "type": "p",
+              "text": "**2. Le respect des institutions**"
+            },
+            {
+              "type": "p",
+              "text": "Le respect des institutions françaises repose sur la reconnaissance de l'autorité de l'**État**, des **collectivités territoriales** et de la **justice**, qui sont les fondements de l'organisation républicaine. Cela implique de respecter les **agents publics**, les **élus locaux** et les **juges** dans leurs fonctions."
+            },
+            {
+              "type": "p",
+              "text": "Pour garantir ce respect, le **Code pénal** prévoit des **sanctions aggravées** en cas d'atteinte à des personnes chargées d'une mission de service public comme les agents des forces de l'ordre, les juges ou les enseignants."
+            },
+            {
+              "type": "p",
+              "text": "L'**article 433-5 du Code pénal** sanctionne aussi l'**outrage** commis envers une personne chargée d'une mission de service public. Des peines renforcées sont prévues lorsqu'il vise une personne dépositaire de l'autorité publique, comme un policier, un magistrat ou un élu."
+            },
+            {
+              "type": "p",
+              "text": "Le **refus d'obéir à un ordre d'un policier ou d'un gendarme** est aussi un **délit** qui expose celui qui le commet à une sanction pénale."
+            },
+            {
+              "type": "p",
+              "text": "Afin de protéger les symboles qui représentent l'autorité et l'unité de la République, les atteintes aux **symboles de la République** sont également punies. Le Code pénal sanctionne ainsi l'**outrage au drapeau tricolore ou à l'hymne national**, notamment lorsqu'il est commis lors d'une manifestation publique."
+            },
+            {
+              "type": "callout",
+              "text": "Les **décisions de justice** doivent être respectées par tous, conformément au principe de l'**État de droit**."
+            }
           ]
         },
         {
           "title": "Respecter les principes et valeurs de la République",
           "blocks": [
-            { "type": "p", "text": "Être Français implique de partager les valeurs de **liberté**, d'**égalité** et de **fraternité** qui fondent la République et de s'engager à les respecter dans la vie quotidienne et en société." },
-            { "type": "p", "text": "Ces notions sont détaillées dans la partie sur les « principes et valeurs de la République » du livret." }
+            {
+              "type": "p",
+              "text": "Être Français implique de partager les valeurs de **liberté**, d'**égalité** et de **fraternité** qui fondent la République et de s'engager à les respecter dans la vie quotidienne et en société."
+            },
+            {
+              "type": "p",
+              "text": "Ces notions sont détaillées dans la partie sur les « principes et valeurs de la République » du livret."
+            }
           ]
         },
         {
           "title": "Participer à la vie démocratique",
           "blocks": [
-            { "type": "p", "text": "**1. Le vote**" },
-            { "type": "p", "text": "Bien que le vote **ne soit pas obligatoire** en France (contrairement à certains pays), c'est un **devoir civique important**. Il permet d'assurer la **légitimité des représentants élus**." },
-            { "type": "p", "text": "L'organisation de la vie démocratique en France est développée dans la partie sur le « système institutionnel et politique » du livret." },
-            { "type": "p", "text": "**2. Le respect des résultats électoraux**" },
-            { "type": "p", "text": "Le respect des résultats électoraux est un principe essentiel du fonctionnement démocratique et de l'État de droit. Ces résultats **s'imposent à tout citoyen**, quelles que soient ses opinions politiques." }
+            {
+              "type": "p",
+              "text": "**1. Le vote**"
+            },
+            {
+              "type": "p",
+              "text": "Bien que le vote **ne soit pas obligatoire** en France (contrairement à certains pays), c'est un **devoir civique important**. Il permet d'assurer la **légitimité des représentants élus**."
+            },
+            {
+              "type": "p",
+              "text": "L'organisation de la vie démocratique en France est développée dans la partie sur le « système institutionnel et politique » du livret."
+            },
+            {
+              "type": "p",
+              "text": "**2. Le respect des résultats électoraux**"
+            },
+            {
+              "type": "p",
+              "text": "Le respect des résultats électoraux est un principe essentiel du fonctionnement démocratique et de l'État de droit. Ces résultats **s'imposent à tout citoyen**, quelles que soient ses opinions politiques."
+            }
           ]
         },
         {
           "title": "Contribuer aux charges publiques",
           "blocks": [
-            { "type": "p", "text": "Le financement des services publics est un **devoir constitutionnel**. Cela veut dire que tous les habitants doivent contribuer, **selon leurs moyens**, à financer ces services." },
-            { "type": "quote", "text": "Pour l'entretien de la force publique et pour les dépenses d'administration, une contribution commune est indispensable.", "source": "Article 13 de la Déclaration des droits de l'homme et du citoyen de 1789" },
-            { "type": "p", "text": "**Tous les résidents, et pas uniquement les Français**, doivent participer au financement des services publics comme les transports, les équipements collectifs, l'éducation, la santé et la sécurité." },
-            { "type": "p", "text": "Concrètement, il est ainsi obligatoire, **chaque année**, pour toute personne majeure résidant en France et qui n'est plus rattachée au foyer fiscal de ses parents, de **déclarer l'intégralité de ses revenus** et de **payer ses impôts**." },
-            { "type": "callout", "text": "Une **fausse déclaration** à l'administration française peut être **sanctionnée**." }
+            {
+              "type": "p",
+              "text": "Le financement des services publics est un **devoir constitutionnel**. Cela veut dire que tous les habitants doivent contribuer, **selon leurs moyens**, à financer ces services."
+            },
+            {
+              "type": "quote",
+              "text": "Pour l'entretien de la force publique et pour les dépenses d'administration, une contribution commune est indispensable.",
+              "source": "Article 13 de la Déclaration des droits de l'homme et du citoyen de 1789"
+            },
+            {
+              "type": "p",
+              "text": "**Tous les résidents, et pas uniquement les Français**, doivent participer au financement des services publics comme les transports, les équipements collectifs, l'éducation, la santé et la sécurité."
+            },
+            {
+              "type": "p",
+              "text": "Concrètement, il est ainsi obligatoire, **chaque année**, pour toute personne majeure résidant en France et qui n'est plus rattachée au foyer fiscal de ses parents, de **déclarer l'intégralité de ses revenus** et de **payer ses impôts**."
+            },
+            {
+              "type": "callout",
+              "text": "Une **fausse déclaration** à l'administration française peut être **sanctionnée**."
+            }
           ]
         },
         {
           "title": "Défendre la patrie et la sécurité nationale",
           "blocks": [
-            { "type": "p", "text": "La défense nationale repose en premier lieu sur une **armée de métier** et une stratégie de **dissuasion nucléaire**." },
-            { "type": "p", "text": "S'il n'existe plus de **service militaire obligatoire** en France **depuis 1997**, les jeunes citoyens participent à une **Journée Défense et Citoyenneté (JDC)** qui les sensibilise à leurs responsabilités en matière de sécurité nationale et leur fait découvrir les missions des forces armées en temps de paix et en temps de guerre." },
-            { "type": "callout", "text": "Dès l'âge de **16 ans**, les Françaises et les Français doivent se faire **recenser à la mairie** pour participer à la « Journée Défense et Citoyenneté »." },
-            { "type": "p", "text": "Depuis le **1er janvier 2026**, un **service militaire volontaire (SMV)** de **8 mois** a été mis en place. Il s'adresse aux jeunes de **18 à 25 ans**, français ou étrangers, exclus du marché de l'emploi. Il a pour but de leur apporter une formation et d'affirmer les valeurs de la République pour renforcer la cohésion nationale et créer une culture de l'engagement." },
-            { "type": "p", "text": "Par ailleurs, plusieurs dispositifs de **réserves** permettent à des volontaires de s'investir au service de l'intérêt général : réserve militaire, réserve de la police, réserve citoyenne, réserve sanitaire…" },
-            { "type": "p", "text": "Enfin, **en cas de crise ou de guerre**, tout citoyen peut être appelé à participer à la défense du pays." },
-            { "type": "callout", "text": "Illustration du livret : au **Liban**, l'engagement de la France au sein de la **Force intérimaire des Nations Unies (FINUL)**." }
+            {
+              "type": "p",
+              "text": "La défense nationale repose en premier lieu sur une **armée de métier** et une stratégie de **dissuasion nucléaire**."
+            },
+            {
+              "type": "p",
+              "text": "S'il n'existe plus de **service militaire obligatoire** en France **depuis 1997**, les jeunes citoyens participent à une **Journée Défense et Citoyenneté (JDC)** qui les sensibilise à leurs responsabilités en matière de sécurité nationale et leur fait découvrir les missions des forces armées en temps de paix et en temps de guerre."
+            },
+            {
+              "type": "callout",
+              "text": "Dès l'âge de **16 ans**, les Françaises et les Français doivent se faire **recenser à la mairie** pour participer à la « Journée Défense et Citoyenneté »."
+            },
+            {
+              "type": "p",
+              "text": "Depuis le **1er janvier 2026**, un **service militaire volontaire (SMV)** de **8 mois** a été mis en place. Il s'adresse aux jeunes de **18 à 25 ans**, français ou étrangers, exclus du marché de l'emploi. Il a pour but de leur apporter une formation et d'affirmer les valeurs de la République pour renforcer la cohésion nationale et créer une culture de l'engagement."
+            },
+            {
+              "type": "p",
+              "text": "Par ailleurs, plusieurs dispositifs de **réserves** permettent à des volontaires de s'investir au service de l'intérêt général : réserve militaire, réserve de la police, réserve citoyenne, réserve sanitaire…"
+            },
+            {
+              "type": "p",
+              "text": "Enfin, **en cas de crise ou de guerre**, tout citoyen peut être appelé à participer à la défense du pays."
+            },
+            {
+              "type": "callout",
+              "text": "Illustration du livret : au **Liban**, l'engagement de la France au sein de la **Force intérimaire des Nations Unies (FINUL)**."
+            }
           ]
         },
         {
           "title": "Protéger l'environnement",
           "blocks": [
-            { "type": "p", "text": "Depuis **2004**, la **Charte de l'environnement** impose à chacun de contribuer à la protection de l'environnement." },
-            { "type": "quote", "text": "Toute personne a le devoir de prendre part à la préservation et à l'amélioration de l'environnement.", "source": "Article 2 de la Charte de l'environnement" },
-            { "type": "p", "text": "Cet engagement en faveur de la protection de l'environnement s'inscrit pleinement dans le respect des valeurs républicaines, et notamment :" },
-            { "type": "list", "items": [
-              "**Égalité**, pour que chacun ait accès à un environnement sain ;",
-              "**Fraternité**, pour les générations futures et le bien commun."
-            ] },
-            { "type": "p", "text": "Des actions concrètes sont précisées dans la thématique « vivre dans la société française » du livret." }
+            {
+              "type": "p",
+              "text": "Depuis **2004**, la **Charte de l'environnement** impose à chacun de contribuer à la protection de l'environnement."
+            },
+            {
+              "type": "quote",
+              "text": "Toute personne a le devoir de prendre part à la préservation et à l'amélioration de l'environnement.",
+              "source": "Article 2 de la Charte de l'environnement"
+            },
+            {
+              "type": "p",
+              "text": "Cet engagement en faveur de la protection de l'environnement s'inscrit pleinement dans le respect des valeurs républicaines, et notamment :"
+            },
+            {
+              "type": "list",
+              "items": [
+                "**Égalité**, pour que chacun ait accès à un environnement sain ;",
+                "**Fraternité**, pour les générations futures et le bien commun."
+              ]
+            },
+            {
+              "type": "p",
+              "text": "Des actions concrètes sont précisées dans la thématique « vivre dans la société française » du livret."
+            }
           ]
         },
         {
           "title": "Éducation et transmission des valeurs",
           "blocks": [
-            { "type": "p", "text": "**1. La scolarité obligatoire**" },
-            { "type": "p", "text": "La scolarité est **obligatoire de 3 à 16 ans**. Les parents ont ainsi l'obligation de scolariser leurs enfants à compter de la **rentrée scolaire de l'année civile où l'enfant atteint ses 3 ans**. En cas de non-respect de cette obligation, les parents s'exposent à des **poursuites judiciaires**." },
-            { "type": "p", "text": "Des précisions sur l'instruction obligatoire sont apportées dans la thématique « vivre dans la société française »." },
-            { "type": "p", "text": "**2. La transmission des valeurs républicaines**" },
-            { "type": "p", "text": "La transmission des valeurs de la République, notamment la **liberté**, l'**égalité**, la **fraternité** et le principe de **laïcité**, est importante dans l'éducation des enfants. Cette mission éducative ne se limite pas à l'institution scolaire et doit aussi se faire par l'**éducation familiale**." },
-            { "type": "p", "text": "En effet, les parents ont un rôle majeur pour transmettre ces valeurs à leurs enfants dans la vie de tous les jours. Ils sont les **premiers acteurs de leur éducation**." },
-            { "type": "callout", "text": "Cette transmission des valeurs concerne aussi les **étrangers en France**, qui doivent s'engager, s'ils sont parents, à assurer à leur enfant une éducation respectueuse des valeurs et des principes de la République et à l'accompagner dans sa démarche d'intégration à travers notamment l'acquisition de la **langue française** (**article 20 de la loi CIAI du 26 janvier 2024**)." }
+            {
+              "type": "p",
+              "text": "**1. La scolarité obligatoire**"
+            },
+            {
+              "type": "p",
+              "text": "La scolarité est **obligatoire de 3 à 16 ans**. Les parents ont ainsi l'obligation de scolariser leurs enfants à compter de la **rentrée scolaire de l'année civile où l'enfant atteint ses 3 ans**. En cas de non-respect de cette obligation, les parents s'exposent à des **poursuites judiciaires**."
+            },
+            {
+              "type": "p",
+              "text": "Des précisions sur l'instruction obligatoire sont apportées dans la thématique « vivre dans la société française »."
+            },
+            {
+              "type": "p",
+              "text": "**2. La transmission des valeurs républicaines**"
+            },
+            {
+              "type": "p",
+              "text": "La transmission des valeurs de la République, notamment la **liberté**, l'**égalité**, la **fraternité** et le principe de **laïcité**, est importante dans l'éducation des enfants. Cette mission éducative ne se limite pas à l'institution scolaire et doit aussi se faire par l'**éducation familiale**."
+            },
+            {
+              "type": "p",
+              "text": "En effet, les parents ont un rôle majeur pour transmettre ces valeurs à leurs enfants dans la vie de tous les jours. Ils sont les **premiers acteurs de leur éducation**."
+            },
+            {
+              "type": "callout",
+              "text": "Cette transmission des valeurs concerne aussi les **étrangers en France**, qui doivent s'engager, s'ils sont parents, à assurer à leur enfant une éducation respectueuse des valeurs et des principes de la République et à l'accompagner dans sa démarche d'intégration à travers notamment l'acquisition de la **langue française** (**article 20 de la loi CIAI du 26 janvier 2024**)."
+            }
           ]
         },
         {
           "title": "Entraide et solidarité",
           "blocks": [
-            { "type": "p", "text": "Le devoir d'aider les autres repose sur la valeur républicaine de **fraternité**." },
-            { "type": "p", "text": "En droit, ce devoir peut se manifester à travers des obligations légales, comme l'**assistance à personne en danger**, qui impose à toute personne de porter secours à autrui, **dans la mesure où elle peut le faire sans mettre sa propre vie en péril**." },
-            { "type": "p", "text": "La **non-assistance à personne en danger** est un **délit** puni par la loi." },
-            { "type": "callout", "text": "Je suis témoin d'un accident grave, dois-je prévenir les secours ? **Oui**, c'est le devoir d'assistance à personne en danger. Se soustraire à ce devoir constitue un manquement et donc un **délit**." },
-            { "type": "p", "text": "Au-delà de ces obligations légales, l'**entraide**, que ce soit à travers des initiatives individuelles ou une implication dans la **vie associative**, est une valeur importante qui permet d'améliorer le vivre ensemble en renforçant les liens sociaux." }
+            {
+              "type": "p",
+              "text": "Le devoir d'aider les autres repose sur la valeur républicaine de **fraternité**."
+            },
+            {
+              "type": "p",
+              "text": "En droit, ce devoir peut se manifester à travers des obligations légales, comme l'**assistance à personne en danger**, qui impose à toute personne de porter secours à autrui, **dans la mesure où elle peut le faire sans mettre sa propre vie en péril**."
+            },
+            {
+              "type": "p",
+              "text": "La **non-assistance à personne en danger** est un **délit** puni par la loi."
+            },
+            {
+              "type": "callout",
+              "text": "Je suis témoin d'un accident grave, dois-je prévenir les secours ? **Oui**, c'est le devoir d'assistance à personne en danger. Se soustraire à ce devoir constitue un manquement et donc un **délit**."
+            },
+            {
+              "type": "p",
+              "text": "Au-delà de ces obligations légales, l'**entraide**, que ce soit à travers des initiatives individuelles ou une implication dans la **vie associative**, est une valeur importante qui permet d'améliorer le vivre ensemble en renforçant les liens sociaux."
+            }
           ]
         }
       ],
@@ -365,86 +906,218 @@
       "quiz": [
         {
           "q": "Votre voisin fait régulièrement du tapage nocturne. À quelle catégorie d'infraction cela correspond-il ?",
-          "choices": ["Un crime", "Une contravention", "Un délit", "Ce n'est pas une infraction"],
+          "choices": [
+            "Un crime",
+            "Une contravention",
+            "Un délit",
+            "Ce n'est pas une infraction"
+          ],
           "answer": 1,
           "explain": "Le tapage nocturne est une contravention, infraction la moins grave, sanctionnée par une amende et jugée par le tribunal de police.",
           "kind": "situation"
         },
         {
           "q": "Quel tribunal juge les auteurs de délits, comme un vol ou une fraude fiscale ?",
-          "choices": ["Le tribunal de police", "La cour d'assises", "Le tribunal correctionnel", "Le Conseil constitutionnel"],
+          "choices": [
+            "Le tribunal de police",
+            "La cour d'assises",
+            "Le tribunal correctionnel",
+            "Le Conseil constitutionnel"
+          ],
           "answer": 2,
           "explain": "Les auteurs de délits sont jugés par le tribunal correctionnel ; les contraventions relèvent du tribunal de police et les crimes de la cour d'assises ou de la cour criminelle.",
           "kind": "knowledge"
         },
         {
           "q": "Jusqu'à combien d'années d'emprisonnement un délit peut-il être puni selon le livret ?",
-          "choices": ["10 ans", "2 ans", "5 ans", "La perpétuité"],
+          "choices": [
+            "10 ans",
+            "2 ans",
+            "5 ans",
+            "La perpétuité"
+          ],
           "answer": 0,
           "explain": "Les délits sont sanctionnés par une amende égale ou supérieure à 3 750 euros et une peine d'emprisonnement pouvant aller jusqu'à 10 ans.",
           "kind": "knowledge"
         },
         {
           "q": "Quelles juridictions jugent les auteurs de crimes (meurtre, viol, terrorisme…) ?",
-          "choices": ["Le tribunal de police", "Le tribunal administratif", "Le tribunal correctionnel", "La cour d'assises ou la cour criminelle"],
+          "choices": [
+            "Le tribunal de police",
+            "Le tribunal administratif",
+            "Le tribunal correctionnel",
+            "La cour d'assises ou la cour criminelle"
+          ],
           "answer": 3,
           "explain": "Les crimes, infractions les plus graves, sont jugés par la cour d'assises ou la cour criminelle et peuvent être punis jusqu'à la perpétuité.",
           "kind": "knowledge"
         },
         {
           "q": "Lors d'un contrôle, un automobiliste insulte un policier. Que prévoit la loi ?",
-          "choices": ["Rien, c'est couvert par la liberté d'expression", "L'outrage est sanctionné, avec des peines renforcées envers une personne dépositaire de l'autorité publique", "Une simple remarque orale, sans sanction possible", "Une sanction uniquement si l'insulte est écrite"],
+          "choices": [
+            "Rien, c'est couvert par la liberté d'expression",
+            "L'outrage est sanctionné, avec des peines renforcées envers un policier",
+            "Une simple remarque orale, sans sanction possible tant qu'il n'y a pas de violence",
+            "Une sanction uniquement si l'insulte est écrite"
+          ],
           "answer": 1,
           "explain": "L'article 433-5 du Code pénal sanctionne l'outrage envers une personne chargée d'une mission de service public, avec des peines renforcées pour un policier, un magistrat ou un élu.",
           "kind": "situation"
         },
         {
           "q": "Lors d'une manifestation publique, une personne brûle le drapeau tricolore. Que dit le livret ?",
-          "choices": ["C'est autorisé pendant une manifestation déclarée", "C'est autorisé si le drapeau lui appartient", "Le Code pénal sanctionne l'outrage au drapeau tricolore, notamment lors d'une manifestation publique", "Seule la mairie peut décider d'une éventuelle sanction"],
+          "choices": [
+            "C'est autorisé pendant une manifestation déclarée, au titre de la liberté d'expression",
+            "C'est autorisé si le drapeau lui appartient",
+            "Le Code pénal sanctionne l'outrage au drapeau tricolore",
+            "Seule la mairie peut décider d'une éventuelle sanction"
+          ],
           "answer": 2,
           "explain": "Les atteintes aux symboles de la République sont punies : le Code pénal sanctionne l'outrage au drapeau tricolore ou à l'hymne national, notamment lors d'une manifestation publique.",
           "kind": "situation"
         },
         {
           "q": "Vous n'êtes pas allé voter aux dernières élections. Quelle affirmation est exacte ?",
-          "choices": ["Le vote n'est pas obligatoire en France, mais c'est un devoir civique important", "Vous recevrez automatiquement une amende", "Vous perdez définitivement votre droit de vote", "Vous devez vous justifier devant le tribunal de police"],
+          "choices": [
+            "Le vote n'est pas obligatoire, mais c'est un devoir civique",
+            "Vous recevrez automatiquement une amende",
+            "Vous perdez définitivement votre droit de vote",
+            "Vous devez vous justifier devant le tribunal de police de votre commune"
+          ],
           "answer": 0,
           "explain": "Le vote n'est pas obligatoire en France (contrairement à certains pays), mais c'est un devoir civique qui assure la légitimité des représentants élus.",
           "kind": "situation"
         },
         {
           "q": "Vous avez 22 ans, vous résidez en France et vous n'êtes plus rattaché au foyer fiscal de vos parents. Que devez-vous faire chaque année ?",
-          "choices": ["Rien, seuls les Français paient des impôts", "Déclarer uniquement les revenus supérieurs à 3 750 euros", "Attendre que l'administration vous contacte", "Déclarer l'intégralité de vos revenus et payer vos impôts"],
+          "choices": [
+            "Rien, seuls les Français paient des impôts",
+            "Déclarer uniquement les revenus supérieurs à 3 750 euros",
+            "Attendre que l'administration vous contacte",
+            "Déclarer l'intégralité de vos revenus et payer vos impôts"
+          ],
           "answer": 3,
           "explain": "Toute personne majeure résidant en France et non rattachée au foyer fiscal de ses parents doit chaque année déclarer l'intégralité de ses revenus et payer ses impôts ; tous les résidents contribuent, pas seulement les Français.",
           "kind": "situation"
         },
         {
           "q": "À partir de quel âge les jeunes Français doivent-ils se faire recenser à la mairie pour la Journée Défense et Citoyenneté ?",
-          "choices": ["18 ans", "16 ans", "15 ans", "25 ans"],
+          "choices": [
+            "18 ans",
+            "16 ans",
+            "15 ans",
+            "25 ans"
+          ],
           "answer": 1,
           "explain": "Dès l'âge de 16 ans, les Françaises et les Français doivent se faire recenser à la mairie pour participer à la JDC.",
           "kind": "knowledge"
         },
         {
           "q": "Depuis quand le service militaire volontaire (SMV) de 8 mois existe-t-il ?",
-          "choices": ["Depuis 1997", "Depuis le 26 janvier 2024", "Depuis le 1er janvier 2026", "Depuis 2004"],
+          "choices": [
+            "Depuis 1997",
+            "Depuis le 26 janvier 2024",
+            "Depuis le 1er janvier 2026",
+            "Depuis 2004"
+          ],
           "answer": 2,
           "explain": "Depuis le 1er janvier 2026, un SMV de 8 mois s'adresse aux jeunes de 18 à 25 ans, français ou étrangers, exclus du marché de l'emploi ; le service militaire obligatoire n'existe plus depuis 1997.",
           "kind": "knowledge"
         },
         {
           "q": "À partir de quel âge les parents doivent-ils scolariser leur enfant ?",
-          "choices": ["À la rentrée de l'année civile où l'enfant atteint ses 3 ans", "À 6 ans, à l'entrée à l'école élémentaire", "À 2 ans", "Quand les parents le décident, l'école n'étant pas obligatoire"],
+          "choices": [
+            "À la rentrée de l'année civile où l'enfant atteint ses 3 ans",
+            "À 6 ans, à l'entrée à l'école élémentaire",
+            "À 2 ans",
+            "Quand les parents le décident, l'école n'étant pas obligatoire"
+          ],
           "answer": 0,
           "explain": "La scolarité est obligatoire de 3 à 16 ans, à compter de la rentrée scolaire de l'année civile où l'enfant atteint ses 3 ans ; sinon les parents s'exposent à des poursuites.",
           "kind": "knowledge"
         },
         {
           "q": "Vous êtes témoin d'un accident grave sur la route. Que devez-vous faire ?",
-          "choices": ["Partir pour ne pas gêner les secours", "Filmer la scène sans intervenir", "Rien, ce n'est pas votre responsabilité", "Porter secours ou prévenir les secours, sans mettre votre propre vie en péril"],
+          "choices": [
+            "Partir pour ne pas gêner les secours, qui seront prévenus par d'autres témoins",
+            "Filmer la scène sans intervenir",
+            "Rien, ce n'est pas votre responsabilité",
+            "Porter secours ou prévenir les secours, sans vous mettre en danger"
+          ],
           "answer": 3,
-          "explain": "C'est le devoir d'assistance à personne en danger ; la non-assistance à personne en danger est un délit puni par la loi.",
+          "explain": "C'est le devoir d'assistance à personne en danger : toute personne doit porter secours à autrui, dans la mesure où elle peut le faire sans mettre sa propre vie en péril. La non-assistance à personne en danger est un délit puni par la loi.",
+          "kind": "situation"
+        },
+        {
+          "q": "Un gendarme vous ordonne de vous arrêter lors d'un contrôle routier et vous refusez d'obéir. Que risquez-vous ?",
+          "choices": [
+            "Rien, si vous n'avez commis aucune autre infraction au Code de la route",
+            "Un simple rappel à l'ordre, sans sanction",
+            "Une sanction pénale : le refus d'obéir à un gendarme est un délit",
+            "Une amende seulement si le gendarme porte plainte"
+          ],
+          "answer": 2,
+          "explain": "Le livret indique que le refus d'obéir à un ordre d'un policier ou d'un gendarme est un délit qui expose celui qui le commet à une sanction pénale.",
+          "kind": "situation"
+        },
+        {
+          "q": "Votre fille, de nationalité française, vient d'avoir 16 ans. Quelle démarche doit-elle accomplir ?",
+          "choices": [
+            "Se faire recenser à la mairie pour la Journée Défense et Citoyenneté",
+            "S'engager dans le service militaire volontaire de 8 mois, ouvert dès 16 ans",
+            "S'inscrire à la préfecture pour la réserve citoyenne",
+            "Rien avant ses 18 ans"
+          ],
+          "answer": 0,
+          "explain": "Dès l'âge de 16 ans, les Françaises et les Français doivent se faire recenser à la mairie pour participer à la Journée Défense et Citoyenneté (JDC).",
+          "kind": "situation"
+        },
+        {
+          "q": "Des parents décident de ne pas inscrire leur enfant de 4 ans à l'école, estimant qu'il est trop jeune. Que dit la loi ?",
+          "choices": [
+            "C'est leur choix : l'école n'est obligatoire qu'à partir de 6 ans, à l'école élémentaire",
+            "Ils peuvent attendre jusqu'à ses 5 ans sans conséquence",
+            "C'est autorisé si l'enfant est gardé par un membre de la famille",
+            "Ils s'exposent à des poursuites : la scolarité est obligatoire dès 3 ans"
+          ],
+          "answer": 3,
+          "explain": "La scolarité est obligatoire de 3 à 16 ans, à compter de la rentrée scolaire de l'année civile où l'enfant atteint ses 3 ans ; en cas de non-respect, les parents s'exposent à des poursuites judiciaires.",
+          "kind": "situation"
+        },
+        {
+          "q": "Le candidat que vous souteniez a perdu l'élection. Que dit le livret sur le respect des résultats ?",
+          "choices": [
+            "Vous pouvez refuser de reconnaître le nouvel élu si vous n'avez pas voté pour lui",
+            "Les résultats s'imposent à tout citoyen, quelles que soient ses opinions politiques",
+            "Les résultats ne s'imposent qu'aux électeurs qui ont participé au vote",
+            "Les résultats peuvent être ignorés si la participation a été faible"
+          ],
+          "answer": 1,
+          "explain": "Le respect des résultats électoraux est un principe essentiel du fonctionnement démocratique et de l'État de droit : ces résultats s'imposent à tout citoyen, quelles que soient ses opinions politiques.",
+          "kind": "situation"
+        },
+        {
+          "q": "Pour payer moins d'impôts, vous envisagez de ne pas déclarer une partie de vos revenus. Que dit le livret ?",
+          "choices": [
+            "C'est toléré si la somme non déclarée est faible",
+            "C'est interdit : il faut déclarer l'intégralité de ses revenus",
+            "C'est autorisé pour les revenus perçus à l'étranger",
+            "C'est sans risque si vous régularisez spontanément l'année suivante"
+          ],
+          "answer": 1,
+          "explain": "Toute personne majeure résidant en France doit déclarer chaque année l'intégralité de ses revenus ; une fausse déclaration à l'administration française peut être sanctionnée, et la fraude fiscale est un délit.",
+          "kind": "situation"
+        },
+        {
+          "q": "Vous êtes étranger, vous vivez en France avec votre enfant de 8 ans. À quoi devez-vous vous engager selon la loi CIAI du 26 janvier 2024 ?",
+          "choices": [
+            "À inscrire votre enfant dans une école privée pour qu'il apprenne le français",
+            "À lui assurer une éducation respectueuse des valeurs de la République",
+            "À lui faire obtenir la nationalité française avant ses 10 ans",
+            "À ne lui parler qu'en français à la maison"
+          ],
+          "answer": 1,
+          "explain": "L'article 20 de la loi CIAI du 26 janvier 2024 prévoit que les parents étrangers s'engagent à assurer à leur enfant une éducation respectueuse des valeurs et des principes de la République et à l'accompagner dans sa démarche d'intégration, notamment par l'acquisition de la langue française.",
           "kind": "situation"
         }
       ]

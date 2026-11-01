@@ -54,7 +54,12 @@
       "quiz": [
         {
           "q": "Combien d'articles compte la Déclaration des droits de l'homme et du citoyen de 1789 ?",
-          "choices": ["10", "12", "17", "25"],
+          "choices": [
+            "10",
+            "12",
+            "17",
+            "25"
+          ],
           "answer": 2,
           "explain": "La Déclaration reproduite en annexe du livret comprend 17 articles.",
           "kind": "knowledge"
@@ -73,21 +78,26 @@
         },
         {
           "q": "Selon l'article 3, où réside essentiellement le principe de toute souveraineté ?",
-          "choices": ["Dans le chef de l'État", "Dans le Parlement", "Dans la Nation", "Dans les tribunaux"],
+          "choices": [
+            "Dans le chef de l'État",
+            "Dans le Parlement",
+            "Dans la Nation",
+            "Dans les tribunaux"
+          ],
           "answer": 2,
           "explain": "L'article 3 affirme que la souveraineté réside essentiellement dans la Nation ; nul ne peut exercer une autorité qui n'en émane pas.",
           "kind": "knowledge"
         },
         {
-          "q": "Comment l'article 4 définit-il la liberté ?",
+          "q": "Selon l'article 13, comment la contribution commune (l'impôt) doit-elle être répartie ?",
           "choices": [
-            "Faire tout ce que l'on veut sans limite",
-            "Faire tout ce que l'État autorise expressément",
-            "Pouvoir faire tout ce qui ne nuit pas à autrui",
-            "Pouvoir désobéir à une loi injuste"
+            "Également entre tous les citoyens, en raison de leurs facultés",
+            "À parts strictement égales entre tous, quel que soit le revenu de chacun",
+            "Selon la décision du gouvernement, sans règle fixe",
+            "Uniquement entre les propriétaires"
           ],
-          "answer": 2,
-          "explain": "La liberté consiste à pouvoir faire tout ce qui ne nuit pas à autrui ; ses bornes ne peuvent être fixées que par la loi.",
+          "answer": 0,
+          "explain": "L'article 13 prévoit une contribution commune, indispensable à la force publique et aux dépenses d'administration, également répartie entre tous les citoyens en raison de leurs facultés.",
           "kind": "knowledge"
         },
         {
@@ -119,7 +129,7 @@
           "choices": [
             "Les opinions religieuses sont interdites au travail dans tous les cas",
             "Seules les opinions de la majorité sont protégées",
-            "Nul ne doit être inquiété pour ses opinions, même religieuses, si leur manifestation ne trouble pas l'ordre public",
+            "Nul ne doit être inquiété pour ses opinions, même religieuses",
             "Il faut une autorisation de l'État pour exprimer une opinion religieuse"
           ],
           "answer": 2,
@@ -129,25 +139,25 @@
         {
           "q": "Un ami veut publier un article critiquant une décision publique. Selon l'article 11 de la Déclaration :",
           "choices": [
-            "Il doit obtenir une autorisation préalable",
-            "Il peut parler, écrire et imprimer librement, mais répond des abus de cette liberté dans les cas prévus par la loi",
-            "Toute critique des autorités est interdite",
+            "Il doit obtenir une autorisation préalable de l'administration avant toute publication",
+            "Il peut écrire librement, mais répond des abus prévus par la loi",
+            "Toute critique publique d'une décision des autorités est interdite",
             "Il ne peut s'exprimer qu'oralement"
           ],
           "answer": 1,
-          "explain": "La libre communication des pensées et des opinions est l'un des droits les plus précieux, avec une responsabilité en cas d'abus prévu par la loi.",
+          "explain": "L'article 11 garantit la libre communication des pensées et des opinions : tout citoyen peut parler, écrire et imprimer librement, sauf à répondre de l'abus de cette liberté dans les cas déterminés par la loi.",
           "kind": "situation"
         },
         {
           "q": "Selon l'article 16, une société n'a pas de Constitution lorsque :",
           "choices": [
             "Elle n'a pas de drapeau national",
-            "La garantie des droits n'est pas assurée et la séparation des pouvoirs n'est pas déterminée",
-            "Elle n'organise pas de référendum chaque année",
+            "Les droits ne sont pas garantis et les pouvoirs ne sont pas séparés",
+            "Elle n'organise pas de référendum chaque année pour faire approuver ses lois",
             "Elle n'a pas de religion officielle"
           ],
           "answer": 1,
-          "explain": "L'article 16 lie l'existence d'une Constitution à la garantie des droits et à la séparation des pouvoirs.",
+          "explain": "L'article 16 lie l'existence d'une Constitution à la garantie des droits et à la séparation des pouvoirs : toute société où la garantie des droits n'est pas assurée et où la séparation des pouvoirs n'est pas déterminée n'a pas de Constitution.",
           "kind": "knowledge"
         },
         {
@@ -161,6 +171,78 @@
           "answer": 2,
           "explain": "La propriété est un droit inviolable et sacré, mais une privation est possible pour nécessité publique légalement constatée, contre une juste et préalable indemnité.",
           "kind": "knowledge"
+        },
+        {
+          "q": "Vous voulez passer un concours de la fonction publique. Un collègue affirme que ces postes sont réservés aux personnes issues de familles de fonctionnaires. Que prévoit l'article 6 de la Déclaration ?",
+          "choices": [
+            "Les emplois publics sont réservés en priorité aux familles qui les occupent déjà depuis plusieurs générations",
+            "Seules les personnes nées en France peuvent y accéder",
+            "L'accès dépend du niveau de fortune du candidat",
+            "Tous les citoyens y sont admissibles selon leurs capacités, vertus et talents"
+          ],
+          "answer": 3,
+          "explain": "L'article 6 prévoit que tous les citoyens, égaux devant la loi, sont également admissibles à toutes dignités, places et emplois publics selon leur capacité, sans autre distinction que celle de leurs vertus et de leurs talents.",
+          "kind": "situation"
+        },
+        {
+          "q": "Le Parlement examine la création d'un nouvel impôt. Un ami vous dit que les citoyens n'ont aucun mot à dire sur l'impôt. Que prévoit la Déclaration de 1789 ?",
+          "choices": [
+            "Les citoyens, par leurs représentants, consentent à l'impôt et en suivent l'emploi",
+            "Seul le chef de l'État décide des impôts, sans contrôle",
+            "L'impôt ne peut être créé que par les tribunaux",
+            "Les citoyens peuvent refuser individuellement de payer un impôt qu'ils jugent inutile ou trop élevé"
+          ],
+          "answer": 0,
+          "explain": "L'article 14 donne aux citoyens, par eux-mêmes ou par leurs représentants, le droit de constater la nécessité de la contribution publique, de la consentir librement, d'en suivre l'emploi et d'en déterminer la quotité, l'assiette, le recouvrement et la durée.",
+          "kind": "situation"
+        },
+        {
+          "q": "La commune veut faire passer une route sur un terrain qui vous appartient et vous demande de le céder. Que prévoit la Déclaration de 1789 ?",
+          "choices": [
+            "La commune peut prendre le terrain sans rien verser, car l'intérêt général prime toujours sur la propriété privée",
+            "Vous pouvez toujours refuser : la propriété ne peut jamais être limitée",
+            "Seulement pour nécessité publique légalement constatée, contre une juste et préalable indemnité",
+            "Le maire décide seul et fixe l'indemnité après les travaux"
+          ],
+          "answer": 2,
+          "explain": "L'article 17 fait de la propriété un droit inviolable et sacré : nul ne peut en être privé, sauf nécessité publique légalement constatée et sous la condition d'une juste et préalable indemnité.",
+          "kind": "situation"
+        },
+        {
+          "q": "L'an dernier, vous avez fait quelque chose qu'aucune loi n'interdisait. Une loi votée cette année rend ce comportement punissable. Peut-on vous poursuivre pour les faits de l'an dernier ?",
+          "choices": [
+            "Oui, dès que la nouvelle loi est promulguée, car elle s'applique à tous les faits connus",
+            "Non : la loi doit avoir été établie et promulguée avant le délit",
+            "Oui, si un juge l'estime nécessaire",
+            "Oui, mais avec une peine réduite de moitié"
+          ],
+          "answer": 1,
+          "explain": "L'article 8 prévoit que nul ne peut être puni qu'en vertu d'une loi établie et promulguée antérieurement au délit, et légalement appliquée.",
+          "kind": "situation"
+        },
+        {
+          "q": "Vous publiez sur internet de fausses accusations contre un voisin, qui porte plainte. Vous invoquez la liberté d'expression. Que prévoit l'article 11 de la Déclaration ?",
+          "choices": [
+            "La liberté d'expression couvre tout ce qui est écrit sur internet",
+            "Seules les publications dans la presse peuvent être sanctionnées",
+            "Chacun peut s'exprimer librement, mais répond des abus prévus par la loi",
+            "Le voisin ne peut rien faire tant que la publication reste en ligne moins d'un mois"
+          ],
+          "answer": 2,
+          "explain": "L'article 11 garantit la libre communication des pensées et des opinions : tout citoyen peut parler, écrire et imprimer librement, sauf à répondre de l'abus de cette liberté dans les cas déterminés par la loi.",
+          "kind": "situation"
+        },
+        {
+          "q": "Vous souhaitez exercer une activité de loisir qu'aucune loi n'interdit. Une personne vous affirme qu'il faut d'abord une autorisation écrite de l'administration. Que prévoit l'article 5 de la Déclaration ?",
+          "choices": [
+            "Toute activité doit être autorisée par un texte avant d'être exercée",
+            "Seules les activités traditionnelles sont libres",
+            "L'administration décide au cas par cas ce qui est permis",
+            "Ce que la loi n'interdit pas ne peut être empêché"
+          ],
+          "answer": 3,
+          "explain": "Selon l'article 5, la loi n'a le droit de défendre que les actions nuisibles à la société ; tout ce qui n'est pas défendu par la loi ne peut être empêché, et nul ne peut être contraint à faire ce qu'elle n'ordonne pas.",
+          "kind": "situation"
         }
       ]
     },
@@ -196,7 +278,7 @@
           "blocks": [
             {
               "type": "p",
-              "text": "Tout être humain, quelle que soit sa race, sa religion ou sa croyance, possède des **droits inaliénables**, garantis à chacun sur le territoire de la République ; chacun doit aussi les respecter. Le citoyen français a en plus des droits et devoirs particuliers : participer à l'**élection des représentants** du peuple, concourir à la **défense nationale** ou participer aux **jurys d'assises**."
+              "text": "Tout être humain, quelle que soit sa race, sa religion ou sa croyance, possède des **droits inaliénables**, garantis à chacun sur le territoire de la République ; chacun doit aussi les respecter. Le citoyen français a en plus des droits et devoirs particuliers : le **droit** de participer à l'**élection des représentants** du peuple, et le **devoir** de concourir à la **défense nationale** ou de participer aux **jurys d'assises**."
             },
             {
               "type": "p",
@@ -260,7 +342,12 @@
       "quiz": [
         {
           "q": "Quel article du code civil prévoit la Charte des droits et devoirs du citoyen français ?",
-          "choices": ["Article 1er", "Article 21-24", "Article 49-3", "Article 89"],
+          "choices": [
+            "Article 1er",
+            "Article 21-24",
+            "Article 49-3",
+            "Article 21-12"
+          ],
           "answer": 1,
           "explain": "La Charte est établie en application de l'article 21-24 du code civil.",
           "kind": "knowledge"
@@ -294,7 +381,7 @@
           "choices": [
             "Changer de religion nécessite l'accord de l'État",
             "Chacun est libre de croire, de ne pas croire ou de changer de religion",
-            "On ne peut changer de religion qu'à sa majorité et devant un juge",
+            "On ne peut changer de religion qu'à sa majorité et après déclaration devant un juge",
             "La République impose une religion officielle"
           ],
           "answer": 1,
@@ -304,9 +391,9 @@
         {
           "q": "Une association religieuse demande à la mairie de payer le salaire de son responsable du culte. Selon le principe de laïcité rappelé par la Charte :",
           "choices": [
-            "La République doit salarier tous les ministres du culte",
+            "La République doit salarier tous les ministres du culte, au nom de l'égalité entre les religions",
             "La République salarie seulement la religion majoritaire",
-            "La République garantit le libre exercice des cultes mais n'en salarie ni n'en subventionne aucun",
+            "La République garantit le libre exercice des cultes mais n'en salarie aucun",
             "La République interdit l'exercice des cultes"
           ],
           "answer": 2,
@@ -315,7 +402,12 @@
         },
         {
           "q": "À partir de quel âge un citoyen français jouissant de ses droits civiques est-il électeur ?",
-          "choices": ["16 ans", "18 ans", "21 ans", "25 ans"],
+          "choices": [
+            "16 ans",
+            "18 ans",
+            "21 ans",
+            "25 ans"
+          ],
           "answer": 1,
           "explain": "Tout citoyen français âgé de dix-huit ans et jouissant de ses droits civiques est électeur.",
           "kind": "knowledge"
@@ -324,17 +416,22 @@
           "q": "Dans un couple marié, le mari veut interdire à sa femme de travailler et de gérer son salaire. Que prévoit la Charte ?",
           "choices": [
             "Le mari décide seul de l'activité de son épouse",
-            "Chaque conjoint peut librement exercer une profession, percevoir ses revenus et en disposer après avoir contribué aux charges communes",
-            "La femme doit demander l'autorisation de son mari pour ouvrir un compte",
+            "Chaque conjoint peut librement exercer une profession et disposer de ses revenus",
+            "La femme doit demander l'autorisation écrite de son mari pour ouvrir un compte bancaire",
             "Seul le conjoint le mieux payé peut travailler"
           ],
           "answer": 1,
-          "explain": "La Charte affirme l'égalité de l'homme et de la femme et la liberté de chaque conjoint d'exercer une profession et de disposer de ses revenus.",
+          "explain": "La Charte affirme l'égalité de l'homme et de la femme et la liberté de chaque conjoint d'exercer une profession, de percevoir ses revenus et d'en disposer après avoir contribué aux charges du ménage.",
           "kind": "situation"
         },
         {
           "q": "Jusqu'à quel âge l'instruction est-elle obligatoire selon la Charte ?",
-          "choices": ["14 ans", "15 ans", "16 ans", "18 ans"],
+          "choices": [
+            "14 ans",
+            "15 ans",
+            "16 ans",
+            "18 ans"
+          ],
           "answer": 2,
           "explain": "L'instruction est obligatoire pour les enfants des deux sexes jusqu'à seize ans.",
           "kind": "knowledge"
@@ -354,14 +451,86 @@
         {
           "q": "Selon la Charte, comment chacun contribue-t-il aux dépenses de la Nation ?",
           "choices": [
-            "Par le paiement d'impôts et de cotisations sociales, selon ses capacités financières",
-            "Par un montant identique pour tous, quels que soient les revenus",
+            "Par des impôts et des cotisations sociales, selon ses capacités",
+            "Par un montant identique pour tous les citoyens, quels que soient leurs revenus",
             "Uniquement par le service militaire",
             "Par des dons volontaires aux associations"
           ],
           "answer": 0,
           "explain": "Le principe de fraternité implique de contribuer aux dépenses de la Nation, selon ses capacités financières, par les impôts et les cotisations sociales.",
           "kind": "knowledge"
+        },
+        {
+          "q": "Vous trouvez qu'une loi récemment votée est injuste. Un ami vous dit que vous pouvez simplement ne pas la respecter. Que dit la Charte ?",
+          "choices": [
+            "Chacun choisit les lois qu'il accepte d'appliquer",
+            "Une loi jugée injuste par une majorité de citoyens cesse automatiquement de s'appliquer",
+            "La loi étant l'expression de la volonté générale, tout citoyen doit la respecter",
+            "Seuls les fonctionnaires sont tenus de respecter la loi"
+          ],
+          "answer": 2,
+          "explain": "La Charte rappelle que la loi est l'expression de la volonté générale et que tout citoyen doit la respecter ; nul ne peut en revanche être contraint à faire ce que la loi n'ordonne pas.",
+          "kind": "situation"
+        },
+        {
+          "q": "Dans votre entreprise, un responsable refuse de confier un poste à responsabilités à une salariée au motif qu'elle est une femme. Que prévoit la Charte ?",
+          "choices": [
+            "L'homme et la femme ont les mêmes droits dans tous les domaines, y compris professionnel",
+            "Les postes à responsabilités relèvent du choix libre de l'employeur, sans règle d'égalité",
+            "L'égalité ne s'applique qu'aux mandats électoraux, pas au travail",
+            "Une femme peut y accéder seulement avec l'accord de son conjoint"
+          ],
+          "answer": 0,
+          "explain": "La Charte affirme que l'homme et la femme ont dans tous les domaines les mêmes droits et que la République favorise l'égal accès des femmes et des hommes aux responsabilités professionnelles et sociales.",
+          "kind": "situation"
+        },
+        {
+          "q": "Un responsable religieux affirme que les lois de la République devraient suivre les règles de sa religion. Que dit la Charte ?",
+          "choices": [
+            "La religion majoritaire peut inspirer les lois de la République",
+            "L'État et les religions sont séparés ; la République ne reconnaît aucun culte",
+            "La République reconnaît officiellement les religions présentes depuis longtemps en France",
+            "Chaque religion peut édicter des lois pour ses fidèles"
+          ],
+          "answer": 1,
+          "explain": "La Charte rappelle que la République est laïque : l'État et les religions sont séparés, et la République n'en reconnaît, n'en salarie ni n'en subventionne aucune.",
+          "kind": "situation"
+        },
+        {
+          "q": "Votre voisine âgée ne peut plus travailler en raison de son état de santé et n'a plus aucune ressource. Que prévoit la Charte ?",
+          "choices": [
+            "Seule sa famille a l'obligation de l'aider",
+            "Elle a le droit d'obtenir de la collectivité des moyens convenables d'existence",
+            "Elle doit reprendre un emploi, quel que soit son état",
+            "La Nation n'intervient qu'en cas de catastrophe naturelle ou de crise économique grave"
+          ],
+          "answer": 1,
+          "explain": "Selon la Charte, toute personne qui, en raison de son âge, de son état physique ou mental ou de la situation économique, se trouve dans l'incapacité de travailler a le droit d'obtenir de la collectivité des moyens convenables d'existence.",
+          "kind": "situation"
+        },
+        {
+          "q": "Vous venez d'obtenir la nationalité française et une élection approche. Vous vous demandez si vous avez le droit de voter et si c'est important. Que dit la Charte ?",
+          "choices": [
+            "Les nouveaux Français ne peuvent voter qu'après cinq ans de nationalité, le temps d'une période probatoire",
+            "Le vote est une simple possibilité sans importance civique",
+            "Vous êtes électeur dès 18 ans ; voter est un droit et aussi un devoir civique",
+            "Seuls les citoyens nés en France peuvent voter aux élections nationales"
+          ],
+          "answer": 2,
+          "explain": "La Charte précise que tout citoyen français âgé de dix-huit ans et jouissant de ses droits civiques est électeur, quelle que soit la date d'acquisition de la nationalité, et que voter est un droit mais aussi un devoir civique.",
+          "kind": "situation"
+        },
+        {
+          "q": "Vous recevez une convocation pour siéger comme juré dans un procès d'assises. Vous hésitez à y répondre. Que dit la Charte ?",
+          "choices": [
+            "Participer aux jurys d'assises est un devoir du citoyen français",
+            "Seuls les juristes de formation peuvent être jurés",
+            "La participation au jury est réservée aux volontaires inscrits en mairie",
+            "Les personnes devenues françaises en sont dispensées"
+          ],
+          "answer": 0,
+          "explain": "La Charte rattache à la qualité de citoyen français des devoirs particuliers, dont celui de concourir à la défense nationale ou de participer aux jurys d'assises ; ce devoir s'applique à tout citoyen, qu'il soit français de naissance ou devenu français.",
+          "kind": "situation"
         }
       ]
     },

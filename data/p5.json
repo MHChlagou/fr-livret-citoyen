@@ -449,9 +449,9 @@
         {
           "q": "Vous n'avez pas de handicap et toutes les places de parking sont prises, sauf une place réservée aux personnes handicapées. Pouvez-vous vous y garer ?",
           "choices": [
-            "Oui, si c'est pour quelques minutes",
+            "Oui, pour quelques minutes seulement, à condition de laisser vos feux de détresse allumés",
             "Oui, si personne n'en a besoin",
-            "Non, ces places sont réservées aux titulaires d'une carte « mobilité inclusion »",
+            "Non, elles sont réservées aux titulaires d'une carte « mobilité inclusion »",
             "Oui, la nuit seulement"
           ],
           "answer": 2,
@@ -459,23 +459,23 @@
           "kind": "situation"
         },
         {
-          "q": "Quelle sanction est prévue pour la conduite avec un taux d'alcool supérieur à 0,8 g/l de sang ?",
+          "q": "Vous êtes contrôlé(e) au volant avec un taux d'alcool supérieur à 0,8 g/l de sang. Pendant combien de temps votre permis peut-il être annulé ?",
           "choices": [
-            "Une amende de 68 euros et le retrait d'un point",
-            "Un simple avertissement",
-            "Une amende de 135 euros",
-            "Jusqu'à 3 ans de prison, 9 000 euros d'amende, saisie du véhicule et annulation du permis pendant 5 ans"
+            "1 an",
+            "3 ans",
+            "5 ans",
+            "10 ans"
           ],
-          "answer": 3,
+          "answer": 2,
           "explain": "C'est un délit très sévèrement sanctionné : jusqu'à 3 ans de prison, 9 000 euros d'amende, saisie du véhicule et annulation du permis pendant 5 ans.",
-          "kind": "knowledge"
+          "kind": "situation"
         },
         {
           "q": "Le chien d'un ami dont vous avez la garde mord un passant et déchire ses vêtements. Qui peut être tenu responsable ?",
           "choices": [
             "Personne, c'est un accident",
-            "Uniquement le passant",
-            "Vous, car l'animal est sous votre responsabilité : votre responsabilité civile est engagée",
+            "Uniquement le propriétaire du chien, même s'il vous en a confié la garde",
+            "Vous, car l'animal est sous votre responsabilité",
             "La mairie de la commune"
           ],
           "answer": 2,
@@ -498,8 +498,8 @@
           "q": "Vous tenez une épicerie. Un adolescent de 16 ans veut acheter une bouteille de vin. Que devez-vous faire ?",
           "choices": [
             "La lui vendre s'il paie en espèces",
-            "La lui vendre s'il dit que c'est pour ses parents",
-            "Refuser : la vente d'alcool aux mineurs de moins de 18 ans est interdite",
+            "La lui vendre s'il affirme que c'est pour ses parents et qu'il ne la boira pas lui-même",
+            "Refuser : vendre de l'alcool à un mineur est interdit",
             "La lui vendre après 20 heures"
           ],
           "answer": 2,
@@ -541,6 +541,78 @@
           "answer": 2,
           "explain": "La Sécurité sociale a été créée en 1945, à la Libération, par volonté de solidarité nationale.",
           "kind": "knowledge"
+        },
+        {
+          "q": "Vous montez dans le bus sans acheter de ticket parce que vous ne faites que deux arrêts. Que risquez-vous ?",
+          "choices": [
+            "Une amende pour défaut de titre de transport",
+            "Rien, les trajets de moins de trois arrêts sont gratuits",
+            "Un retrait de points sur le permis de conduire",
+            "Une peine de prison"
+          ],
+          "answer": 0,
+          "explain": "Le livret précise que l'usage des transports collectifs est conditionné au paiement d'un titre de transport et qu'en cas de non-paiement la personne peut être sanctionnée par une amende.",
+          "kind": "situation"
+        },
+        {
+          "q": "Votre voisin organise des fêtes très bruyantes plusieurs nuits par semaine. Que prévoit la réglementation ?",
+          "choices": [
+            "Rien, chacun est libre de faire ce qu'il veut chez lui",
+            "Une sanction seulement si le bruit a lieu en journée",
+            "Une expulsion automatique de son logement",
+            "Des sanctions en cas de nuisances sonores"
+          ],
+          "answer": 3,
+          "explain": "Pour préserver la tranquillité publique, la réglementation prévoit des sanctions en cas de nuisances sonores (musiques fortes, klaxons inutiles, fêtes, rassemblements...).",
+          "kind": "situation"
+        },
+        {
+          "q": "Vous voulez vous débarrasser d'un vieux réfrigérateur. Que devez-vous faire ?",
+          "choices": [
+            "Le déposer sur le trottoir devant chez vous",
+            "Le mettre dans la poubelle des ordures ménagères",
+            "L'apporter dans une déchèterie",
+            "Le laisser dans la nature, loin des habitations"
+          ],
+          "answer": 2,
+          "explain": "Des déchèteries permettent de déposer les appareils électroménagers et les encombrants ; les dépôts sauvages de déchets sont interdits par la loi et peuvent être punis d'une amende.",
+          "kind": "situation"
+        },
+        {
+          "q": "Vous venez de vous installer en France et vous n'avez pas encore de couverture maladie. Que dit la loi ?",
+          "choices": [
+            "Tous les résidents doivent être inscrits à l'Assurance Maladie",
+            "L'inscription à l'Assurance Maladie est facultative",
+            "Seuls les salariés peuvent s'inscrire à l'Assurance Maladie",
+            "Il faut d'abord souscrire une mutuelle privée avant toute inscription à l'Assurance Maladie"
+          ],
+          "answer": 0,
+          "explain": "Tous les résidents en France ont l'obligation d'être inscrits à l'Assurance Maladie (branche de la Sécurité sociale) selon leur situation et dans les conditions fixées par la loi ; chaque assuré reçoit une carte Vitale.",
+          "kind": "situation"
+        },
+        {
+          "q": "Votre employeur demande à votre médecin des informations sur la maladie qui justifie votre arrêt de travail. Le médecin peut-il les lui communiquer ?",
+          "choices": [
+            "Oui, si l'arrêt de travail dépasse une semaine",
+            "Non, le médecin est tenu au secret médical",
+            "Oui, si l'employeur finance la mutuelle de l'entreprise",
+            "Oui, si la maladie est grave"
+          ],
+          "answer": 1,
+          "explain": "Les personnels de santé ont l'obligation de garder secrètes les informations médicales d'un patient : c'est le principe de confidentialité dans le domaine de la santé.",
+          "kind": "situation"
+        },
+        {
+          "q": "Un collègue fume dans le bureau en laissant la fenêtre ouverte « pour aérer ». Est-ce autorisé ?",
+          "choices": [
+            "Non, fumer sur son lieu de travail est interdit",
+            "Oui, si la fenêtre reste ouverte",
+            "Oui, si les autres collègues présents dans le bureau sont d'accord",
+            "Oui, en dehors des heures de travail"
+          ],
+          "answer": 0,
+          "explain": "Il est interdit de fumer dans les lieux publics fermés ou couverts, et fumer dans les locaux de son lieu de travail est également interdit (loi Évin) ; l'infraction est punie d'une amende de 135 euros.",
+          "kind": "situation"
         }
       ]
     },
@@ -741,7 +813,7 @@
           "choices": [
             "Une aide au logement",
             "Le salaire horaire minimum garanti en France",
-            "Une allocation chômage",
+            "Une allocation chômage versée par France Travail aux demandeurs d'emploi",
             "Un impôt sur le salaire"
           ],
           "answer": 1,
@@ -753,8 +825,8 @@
           "choices": [
             "Oui, il faut au moins un an d'ancienneté",
             "Oui, si l'entreprise a moins de 50 salariés",
-            "Non, chaque travailleur, sans condition, a le droit de rejoindre un syndicat",
-            "Oui, seuls les fonctionnaires peuvent se syndiquer"
+            "Non, tout travailleur peut rejoindre un syndicat sans condition",
+            "Oui, seuls les salariés en CDI ayant achevé leur période d'essai peuvent se syndiquer"
           ],
           "answer": 2,
           "explain": "Le livret précise que chaque travailleur, sans condition, a le droit de rejoindre une organisation syndicale pour le représenter au travail.",
@@ -763,10 +835,10 @@
         {
           "q": "Lors d'un entretien d'embauche, un recruteur écarte un candidat en raison de sa religion. Est-ce autorisé ?",
           "choices": [
-            "Oui, l'employeur choisit librement",
+            "Oui, l'employeur choisit librement ses salariés, sauf dans la fonction publique",
             "Oui, si le contrat est un CDD",
             "Oui, dans les petites entreprises",
-            "Non, aucune discrimination liée au genre, à la religion ou au physique n'est permise"
+            "Non, aucune discrimination n'est permise à l'embauche"
           ],
           "answer": 3,
           "explain": "Dans le cadre professionnel, aucune discrimination ne peut avoir lieu ; l'employeur peut seulement exiger des diplômes si l'emploi demande une qualification.",
@@ -812,9 +884,9 @@
           "q": "Un étranger résidant en France souhaite ouvrir un restaurant. Doit-il avoir la nationalité française ?",
           "choices": [
             "Oui, c'est obligatoire",
-            "Non, il n'est pas nécessaire d'être français pour créer son entreprise",
+            "Non, il n'est pas nécessaire d'être français",
             "Oui, sauf pour l'artisanat",
-            "Seulement s'il emploie plus de 50 salariés"
+            "Seulement si le restaurant emploie plus de 50 salariés"
           ],
           "answer": 1,
           "explain": "Chacun est libre de créer son entreprise en France ; il n'est pas nécessaire d'être français, mais il faut accomplir les démarches administratives.",
@@ -826,7 +898,7 @@
             "Nationale, régionale et municipale",
             "D'État, territoriale et hospitalière",
             "Civile, militaire et judiciaire",
-            "Européenne, nationale et locale"
+            "Européenne, nationale et territoriale"
           ],
           "answer": 1,
           "explain": "Un fonctionnaire travaille dans l'une des trois fonctions publiques : d'État, territoriale ou hospitalière.",
@@ -836,13 +908,85 @@
           "q": "Quel emploi public n'est pas accessible aux candidats européens non français ?",
           "choices": [
             "Un emploi d'infirmier à l'hôpital",
-            "Un emploi dans la défense ou les affaires étrangères",
+            "Un emploi dans la défense",
             "Un emploi dans une mairie",
             "Un emploi d'enseignant"
           ],
           "answer": 1,
           "explain": "Les candidats européens n'ont pas accès aux emplois dits de « souveraineté », comme la défense ou les affaires étrangères.",
           "kind": "knowledge"
+        },
+        {
+          "q": "Votre employeur vous propose un salaire inférieur au SMIC parce que vous êtes étranger. Que dit la loi ?",
+          "choices": [
+            "C'est possible pendant la période d'essai",
+            "C'est possible si le salarié accepte par écrit",
+            "C'est illégal seulement si le salarié est en CDI depuis plus d'un an",
+            "C'est illégal : tout salarié doit percevoir au moins le SMIC"
+          ],
+          "answer": 3,
+          "explain": "Les salariés du secteur privé âgés d'au moins 18 ans (16 ans sur autorisation parentale ou mineur émancipé) doivent percevoir un salaire au moins égal au SMIC, et aucune discrimination ne peut avoir lieu dans le cadre professionnel.",
+          "kind": "situation"
+        },
+        {
+          "q": "Vous commencez un nouvel emploi et votre employeur vous dit qu'un accord oral suffit, sans contrat écrit. Que dit le livret ?",
+          "choices": [
+            "Le contrat de travail écrit est obligatoire",
+            "Un accord oral suffit si l'emploi dure moins de six mois",
+            "Le contrat n'est obligatoire que dans les entreprises d'au moins 50 salariés",
+            "Le contrat n'est nécessaire que pour les emplois publics"
+          ],
+          "answer": 0,
+          "explain": "Lorsqu'une personne est embauchée, un contrat de travail doit être signé entre le salarié et l'employeur. Ce document est obligatoire et indique notamment le salaire, la durée du travail, la date de début et le type de contrat.",
+          "kind": "situation"
+        },
+        {
+          "q": "Vous êtes embauché(e) dans une entreprise de 120 salariés. Quel document interne présente les règles de l'entreprise en matière de santé, de sécurité et de comportement au travail ?",
+          "choices": [
+            "La convention collective",
+            "Le code du travail",
+            "Le règlement intérieur",
+            "Le contrat d'intérim"
+          ],
+          "answer": 2,
+          "explain": "Le règlement intérieur est un document rédigé par un employeur dont l'entreprise compte au moins 50 salariés ; il détaille les droits et devoirs des salariés en matière de santé, de sécurité et de comportement au travail.",
+          "kind": "situation"
+        },
+        {
+          "q": "Vous êtes de nationalité italienne et souhaitez passer un concours d'infirmier dans un hôpital public français. Est-ce possible ?",
+          "choices": [
+            "Non, il faut obligatoirement être de nationalité française",
+            "Oui, comme tout ressortissant de l'UE ou de l'EEE",
+            "Oui, mais seulement après dix ans de résidence en France et un examen de français",
+            "Non, la fonction publique hospitalière ne recrute pas par concours"
+          ],
+          "answer": 1,
+          "explain": "Pour se porter candidat à un concours de la fonction publique, il faut avoir la nationalité française ou celle d'un pays de l'UE ou de l'EEE, remplir les conditions d'âge et de diplôme, jouir de ses droits civiques et n'avoir aucune condamnation au bulletin n°2 du casier judiciaire. Seuls les emplois de souveraineté sont fermés aux candidats européens.",
+          "kind": "situation"
+        },
+        {
+          "q": "Vous voulez ouvrir un atelier de menuiserie mais vous ne savez pas comment planifier votre projet ni trouver des financements. Vers qui pouvez-vous vous tourner ?",
+          "choices": [
+            "Le conseil de prud'hommes",
+            "Les Missions Locales",
+            "La chambre des métiers (CMA) ou la chambre de commerce (CCI)",
+            "La Caisse primaire d'assurance maladie, qui finance les créations d'entreprise"
+          ],
+          "answer": 2,
+          "explain": "Des structures comme la chambre des métiers et de l'artisanat (CMA) ou la chambre de commerce et d'industrie (CCI) donnent des conseils, aident à planifier le projet et à chercher des financements.",
+          "kind": "situation"
+        },
+        {
+          "q": "Vous avez démissionné de votre emploi pour convenance personnelle et vous vous inscrivez à France Travail. Allez-vous toucher automatiquement l'Allocation d'aide au retour à l'emploi (ARE) ?",
+          "choices": [
+            "Oui, l'ARE est versée à toute personne inscrite à France Travail",
+            "Oui, si vous avez moins de 25 ans",
+            "Oui, dès le premier mois d'inscription",
+            "Non, l'ARE n'est pas versée en cas de départ volontaire"
+          ],
+          "answer": 3,
+          "explain": "France Travail peut verser l'ARE si les conditions sont remplies : avoir travaillé suffisamment longtemps et ne pas avoir quitté son travail de manière volontaire.",
+          "kind": "situation"
         }
       ]
     },
@@ -1070,9 +1214,9 @@
         {
           "q": "Un homme déjà marié souhaite épouser une seconde femme en France. Est-ce possible ?",
           "choices": [
-            "Oui, si sa première épouse est d'accord",
+            "Oui, si sa première épouse donne son accord devant le maire",
             "Oui, si le mariage est religieux",
-            "Non, la polygamie est interdite et constitue une infraction pénale",
+            "Non, la polygamie est une infraction pénale",
             "Oui, avec l'accord du maire"
           ],
           "answer": 2,
@@ -1121,7 +1265,7 @@
             "L'employeur peut la licencier librement",
             "Elle perdra son emploi seulement si elle est en CDD",
             "Elle doit démissionner avant son congé",
-            "La loi lui garantit de conserver son emploi : l'employeur ne peut pas la licencier pour ce motif"
+            "La loi lui garantit de conserver son emploi"
           ],
           "answer": 3,
           "explain": "Pendant la grossesse et le congé maternité, la loi garantit à la femme de conserver son emploi.",
@@ -1156,7 +1300,7 @@
           "choices": [
             "C'est autorisé si c'est rare",
             "C'est autorisé pour les enfants de moins de 10 ans",
-            "C'est interdit : l'autorité parentale s'exerce sans violences physiques ou psychologiques",
+            "C'est interdit par la loi",
             "C'est au parent de décider"
           ],
           "answer": 2,
@@ -1178,8 +1322,8 @@
         {
           "q": "Vous souhaitez partir en vacances une semaine avant la fin des cours et retirer votre enfant de l'école. Cette absence sera-t-elle acceptée ?",
           "choices": [
-            "Oui, les vacances sont un motif familial",
-            "Non, seules les absences pour raisons de santé ou familiales (mariage, enterrement...) sont acceptées",
+            "Oui, les vacances en famille comptent parmi les motifs familiaux acceptés par l'école",
+            "Non, seules les absences pour raisons de santé ou familiales sont acceptées",
             "Oui, si l'enfant a de bonnes notes",
             "Oui, avec un simple mot des parents"
           ],
@@ -1190,13 +1334,85 @@
         {
           "q": "Votre fille de 13 ans veut créer seule un compte sur un réseau social. Est-ce possible ?",
           "choices": [
-            "Oui, dès 13 ans",
+            "Oui, dès 13 ans, comme le prévoient les conditions d'utilisation des réseaux sociaux",
             "Non, la majorité numérique est fixée à 15 ans",
             "Oui, si elle a un téléphone personnel",
             "Non, il faut attendre 18 ans"
           ],
           "answer": 1,
           "explain": "La loi du 7 juillet 2023 a instauré la majorité numérique à 15 ans : avant cet âge, s'inscrire seul sur les réseaux sociaux n'est plus possible.",
+          "kind": "situation"
+        },
+        {
+          "q": "Une famille souhaite organiser le mariage de sa fille de 16 ans. Est-ce possible en France ?",
+          "choices": [
+            "Oui, avec le seul accord des parents",
+            "Oui, si le mariage est célébré religieusement et que les deux familles sont d'accord",
+            "Non, jamais avant 18 ans",
+            "Seulement avec l'autorisation du procureur et l'accord des parents"
+          ],
+          "answer": 3,
+          "explain": "Le mariage est possible à partir de 18 ans. À partir de 16 ans, il n'est possible que si le procureur de la République accorde une autorisation spéciale et si les parents du mineur acceptent l'union (art. 145 et 148 du code civil).",
+          "kind": "situation"
+        },
+        {
+          "q": "Après leur divorce, un père pense qu'il n'a plus aucun droit ni devoir envers ses enfants, qui vivent chez leur mère. Est-ce exact ?",
+          "choices": [
+            "Non, les deux parents continuent d'exercer l'autorité parentale",
+            "Oui, seul le parent qui héberge les enfants exerce l'autorité parentale",
+            "Oui, sauf si le divorce a été prononcé par un juge",
+            "Non, mais seulement jusqu'aux 10 ans de l'enfant, puis la mère décide seule"
+          ],
+          "answer": 0,
+          "explain": "En cas de divorce, l'autorité parentale sur les enfants continue d'être exercée par les deux parents, sauf décision de justice contraire.",
+          "kind": "situation"
+        },
+        {
+          "q": "Vous venez d'emménager dans une nouvelle commune et souhaitez inscrire votre enfant de 4 ans à l'école publique. À qui devez-vous vous adresser ?",
+          "choices": [
+            "À la préfecture",
+            "À la mairie",
+            "À la Caisse primaire d'assurance maladie",
+            "À France Travail"
+          ],
+          "answer": 1,
+          "explain": "Les mairies sont compétentes pour gérer les inscriptions des enfants à l'école publique ; l'instruction est obligatoire dès 3 ans.",
+          "kind": "situation"
+        },
+        {
+          "q": "Vous arrivez en France avec votre fils de 9 ans, qui ne parle pas encore français. Peut-il être scolarisé ?",
+          "choices": [
+            "Oui, il est accueilli à l'école comme les autres enfants",
+            "Non, il doit d'abord apprendre le français dans une école privée spécialisée",
+            "Oui, mais seulement à partir du collège",
+            "Non, il doit attendre un an de résidence en France"
+          ],
+          "answer": 0,
+          "explain": "Les enfants allophones (dont la langue maternelle n'est pas le français) sont accueillis à l'école comme les autres enfants. Ils y apprennent le français mais aussi les autres matières.",
+          "kind": "situation"
+        },
+        {
+          "q": "Un père de trois enfants souhaite, par testament, ne rien laisser à l'un d'eux. Est-ce possible ?",
+          "choices": [
+            "Oui, chacun dispose librement de ses biens",
+            "Non, sauf si l'enfant est majeur, a un emploi et ne vit plus chez ses parents",
+            "Non, on ne peut pas déshériter totalement un enfant",
+            "Oui, si les deux autres enfants sont d'accord"
+          ],
+          "answer": 2,
+          "explain": "Le livret précise qu'il n'est pas possible de déshériter en totalité son ou ses enfants et que le partage doit être équitable entre tous les membres de la fratrie.",
+          "kind": "situation"
+        },
+        {
+          "q": "Une famille envisage de faire exciser sa fille, en expliquant qu'il s'agit d'une tradition. Que dit la loi française ?",
+          "choices": [
+            "C'est une décision privée qui relève des parents",
+            "C'est interdit, car cela porte atteinte à l'intégrité de l'enfant",
+            "C'est toléré si l'acte est pratiqué à l'étranger, dans un pays où il est autorisé",
+            "C'est autorisé avec un avis médical"
+          ],
+          "answer": 1,
+          "explain": "Toutes les maltraitances physiques, comme l'excision et les châtiments corporels, sont interdites par la loi car elles portent atteinte à l'intégrité physique et à la dignité de l'enfant.",
           "kind": "situation"
         }
       ]

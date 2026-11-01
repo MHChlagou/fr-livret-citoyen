@@ -88,4 +88,8 @@ Le contenu a été transcrit à partir du PDF officiel du Livret du citoyen (éd
 
 L'orthographe du nom de la peintre Suzanne Valadon (imprimé « Valandon ») a aussi été rectifiée.
 
+Pour chacun de ces trois points, la leçon indique aussi ce que le livret imprime, car un examinateur peut s'appuyer sur le texte officiel. Aucune question de quiz ne porte sur ces chiffres contestés.
+
+Le contenu et chaque réponse de quiz ont été relus contre le PDF, puis contre-vérifiés par une seconde relecture indépendante. Si vous trouvez une erreur, ouvrez une issue sur ce dépôt.
+
 Le format de l'examen blanc (40 questions, 45 minutes, 80 %) suit celui de l'examen civique en vigueur depuis 2026. En cas de doute, vérifiez auprès de votre préfecture.
