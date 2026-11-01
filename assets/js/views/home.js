@@ -2,6 +2,7 @@ import { escapeHtml, inline, percent, plural, formatDate } from "../util.js";
 import { sectionState, getSection, getExams } from "../store.js";
 import { EXAM_QUESTION_COUNT } from "../exam.js";
 import { partLabel } from "./blocks.js";
+import { mountInstallCard } from "../install.js";
 
 const STATE_LABEL = { todo: "À découvrir", read: "Leçon lue", passed: "Quiz réussi" };
 
@@ -47,7 +48,7 @@ function nextStep(course) {
   return course.sections.find((s) => s.quiz.length > 0 && sectionState(s.id) !== "passed") ?? null;
 }
 
-export function renderHome(root, { course }) {
+export function renderHome(root, { course, onLeave }) {
   const quizSections = course.sections.filter((s) => s.quiz.length > 0);
   const passedCount = quizSections.filter((s) => sectionState(s.id) === "passed").length;
   const ratio = quizSections.length ? passedCount / quizSections.length : 0;
@@ -81,6 +82,8 @@ export function renderHome(root, { course }) {
         </div>
       </section>
 
+      <div data-install-slot></div>
+
       <ol class="how">
         <li><b>Lisez</b>une leçon courte, une notion à la fois.</li>
         <li><b>Retenez</b>les points clés résumés en fin de section.</li>
@@ -105,4 +108,5 @@ export function renderHome(root, { course }) {
         </article>
       </div>
     </div>`;
+  mountInstallCard(root.querySelector("[data-install-slot]"), onLeave);
 }
