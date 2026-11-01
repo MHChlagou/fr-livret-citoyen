@@ -6,6 +6,7 @@ import { renderSectionQuiz } from "./views/section-quiz.js";
 import { renderExam } from "./views/exam.js";
 import { renderMemo } from "./views/memo.js";
 import { initInstall } from "./install.js";
+import { initWelcome } from "./welcome.js";
 
 const main = document.getElementById("main");
 const THEME_KEY = "livret-citoyen-theme";
@@ -89,3 +90,4 @@ setupTheme();
 initInstall();
 window.addEventListener("hashchange", route);
 route();
+initWelcome(route);

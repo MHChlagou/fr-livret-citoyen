@@ -166,7 +166,39 @@ main:focus-visible { outline: none; }
   color: var(--ink-faint);
   font-size: 0.85rem;
 }
-.footer p { margin: 0; }
+.footer p { margin: 0 auto 6px; max-width: 72ch; }
+.footer p:last-child { margin-bottom: 0; }
+
+.link-btn {
+  border: 0; background: none; padding: 0; cursor: pointer;
+  color: var(--blue-bright); text-decoration: underline; text-underline-offset: 2px; font-size: inherit;
+}
+.greeting { margin: 0 0 10px; color: var(--ink-soft); }
+.greeting .link-btn { font-size: 0.85rem; margin-left: 4px; }
+
+.name-dialog {
+  width: min(440px, calc(100vw - 32px)); padding: 0; border: 1px solid var(--line); border-radius: var(--radius);
+  background: var(--bg-elev); color: var(--ink); box-shadow: 0 30px 80px -20px rgb(0 0 0 / 0.45);
+}
+.name-dialog[open] { animation: dialog-in 0.4s var(--ease) both; }
+.name-dialog::backdrop { background: rgb(17 19 42 / 0.55); backdrop-filter: blur(4px); }
+@keyframes dialog-in {
+  from { opacity: 0; transform: translateY(16px) scale(0.97); }
+  to { opacity: 1; transform: none; }
+}
+.name-dialog form { padding: 28px 24px 24px; }
+.name-dialog h2 { font-size: 1.6rem; margin-bottom: 6px; }
+.name-dialog p { color: var(--ink-soft); }
+.name-dialog-icon { font-size: 2rem; display: block; margin-bottom: 8px; }
+.field { display: grid; gap: 6px; margin-bottom: 14px; font-weight: 700; font-size: 0.92rem; }
+.field input {
+  min-height: 50px; padding: 10px 16px; border-radius: 14px; border: 1.5px solid var(--line);
+  background: var(--bg); color: var(--ink); font: inherit; font-weight: 400; font-size: 1.05rem;
+}
+.field input:focus { outline: none; border-color: var(--blue-bright); box-shadow: 0 0 0 3px var(--blue-wash); }
+.privacy-note { font-size: 0.87rem; background: var(--green-wash); padding: 10px 12px; border-radius: 10px; }
+.name-dialog .btn-row { margin-top: 18px; }
+.name-dialog .btn-primary { flex: 1; }
 .footer strong { color: var(--ink-soft); }
 
 /* Shared */

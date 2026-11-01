@@ -14,6 +14,7 @@ const PRECACHE = [
   "assets/js/quiz.js",
   "assets/js/store.js",
   "assets/js/util.js",
+  "assets/js/welcome.js",
   "assets/js/views/blocks.js",
   "assets/js/views/exam.js",
   "assets/js/views/home.js",

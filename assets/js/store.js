@@ -2,8 +2,10 @@ const STORAGE_KEY = "livret-citoyen-progress-v1";
 export const PASS_RATIO = 0.8;
 
 function emptyProgress() {
-  return { sections: {}, memo: {}, exams: [] };
+  return { sections: {}, memo: {}, exams: [], profile: { name: null, isNameAsked: false } };
 }
+
+export const NAME_MAX_LENGTH = 40;
 
 function readStorage() {
   try {
@@ -74,6 +76,21 @@ export function recordExam(correct, total) {
 
 export function getExams() {
   return progress.exams;
+}
+
+export function getUserName() {
+  return progress.profile.name;
+}
+
+export function isNameAsked() {
+  return progress.profile.isNameAsked;
+}
+
+/** Saves the trimmed name, or clears it when empty; either way the welcome prompt is not shown again. */
+export function setUserName(rawName) {
+  const name = String(rawName ?? "").trim().replace(/\s+/g, " ").slice(0, NAME_MAX_LENGTH);
+  progress.profile = { name: name || null, isNameAsked: true };
+  save();
 }
 
 export function resetProgress() {

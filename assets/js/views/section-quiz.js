@@ -1,6 +1,6 @@
 import { escapeHtml, percent, celebrate } from "../util.js";
 import { findSection, nextSection } from "../data.js";
-import { recordQuiz, getSection, PASS_RATIO } from "../store.js";
+import { recordQuiz, getSection, getUserName, PASS_RATIO } from "../store.js";
 import { runQuiz, renderReview } from "../quiz.js";
 
 export function renderSectionQuiz(root, ctx, sectionId) {
@@ -37,7 +37,7 @@ export function renderSectionQuiz(root, ctx, sectionId) {
           <p><span class="pill ${isPassed ? "ok" : "bad"}">${percent(ratio)} % · ${isPassed ? "Section validée" : "Seuil : 80 %"}</span>
           ${isNewRecord ? ` <span class="pill warn">Nouveau record</span>` : ""}</p>
           <p class="verdict">${isPassed
-            ? "Bravo ! Vous maîtrisez cette section. Passez à la suite."
+            ? `Bravo${getUserName() ? ` ${escapeHtml(getUserName())}` : ""} ! Vous maîtrisez cette section. Passez à la suite.`
             : "Encore un effort : relisez les points à retenir puis retentez le quiz. Les questions et les réponses sont mélangées à chaque essai."}</p>
           <div class="btn-row">
             ${isPassed && following

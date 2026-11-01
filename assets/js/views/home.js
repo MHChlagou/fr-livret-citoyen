@@ -1,5 +1,5 @@
 import { escapeHtml, inline, percent, plural, formatDate } from "../util.js";
-import { sectionState, getSection, getExams } from "../store.js";
+import { sectionState, getSection, getExams, getUserName } from "../store.js";
 import { EXAM_QUESTION_COUNT } from "../exam.js";
 import { partLabel } from "./blocks.js";
 import { mountInstallCard } from "../install.js";
@@ -55,11 +55,16 @@ export function renderHome(root, { course, onLeave }) {
   const next = nextStep(course);
   const lastExam = getExams()[0];
   const factCount = course.sections.reduce((sum, s) => sum + s.keyFacts.length, 0);
+  const userName = getUserName();
+  const greeting = userName
+    ? `<p class="greeting">Bonjour <strong>${escapeHtml(userName)}</strong> 👋 <button class="link-btn" type="button" data-edit-name>modifier</button></p>`
+    : `<p class="greeting"><button class="link-btn" type="button" data-edit-name>Ajouter mon prénom</button></p>`;
 
   root.innerHTML = `
     <div class="view">
       <section class="card hero">
         <div>
+          ${greeting}
           <span class="eyebrow">Naturalisation · Examen civique · Entretien</span>
           <h1>Le Livret du citoyen, <em>pas à pas</em>.</h1>
           <p>Toutes les connaissances du livret officiel, découpées en courtes leçons. Après chaque section, un quiz vérifie ce que vous avez retenu. À la fin, un examen blanc vous dit si vous êtes prêt(e).</p>

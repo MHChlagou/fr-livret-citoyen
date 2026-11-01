@@ -1,5 +1,5 @@
 import { escapeHtml, percent, celebrate, formatDate } from "../util.js";
-import { recordExam, getExams } from "../store.js";
+import { recordExam, getExams, getUserName } from "../store.js";
 import { runQuiz, renderReview } from "../quiz.js";
 import {
   buildExam, scoreByTheme, readinessVerdict,
@@ -56,7 +56,7 @@ export function renderExam(root, ctx) {
     root.innerHTML = `
       <div class="quiz view">
         <section class="card result">
-          <span class="eyebrow">Résultat de l'examen blanc</span>
+          <span class="eyebrow">Résultat de l'examen blanc${getUserName() ? ` · ${escapeHtml(getUserName())}` : ""}</span>
           <div class="score">${correct} / ${total}</div>
           <p><span class="pill ${LEVEL_PILL[verdict.level] ?? ""}">${percent(correct / total)} % · ${escapeHtml(verdict.title)}</span></p>
           <p class="verdict">${escapeHtml(verdict.message)}</p>
