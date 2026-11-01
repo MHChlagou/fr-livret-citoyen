@@ -616,6 +616,174 @@
           "answer": 3,
           "explain": "L'aide juridictionnelle est une aide financière de l'État pour les personnes ayant peu de moyens et qui ont besoin d'être accompagnées par un avocat lors d'un procès devant un tribunal français.",
           "kind": "situation"
+        },
+        {
+          "q": "Quel site officiel permet de consulter toutes les lois et les codes en vigueur ?",
+          "choices": [
+            "legifrance.gouv.fr",
+            "impots.gouv.fr, le site des impôts",
+            "ants.gouv.fr",
+            "ameli.fr"
+          ],
+          "answer": 0,
+          "explain": "Toutes les lois, souvent regroupées en codes, sont disponibles sur legifrance.gouv.fr ; vie-publique.fr explique le fonctionnement des institutions.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Quel tableau de 1830 symbolise la liberté, selon le livret ?",
+          "choices": [
+            "Le Radeau de la Méduse, de Théodore Géricault",
+            "La Liberté guidant le peuple, de Delacroix",
+            "Le Sacre de Napoléon, de David",
+            "Impression, soleil levant, de Monet"
+          ],
+          "answer": 1,
+          "explain": "« La Liberté guidant le peuple », peint par Eugène Delacroix en 1830, est le symbole de cette liberté.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Un voisin publie sur internet une photo de vous prise dans votre jardin, sans votre accord. Que prévoit le droit ?",
+          "choices": [
+            "C'est permis si la photo a été prise depuis la rue, espace public",
+            "C'est permis tant qu'il ne gagne pas d'argent avec",
+            "C'est interdit : le droit à l'image exige votre autorisation",
+            "C'est permis si votre visage n'est pas au premier plan"
+          ],
+          "answer": 2,
+          "explain": "Le droit à l'image interdit de diffuser l'image d'une personne sans son autorisation ; il est lié au droit au respect de la vie privée, protégé par le juge judiciaire.",
+          "kind": "situation"
+        },
+        {
+          "q": "Une personne emprisonnée conserve-t-elle la liberté de culte ?",
+          "choices": [
+            "Non, tous ses droits sont suspendus pendant la durée de sa peine",
+            "Oui, elle conserve la liberté de culte pendant sa détention",
+            "Seulement si elle a été condamnée pour une contravention",
+            "Seulement après avoir purgé la moitié de sa peine"
+          ],
+          "answer": 1,
+          "explain": "Les personnes emprisonnées conservent la liberté de culte pendant leur détention ; elles sont privées de leur liberté de circulation, pas de leur liberté de conscience.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Qu'en est-il de la gestation pour autrui (GPA) en France ?",
+          "choices": [
+            "Elle est autorisée pour les couples mariés",
+            "Elle est autorisée sur décision d'un juge",
+            "Elle est autorisée si la femme n'est pas rémunérée",
+            "Elle n'est pas autorisée : c'est un délit"
+          ],
+          "answer": 3,
+          "explain": "Le recours à la gestation pour autrui, où une autre femme porte un enfant pour un couple, n'est pas autorisé en France et constitue un délit.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Que permet la loi bioéthique du 2 août 2021 ?",
+          "choices": [
+            "La gestation pour autrui (GPA) pour les couples mariés",
+            "La procréation médicalement assistée (PMA)",
+            "Le clonage à des fins médicales",
+            "La vente d'organes entre particuliers"
+          ],
+          "answer": 1,
+          "explain": "La loi bioéthique du 2 août 2021 autorise la procréation médicalement assistée (PMA) ; la GPA reste interdite.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Vous êtes placé(e) en garde à vue. Qui contrôle toute privation de liberté ?",
+          "choices": [
+            "Un juge",
+            "Le préfet du département",
+            "Le maire de la commune",
+            "Le ministre de l'Intérieur"
+          ],
+          "answer": 0,
+          "explain": "Personne ne peut être arrêté ou enfermé sans raison légale ; toute privation de liberté est contrôlée par un juge.",
+          "kind": "situation"
+        },
+        {
+          "q": "Où peut-on obtenir gratuitement des conseils juridiques lors de permanences ?",
+          "choices": [
+            "Au commissariat de police de votre quartier",
+            "À la préfecture",
+            "Dans les maisons de justice et du droit",
+            "Au tribunal de commerce"
+          ],
+          "answer": 2,
+          "explain": "Les maisons de justice et du droit orientent et conseillent gratuitement les personnes dans leurs démarches juridiques, avec les CDAD.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "La vaccination est-elle obligatoire en France ?",
+          "choices": [
+            "Oui, pour les enfants",
+            "Non, elle est seulement recommandée pour tous",
+            "Oui, pour les enfants et tous les adultes",
+            "Non, sauf pour entrer à l'université"
+          ],
+          "answer": 0,
+          "explain": "La vaccination est obligatoire pour les enfants ; en revanche, toute personne est libre de refuser un traitement ou un acte médical.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Selon le livret, les peines doivent être :",
+          "choices": [
+            "Décidées librement par chaque juge",
+            "Prévues par la loi et proportionnées",
+            "Identiques pour toutes les infractions",
+            "Fixées par la police lors de l'arrestation"
+          ],
+          "answer": 1,
+          "explain": "Les peines doivent être prévues par la loi et proportionnées ; la présomption d'innocence s'applique tant qu'aucune condamnation définitive n'a été prononcée.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Une jeune fille de 16 ans souhaite une contraception. Que dit le livret ?",
+          "choices": [
+            "Le droit à la contraception s'applique, y compris aux mineurs",
+            "Il faut l'autorisation écrite des deux parents ou du juge",
+            "La contraception est réservée aux personnes majeures",
+            "Elle doit attendre d'être mariée"
+          ],
+          "answer": 0,
+          "explain": "Le droit à la contraception, c'est-à-dire pouvoir choisir de ne pas devenir parent, est garanti y compris pour les mineurs.",
+          "kind": "situation"
+        },
+        {
+          "q": "Lequel de ces textes fait partie de ceux qui garantissent les droits fondamentaux en France, selon le livret ?",
+          "choices": [
+            "Le traité de Versailles, signé le 28 juin 1919",
+            "Le préambule de la Constitution de 1946",
+            "Le Code de la route",
+            "La loi Évin de 1991"
+          ],
+          "answer": 1,
+          "explain": "Les droits sont garantis par la DDHC de 1789, le préambule de la Constitution de 1946, la Constitution de 1958, la Charte de l'environnement de 2004 et des textes internationaux comme la CEDH.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Dans quel cas l'État peut-il restreindre la liberté d'aller et venir ?",
+          "choices": [
+            "À tout moment, sur simple décision du préfet ou du maire",
+            "Jamais : c'est une liberté absolue",
+            "Lors d'une crise exceptionnelle et temporaire (état d'urgence)",
+            "Seulement pour les personnes étrangères"
+          ],
+          "answer": 2,
+          "explain": "En cas de « crise exceptionnelle et temporaire », comme un état d'urgence, l'État peut restreindre la liberté d'aller et venir.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Votre visa a expiré et vous n'êtes pas ressortissant(e) de l'Union européenne. Que devez-vous détenir ?",
+          "choices": [
+            "Rien, le visa expiré suffit pendant un an",
+            "Un titre de séjour",
+            "Une simple attestation de votre employeur",
+            "Un passeport européen"
+          ],
+          "answer": 1,
+          "explain": "Pour les étrangers non ressortissants de l'UE, il est obligatoire de détenir un titre de séjour à l'expiration du visa non renouvelé.",
+          "kind": "situation"
         }
       ]
     },
@@ -1124,6 +1292,90 @@
           "answer": 1,
           "explain": "L'article 20 de la loi CIAI du 26 janvier 2024 prévoit que les parents étrangers s'engagent à assurer à leur enfant une éducation respectueuse des valeurs et des principes de la République et à l'accompagner dans sa démarche d'intégration, notamment par l'acquisition de la langue française.",
           "kind": "situation"
+        },
+        {
+          "q": "Sur quoi repose en premier lieu la défense nationale, selon le livret ?",
+          "choices": [
+            "Le service militaire obligatoire d'un an",
+            "Une armée de métier et la dissuasion nucléaire",
+            "La seule protection de l'OTAN",
+            "Des milices de citoyens volontaires"
+          ],
+          "answer": 1,
+          "explain": "La défense nationale repose en premier lieu sur une armée de métier et une stratégie de dissuasion nucléaire.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Le vote est-il obligatoire en France ?",
+          "choices": [
+            "Oui, sous peine d'amende",
+            "Oui, pour les élections nationales seulement",
+            "Non, mais c'est un devoir civique important",
+            "Non, et il n'a pas d'importance particulière"
+          ],
+          "answer": 2,
+          "explain": "Le vote n'est pas obligatoire en France, contrairement à certains pays, mais c'est un devoir civique important qui assure la légitimité des élus.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Vous souhaitez servir la défense du pays sans devenir militaire de carrière. Que propose le livret ?",
+          "choices": [
+            "Rien : seuls les militaires de carrière peuvent servir",
+            "Payer une contribution spéciale à l'armée",
+            "Rejoindre une réserve comme volontaire",
+            "Effectuer un service militaire d'un an"
+          ],
+          "answer": 2,
+          "explain": "Plusieurs dispositifs de réserves (réserve militaire, notamment) permettent à des volontaires de s'investir au service de l'intérêt général.",
+          "kind": "situation"
+        },
+        {
+          "q": "Dans quel pays la France participe-t-elle à une force des Nations Unies, selon l'exemple du livret ?",
+          "choices": [
+            "En Ukraine",
+            "Au Liban (FINUL)",
+            "Au Mali",
+            "En Afghanistan"
+          ],
+          "answer": 1,
+          "explain": "Le livret cite l'engagement de la France au Liban, au sein de la Force intérimaire des Nations Unies (FINUL).",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Parmi les trois catégories d'infractions, laquelle est la plus grave ?",
+          "choices": [
+            "La contravention",
+            "Le délit",
+            "Le crime",
+            "L'amende"
+          ],
+          "answer": 2,
+          "explain": "Les infractions sont classées par gravité croissante : contravention, délit, crime ; l'amende est une sanction, pas une catégorie.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Qui sont les premiers acteurs de l'éducation d'un enfant et de la transmission des valeurs, selon le livret ?",
+          "choices": [
+            "Ses parents",
+            "Les enseignants de l'école publique",
+            "Les services sociaux de la mairie",
+            "L'État, par le ministère de l'Éducation"
+          ],
+          "answer": 0,
+          "explain": "Les parents ont un rôle majeur pour transmettre les valeurs de la République à leurs enfants : ils sont les premiers acteurs de leur éducation.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Au-delà des obligations légales, qu'est-ce que le livret présente comme une valeur importante de la vie en société ?",
+          "choices": [
+            "La réussite financière individuelle",
+            "L'entraide et l'engagement dans la vie associative",
+            "La discrétion sur ses opinions",
+            "La compétition entre voisins"
+          ],
+          "answer": 1,
+          "explain": "L'entraide, à travers des initiatives individuelles ou l'implication dans la vie associative, est une valeur importante de la fraternité.",
+          "kind": "knowledge"
         }
       ]
     }

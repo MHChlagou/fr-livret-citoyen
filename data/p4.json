@@ -994,6 +994,294 @@
           "answer": 2,
           "explain": "Marie Curie (1867-1934), physicienne née en Pologne, a découvert la radioactivité : prix Nobel de physique en 1903 et prix Nobel de chimie en 1911. Elle est inhumée au Panthéon.",
           "kind": "situation"
+        },
+        {
+          "q": "Quelle période de l'histoire de France s'étend de 476 à 1492 ?",
+          "choices": [
+            "L'Antiquité",
+            "Le Moyen Âge",
+            "La Renaissance",
+            "L'Ancien Régime"
+          ],
+          "answer": 1,
+          "explain": "Le Moyen Âge s'étend de 476 (fin de l'Empire romain d'Occident) à 1492.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Pendant quel conflit Jeanne d'Arc s'est-elle illustrée ?",
+          "choices": [
+            "Les guerres de religion",
+            "La guerre de Cent Ans",
+            "La Révolution française",
+            "La guerre de 1870"
+          ],
+          "answer": 1,
+          "explain": "Jeanne d'Arc (1412-1431), jeune paysanne, joue un rôle important pendant la guerre de Cent Ans, conflit entre la France et l'Angleterre ; elle est devenue une héroïne nationale.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Où les rois de France étaient-ils couronnés sous l'Ancien Régime ?",
+          "choices": [
+            "À Notre-Dame de Paris",
+            "Au château de Versailles",
+            "À la cathédrale de Reims",
+            "À la basilique de Saint-Denis"
+          ],
+          "answer": 2,
+          "explain": "Sous l'Ancien Régime, marqué par la monarchie absolue, les rois sont couronnés à la cathédrale de Reims.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Qui est Molière ?",
+          "choices": [
+            "Un philosophe des Lumières, ami de Voltaire",
+            "Un auteur de théâtre et comédien du XVIIe siècle",
+            "Un peintre impressionniste du XIXe siècle",
+            "Un compositeur de la cour de Louis XIV"
+          ],
+          "answer": 1,
+          "explain": "Molière, dramaturge et comédien, vit pendant le règne de Louis XIV au XVIIe siècle ; il est très connu pour ses comédies.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Pour quelles idées les philosophes des Lumières (Voltaire, Rousseau, Montesquieu…) ont-ils combattu ?",
+          "choices": [
+            "Le retour à la monarchie absolue de droit divin",
+            "La tolérance, la liberté de pensée et le refus de l'arbitraire",
+            "L'expansion de l'empire colonial français",
+            "La séparation des Églises et de l'État de 1905"
+          ],
+          "answer": 1,
+          "explain": "Les philosophes des Lumières combattent, à travers leurs œuvres, pour la tolérance, la liberté de pensée et le refus de l'arbitraire ; Montesquieu dénonce l'esclavage.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Que s'est-il passé en 1793 ?",
+          "choices": [
+            "Le peuple de Paris a pris la Bastille",
+            "Louis XVI a été guillotiné place de la Concorde",
+            "Napoléon Bonaparte est devenu empereur",
+            "La monarchie a été restaurée avec Louis XVIII"
+          ],
+          "answer": 1,
+          "explain": "En 1793, Louis XVI est guillotiné sur la place de la Concorde, après la mise en place de la monarchie constitutionnelle (1791) et la chute de la royauté (10 août 1792).",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Qui a dirigé le régime de la Terreur pendant la Révolution ?",
+          "choices": [
+            "Le marquis de La Fayette",
+            "Maximilien Robespierre",
+            "Napoléon Bonaparte",
+            "Louis-Philippe"
+          ],
+          "answer": 1,
+          "explain": "Maximilien Robespierre défend l'égalité et la République, mais il dirige aussi la Terreur, période de surveillance stricte des ennemis de la Révolution.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Quelle décision Napoléon a-t-il prise en 1802 au sujet de l'esclavage ?",
+          "choices": [
+            "Il l'a aboli définitivement",
+            "Il l'a rétabli",
+            "Il a interdit la traite des Noirs",
+            "Il a libéré toutes les colonies"
+          ],
+          "answer": 1,
+          "explain": "En 1802, Napoléon rétablit l'esclavage ; en 1815, il abolit la traite des Noirs ; l'esclavage est aboli définitivement en 1848.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Après quelle bataille de 1815 Napoléon abdique-t-il définitivement ?",
+          "choices": [
+            "Austerlitz",
+            "Trafalgar",
+            "Waterloo",
+            "Sedan"
+          ],
+          "answer": 2,
+          "explain": "Affaibli par ses défaites, Napoléon abdique définitivement après la bataille de Waterloo (1815) ; le Premier Empire prend fin et la monarchie est restaurée.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Qui devient « roi des Français » en 1830, au début de la Monarchie de Juillet ?",
+          "choices": [
+            "Louis XVIII",
+            "Charles X",
+            "Louis-Philippe",
+            "Napoléon III"
+          ],
+          "answer": 2,
+          "explain": "En 1830, la population parisienne se révolte ; la Restauration prend fin et Louis-Philippe, roi des Français, instaure une monarchie plus libérale.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Comment Louis-Napoléon Bonaparte, élu président, devient-il l'empereur Napoléon III ?",
+          "choices": [
+            "Par un coup d'État, en décembre 1851",
+            "Par une élection au suffrage universel en 1852",
+            "En héritant directement du trône de Napoléon Ier",
+            "Après une victoire militaire contre la Prusse"
+          ],
+          "answer": 0,
+          "explain": "Élu président de la République, Louis-Napoléon Bonaparte organise un coup d'État en décembre 1851 et devient empereur sous le nom de Napoléon III en 1852.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Quelle grande loi de la IIIe République a été votée le 29 juillet 1881 ?",
+          "choices": [
+            "La loi sur la durée du travail",
+            "La loi sur la liberté de la presse",
+            "La loi de séparation des Églises et de l'État",
+            "La loi sur la liberté d'association"
+          ],
+          "answer": 1,
+          "explain": "La loi du 29 juillet 1881 garantit la liberté de la presse ; la liberté d'association date de 1901 et la séparation des Églises et de l'État de 1905.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Combien de morts la Première Guerre mondiale a-t-elle causés, selon le livret ?",
+          "choices": [
+            "10 millions, dont 1,45 million pour la France",
+            "50 millions, dont 10 millions pour la France",
+            "2 millions, dont 500 000 pour la France",
+            "20 millions, dont 3 millions pour la France"
+          ],
+          "answer": 0,
+          "explain": "La Grande Guerre (1914-1918) a causé la mort de 10 millions de personnes, dont 1,45 million pour la France ; la Seconde Guerre mondiale a fait plus de 50 millions de morts.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Quel traité, signé le 28 juin 1919, met fin à la Première Guerre mondiale ?",
+          "choices": [
+            "Le traité de Rome",
+            "Le traité de Maastricht",
+            "Le traité de Versailles",
+            "Le traité de Paris"
+          ],
+          "answer": 2,
+          "explain": "Le traité de Versailles (28 juin 1919) met fin à la guerre et prévoit la création de la Société des Nations, qui a inspiré l'ONU.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Qu'est-ce que la Shoah ?",
+          "choices": [
+            "La déportation des résistants français en Allemagne",
+            "Le génocide des Juifs d'Europe par l'Allemagne nazie",
+            "Le bombardement des villes européennes par les Alliés",
+            "L'occupation de la France par l'armée allemande en 1940"
+          ],
+          "answer": 1,
+          "explain": "Pendant la Seconde Guerre mondiale, déclenchée par Hitler, le régime nazi organise la Shoah, l'extermination des Juifs d'Europe ; le régime de Vichy y a collaboré.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Quel régime, marqué par l'instabilité gouvernementale, dirige la France de 1946 à 1958 ?",
+          "choices": [
+            "La IIIe République",
+            "La IVe République",
+            "La Ve République",
+            "L'État français"
+          ],
+          "answer": 1,
+          "explain": "La IVe République (1946-1958) repose sur une Constitution qui donne l'avantage au pouvoir législatif ; son instabilité conduit à la Ve République en 1958.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Quel président a abaissé la majorité à 18 ans en 1974 ?",
+          "choices": [
+            "Charles de Gaulle",
+            "Georges Pompidou",
+            "Valéry Giscard d'Estaing",
+            "François Mitterrand"
+          ],
+          "answer": 2,
+          "explain": "L'abaissement de la majorité de 21 à 18 ans est l'une des premières décisions de Valéry Giscard d'Estaing après son élection en 1974.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Quelle loi a été votée le 17 mai 2013 ?",
+          "choices": [
+            "L'abolition de la peine de mort",
+            "La dépénalisation de l'avortement",
+            "Le mariage pour tous",
+            "La loi sur les 35 heures"
+          ],
+          "answer": 2,
+          "explain": "La loi du 17 mai 2013 ouvre le mariage et l'adoption aux couples homosexuels ; le premier mariage est célébré le 29 mai 2013 à Montpellier.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Quelle loi de 1967 a autorisé la contraception ?",
+          "choices": [
+            "La loi Veil",
+            "La loi Neuwirth",
+            "La loi Badinter",
+            "La loi Taubira"
+          ],
+          "answer": 1,
+          "explain": "La loi Neuwirth de 1967 autorise la contraception ; la loi Veil de 1975 dépénalise l'avortement.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Qui a été élu président de la République en 1981 ?",
+          "choices": [
+            "Valéry Giscard d'Estaing",
+            "François Mitterrand",
+            "Jacques Chirac",
+            "Georges Pompidou"
+          ],
+          "answer": 1,
+          "explain": "François Mitterrand est élu en 1981 et réélu en 1988 ; Jacques Chirac lui succède en 1995.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Quelle personnalité naturalisée française, d'origine américaine, fut la première chanteuse et meneuse de revue noire reconnue ?",
+          "choices": [
+            "Dalida",
+            "Joséphine Baker",
+            "Miriam Makeba",
+            "Édith Piaf"
+          ],
+          "answer": 1,
+          "explain": "Joséphine Baker (1906-1975), d'origine américaine, est la première chanteuse, danseuse et meneuse de revue noire reconnue.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Qui est le seul écrivain à avoir reçu deux fois le prix Goncourt ?",
+          "choices": [
+            "Albert Camus",
+            "Romain Gary",
+            "Guillaume Apollinaire",
+            "Marguerite Yourcenar"
+          ],
+          "answer": 1,
+          "explain": "Romain Gary, d'origine russe, a reçu le Goncourt en 1956 sous son vrai nom et une seconde fois sous un pseudonyme.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Qui a remporté le premier Tour de France, en 1903 ?",
+          "choices": [
+            "Un coureur breton, Louison Bobet",
+            "Maurice Garin, cycliste né en Italie",
+            "Un coureur belge, Eddy Merckx",
+            "Gustave Eiffel, ingénieur et cycliste"
+          ],
+          "answer": 1,
+          "explain": "Maurice-François Garin (1871-1957), cycliste né en Italie et naturalisé français, remporte en 1903 le premier Tour de France.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Quel physicien d'origine polonaise a reçu le prix Nobel en 1992 ?",
+          "choices": [
+            "Vassily Kandinsky",
+            "Haroun Tazieff",
+            "Georges Charpak",
+            "Marc Chagall"
+          ],
+          "answer": 2,
+          "explain": "Georges Charpak (1924-2010), pionnier de la détection des particules, reçoit le prix Nobel de physique en 1992 ; Kandinsky et Chagall sont peintres, Tazieff volcanologue.",
+          "kind": "knowledge"
         }
       ]
     },
@@ -1420,6 +1708,138 @@
           "answer": 2,
           "explain": "La grotte de Lascaux se trouve dans le département de la Dordogne, en région Nouvelle-Aquitaine.",
           "kind": "situation"
+        },
+        {
+          "q": "Quelle est la superficie de la France, métropole et outre-mer, selon le livret ?",
+          "choices": [
+            "450 000 km²",
+            "550 000 km²",
+            "675 000 km²",
+            "1 000 000 km²"
+          ],
+          "answer": 2,
+          "explain": "En 2025, la France compte 68,6 millions d'habitants et son territoire s'étend sur 675 000 km², en métropole et outre-mer.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Sur quelles mers et océans la France métropolitaine a-t-elle des côtes ?",
+          "choices": [
+            "Manche, mer du Nord, Atlantique, Méditerranée",
+            "Manche, mer Baltique, Atlantique, mer Noire",
+            "Mer du Nord, océan Indien, Méditerranée, mer Rouge",
+            "Atlantique, Pacifique, Méditerranée, mer Baltique"
+          ],
+          "answer": 0,
+          "explain": "La France métropolitaine dispose de 5 500 km de côtes ouvertes sur la Manche, la mer du Nord, l'océan Atlantique et la mer Méditerranée.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Quel statut la France a-t-elle à l'ONU ?",
+          "choices": [
+            "Membre observateur, sans droit de vote",
+            "Membre non permanent, élu tous les deux ans",
+            "Membre permanent du Conseil de sécurité (droit de veto)",
+            "Pays hôte du siège de l'organisation"
+          ],
+          "answer": 2,
+          "explain": "La France est membre permanent du Conseil de sécurité de l'ONU, créée en 1945, ce qui lui donne un droit de veto.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Quel fleuve marque en partie la frontière entre la France et l'Allemagne ?",
+          "choices": [
+            "Le Rhône",
+            "Le Rhin",
+            "La Loire",
+            "La Seine"
+          ],
+          "answer": 1,
+          "explain": "Le Rhin délimite partiellement la frontière entre la France et l'Allemagne ; la Loire est le plus long fleuve de France et le Rhône traverse Lyon.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Quelle part du territoire métropolitain la forêt couvre-t-elle ?",
+          "choices": [
+            "12 %",
+            "32 %",
+            "50 %",
+            "70 %"
+          ],
+          "answer": 1,
+          "explain": "La France est un grand pays forestier : 17,5 millions d'hectares en métropole, soit 32 % du territoire.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Quelles régions sont célèbres pour leurs vignobles, selon le livret ?",
+          "choices": [
+            "Bretagne, Normandie, Picardie et Lorraine",
+            "Bourgogne, Champagne, Languedoc et Bordeaux",
+            "Alsace, Savoie, Corse et Auvergne",
+            "Île-de-France, Nord, Vendée et Limousin"
+          ],
+          "answer": 1,
+          "explain": "La Bourgogne, la Champagne, le Languedoc et le terroir de Bordeaux sont célèbres pour leurs vignobles ; la Bretagne et l'Ouest élèvent vaches laitières et porcs.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Quel est le plus grand quartier d'affaires d'Europe ?",
+          "choices": [
+            "Euralille, à Lille",
+            "La Part-Dieu, à Lyon",
+            "Paris La Défense",
+            "Euroméditerranée, à Marseille"
+          ],
+          "answer": 2,
+          "explain": "Paris La Défense est le plus grand quartier d'affaires d'Europe : il abrite plus de 500 entreprises, dont les sièges de la plupart des grands groupes.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "La France est la première puissance agricole de l'Union européenne. Quelle part des céréales européennes produit-elle ?",
+          "choices": [
+            "10 %",
+            "24 %",
+            "40 %",
+            "55 %"
+          ],
+          "answer": 1,
+          "explain": "La France produit 24 % des céréales européennes et possède le premier cheptel bovin d'Europe.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Lequel de ces ports fait partie des grands ports maritimes cités par le livret ?",
+          "choices": [
+            "Nice",
+            "Le Havre",
+            "Toulouse",
+            "Strasbourg"
+          ],
+          "answer": 1,
+          "explain": "Le livret cite Le Havre, Marseille-Fos, Dunkerque et Nantes-Saint-Nazaire parmi les grands ports ; la France est la 2e puissance maritime mondiale.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Où se trouvent les principaux volcans en activité de France ?",
+          "choices": [
+            "Dans les Alpes et les Pyrénées",
+            "Dans le Massif central, en Auvergne, et en Corse",
+            "Dans les Antilles, à la Réunion et à Mayotte",
+            "En Bretagne et en Normandie"
+          ],
+          "answer": 2,
+          "explain": "Les principaux volcans en activité sont situés dans les îles des Antilles, de la Réunion (Piton de la Fournaise) et de Mayotte.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Dans combien de pays la France a-t-elle des ambassades et des consulats ?",
+          "choices": [
+            "Une cinquantaine",
+            "Une centaine",
+            "Plus de 150",
+            "Les 193 pays de l'ONU"
+          ],
+          "answer": 2,
+          "explain": "La France a des ambassades et des consulats dans plus de 150 pays : l'un des plus grands réseaux diplomatiques au monde.",
+          "kind": "knowledge"
         }
       ]
     },
@@ -2025,6 +2445,234 @@
           ],
           "answer": 1,
           "explain": "La première édition du Tour de France a eu lieu en 1903 : 60 coureurs se sont affrontés sur six étapes et 2 300 kilomètres. C'est aujourd'hui la plus grande course cycliste du monde.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Quel rang la France occupe-t-elle parmi les destinations touristiques mondiales ?",
+          "choices": [
+            "Première",
+            "Deuxième",
+            "Troisième",
+            "Cinquième"
+          ],
+          "answer": 0,
+          "explain": "La France est la première destination touristique au monde, grâce à sa culture et à son patrimoine.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Quel festival de théâtre se tient chaque été dans la ville du Palais des Papes ?",
+          "choices": [
+            "Le festival de Cannes",
+            "Le festival d'Avignon",
+            "Le festival de Marciac",
+            "Le festival d'Angoulême"
+          ],
+          "answer": 1,
+          "explain": "Le festival d'Avignon est cité par le livret avec Marciac (jazz) et Cannes (cinéma) parmi les grands événements culturels.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Quelle ville accueille un célèbre festival de cinéma cité par le livret ?",
+          "choices": [
+            "Lyon",
+            "Avignon",
+            "Cannes",
+            "Marciac"
+          ],
+          "answer": 2,
+          "explain": "Le festival de Cannes est le grand rendez-vous du cinéma ; Avignon est consacré au théâtre et Marciac au jazz.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Depuis quelle année les Journées du patrimoine existent-elles ?",
+          "choices": [
+            "1947",
+            "1984",
+            "1998",
+            "2010"
+          ],
+          "answer": 1,
+          "explain": "Créées en 1984, les Journées du patrimoine ont lieu chaque année en septembre et sont organisées dans 48 pays.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Qu'appelle-t-on le patrimoine immatériel ?",
+          "choices": [
+            "Les monuments et les biens matériels qui retracent l'histoire",
+            "Les traditions, les savoir-faire et les pratiques sociales",
+            "Les œuvres d'art conservées dans les musées nationaux",
+            "Les sites naturels protégés par l'État"
+          ],
+          "answer": 1,
+          "explain": "Le patrimoine immatériel rassemble les traditions, l'art du spectacle, les pratiques sociales et les savoir-faire ; le patrimoine matériel désigne les biens et monuments.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "En quelle année le Louvre est-il devenu un musée ?",
+          "choices": [
+            "1683",
+            "1793",
+            "1889",
+            "1900"
+          ],
+          "answer": 1,
+          "explain": "Situé dans un ancien palais royal, le Louvre est ouvert comme musée en 1793 ; c'est l'un des plus grands musées d'art du monde.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Quel musée parisien possède la plus grande collection impressionniste au monde ?",
+          "choices": [
+            "Le Louvre",
+            "Le musée d'Orsay",
+            "Le Centre Pompidou",
+            "Le Grand Palais"
+          ],
+          "answer": 1,
+          "explain": "Le musée d'Orsay, installé dans une ancienne gare de 1900, contient la plus grande collection de peintures impressionnistes et postimpressionnistes au monde (Monet, Renoir, Van Gogh…).",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Qui a écrit le recueil « Les Fleurs du Mal » ?",
+          "choices": [
+            "Victor Hugo",
+            "Charles Baudelaire",
+            "Albert Camus",
+            "Marguerite Duras"
+          ],
+          "answer": 1,
+          "explain": "Charles Baudelaire (1821-1867), poète majeur du XIXe siècle, est célèbre pour « Les Fleurs du Mal ».",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Quel sculpteur est l'auteur du « Penseur » ?",
+          "choices": [
+            "Paul Cézanne",
+            "Auguste Rodin",
+            "Auguste Renoir",
+            "Claude Debussy"
+          ],
+          "answer": 1,
+          "explain": "Auguste Rodin (1840-1917), l'un des pères de la sculpture moderne, est notamment l'auteur du « Penseur ».",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Quel est le vrai nom de l'écrivaine George Sand ?",
+          "choices": [
+            "Marguerite Donnadieu",
+            "Aurore Dupin",
+            "Édith Gassion",
+            "Suzanne Valadon"
+          ],
+          "answer": 1,
+          "explain": "George Sand (1804-1876), romancière engagée, s'appelait Aurore Dupin ; Marguerite Donnadieu est Marguerite Duras et Édith Gassion est Édith Piaf.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Quelle chanson est associée à Édith Piaf ?",
+          "choices": [
+            "« Bambino »",
+            "« La Vie en rose »",
+            "« Il venait d'avoir 18 ans »",
+            "« Laissez-moi danser »"
+          ],
+          "answer": 1,
+          "explain": "Édith Piaf (1915-1963) est célèbre pour « Hymne à l'Amour » et « La Vie en rose » ; les trois autres chansons sont de Dalida.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Quel écrivain et philosophe, né en Algérie, est célèbre pour ses œuvres sur l'absurde et la révolte ?",
+          "choices": [
+            "Simone de Beauvoir",
+            "Albert Camus",
+            "Marguerite Duras",
+            "Guillaume Apollinaire"
+          ],
+          "answer": 1,
+          "explain": "Albert Camus (1913-1960), né en Algérie, explore l'absurde et la révolte dans son œuvre.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Combien de visiteurs la tour Eiffel attire-t-elle chaque année ?",
+          "choices": [
+            "Environ 1 million",
+            "Environ 3 millions",
+            "Plus de 7 millions",
+            "Plus de 15 millions"
+          ],
+          "answer": 2,
+          "explain": "Conçue par Gustave Eiffel pour l'Exposition universelle de 1889, la tour attire plus de 7 millions de visiteurs par an.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "De quel siècle date le Palais des Papes d'Avignon ?",
+          "choices": [
+            "Du XIIe siècle",
+            "Du XIVe siècle",
+            "Du XVIIe siècle",
+            "Du XIXe siècle"
+          ],
+          "answer": 1,
+          "explain": "Le Palais des Papes, chef-d'œuvre de l'architecture gothique du XIVe siècle, est inscrit au patrimoine mondial de l'UNESCO.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Combien d'États et gouvernements l'Organisation internationale de la Francophonie regroupe-t-elle ?",
+          "choices": [
+            "27",
+            "54",
+            "93",
+            "150"
+          ],
+          "answer": 2,
+          "explain": "L'OIF coordonne 93 États et gouvernements membres ; le français est parlé par plus de 300 millions de personnes sur les 5 continents.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "D'où vient la fête du Travail du 1er mai ?",
+          "choices": [
+            "De la fête de la Libération de 1945",
+            "Du 1er mai 1886, pour la journée de huit heures",
+            "De la révolution de février 1848 à Paris",
+            "Des congés payés du Front populaire en 1936"
+          ],
+          "answer": 1,
+          "explain": "La fête du Travail trouve ses racines dans la journée du 1er mai 1886, pour la journée de huit heures ; le 1er mai est férié depuis 1947.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Combien d'étapes compte le Tour de France moderne, selon le livret ?",
+          "choices": [
+            "6",
+            "12",
+            "20",
+            "30"
+          ],
+          "answer": 2,
+          "explain": "Le Tour moderne réunit plus de 170 coureurs sur plus de 3 000 km et 20 étapes, avant l'arrivée sur les Champs-Élysées.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Quel label protège le vin et le champagne en France ?",
+          "choices": [
+            "Le label rouge",
+            "Les appellations d'origine contrôlée (AOC)",
+            "La marque « Made in France »",
+            "Le brevet européen"
+          ],
+          "answer": 1,
+          "explain": "Le vin et le champagne, dont la méthode est née en Champagne au XVIIe siècle, sont protégés par les appellations d'origine contrôlée (AOC).",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Lequel de ces plats est cité par le livret comme plat traditionnel français ?",
+          "choices": [
+            "La paella",
+            "Le bœuf bourguignon",
+            "La pizza",
+            "Le goulasch"
+          ],
+          "answer": 1,
+          "explain": "Le livret cite le pot-au-feu, la blanquette de veau et le bœuf bourguignon parmi les plats traditionnels.",
           "kind": "knowledge"
         }
       ]

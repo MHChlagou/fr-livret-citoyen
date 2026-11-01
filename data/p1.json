@@ -435,6 +435,66 @@
           "answer": 0,
           "explain": "Marianne, une femme portant un bonnet phrygien (symbole de la liberté), est le symbole de la République. Sa statue, placée dans toutes les mairies, rappelle la Révolution française.",
           "kind": "situation"
+        },
+        {
+          "q": "Votre employeur refuse une promotion à une collègue parce qu'elle est enceinte. Que dit le livret ?",
+          "choices": [
+            "C'est permis si l'entreprise a moins de 50 salariés",
+            "C'est une discrimination : toute décision doit reposer sur des raisons professionnelles",
+            "C'est permis pendant la période d'essai",
+            "C'est permis si un autre poste équivalent lui est proposé"
+          ],
+          "answer": 1,
+          "explain": "Toute décision d'un employeur (embauche, promotion…) doit être fondée sur des raisons professionnelles et non personnelles ; les discriminations sont punies par la loi.",
+          "kind": "situation"
+        },
+        {
+          "q": "Quelle est la langue officielle de la République française ?",
+          "choices": [
+            "Le français et les langues régionales, à égalité",
+            "Le français et l'anglais dans l'administration",
+            "Le français",
+            "Chaque région choisit sa langue officielle"
+          ],
+          "answer": 2,
+          "explain": "La langue officielle de la République est le français ; c'est l'un des symboles de la France cités par le livret.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Comment le livret définit-il le racisme ?",
+          "choices": [
+            "Une discrimination fondée sur la religion supposée d'une personne",
+            "Une discrimination fondée sur l'origine ou l'appartenance ethnique",
+            "Une discrimination fondée sur l'âge ou l'apparence physique",
+            "Une attitude hostile en raison de l'orientation sexuelle"
+          ],
+          "answer": 1,
+          "explain": "Le racisme est une discrimination fondée sur l'origine ou l'appartenance ethnique ou raciale ; la discrimination religieuse et la haine anti-LGBT+ sont d'autres formes de discrimination.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Sur quoi repose la fraternité républicaine, selon le livret ?",
+          "choices": [
+            "Sur les liens du sang et l'appartenance à une même famille",
+            "Sur la capacité à voir en l'autre un semblable",
+            "Sur l'appartenance à une même communauté religieuse",
+            "Sur une origine ou une culture commune à tous les citoyens"
+          ],
+          "answer": 1,
+          "explain": "La fraternité républicaine est civique : elle repose sur la capacité à voir en l'autre un semblable malgré les différences, et non sur des liens familiaux, religieux ou ethniques.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Dans quel ordre, de la hampe vers l'extérieur, se suivent les couleurs du drapeau français ?",
+          "choices": [
+            "Rouge, blanc, bleu",
+            "Bleu, rouge, blanc",
+            "Blanc, bleu, rouge",
+            "Bleu, blanc, rouge"
+          ],
+          "answer": 3,
+          "explain": "Le drapeau tricolore est bleu, blanc, rouge ; il a été créé pendant la Révolution et est le drapeau officiel de la France depuis 1794.",
+          "kind": "knowledge"
         }
       ]
     },
@@ -940,6 +1000,78 @@
           "answer": 1,
           "explain": "En application de la loi de 1905, l'État ne soutient aucune organisation religieuse : il n'a pas le droit de financer la construction d'un édifice religieux ni de payer un personnel religieux, sauf exceptions historiques comme en Alsace et en Moselle. Il peut seulement financer la restauration d'un monument religieux classé au patrimoine.",
           "kind": "situation"
+        },
+        {
+          "q": "Dans un État de droit, quel texte se situe au sommet de la hiérarchie des normes ?",
+          "choices": [
+            "La Constitution",
+            "Le Code civil",
+            "Les traités signés par la France",
+            "Les lois votées par le Parlement"
+          ],
+          "answer": 0,
+          "explain": "La Constitution se situe tout en haut de la hiérarchie des normes : elle est au-dessus de toutes les lois.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Que signifie « la République est indivisible » ?",
+          "choices": [
+            "La France ne peut pas être découpée en régions",
+            "Tous les Français, en métropole et outre-mer, sont soumis aux mêmes lois",
+            "Les collectivités locales ne peuvent pas élire de conseil",
+            "La France ne peut pas quitter l'Union européenne"
+          ],
+          "answer": 1,
+          "explain": "L'indivisibilité signifie que tous les Français, partout dans le pays, sont soumis aux mêmes lois et ont les mêmes droits et devoirs : c'est l'unité de la République.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Comment appelle-t-on une personne qui ne croit en aucune religion ?",
+          "choices": [
+            "Agnostique",
+            "Athée",
+            "Laïque",
+            "Neutre"
+          ],
+          "answer": 1,
+          "explain": "Une personne athée ne croit en aucune religion ; une personne agnostique est sceptique vis-à-vis de la religion. La laïcité garantit la liberté de conscience des deux.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Quel document rassemble les règles de la laïcité dans les écoles publiques ?",
+          "choices": [
+            "Le règlement intérieur national des écoles",
+            "La loi de 1905 uniquement",
+            "La Charte de la laïcité à l'École",
+            "Le Code de l'éducation civique"
+          ],
+          "answer": 2,
+          "explain": "La Charte de la laïcité à l'École liste l'ensemble des règles qui garantissent l'application de la laïcité dans les écoles publiques.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Les sénateurs sont élus au suffrage universel indirect. Qu'est-ce que cela signifie ?",
+          "choices": [
+            "Ils sont nommés par le président de la République",
+            "Ils sont désignés par tirage au sort parmi les citoyens",
+            "Ils sont élus par des représentants eux-mêmes élus par les citoyens",
+            "Ils sont élus par les seuls habitants de leur commune"
+          ],
+          "answer": 2,
+          "explain": "Au suffrage universel indirect, les citoyens élisent des représentants qui élisent à leur tour ; au suffrage direct, les citoyens votent directement pour leurs représentants.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Quel article de la Déclaration de 1789 garantit que nul ne doit être inquiété pour ses opinions, même religieuses ?",
+          "choices": [
+            "L'article 1er",
+            "L'article 4",
+            "L'article 10",
+            "L'article 11"
+          ],
+          "answer": 2,
+          "explain": "L'article 10 de la DDHC garantit la liberté de conscience et de manifester ses convictions, dans les limites du respect de l'ordre public.",
+          "kind": "knowledge"
         }
       ]
     }

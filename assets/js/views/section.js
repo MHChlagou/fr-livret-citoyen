@@ -23,7 +23,8 @@ export function renderSection(root, { course, onLeave }, sectionId) {
       ? `<a class="btn btn-ghost" href="${escapeHtml(section.practice.href)}">${escapeHtml(section.practice.label)}</a>`
       : "";
     if (section.quiz.length > 0) {
-      return `${practice}<a class="btn btn-primary" href="#/quiz/${encodeURIComponent(section.id)}">Passer le quiz (${section.quiz.length} questions) →</a>`;
+      const count = Math.min(section.quiz.length, 20);
+      return `${practice}<a class="btn btn-primary" href="#/quiz/${encodeURIComponent(section.id)}">Passer le quiz (${count} questions) →</a>`;
     }
     return following
       ? `<a class="btn btn-primary" href="#/section/${encodeURIComponent(following.id)}">Section suivante →</a>`

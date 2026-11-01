@@ -637,6 +637,222 @@
           "answer": 1,
           "explain": "Le 18 est le numéro des sapeurs-pompiers. Le 15 est le SAMU, le 17 Police secours et le 115 l'hébergement d'urgence.",
           "kind": "situation"
+        },
+        {
+          "q": "Vous voulez construire une maison sur votre terrain. Que devez-vous faire avant de commencer ?",
+          "choices": [
+            "Prévenir seulement vos voisins par courrier",
+            "Déposer une demande de permis de construire en mairie",
+            "Obtenir l'accord de la préfecture",
+            "Rien, le terrain vous appartient"
+          ],
+          "answer": 1,
+          "explain": "Pour construire une maison sur un terrain, les propriétaires doivent déposer en mairie une demande de permis de construire.",
+          "kind": "situation"
+        },
+        {
+          "q": "Quelle part de la population française est locataire de son logement ?",
+          "choices": [
+            "20 %",
+            "40 %",
+            "60 %",
+            "80 %"
+          ],
+          "answer": 1,
+          "explain": "En France, 40 % de la population est locataire ; un peu moins de la moitié de ces logements sont des logements sociaux.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Vous louez un appartement et souhaitez le quitter. Que devez-vous respecter ?",
+          "choices": [
+            "Un an minimum de présence dans le logement",
+            "La période de préavis prévue par le bail",
+            "L'accord écrit de tous vos voisins",
+            "Rien : vous pouvez partir du jour au lendemain"
+          ],
+          "answer": 1,
+          "explain": "Le locataire peut quitter le logement en respectant la période de préavis indiquée dans le contrat de location (bail).",
+          "kind": "situation"
+        },
+        {
+          "q": "Que doit offrir le propriétaire à son locataire, selon le livret ?",
+          "choices": [
+            "Un logement meublé et équipé",
+            "Un logement décent : sûr, entretenu et bien isolé",
+            "Un logement proche des transports",
+            "Un logement avec parking"
+          ],
+          "answer": 1,
+          "explain": "Le propriétaire doit offrir un logement décent, c'est-à-dire sûr, bien entretenu, bien isolé et accessible.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Où dépose-t-on une demande de logement social (HLM) ?",
+          "choices": [
+            "À la préfecture uniquement",
+            "Chez un notaire",
+            "En ligne, sur demande-logement-social.gouv.fr",
+            "À la caisse d'assurance maladie"
+          ],
+          "answer": 2,
+          "explain": "La demande de logement social se fait en ligne sur le site officiel demande-logement-social.gouv.fr ; les logements sont attribués sous plafonds de ressources.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Que faut-il pour conduire un véhicule motorisé sur la voie publique ?",
+          "choices": [
+            "Le permis de conduire seulement, les autres papiers restant chez soi",
+            "La carte Vitale, la carte grise et une pièce d'identité",
+            "Un permis valide, la carte grise et un contrôle technique à jour",
+            "Une attestation de la mairie et une assurance habitation"
+          ],
+          "answer": 2,
+          "explain": "Il faut un permis de conduire valide, une carte grise (qui prouve que le véhicule est enregistré) et un contrôle technique à jour.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Quelle sanction pour un excès de vitesse de moins de 20 km/h ?",
+          "choices": [
+            "135 euros d'amende et 3 points retirés",
+            "68 euros d'amende et un point retiré",
+            "3 mois de prison et 6 points",
+            "Un simple avertissement"
+          ],
+          "answer": 1,
+          "explain": "Un dépassement de moins de 20 km/h peut être sanctionné d'une amende de 68 euros et du retrait d'un point ; au-delà de 50 km/h, c'est un délit.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Que risque-t-on en conduisant sans permis ?",
+          "choices": [
+            "Une amende forfaitaire de 135 euros, sans autre suite",
+            "Jusqu'à un an de prison et 15 000 euros d'amende",
+            "Un retrait de 6 points sur un futur permis",
+            "Un stage de sensibilisation obligatoire"
+          ],
+          "answer": 1,
+          "explain": "Conduire sans permis est un délit puni d'un an de prison et de 15 000 euros d'amende.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Quelle loi de 1991 encadre le tabac et l'alcool dans l'espace public ?",
+          "choices": [
+            "La loi Veil",
+            "La loi Évin",
+            "La loi Neuwirth",
+            "La loi Taubira"
+          ],
+          "answer": 1,
+          "explain": "La loi Évin du 10 janvier 1991 limite l'exposition des non-fumeurs et encadre la publicité pour l'alcool.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Vous êtes en état d'ivresse sur la voie publique. Que risquez-vous ?",
+          "choices": [
+            "Rien, si vous ne dérangez personne",
+            "Une amende pouvant aller jusqu'à 150 euros",
+            "Un an de prison",
+            "Un retrait de permis automatique"
+          ],
+          "answer": 1,
+          "explain": "L'ivresse publique peut être sanctionnée d'une amende pouvant aller jusqu'à 150 euros ; la consommation d'alcool peut aussi être interdite par arrêté municipal.",
+          "kind": "situation"
+        },
+        {
+          "q": "Votre chien fait ses besoins sur le trottoir. Que dit le livret ?",
+          "choices": [
+            "Vous devez ramasser, sous peine de sanction",
+            "C'est toléré sur les trottoirs mais pas dans les parcs",
+            "La commune s'en charge grâce à vos impôts",
+            "Seul un animal sans laisse engage votre responsabilité"
+          ],
+          "answer": 0,
+          "explain": "Les excréments des animaux de compagnie doivent obligatoirement être ramassés sous peine de sanction ; jeter un déchet ou un mégot hors des poubelles est aussi puni d'une amende.",
+          "kind": "situation"
+        },
+        {
+          "q": "Combien de déchets un Français produit-il par an, environ ?",
+          "choices": [
+            "100 kg",
+            "250 kg",
+            "500 kg",
+            "1 000 kg"
+          ],
+          "answer": 2,
+          "explain": "Chaque année, un Français produit environ 500 kg de déchets ; la réduction et le tri des déchets sont un enjeu important.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Depuis quand les sacs plastiques à usage unique sont-ils interdits en France ?",
+          "choices": [
+            "Janvier 2005",
+            "Janvier 2017",
+            "Janvier 2020",
+            "Janvier 2024"
+          ],
+          "answer": 1,
+          "explain": "Les sacs plastiques à usage unique et non recyclables sont interdits en France depuis janvier 2017.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Quelle part des émissions de CO2 le secteur des transports représente-t-il en France ?",
+          "choices": [
+            "10 %",
+            "34 %",
+            "50 %",
+            "70 %"
+          ],
+          "answer": 1,
+          "explain": "Les transports représentent 34 % des émissions de CO2 ; le livret conseille les transports en commun, la marche, le vélo et le covoiturage.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Qui finance la Sécurité sociale ?",
+          "choices": [
+            "L'État seul, par le budget national",
+            "Les cotisations des employeurs, des salariés et des indépendants",
+            "Les mutuelles et les assurances privées",
+            "L'Union européenne"
+          ],
+          "answer": 1,
+          "explain": "Employeurs, salariés et travailleurs indépendants paient des cotisations qui, combinées à des impôts, financent la Sécurité sociale : c'est un principe de solidarité.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "À quoi sert la carte Vitale ?",
+          "choices": [
+            "À payer les médicaments gratuitement en pharmacie",
+            "À justifier ses droits à l'Assurance Maladie",
+            "À prouver son identité auprès de la police",
+            "À obtenir automatiquement une mutuelle"
+          ],
+          "answer": 1,
+          "explain": "Chaque personne assurée reçoit une carte Vitale pour justifier ses droits ; le remboursement des soins est effectué par la CPAM.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Qu'est-ce que le tiers payant ?",
+          "choices": [
+            "Une réduction d'un tiers du prix de la consultation",
+            "Un remboursement en trois fois sans frais",
+            "Ne pas avancer la part remboursée par l'Assurance Maladie",
+            "Une consultation payée par un proche"
+          ],
+          "answer": 2,
+          "explain": "Avec le tiers payant, le patient n'avance pas la part prise en charge par l'Assurance Maladie ; une mutuelle peut compléter les remboursements.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Quel numéro appeler en cas d'alerte attentat ?",
+          "choices": [
+            "115",
+            "191",
+            "197",
+            "3117"
+          ],
+          "answer": 2,
+          "explain": "Le 197 est le numéro d'alerte attentat ; le 3117 concerne la sécurité dans les transports et le 191 les secours aéronautiques.",
+          "kind": "knowledge"
         }
       ]
     },
@@ -1010,6 +1226,78 @@
           ],
           "answer": 3,
           "explain": "France Travail peut verser l'ARE si les conditions sont remplies : avoir travaillé suffisamment longtemps et ne pas avoir quitté son travail de manière volontaire.",
+          "kind": "situation"
+        },
+        {
+          "q": "Qu'est-ce qu'une convention collective ?",
+          "choices": [
+            "Une loi votée par le Parlement pour toutes les entreprises",
+            "Un accord négocié entre employeurs et salariés d'un secteur",
+            "Le règlement intérieur d'une seule entreprise",
+            "Un contrat signé entre un salarié et son employeur"
+          ],
+          "answer": 1,
+          "explain": "Les conventions collectives sont des accords négociés entre les organisations représentant les employeurs et les salariés d'une activité donnée.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Quel contrat de travail correspond à un emploi temporaire ?",
+          "choices": [
+            "Le CDI",
+            "Le CDD",
+            "Le contrat de fonctionnaire",
+            "Le contrat de bail"
+          ],
+          "answer": 1,
+          "explain": "Le contrat à durée déterminée (CDD) correspond à un travail temporaire ; le CDI est un contrat à durée indéterminée.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Dans quelles catégories les fonctionnaires sont-ils classés ?",
+          "choices": [
+            "1, 2 ou 3",
+            "A, B ou C",
+            "Junior, confirmé ou senior",
+            "Local, régional ou national"
+          ],
+          "answer": 1,
+          "explain": "Un fonctionnaire est un agent public titulaire, classé en catégorie A, B ou C, régi par le Code général de la fonction publique.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Quels sont les quatre grands secteurs d'activité distingués pour créer une entreprise ?",
+          "choices": [
+            "Industrie, services, banque et tourisme",
+            "Commerce, artisanat, professions libérales et activité agricole",
+            "Fonction publique, armée, santé et éducation",
+            "Transport, énergie, numérique et bâtiment"
+          ],
+          "answer": 1,
+          "explain": "Les règles de création d'entreprise varient selon quatre secteurs : le commerce, l'artisanat, les professions libérales et l'activité agricole.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Dans la fonction publique territoriale, que signifie la réussite au concours ?",
+          "choices": [
+            "Une nomination immédiate sur un poste",
+            "Pas une affectation immédiate à un poste",
+            "Un CDI dans une entreprise privée",
+            "Un poste dans un ministère à Paris"
+          ],
+          "answer": 1,
+          "explain": "Dans la fonction publique territoriale, contrairement à la fonction publique d'État, l'admission au concours ne signifie pas l'affectation immédiate à un poste.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Un recruteur public écarte votre candidature à cause de votre origine. Que dit le livret ?",
+          "choices": [
+            "C'est permis si le poste est sensible",
+            "L'accès aux emplois publics est ouvert à tous sans discrimination",
+            "C'est permis pour les emplois de catégorie A",
+            "Seul un concours peut discriminer selon l'origine"
+          ],
+          "answer": 1,
+          "explain": "L'accès aux emplois de la fonction publique est ouvert à tous sans discrimination ; la sélection se fait uniquement sur les compétences.",
           "kind": "situation"
         }
       ]
@@ -1440,6 +1728,114 @@
           "answer": 1,
           "explain": "Toutes les maltraitances physiques, comme l'excision et les châtiments corporels, sont interdites par la loi car elles portent atteinte à l'intégrité physique et à la dignité de l'enfant.",
           "kind": "situation"
+        },
+        {
+          "q": "Qui célèbre le mariage civil en France ?",
+          "choices": [
+            "Un notaire, dans son étude",
+            "Le maire ou un adjoint, à la mairie",
+            "Un juge, au tribunal",
+            "Un représentant religieux"
+          ],
+          "answer": 1,
+          "explain": "Seul le mariage civil, célébré en mairie par le maire ou un adjoint, est reconnu par la loi ; un acte de mariage est ensuite établi.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Quel document reçoivent les époux après le mariage, où seront inscrits leurs enfants ?",
+          "choices": [
+            "L'acte de naissance",
+            "La carte Vitale familiale",
+            "Le livret de famille",
+            "Le certificat de mariage religieux"
+          ],
+          "answer": 2,
+          "explain": "Après le mariage civil, les époux reçoivent un livret de famille où sont inscrits les enfants.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Comment peut-on divorcer par consentement mutuel sans passer devant un juge ?",
+          "choices": [
+            "À la mairie, devant le maire",
+            "Devant un notaire",
+            "À la préfecture",
+            "Devant un avocat seulement"
+          ],
+          "answer": 1,
+          "explain": "Les époux peuvent divorcer devant un juge, ou par consentement mutuel devant un notaire.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Jusqu'à quel âge de l'enfant un salarié peut-il prendre un congé parental d'éducation ?",
+          "choices": [
+            "3 ans",
+            "6 ans",
+            "16 ans",
+            "18 ans"
+          ],
+          "answer": 2,
+          "explain": "Après la naissance ou l'adoption d'un enfant de moins de 16 ans, tout salarié peut bénéficier d'un congé parental d'éducation.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Quel nouveau congé existe pour les parents d'un enfant né à partir du 1er janvier 2026 ?",
+          "choices": [
+            "Un congé de six mois rémunéré à 100 %",
+            "Un congé supplémentaire de naissance d'un ou deux mois",
+            "Un congé de paternité porté à un an",
+            "Un congé réservé aux mères"
+          ],
+          "answer": 1,
+          "explain": "Les parents d'un enfant né ou adopté à compter du 1er janvier 2026 bénéficient d'un congé supplémentaire de naissance d'un ou deux mois.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Quel article du Code civil définit l'autorité parentale ?",
+          "choices": [
+            "L'article 145",
+            "L'article 212",
+            "L'article 371-1",
+            "L'article 21-24"
+          ],
+          "answer": 2,
+          "explain": "L'article 371-1 du Code civil définit l'autorité parentale, ensemble de droits et de devoirs visant l'intérêt de l'enfant jusqu'à sa majorité ou son émancipation.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Des parents ne scolarisent pas leur enfant de 8 ans. Que risquent-ils ?",
+          "choices": [
+            "Rien : l'école n'est obligatoire qu'à partir de 11 ans",
+            "Une simple convocation à la mairie",
+            "Une amende, voire une peine de prison",
+            "La perte des allocations, sans autre sanction"
+          ],
+          "answer": 2,
+          "explain": "L'instruction est obligatoire de 3 à 16 ans ; les parents qui ne respectent pas cette obligation peuvent être sanctionnés par une amende et même une peine de prison.",
+          "kind": "situation"
+        },
+        {
+          "q": "Comment les parents participent-ils à la communauté éducative, selon le livret ?",
+          "choices": [
+            "En notant les enseignants chaque trimestre",
+            "En élisant des représentants de parents d'élèves ou via une association",
+            "En choisissant les programmes scolaires",
+            "En payant une cotisation à l'école publique"
+          ],
+          "answer": 1,
+          "explain": "Les parents entretiennent des relations avec les professeurs et peuvent participer aux élections de représentants de parents d'élèves ou rejoindre une association de parents.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "À quel âge les enfants entrent-ils à l'école élémentaire ?",
+          "choices": [
+            "3 ans",
+            "6 ans",
+            "10 ans",
+            "11 ans"
+          ],
+          "answer": 1,
+          "explain": "L'école élémentaire (du CP au CM2) accueille les enfants de 6 à 11 ans ; la maternelle commence à 3 ans.",
+          "kind": "knowledge"
         }
       ]
     }

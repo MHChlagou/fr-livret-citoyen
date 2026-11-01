@@ -10,7 +10,7 @@ Site d'entraînement non officiel. Le livret officiel reste la référence.
 
 - Un parcours en 5 parties et des annexes, découpé en 16 sections et en courtes leçons à lire une par une.
 - Un résumé « À retenir absolument » à la fin de chaque section.
-- Un quiz après chaque section, avec la correction et une explication après chaque réponse. La section est validée à partir de 80 % de bonnes réponses.
+- Un quiz après chaque section, avec la correction et une explication après chaque réponse. Quand une section compte plus de 20 questions, chaque passage en tire 20 au sort. La section est validée à partir de 80 % de bonnes réponses.
 - Des mises en situation : des cas concrets où il faut choisir le bon comportement, comme à l'examen.
 - Un examen blanc de 40 questions tirées au hasard dans tout le livret, en 45 minutes, avec 80 % requis pour réussir. Le résultat est détaillé par thème, avec la liste des erreurs à revoir.
 - Une page « À retenir » qui regroupe les 146 points clés, avec une recherche et une case « je sais » pour chaque point.

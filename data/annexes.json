@@ -267,6 +267,18 @@
           "answer": 1,
           "explain": "L'article 15 donne à la société le droit de demander compte à tout agent public de son administration.",
           "kind": "situation"
+        },
+        {
+          "q": "Selon l'article 12 de la Déclaration de 1789, pourquoi existe-t-il une force publique ?",
+          "choices": [
+            "Pour protéger la personne du roi",
+            "Pour l'avantage de tous",
+            "Pour servir l'intérêt du gouvernement en place",
+            "Pour percevoir l'impôt plus facilement"
+          ],
+          "answer": 1,
+          "explain": "L'article 12 prévoit que la force publique est instituée pour l'avantage de tous, et non pour l'intérêt particulier de ceux à qui elle est confiée.",
+          "kind": "knowledge"
         }
       ]
     },
@@ -566,6 +578,78 @@
           ],
           "answer": 1,
           "explain": "Parmi les symboles de la République, la Charte rappelle que la fête nationale est le 14 juillet.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Selon la Charte, à quelle date a été adoptée la Déclaration des droits de l'homme et du citoyen ?",
+          "choices": [
+            "Le 14 juillet 1789",
+            "Le 26 août 1789",
+            "Le 4 octobre 1958",
+            "Le 10 décembre 1948"
+          ],
+          "answer": 1,
+          "explain": "Le peuple français se reconnaît dans la Déclaration des droits de l'homme et du citoyen du 26 août 1789.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Que dit la Charte au sujet du corps humain ?",
+          "choices": [
+            "Il est inviolable",
+            "Il appartient à l'État",
+            "Il peut faire l'objet d'un commerce",
+            "Il relève de la seule religion"
+          ],
+          "answer": 0,
+          "explain": "La Charte rappelle que la dignité de la personne doit être respectée et que le corps humain est inviolable.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Comment un salarié peut-il défendre ses droits, selon la Charte ?",
+          "choices": [
+            "Uniquement par la grève",
+            "Par l'action syndicale",
+            "En saisissant le préfet",
+            "Par l'intervention de l'armée"
+          ],
+          "answer": 1,
+          "explain": "Chacun peut adhérer à un parti, créer ou rejoindre une association et défendre ses droits par l'action syndicale.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Selon la Charte, l'enseignement public est :",
+          "choices": [
+            "Payant à partir du lycée",
+            "Gratuit jusqu'à 11 ans seulement",
+            "Gratuit et laïque, à tous les niveaux",
+            "Réservé aux enfants de nationalité française"
+          ],
+          "answer": 2,
+          "explain": "Organiser un enseignement public gratuit et laïque à tous les niveaux est un devoir de l'État ; l'instruction est obligatoire jusqu'à 16 ans.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Que garantit la Nation à tous, selon la Charte ?",
+          "choices": [
+            "Un logement gratuit",
+            "La santé, la sécurité matérielle et des congés",
+            "Un emploi dans la fonction publique",
+            "Un revenu identique pour tous"
+          ],
+          "answer": 1,
+          "explain": "La Nation garantit à tous la protection de la santé, la sécurité matérielle et le droit à des congés ; qui ne peut pas travailler a droit à des moyens d'existence.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Comment les parents exercent-ils l'autorité parentale, selon la Charte ?",
+          "choices": [
+            "En commun",
+            "Le père seul",
+            "La mère seule",
+            "Sous le contrôle de la mairie"
+          ],
+          "answer": 0,
+          "explain": "Les parents exercent en commun l'autorité parentale ; ils assurent l'éducation des enfants et préparent leur avenir.",
           "kind": "knowledge"
         }
       ]

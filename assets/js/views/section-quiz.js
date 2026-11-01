@@ -1,4 +1,7 @@
-import { escapeHtml, percent, celebrate } from "../util.js";
+import { escapeHtml, percent, celebrate, shuffle } from "../util.js";
+
+/** Long sections draw a different sample at each attempt, so every question gets seen over time. */
+const SESSION_SIZE = 20;
 import { findSection, nextSection } from "../data.js";
 import { recordQuiz, recordAnswers, getMistakeIds, getSection, getUserName, PASS_RATIO } from "../store.js";
 import { runQuiz, renderReview } from "../quiz.js";
@@ -13,11 +16,11 @@ export function renderSectionQuiz(root, ctx, sectionId) {
   const following = nextSection(ctx.course, section.id);
 
   function start() {
-    const dispose = runQuiz(root, questions, {
-      mode: "practice",
-      heading: section.title,
-      onFinish: showResult,
-    });
+    const sample = questions.length > SESSION_SIZE ? shuffle(questions).slice(0, SESSION_SIZE) : questions;
+    const heading = sample.length < questions.length
+      ? `${section.title} · ${sample.length} questions tirées parmi ${questions.length}`
+      : section.title;
+    const dispose = runQuiz(root, sample, { mode: "practice", heading, onFinish: showResult });
     ctx.onLeave(dispose);
   }
 

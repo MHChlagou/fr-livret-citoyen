@@ -448,6 +448,42 @@
           "answer": 2,
           "explain": "Le Conseil constitutionnel veille à la conformité des lois avec la Constitution et contrôle aussi la régularité des élections nationales.",
           "kind": "knowledge"
+        },
+        {
+          "q": "Quels sont les trois principes de l'État de droit cités par le livret ?",
+          "choices": [
+            "Protection des libertés, séparation des pouvoirs, indépendance de la justice",
+            "Égalité devant l'impôt, vote obligatoire, service national",
+            "Centralisation, autorité du préfet, unité de la langue",
+            "Liberté de la presse, droit de grève, propriété privée"
+          ],
+          "answer": 0,
+          "explain": "Les principes de l'État de droit sont la protection des libertés fondamentales, la séparation des trois pouvoirs et l'indépendance de la justice.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Qui nomme le Premier ministre ?",
+          "choices": [
+            "L'Assemblée nationale, à la majorité absolue",
+            "Le président de la République",
+            "Le Sénat, sur proposition des députés",
+            "Le Conseil constitutionnel"
+          ],
+          "answer": 1,
+          "explain": "Le président de la République, chef de l'État et des armées, nomme le Premier ministre, qui dirige le Gouvernement.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Que dit le livret sur les partis politiques ?",
+          "choices": [
+            "Ils doivent être autorisés par le ministère de l'Intérieur",
+            "Leur nombre est limité à deux par la Constitution",
+            "Ils se forment et exercent leur activité librement",
+            "Ils sont financés uniquement par l'État"
+          ],
+          "answer": 2,
+          "explain": "Les partis politiques se forment et exercent leur activité librement : c'est une condition de la démocratie.",
+          "kind": "knowledge"
         }
       ]
     },
@@ -891,6 +927,66 @@
           "answer": 1,
           "explain": "Dans les territoires, l'État est représenté par les préfets de région et de département (ou par les hauts commissaires dans certaines collectivités d'outre-mer).",
           "kind": "situation"
+        },
+        {
+          "q": "Comment s'appelle le transfert de compétences de l'État vers les communes, départements et régions ?",
+          "choices": [
+            "La déconcentration",
+            "La décentralisation",
+            "La fédéralisation",
+            "La privatisation"
+          ],
+          "answer": 1,
+          "explain": "Dans le cadre de la décentralisation, l'État transfère des compétences et des moyens aux collectivités territoriales.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Qui administre un département ?",
+          "choices": [
+            "Le conseil régional",
+            "Le conseil départemental",
+            "Le préfet seul",
+            "Le conseil municipal du chef-lieu"
+          ],
+          "answer": 1,
+          "explain": "Les départements sont administrés par les conseils départementaux ; le préfet, lui, représente l'État.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Vous habitez en Guadeloupe. Par quel numéro de département commence votre code postal ?",
+          "choices": [
+            "971",
+            "972",
+            "974",
+            "976"
+          ],
+          "answer": 0,
+          "explain": "La Guadeloupe porte le numéro 971 (préfecture : Basse-Terre) ; 972 est la Martinique, 974 la Réunion et 976 Mayotte.",
+          "kind": "situation"
+        },
+        {
+          "q": "Combien de territoires d'outre-mer la France compte-t-elle, selon le livret ?",
+          "choices": [
+            "5",
+            "12",
+            "18",
+            "27"
+          ],
+          "answer": 1,
+          "explain": "La France compte 12 territoires d'outre-mer, dont 5 départements et régions d'outre-mer et 7 collectivités à statut particulier.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Quelle est la préfecture de la Martinique ?",
+          "choices": [
+            "Basse-Terre",
+            "Cayenne",
+            "Fort-de-France",
+            "Saint-Denis"
+          ],
+          "answer": 2,
+          "explain": "Fort-de-France est la préfecture de la Martinique ; Basse-Terre est celle de la Guadeloupe, Cayenne celle de la Guyane et Saint-Denis celle de la Réunion.",
+          "kind": "knowledge"
         }
       ]
     },
@@ -1248,6 +1344,66 @@
           "answer": 2,
           "explain": "Le drapeau européen, avec ses 12 étoiles, symbolise l'unité et l'harmonie entre les Européens.",
           "kind": "situation"
+        },
+        {
+          "q": "Qu'a créé le traité de Rome en 1957 ?",
+          "choices": [
+            "La monnaie unique, l'euro",
+            "La CEE, un marché commun",
+            "Le Parlement européen de Strasbourg",
+            "La Banque centrale européenne"
+          ],
+          "answer": 1,
+          "explain": "En 1957, le traité de Rome crée la Communauté économique européenne (CEE), un marché commun entre les États membres.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Avec combien d'autres pays la France partage-t-elle l'euro, selon le livret ?",
+          "choices": [
+            "12",
+            "20",
+            "27",
+            "29"
+          ],
+          "answer": 1,
+          "explain": "Depuis le 1er janvier 2002, pièces et billets en euros circulent ; la France partage cette monnaie unique avec 20 autres pays, selon le livret.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Quel est le dernier pays entré dans l'Union européenne, en 2013 ?",
+          "choices": [
+            "La Roumanie",
+            "La Pologne",
+            "La Croatie",
+            "L'Autriche"
+          ],
+          "answer": 2,
+          "explain": "La Croatie est entrée dans l'Union en 2013 (28 membres) ; la Roumanie en 2007, la Pologne en 2004 et l'Autriche en 1995.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Qu'a créé le traité de Maastricht de 1992, en plus de l'Union européenne ?",
+          "choices": [
+            "L'espace Schengen de libre circulation",
+            "La citoyenneté européenne",
+            "Le Conseil de l'Europe",
+            "Les pièces et billets en euros"
+          ],
+          "answer": 1,
+          "explain": "Le traité de Maastricht (1992) crée l'Union européenne, la citoyenneté européenne et la Banque centrale européenne.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "Quel texte, adopté en 2000, garantit les droits des personnes dans l'Union européenne ?",
+          "choices": [
+            "La Convention de Genève",
+            "La Charte des droits fondamentaux de l'UE",
+            "Le traité de Lisbonne",
+            "La déclaration Schuman"
+          ],
+          "answer": 1,
+          "explain": "La Charte des droits fondamentaux de l'Union européenne, adoptée en 2000, garantit les droits des personnes.",
+          "kind": "knowledge"
         }
       ]
     }
