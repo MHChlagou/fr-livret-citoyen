@@ -9,6 +9,7 @@ import { renderMistakes } from "./views/mistakes.js";
 import { renderInterview } from "./views/interview.js";
 import { initInstall } from "./install.js";
 import { initWelcome } from "./welcome.js";
+import { getMistakeIds } from "./store.js";
 
 const main = document.getElementById("main");
 const THEME_KEY = "livret-citoyen-theme";
@@ -19,7 +20,7 @@ const ROUTES = [
   { pattern: /^\/quiz\/([\w-]+)$/, nav: "home", view: renderSectionQuiz },
   { pattern: /^\/exam$/, nav: "exam", view: renderExam },
   { pattern: /^\/memo$/, nav: "memo", view: renderMemo },
-  { pattern: /^\/erreurs$/, nav: "home", view: renderMistakes },
+  { pattern: /^\/erreurs$/, nav: "mistakes", view: renderMistakes },
   { pattern: /^\/entretien$/, nav: "home", view: renderInterview },
 ];
 
@@ -60,12 +61,22 @@ window.addEventListener("beforeunload", (event) => {
   }
 });
 
+function updateMistakesBadge() {
+  const badge = document.querySelector("[data-mistakes-badge]");
+  const count = getMistakeIds().length;
+  badge.textContent = count > 99 ? "99+" : String(count);
+  badge.hidden = count === 0;
+}
+
 function setActiveNav(nav) {
   document.querySelectorAll("[data-nav]").forEach((link) => {
     if (link.dataset.nav === nav) link.setAttribute("aria-current", "page");
     else link.removeAttribute("aria-current");
   });
+  updateMistakesBadge();
 }
+
+document.addEventListener("mistakes-changed", updateMistakesBadge);
 
 function renderError(error) {
   console.error(error);

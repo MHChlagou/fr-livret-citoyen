@@ -85,6 +85,7 @@ export function recordAnswers(answers) {
     else progress.mistakes[question.id] = new Date().toISOString();
   }
   save();
+  document.dispatchEvent(new CustomEvent("mistakes-changed"));
 }
 
 export function getMistakeIds() {
@@ -94,6 +95,7 @@ export function getMistakeIds() {
 export function clearMistakes() {
   progress.mistakes = {};
   save();
+  document.dispatchEvent(new CustomEvent("mistakes-changed"));
 }
 
 /** "ok" | "retry" | null */

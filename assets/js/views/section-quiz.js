@@ -18,7 +18,7 @@ export function renderSectionQuiz(root, ctx, sectionId) {
   function start() {
     const sample = questions.length > SESSION_SIZE ? shuffle(questions).slice(0, SESSION_SIZE) : questions;
     const heading = sample.length < questions.length
-      ? `${section.title} · ${sample.length} questions tirées parmi ${questions.length}`
+      ? `${section.title} · ${sample.length} sur ${questions.length}`
       : section.title;
     const dispose = runQuiz(root, sample, { mode: "practice", heading, onFinish: showResult });
     ctx.onLeave(dispose);

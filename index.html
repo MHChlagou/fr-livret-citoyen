@@ -34,6 +34,16 @@
     </nav>
   </header>
   <main id="main" tabindex="-1"></main>
+  <nav class="tabbar" aria-label="Navigation mobile">
+    <a href="#/" data-nav="home"><span aria-hidden="true">🏁</span>Parcours</a>
+    <a href="#/memo" data-nav="memo"><span aria-hidden="true">📌</span>À retenir</a>
+    <a href="#/erreurs" data-nav="mistakes"><span aria-hidden="true">🔁</span>Erreurs<b class="tab-badge" data-mistakes-badge hidden></b></a>
+    <a href="#/exam" data-nav="exam"><span aria-hidden="true">🎓</span>Examen</a>
+  </nav>
+  <div class="toast" data-update-toast hidden role="status">
+    <span>Nouvelle version installée.</span>
+    <button class="btn btn-primary" type="button" data-reload>Recharger</button>
+  </div>
   <footer class="footer">
     <p>Contenu fondé sur le <strong>Livret du citoyen</strong> (Ministère de l'Intérieur, édition mai 2026). Site d'entraînement non officiel.</p>
     <p>🔒 Votre prénom et votre progression sont enregistrés uniquement sur cet appareil, jamais sur un serveur. <button class="link-btn" type="button" data-reset-data>Effacer mes données</button></p>

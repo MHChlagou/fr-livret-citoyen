@@ -1,4 +1,4 @@
-const CACHE = "livret-citoyen-v3";
+const CACHE = "livret-citoyen-v4";
 const FONT_CACHE = "livret-citoyen-fonts-v1";
 const NETWORK_TIMEOUT_MS = 4000;
 

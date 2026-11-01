@@ -67,6 +67,11 @@
 
 *, *::before, *::after { box-sizing: border-box; }
 
+/* App-like touch behaviour: no tap delay, no grey flash, no accidental pull-to-refresh in the installed app. */
+a, button, summary, label { touch-action: manipulation; -webkit-tap-highlight-color: transparent; }
+.choice, .theme-chip, .toc button { user-select: none; -webkit-user-select: none; }
+@media (display-mode: standalone) { html { overscroll-behavior-y: none; } }
+
 html { -webkit-text-size-adjust: 100%; scroll-behavior: smooth; }
 
 body {
@@ -132,14 +137,34 @@ button { font: inherit; color: inherit; }
   width: 38px; height: 38px; cursor: pointer; font-size: 1.1rem; margin-left: 4px;
 }
 
+/* Bottom tab bar: thumb reach on phones, and the only navigation once installed full screen. */
+.tabbar { display: none; }
+.tab-badge {
+  position: absolute; top: 2px; right: calc(50% - 26px);
+  min-width: 18px; height: 18px; padding: 0 5px; border-radius: 999px;
+  background: var(--red); color: #fff; font-size: 0.7rem; font-weight: 700; line-height: 18px; text-align: center;
+}
 @media (max-width: 640px) {
   .brand-text small { display: none; }
   .brand-text { font-size: 0.95rem; }
-  .nav a { padding: 7px 9px; font-size: 0.85rem; }
-  .theme-toggle { width: 34px; height: 34px; }
-}
-@media (max-width: 400px) {
-  .brand-text { display: none; }
+  .nav a { display: none; }
+  .theme-toggle { width: 36px; height: 36px; margin: 0; }
+  main { padding-bottom: calc(80px + env(safe-area-inset-bottom)); }
+  .footer { padding-bottom: calc(76px + env(safe-area-inset-bottom)); }
+  .tabbar {
+    position: fixed; left: 0; right: 0; bottom: 0; z-index: 10;
+    display: grid; grid-template-columns: repeat(4, 1fr);
+    padding: 6px 4px calc(6px + env(safe-area-inset-bottom));
+    background: color-mix(in srgb, var(--bg-elev) 92%, transparent);
+    backdrop-filter: blur(10px); border-top: 1px solid var(--line);
+  }
+  .tabbar a {
+    position: relative; display: flex; flex-direction: column; align-items: center; gap: 2px;
+    min-height: 52px; padding: 6px 4px; border-radius: 12px; text-decoration: none;
+    color: var(--ink-soft); font-size: 0.72rem; font-weight: 700;
+  }
+  .tabbar a span { font-size: 1.3rem; line-height: 1; }
+  .tabbar a[aria-current="page"] { color: var(--blue-bright); background: var(--blue-wash); }
 }
 
 main {
@@ -273,8 +298,14 @@ main:focus-visible { outline: none; }
 .ring-label small { font-family: var(--font-body); font-size: 0.75rem; font-weight: 400; color: var(--ink-faint); margin-top: 4px; }
 
 @media (max-width: 720px) {
-  .hero { grid-template-columns: 1fr; padding: 26px 22px 26px 26px; }
-  .ring { width: 116px; order: -1; }
+  .hero { grid-template-columns: 1fr; padding: 22px 18px 22px 22px; margin-bottom: 28px; }
+  .hero h1 { font-size: 1.75rem; }
+  .hero p { font-size: 1rem; }
+  .hero-stats { display: grid; grid-template-columns: repeat(4, 1fr); gap: 8px; margin: 12px 0 16px; font-size: 0.78rem; }
+  .hero-stats b { font-size: 1.3rem; }
+  .ring { width: 96px; order: -1; }
+  .ring-label { font-size: 1.4rem; }
+  .hero .btn-row .btn { width: 100%; }
 }
 
 .install-card {
@@ -329,7 +360,16 @@ main:focus-visible { outline: none; }
 }
 .how b { display: block; color: var(--ink); }
 .how { padding: 0; }
-@media (max-width: 720px) { .how { grid-template-columns: 1fr 1fr; } }
+@media (max-width: 720px) {
+  .how {
+    display: flex; overflow-x: auto; gap: 10px; margin: -8px -16px 30px; padding: 0 16px 6px;
+    scroll-snap-type: x mandatory; scrollbar-width: none;
+  }
+  .how li { flex: 0 0 72%; scroll-snap-align: start; }
+  .part { padding: 18px; gap: 12px; }
+  .part-head h3 { font-size: 1.2rem; }
+  .stop a { padding: 10px 12px; }
+}
 
 .path-title { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; flex-wrap: wrap; margin-bottom: 18px; }
 .path-title h2 { font-size: 1.7rem; margin: 0; }
@@ -510,6 +550,25 @@ tr:last-child td { border-bottom: 0; }
 .feedback.ko { background: var(--red-wash); }
 .feedback b { display: block; margin-bottom: 2px; }
 .quiz-actions { display: flex; justify-content: flex-end; gap: 10px; margin-top: 20px; }
+@media (max-width: 640px) {
+  .quiz-actions {
+    position: sticky; bottom: calc(72px + env(safe-area-inset-bottom)); z-index: 2;
+    margin: 20px -22px -22px; padding: 12px 22px 16px;
+    background: color-mix(in srgb, var(--bg-elev) 94%, transparent); backdrop-filter: blur(8px);
+    border-top: 1px solid var(--line); border-radius: 0 0 var(--radius) var(--radius);
+  }
+  .quiz-actions .btn { flex: 1; }
+}
+
+.toast {
+  position: fixed; left: 16px; right: 16px; bottom: calc(84px + env(safe-area-inset-bottom)); z-index: 30;
+  display: flex; align-items: center; justify-content: space-between; gap: 12px;
+  padding: 12px 16px; border-radius: 14px; background: var(--ink); color: var(--bg);
+  box-shadow: 0 16px 40px -12px rgb(0 0 0 / 0.5); animation: view-in 0.4s var(--ease) both;
+}
+.toast[hidden] { display: none; }
+.toast .btn { min-height: 40px; padding: 8px 16px; background: var(--bg); color: var(--ink); }
+@media (min-width: 641px) { .toast { left: auto; right: 24px; bottom: 24px; max-width: 420px; } }
 .kbd-hint { font-size: 0.8rem; color: var(--ink-faint); text-align: center; margin-top: 14px; }
 @media (hover: none) and (pointer: coarse) { .kbd-hint { display: none; } }
 

@@ -37,7 +37,24 @@ export function initInstall() {
     navigator.serviceWorker.register("sw.js").catch((error) => {
       console.warn("Service worker non enregistré : le mode hors ligne est indisponible.", error);
     });
+    watchForUpdates();
   }
+}
+
+/** A new service worker taking control means a new deploy: the open page still runs the old code until reloaded. */
+function watchForUpdates() {
+  let hadController = Boolean(navigator.serviceWorker.controller);
+  navigator.serviceWorker.addEventListener("controllerchange", () => {
+    if (hadController) showUpdateToast();
+    hadController = true;
+  });
+}
+
+function showUpdateToast() {
+  const toast = document.querySelector("[data-update-toast]");
+  if (!toast) return;
+  toast.hidden = false;
+  toast.querySelector("[data-reload]").addEventListener("click", () => location.reload(), { once: true });
 }
 
 function cardMarkup(mode) {
