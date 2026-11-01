@@ -1,5 +1,5 @@
 import { escapeHtml, inline, percent, plural, formatDate } from "../util.js";
-import { sectionState, getSection, getExams, getUserName } from "../store.js";
+import { sectionState, getSection, getExams, getUserName, getMistakeIds } from "../store.js";
 import { EXAM_QUESTION_COUNT, examQuestionsForPart } from "../exam.js";
 import { partLabel } from "./blocks.js";
 import { mountInstallCard } from "../install.js";
@@ -60,6 +60,7 @@ export function renderHome(root, { course, onLeave }) {
   const lastExam = getExams()[0];
   const factCount = course.sections.reduce((sum, s) => sum + s.keyFacts.length, 0);
   const userName = getUserName();
+  const mistakeCount = getMistakeIds().length;
   const greeting = userName
     ? `<p class="greeting">Bonjour <strong>${escapeHtml(userName)}</strong> 👋 <button class="link-btn" type="button" data-edit-name>modifier</button></p>`
     : `<p class="greeting"><button class="link-btn" type="button" data-edit-name>Ajouter mon prénom</button></p>`;
@@ -92,6 +93,13 @@ export function renderHome(root, { course, onLeave }) {
       </section>
 
       <div data-install-slot></div>
+
+      ${mistakeCount ? `
+        <a class="card mistakes-card" href="#/erreurs">
+          <span class="mistakes-count">${mistakeCount}</span>
+          <span><strong>${plural(mistakeCount, "question ratée", "questions ratées")} à revoir</strong><br><small>Rejouez-les jusqu'à les réussir</small></span>
+          <span aria-hidden="true">→</span>
+        </a>` : ""}
 
       <ol class="how">
         <li><b>Lisez</b>une leçon courte, une notion à la fois.</li>

@@ -34,5 +34,6 @@ export function renderBlocks(blocks) {
 }
 
 export function partLabel(part) {
+  if (part.label) return part.label;
   return part.number > 0 ? `Partie ${part.number}` : "Annexes";
 }

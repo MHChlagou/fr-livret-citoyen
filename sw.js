@@ -1,4 +1,4 @@
-const CACHE = "livret-citoyen-v2";
+const CACHE = "livret-citoyen-v3";
 const FONT_CACHE = "livret-citoyen-fonts-v1";
 const NETWORK_TIMEOUT_MS = 4000;
 
@@ -19,6 +19,8 @@ const PRECACHE = [
   "assets/js/views/exam.js",
   "assets/js/views/home.js",
   "assets/js/views/memo.js",
+  "assets/js/views/mistakes.js",
+  "assets/js/views/interview.js",
   "assets/js/views/section.js",
   "assets/js/views/section-quiz.js",
   "assets/icons/icon-192.png",
@@ -32,6 +34,7 @@ const PRECACHE = [
   "data/p4.json",
   "data/p5.json",
   "data/annexes.json",
+  "data/entretien.json",
 ];
 
 self.addEventListener("install", (event) => {

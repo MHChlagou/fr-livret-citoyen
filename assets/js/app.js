@@ -5,6 +5,8 @@ import { renderSection } from "./views/section.js";
 import { renderSectionQuiz } from "./views/section-quiz.js";
 import { renderExam } from "./views/exam.js";
 import { renderMemo } from "./views/memo.js";
+import { renderMistakes } from "./views/mistakes.js";
+import { renderInterview } from "./views/interview.js";
 import { initInstall } from "./install.js";
 import { initWelcome } from "./welcome.js";
 
@@ -17,6 +19,8 @@ const ROUTES = [
   { pattern: /^\/quiz\/([\w-]+)$/, nav: "home", view: renderSectionQuiz },
   { pattern: /^\/exam$/, nav: "exam", view: renderExam },
   { pattern: /^\/memo$/, nav: "memo", view: renderMemo },
+  { pattern: /^\/erreurs$/, nav: "home", view: renderMistakes },
+  { pattern: /^\/entretien$/, nav: "home", view: renderInterview },
 ];
 
 let leaveHandlers = [];

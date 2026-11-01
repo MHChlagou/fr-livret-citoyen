@@ -1,6 +1,6 @@
 import { escapeHtml, percent, celebrate } from "../util.js";
 import { findSection, nextSection } from "../data.js";
-import { recordQuiz, getSection, getUserName, PASS_RATIO } from "../store.js";
+import { recordQuiz, recordAnswers, getMistakeIds, getSection, getUserName, PASS_RATIO } from "../store.js";
 import { runQuiz, renderReview } from "../quiz.js";
 
 export function renderSectionQuiz(root, ctx, sectionId) {
@@ -25,6 +25,8 @@ export function renderSectionQuiz(root, ctx, sectionId) {
     const ratio = correct / total;
     const previousBest = getSection(section.id).best;
     recordQuiz(section.id, ratio);
+    recordAnswers(answers);
+    const mistakeCount = getMistakeIds().length;
     const isPassed = ratio >= PASS_RATIO;
     if (isPassed) celebrate();
     const isNewRecord = previousBest !== null && ratio > previousBest;
@@ -46,6 +48,7 @@ export function renderSectionQuiz(root, ctx, sectionId) {
             ${isPassed && !following ? `<a class="btn btn-primary" href="#/exam">Examen blanc →</a>` : ""}
             <button class="btn ${isPassed ? "btn-ghost" : "btn-primary"}" type="button" data-retry>Recommencer le quiz</button>
             <a class="btn btn-ghost" href="#/section/${encodeURIComponent(section.id)}">Revoir la leçon</a>
+            ${mistakeCount ? `<a class="btn btn-ghost" href="#/erreurs">Mes erreurs (${mistakeCount})</a>` : ""}
           </div>
           ${renderReview(answers)}
         </section>

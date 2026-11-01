@@ -1,5 +1,5 @@
 import { escapeHtml, percent, celebrate, formatDate } from "../util.js";
-import { recordExam, getExams, getUserName } from "../store.js";
+import { recordExam, recordAnswers, getMistakeIds, getExams, getUserName } from "../store.js";
 import { runQuiz, renderReview } from "../quiz.js";
 import {
   buildExam, scoreByTheme, readinessVerdict,
@@ -51,6 +51,8 @@ export function renderExam(root, ctx) {
   function showResult({ answers, correct, total }) {
     ctx.guardLeave(null);
     recordExam(correct, total);
+    recordAnswers(answers);
+    const mistakeCount = getMistakeIds().length;
     const themes = scoreByTheme(answers);
     const verdict = readinessVerdict(correct, total, themes);
     if (verdict.level === "ready") celebrate();
@@ -64,6 +66,7 @@ export function renderExam(root, ctx) {
           <p class="verdict">${escapeHtml(verdict.message)}</p>
           <div class="btn-row">
             <button class="btn btn-primary" type="button" data-again>Nouvel examen</button>
+            ${mistakeCount ? `<a class="btn btn-ghost" href="#/erreurs">Revoir mes erreurs (${mistakeCount})</a>` : ""}
             <a class="btn btn-ghost" href="#/memo">Réviser l'essentiel</a>
             <a class="btn btn-ghost" href="#/">Retour au parcours</a>
           </div>

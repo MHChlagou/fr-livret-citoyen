@@ -1,0 +1,603 @@
+{
+  "id": "entretien",
+  "number": 6,
+  "label": "Bonus · hors livret",
+  "title": "Préparer l'entretien en préfecture",
+  "icon": "🗣️",
+  "intro": "Après l'examen civique vient un entretien avec un agent de la préfecture : une conversation en français sur votre parcours, vos connaissances et votre adhésion aux valeurs de la République. Ce guide pratique ne vient pas du livret : il explique comment se passe l'entretien, puis vous entraîne avec les questions les plus fréquentes.",
+  "sections": [
+    {
+      "id": "e1",
+      "title": "Comment se passe l'entretien",
+      "lessons": [
+        {
+          "title": "Le déroulement",
+          "blocks": [
+            {
+              "type": "callout",
+              "text": "Cette partie est un guide pratique rédigé pour ce site, pas un extrait du livret officiel. Le déroulement exact peut varier d'une préfecture à l'autre : la convocation que vous recevrez fait foi."
+            },
+            {
+              "type": "p",
+              "text": "Si votre dossier est recevable, vous êtes **convoqué(e) à un entretien** en préfecture, en sous-préfecture ou, depuis l'étranger, au consulat. Il a lieu **en français**, en face à face avec un agent, et dure en général **de 30 minutes à une heure**."
+            },
+            {
+              "type": "h",
+              "text": "Ce que l'agent évalue"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Votre **maîtrise du français** à l'oral : comprendre les questions et y répondre avec des phrases complètes (niveau **B2** attendu).",
+                "Votre **connaissance** de l'histoire, de la culture et de la société françaises, ainsi que des **droits et devoirs** du citoyen : les thèmes du livret.",
+                "Votre **adhésion aux principes et valeurs de la République** : liberté, égalité (notamment entre les femmes et les hommes), fraternité, laïcité. L'agent ne cherche pas une récitation mais ce que vous en faites dans votre vie quotidienne.",
+                "Votre **intégration** : travail, logement, langue parlée à la maison, vie sociale, scolarité des enfants, connaissance de votre commune."
+              ]
+            },
+            {
+              "type": "h",
+              "text": "Les grandes étapes"
+            },
+            {
+              "type": "list",
+              "items": [
+                "**Vérification d'identité** et des documents demandés sur la convocation.",
+                "**Questions sur votre parcours** : arrivée en France, famille, travail, motivations.",
+                "**Questions de connaissances** sur le livret : symboles, institutions, histoire, droits et devoirs.",
+                "**Mises en situation** : l'agent décrit une situation concrète et vous demande ce que vous feriez, pour vérifier votre adhésion aux valeurs.",
+                "À la fin de la procédure, vous signerez la **Charte des droits et devoirs du citoyen français** (résumée dans les annexes)."
+              ]
+            },
+            {
+              "type": "callout",
+              "text": "L'agent rédige un compte rendu de l'entretien qui est joint à votre dossier. Une réponse contraire aux valeurs de la République (par exemple refuser l'égalité entre les femmes et les hommes) peut entraîner un avis défavorable."
+            }
+          ]
+        },
+        {
+          "title": "L'attitude qui fait la différence",
+          "blocks": [
+            {
+              "type": "h",
+              "text": "Avant"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Relisez les **points à retenir** de chaque partie et refaites l'**examen blanc** la veille.",
+                "Préparez vos **repères personnels** : votre date d'arrivée, vos emplois, les écoles de vos enfants, le nom de votre maire, de votre département et de votre région.",
+                "Renseignez-vous sur l'**actualité** de la semaine : le nom du président de la République et du Premier ministre, un ou deux événements récents.",
+                "Apportez **tous les documents** listés sur la convocation et arrivez **en avance**."
+              ]
+            },
+            {
+              "type": "h",
+              "text": "Pendant"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Saluez, restez **poli(e) et calme**, regardez votre interlocuteur.",
+                "Répondez **en français**, avec des **phrases courtes et complètes** : mieux vaut une réponse simple et juste qu'une longue réponse confuse.",
+                "Si vous ne comprenez pas une question, **demandez de répéter ou de reformuler** : c'est normal et bien perçu.",
+                "Si vous ne savez pas, **dites-le simplement** et proposez ce que vous savez sur un sujet proche. Ne devinez pas une date au hasard.",
+                "Donnez des **exemples personnels** : une valeur expliquée avec un exemple vécu vaut mieux qu'une définition apprise par cœur.",
+                "Restez **sincère et cohérent(e)** : l'agent a votre dossier sous les yeux."
+              ]
+            },
+            {
+              "type": "h",
+              "text": "À éviter"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Répondre par **oui ou non** sans développer.",
+                "Réciter le livret **mot à mot** sans montrer que vous l'avez compris.",
+                "Les réponses qui **contredisent les valeurs** de la République, même « pour plaisanter ».",
+                "**Critiquer** votre pays d'origine ou tenir des propos négatifs sur un groupe de personnes.",
+                "Venir avec un **téléphone allumé** ou interrompre l'agent."
+              ]
+            },
+            {
+              "type": "callout",
+              "text": "Entraînez-vous à voix haute avec la simulation d'entretien de ce site : une question tirée au sort, vous répondez, puis vous comparez avec les points attendus."
+            }
+          ]
+        }
+      ],
+      "keyFacts": [
+        "L'entretien a lieu en préfecture, en sous-préfecture ou au consulat, en français, face à un agent, et dure en général de 30 minutes à une heure.",
+        "L'agent évalue quatre choses : le français oral (niveau B2), les connaissances du livret, l'adhésion aux valeurs de la République et l'intégration (travail, logement, vie sociale).",
+        "Les mises en situation servent à vérifier l'adhésion aux valeurs : égalité femmes-hommes, laïcité, respect des lois.",
+        "Si vous ne comprenez pas, demandez de répéter ; si vous ne savez pas, dites-le plutôt que de deviner.",
+        "Répondez avec des phrases courtes et complètes, et donnez des exemples tirés de votre vie.",
+        "Préparez vos repères personnels : date d'arrivée, emplois, nom du maire, du département, de la région, actualité récente.",
+        "Une réponse contraire aux valeurs de la République peut entraîner un avis défavorable.",
+        "À la fin de la procédure, vous signez la Charte des droits et devoirs du citoyen français."
+      ],
+      "quiz": [
+        {
+          "q": "Pendant l'entretien, l'agent pose une question que vous ne comprenez pas bien. Que faites-vous ?",
+          "choices": [
+            "Vous répondez au hasard, avec assurance, pour ne pas montrer d'hésitation",
+            "Vous demandez poliment de répéter ou de reformuler",
+            "Vous répondez dans votre langue maternelle, en espérant que l'agent la comprenne",
+            "Vous restez silencieux(se) jusqu'à la question suivante, sans rien dire"
+          ],
+          "answer": 1,
+          "explain": "Demander de répéter ou de reformuler est normal et bien perçu : l'agent évalue votre capacité à communiquer, pas votre rapidité.",
+          "kind": "situation"
+        },
+        {
+          "q": "Dans quelle langue se déroule l'entretien de naturalisation ?",
+          "choices": [
+            "Dans la langue de votre choix",
+            "En anglais",
+            "En français",
+            "Dans votre langue maternelle avec un interprète"
+          ],
+          "answer": 2,
+          "explain": "L'entretien se déroule en français : il sert aussi à vérifier votre maîtrise de la langue à l'oral.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "L'agent vous demande la date de la prise de la Bastille et vous avez un trou de mémoire. Quelle est la meilleure attitude ?",
+          "choices": [
+            "Donner une date au hasard, avec assurance, pour ne pas perdre la face",
+            "Dire que vous avez oublié la date exacte, puis expliquer l'événement",
+            "Changer de sujet et parler de votre travail, que vous connaissez mieux",
+            "Demander à l'agent de passer à une autre question, sans rien expliquer"
+          ],
+          "answer": 1,
+          "explain": "Reconnaître un oubli puis montrer ce que vous savez (1789, début de la Révolution, fête nationale) est plus convaincant qu'une date inventée.",
+          "kind": "situation"
+        },
+        {
+          "q": "Parmi ces éléments, lequel n'est pas évalué pendant l'entretien ?",
+          "choices": [
+            "Votre adhésion aux valeurs de la République",
+            "Votre maîtrise du français à l'oral",
+            "Vos connaissances sur l'histoire et la société françaises",
+            "Vos opinions sur la politique de votre pays d'origine"
+          ],
+          "answer": 3,
+          "explain": "L'agent évalue le français, les connaissances du livret, l'adhésion aux valeurs et l'intégration ; vos opinions sur votre pays d'origine ne sont pas un critère.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "L'agent décrit une situation : « Votre fille veut épouser quelqu'un d'une autre religion. » Pourquoi pose-t-il cette question ?",
+          "choices": [
+            "Pour connaître la religion de votre famille et celle de votre entourage",
+            "Pour vérifier votre adhésion à la liberté de choix et à l'égalité",
+            "Pour juger si votre fille a reçu une bonne éducation selon vos traditions",
+            "Pour vérifier vos connaissances sur le droit du mariage et les formalités en mairie"
+          ],
+          "answer": 1,
+          "explain": "Les mises en situation servent à vérifier votre adhésion aux valeurs : liberté de choix du conjoint, égalité entre les femmes et les hommes, respect des convictions de chacun.",
+          "kind": "situation"
+        },
+        {
+          "q": "Quel document signerez-vous à la fin de la procédure de naturalisation ?",
+          "choices": [
+            "La Déclaration des droits de l'homme et du citoyen de 1789",
+            "La Constitution de la Ve République du 4 octobre 1958",
+            "La Charte des droits et devoirs du citoyen français",
+            "Le Code civil, en particulier ses articles sur la nationalité"
+          ],
+          "answer": 2,
+          "explain": "La Charte des droits et devoirs du citoyen français, reproduite dans les annexes du livret, est signée par le candidat.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "On vous demande ce que signifie la laïcité pour vous. Quelle réponse est la plus convaincante ?",
+          "choices": [
+            "Réciter l'article 1er de la loi de 1905 mot pour mot, sans commentaire",
+            "Répondre « c'est important pour la France » sans développer davantage",
+            "Expliquer le principe en deux phrases, puis donner un exemple vécu",
+            "Dire que vous n'êtes pas religieux(se) et que cela ne vous concerne donc pas"
+          ],
+          "answer": 2,
+          "explain": "L'agent cherche la compréhension et la mise en pratique : une définition simple plus un exemple personnel vaut mieux qu'une récitation.",
+          "kind": "situation"
+        },
+        {
+          "q": "Lequel de ces éléments faut-il préparer avant l'entretien ?",
+          "choices": [
+            "Un discours de dix minutes appris par cœur sur l'histoire de France",
+            "Vos repères personnels : date d'arrivée, emplois, nom du maire et de la région",
+            "Une lettre de recommandation de votre employeur et de vos voisins",
+            "La liste de tous les présidents depuis 1958, dans l'ordre et avec les dates"
+          ],
+          "answer": 1,
+          "explain": "L'agent part de votre dossier : connaître ses propres repères (dates, lieux, élus locaux) montre une intégration réelle.",
+          "kind": "knowledge"
+        }
+      ]
+    },
+    {
+      "id": "e2",
+      "title": "Les questions fréquentes et comment y répondre",
+      "practice": {
+        "label": "Lancer la simulation d'entretien",
+        "href": "#/entretien"
+      },
+      "lessons": [],
+      "keyFacts": [
+        "Pourquoi la France : parlez de votre vie ici (travail, famille, amis, projets), pas seulement des avantages du passeport.",
+        "Devise : liberté (faire ce qui ne nuit pas à autrui), égalité (mêmes droits pour tous), fraternité (solidarité) ; donnez un exemple pour chacune.",
+        "Laïcité : l'État est neutre et chacun est libre de croire ou non ; les signes religieux sont interdits pour les agents publics et à l'école publique.",
+        "Égalité femmes-hommes : mêmes droits au travail, dans la famille, dans la vie publique ; les discriminations et les violences sont punies.",
+        "Critiquer une religion ou le gouvernement est permis (liberté d'expression) ; l'injure, la diffamation et l'incitation à la haine ne le sont pas.",
+        "Devoirs du citoyen : respecter les lois, payer ses impôts, participer à la défense (JDC à 16 ans), être juré, scolariser ses enfants, voter est un droit et un devoir civique.",
+        "Président : élu au suffrage universel direct pour 5 ans, deux mandats consécutifs au maximum ; Assemblée nationale 577 députés (5 ans), Sénat 348 sénateurs (6 ans).",
+        "Urgences : 15 SAMU, 17 police, 18 pompiers, 112 numéro européen.",
+        "Avant l'entretien, vérifiez le nom du président de la République, du Premier ministre et de votre maire."
+      ],
+      "quiz": [
+        {
+          "q": "« Pourquoi voulez-vous devenir français(e) ? » Quelle réponse montre le mieux votre intégration ?",
+          "choices": [
+            "« Pour voyager plus facilement, avec un passeport qui ouvre beaucoup de pays. »",
+            "« Parce que ma vie est ici : mon travail, mes amis, l'école de mes enfants ; je veux participer, voter. »",
+            "« Parce que tout le monde dans ma famille l'a fait avant moi, c'est donc la suite logique pour moi aussi. »",
+            "« Parce que c'est plus pratique pour les démarches administratives et les papiers. »"
+          ],
+          "answer": 1,
+          "explain": "L'agent cherche un projet de vie en France et une volonté de participer à la communauté nationale, pas seulement des avantages pratiques.",
+          "kind": "situation"
+        },
+        {
+          "q": "« Que signifie l'égalité entre les femmes et les hommes pour vous ? » Quelle réponse est conforme aux valeurs de la République ?",
+          "choices": [
+            "« Les mêmes droits et les mêmes devoirs, au travail comme à la maison ; chez nous, on décide à deux. »",
+            "« Chacun a son rôle : l'homme travaille à l'extérieur, la femme s'occupe de la maison et des enfants. »",
+            "« C'est une idée française qui ne peut pas s'appliquer de la même façon dans toutes les cultures. »",
+            "« L'égalité existe sur le papier, mais dans la vie de tous les jours c'est très différent. »"
+          ],
+          "answer": 0,
+          "explain": "L'égalité entre les femmes et les hommes est inscrite dans la Constitution et s'applique à tous les domaines ; l'agent attend une adhésion claire, illustrée par votre vie quotidienne.",
+          "kind": "situation"
+        },
+        {
+          "q": "« Peut-on critiquer le gouvernement en France ? » Quelle réponse est juste ?",
+          "choices": [
+            "« Non, c'est interdit par la loi, on risque une amende ou même la prison. »",
+            "« Oui, c'est la liberté d'expression, mais sans injure, diffamation ni incitation à la haine. »",
+            "« Oui, mais seulement pour les citoyens français, pas pour les étrangers qui vivent en France. »",
+            "« Seulement les journalistes, qui ont une carte de presse, peuvent le faire. »"
+          ],
+          "answer": 1,
+          "explain": "La liberté d'expression est garantie par l'article 11 de la Déclaration de 1789 ; ses limites sont fixées par la loi (injure, diffamation, incitation à la haine).",
+          "kind": "situation"
+        },
+        {
+          "q": "« Comment est élu le président de la République ? » Quelle réponse est exacte ?",
+          "choices": [
+            "« Par les députés et les sénateurs réunis en congrès à Versailles, pour sept ans. »",
+            "« Par le Premier ministre et le gouvernement, pour cinq ans renouvelables sans limite. »",
+            "« Au suffrage universel direct, pour cinq ans, deux mandats de suite au maximum. »",
+            "« Par l'ensemble des maires de France, pour un mandat de six ans. »"
+          ],
+          "answer": 2,
+          "explain": "Depuis 2000, le mandat présidentiel est de 5 ans ; le président est élu au suffrage universel direct et ne peut exercer plus de deux mandats consécutifs.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "« Quels sont les devoirs d'un citoyen ? » Quelle liste est correcte ?",
+          "choices": [
+            "« Respecter les lois, payer ses impôts, participer à la défense, être juré si on est désigné. »",
+            "« Voter obligatoirement à chaque élection, aller à la messe le dimanche et parler uniquement français. »",
+            "« Travailler dans la fonction publique, posséder un logement et avoir un casier judiciaire vierge. »",
+            "« Faire un service militaire d'un an dans l'armée française. »"
+          ],
+          "answer": 0,
+          "explain": "Les devoirs du citoyen comprennent le respect des lois, l'impôt, la contribution à la défense (JDC), la participation aux jurys et l'instruction des enfants ; le service militaire est suspendu depuis 1997.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "« Que savez-vous de la laïcité à l'école publique ? » Quelle réponse est exacte ?",
+          "choices": [
+            "« Les élèves peuvent porter des signes religieux visibles, mais pas les enseignants ni le reste du personnel. »",
+            "« Les signes religieux ostensibles y sont interdits aux élèves depuis 2004, et les enseignants sont neutres. »",
+            "« La religion y est enseignée obligatoirement à tous les élèves, quelle que soit leur famille. »",
+            "« Chaque école choisit ses propres règles en matière de religion, selon son quartier. »"
+          ],
+          "answer": 1,
+          "explain": "La loi du 15 mars 2004 interdit les signes religieux ostensibles aux élèves des écoles, collèges et lycées publics ; les agents publics, dont les enseignants, sont tenus à la neutralité.",
+          "kind": "knowledge"
+        },
+        {
+          "q": "L'agent vous demande le nom de votre maire et vous ne le connaissez pas. Que révèle cette question et comment l'éviter ?",
+          "choices": [
+            "Elle teste votre mémoire ; vous pouvez dire que ce n'est pas important pour vous",
+            "Elle teste votre intégration locale ; vérifiez ces noms avant l'entretien",
+            "Elle est hors sujet ; vous pouvez refuser poliment d'y répondre",
+            "Elle teste vos opinions politiques ; répondez en citant votre parti préféré"
+          ],
+          "answer": 1,
+          "explain": "Connaître sa commune, son maire, son département et sa région montre une intégration concrète ; ce sont des repères faciles à vérifier avant l'entretien.",
+          "kind": "situation"
+        },
+        {
+          "q": "« Quel numéro appelez-vous si votre voisin fait un malaise ? » Quelle réponse est exacte ?",
+          "choices": [
+            "« Le 17, la police, qui enverra ensuite une ambulance. »",
+            "« Le 15, le SAMU, ou le 112. »",
+            "« Le 115, le numéro pour toutes les urgences. »",
+            "« Le 3919, le numéro d'écoute et d'orientation. »"
+          ],
+          "answer": 1,
+          "explain": "Le 15 est le numéro du SAMU pour les urgences médicales ; le 112 est le numéro d'urgence européen qui fonctionne aussi.",
+          "kind": "situation"
+        }
+      ]
+    }
+  ],
+  "drills": [
+    {
+      "theme": "Vous et votre parcours",
+      "q": "Pourquoi voulez-vous devenir français(e) ?",
+      "why": "L'agent cherche un projet de vie en France et une volonté de participer à la communauté nationale.",
+      "points": [
+        "Votre vie est ici : travail, famille, amis, logement.",
+        "Ce que vous voulez faire en tant que citoyen : voter, participer, vous engager.",
+        "Votre attachement aux valeurs de la République, avec un exemple."
+      ],
+      "example": "Je vis en France depuis huit ans, j'y travaille et mes enfants y vont à l'école. Je me sens chez moi ici et je partage les valeurs de la République. Devenir français, c'est pouvoir participer pleinement, par exemple en votant."
+    },
+    {
+      "theme": "Vous et votre parcours",
+      "q": "Depuis quand vivez-vous en France et comment s'est passée votre arrivée ?",
+      "why": "Vérifier la cohérence avec votre dossier et votre capacité à raconter votre parcours en français.",
+      "points": [
+        "La date et les raisons de votre arrivée.",
+        "Les étapes : logement, travail, apprentissage du français.",
+        "Ce qui a été difficile et comment vous avez progressé."
+      ],
+      "example": "Je suis arrivé(e) en 2018 pour rejoindre mon conjoint. Au début, le français était difficile, j'ai suivi des cours à la mairie et j'ai trouvé un emploi un an plus tard. Aujourd'hui, je travaille comme aide-soignante et je me sens intégrée."
+    },
+    {
+      "theme": "Vous et votre parcours",
+      "q": "Parlez-moi de votre travail ou de votre situation professionnelle.",
+      "why": "L'autonomie et l'insertion professionnelle font partie de l'intégration.",
+      "points": [
+        "Votre poste, votre employeur, depuis quand.",
+        "Si vous ne travaillez pas : vos démarches, votre formation, votre projet.",
+        "Ce que ce travail vous apporte et vos relations avec vos collègues."
+      ],
+      "example": "Je suis chauffeur-livreur en CDI depuis trois ans dans une entreprise de logistique. J'ai passé mon permis en France. Je m'entends bien avec mes collègues, on déjeune souvent ensemble."
+    },
+    {
+      "theme": "Vous et votre parcours",
+      "q": "Comment avez-vous appris le français ? Quelle langue parlez-vous à la maison ?",
+      "why": "La langue est le premier critère d'assimilation ; l'agent évalue aussi votre pratique quotidienne.",
+      "points": [
+        "Vos cours, vos diplômes de langue, votre pratique au travail.",
+        "Ce que vous faites pour progresser : lecture, télévision, amis.",
+        "À la maison : il est normal de parler sa langue d'origine, mais montrez que le français a sa place, surtout avec les enfants."
+      ],
+      "example": "J'ai suivi des cours de français pendant deux ans et j'ai obtenu un diplôme de niveau B2. Au travail, je parle uniquement français. À la maison, nous parlons les deux langues, et mes enfants me corrigent parfois !"
+    },
+    {
+      "theme": "Vous et votre parcours",
+      "q": "Avez-vous des activités, des amis, un engagement dans une association ?",
+      "why": "La vie sociale et l'engagement montrent une intégration au-delà du travail.",
+      "points": [
+        "Vos amis, français ou non, et comment vous les avez rencontrés.",
+        "Un club de sport, une association, l'école des enfants, le voisinage.",
+        "Un engagement bénévole, même modeste."
+      ],
+      "example": "Je joue au football dans un club de ma ville le dimanche, et je participe aux sorties organisées par l'école de ma fille. Mes voisins sont devenus des amis ; on fête ensemble le Nouvel An."
+    },
+    {
+      "theme": "Vous et votre parcours",
+      "q": "Que connaissez-vous de la ville, du département et de la région où vous vivez ?",
+      "why": "Une question simple qui révèle votre ancrage local.",
+      "points": [
+        "Le nom du maire, du département (et son numéro), de la région.",
+        "Un monument, une spécialité, un événement local.",
+        "Les services que vous utilisez : mairie, bibliothèque, transports."
+      ],
+      "example": "J'habite à Villeurbanne, dans le Rhône, en Auvergne-Rhône-Alpes. Le maire est [nom]. J'aime le parc de la Tête d'Or tout près, et je vais souvent à la bibliothèque municipale avec mes enfants."
+    },
+    {
+      "theme": "Valeurs de la République",
+      "q": "Que signifie la devise « Liberté, Égalité, Fraternité » pour vous ?",
+      "why": "Question très fréquente : l'agent attend une définition simple et surtout un exemple personnel.",
+      "points": [
+        "Liberté : faire tout ce qui ne nuit pas aux autres, dans le respect de la loi.",
+        "Égalité : mêmes droits pour tous, quels que soient l'origine, le sexe, la religion.",
+        "Fraternité : solidarité, entraide, par exemple la Sécurité sociale ou le bénévolat."
+      ],
+      "example": "La liberté, c'est pouvoir penser, parler et vivre comme je veux tant que je ne nuis pas aux autres. L'égalité, c'est que mon fils et ma fille ont les mêmes droits. La fraternité, c'est l'entraide : quand j'ai été malade, la Sécurité sociale m'a soigné, et j'aide à mon tour en donnant du sang."
+    },
+    {
+      "theme": "Valeurs de la République",
+      "q": "Qu'est-ce que la laïcité ? Comment s'applique-t-elle à l'école et au travail ?",
+      "why": "La laïcité est le principe le plus souvent testé, avec des mises en situation.",
+      "points": [
+        "L'État est neutre et ne reconnaît aucune religion ; chacun est libre de croire, de ne pas croire ou de changer de religion.",
+        "Les agents publics et les élèves de l'école publique ne portent pas de signes religieux ostensibles (lois de 1905 et de 2004).",
+        "Dans une entreprise privée, la liberté religieuse existe, avec des limites justifiées par la sécurité ou le fonctionnement."
+      ],
+      "example": "La laïcité, c'est la séparation entre l'État et les religions : l'État est neutre, et chacun est libre de croire ou non. À l'école publique, mes enfants ne portent pas de signe religieux visible, et les enseignants non plus. Au travail, je peux pratiquer ma religion en privé, sans l'imposer aux autres."
+    },
+    {
+      "theme": "Valeurs de la République",
+      "q": "Que pensez-vous de l'égalité entre les femmes et les hommes ?",
+      "why": "L'agent vérifie une adhésion sincère, souvent avec une situation concrète (travail, mariage, décisions familiales).",
+      "points": [
+        "Mêmes droits et mêmes devoirs au travail, dans la famille, dans la vie publique.",
+        "Les violences et les discriminations sont punies par la loi.",
+        "Un exemple chez vous : partage des décisions, du travail, de l'éducation des enfants."
+      ],
+      "example": "Pour moi, c'est une évidence : ma femme et moi prenons les décisions ensemble, elle travaille comme moi et nous partageons les tâches. Ma fille fera les études qu'elle veut. Les discriminations et les violences contre les femmes sont des délits."
+    },
+    {
+      "theme": "Valeurs de la République",
+      "q": "Peut-on critiquer une religion ou le gouvernement en France ?",
+      "why": "Test de compréhension de la liberté d'expression et de ses limites.",
+      "points": [
+        "Oui : la liberté d'expression est garantie depuis 1789, et le blasphème n'est pas un délit.",
+        "Les limites : injure, diffamation, incitation à la haine ou à la violence.",
+        "On peut ne pas être d'accord et le dire, sans menacer ni insulter."
+      ],
+      "example": "Oui, on peut critiquer le gouvernement, une religion ou une idée : c'est la liberté d'expression. On ne peut pas insulter une personne, inciter à la haine ou à la violence. Je peux être choqué par une caricature, mais je n'ai pas le droit de menacer son auteur."
+    },
+    {
+      "theme": "Valeurs de la République",
+      "q": "Un membre de votre famille refuse d'être soigné par un médecin de l'autre sexe. Que faites-vous ?",
+      "why": "Mise en situation classique sur l'égalité et le fonctionnement des services publics.",
+      "points": [
+        "À l'hôpital public, on ne choisit pas le sexe du soignant : le personnel est compétent, homme ou femme.",
+        "Vous expliquez à votre proche que refuser un soin pour cette raison n'est pas acceptable et peut mettre sa santé en danger.",
+        "Dans une situation d'urgence, le soin passe avant tout."
+      ],
+      "example": "Je lui expliquerais qu'en France, les médecins hommes et femmes ont les mêmes compétences et qu'on ne peut pas refuser un soin pour cette raison. Je l'accompagnerais pour le rassurer, mais je ne demanderais pas à l'hôpital de changer de médecin."
+    },
+    {
+      "theme": "Valeurs de la République",
+      "q": "Acceptez-vous que vos enfants choisissent librement leurs études, leur religion, leur conjoint ?",
+      "why": "Vérifie l'adhésion à la liberté individuelle et à l'égalité entre filles et garçons.",
+      "points": [
+        "Oui : la liberté de conscience et le libre choix du conjoint sont des droits ; le mariage forcé est un délit.",
+        "Les mêmes règles pour les filles et les garçons.",
+        "Votre rôle de parent : conseiller, protéger, mais pas imposer."
+      ],
+      "example": "Oui. Mes enfants choisiront leurs études, leurs croyances et la personne avec qui ils veulent vivre. Je peux donner mon avis, mais la décision leur appartient, pour ma fille comme pour mon fils. Le mariage forcé est interdit, et c'est juste."
+    },
+    {
+      "theme": "Droits, devoirs et institutions",
+      "q": "Quels sont les devoirs d'un citoyen français ?",
+      "why": "Connaissance de base du livret, souvent suivie de « et vous, lesquels remplissez-vous déjà ? »",
+      "points": [
+        "Respecter les lois et les droits des autres.",
+        "Payer ses impôts, scolariser ses enfants, participer à la défense (recensement et JDC à 16 ans).",
+        "Être juré si on est désigné ; voter est un droit et un devoir civique."
+      ],
+      "example": "Respecter les lois, payer ses impôts, faire scolariser ses enfants, participer à la défense du pays, être juré si on est désigné, et voter. Je paie déjà mes impôts et mes enfants sont scolarisés ; j'ai hâte de pouvoir voter."
+    },
+    {
+      "theme": "Droits, devoirs et institutions",
+      "q": "Quels droits aurez-vous en devenant français(e) ?",
+      "why": "Montrer que vous comprenez ce que change la nationalité.",
+      "points": [
+        "Voter et être élu(e) à toutes les élections, y compris présidentielle et législatives.",
+        "Accéder à tous les emplois publics, y compris ceux réservés aux Français.",
+        "La protection de la France à l'étranger et la citoyenneté européenne."
+      ],
+      "example": "Je pourrai voter à toutes les élections et me présenter, passer tous les concours de la fonction publique, et je serai aussi citoyen européen. J'aurai aussi la protection consulaire de la France à l'étranger."
+    },
+    {
+      "theme": "Droits, devoirs et institutions",
+      "q": "Qui est le président de la République ? Le Premier ministre ? Le maire de votre commune ?",
+      "why": "Questions d'actualité et d'ancrage local, posées presque toujours.",
+      "points": [
+        "Vérifiez les noms la veille de l'entretien : ils peuvent changer.",
+        "Sachez aussi qui est le maire de votre commune et, si possible, votre député.",
+        "Connaissez le rôle de chacun : le président nomme le Premier ministre, qui dirige le gouvernement."
+      ],
+      "example": "Le président de la République est [nom], élu en [année]. Le Premier ministre est [nom]. Le maire de ma commune est [nom]. (Vérifiez ces noms avant votre entretien.)"
+    },
+    {
+      "theme": "Droits, devoirs et institutions",
+      "q": "Comment est élu le président de la République et pour combien de temps ?",
+      "why": "Question de connaissances pure : il faut une réponse exacte et courte.",
+      "points": [
+        "Au suffrage universel direct, en deux tours.",
+        "Pour 5 ans (le quinquennat), deux mandats consécutifs au maximum.",
+        "Il faut avoir 18 ans et être inscrit sur les listes électorales pour voter."
+      ],
+      "example": "Il est élu directement par les citoyens, au suffrage universel direct, en deux tours. Son mandat dure cinq ans et il ne peut pas faire plus de deux mandats de suite."
+    },
+    {
+      "theme": "Droits, devoirs et institutions",
+      "q": "Que sont l'Assemblée nationale et le Sénat ?",
+      "why": "Vérifie votre connaissance du Parlement et de la séparation des pouvoirs.",
+      "points": [
+        "Les deux chambres du Parlement, qui vote les lois et contrôle le gouvernement.",
+        "Assemblée nationale : 577 députés élus pour 5 ans au suffrage direct.",
+        "Sénat : 348 sénateurs élus pour 6 ans au suffrage indirect."
+      ],
+      "example": "Ce sont les deux chambres du Parlement. L'Assemblée nationale compte 577 députés élus directement pour cinq ans ; le Sénat compte 348 sénateurs élus indirectement pour six ans. Ensemble, ils votent les lois."
+    },
+    {
+      "theme": "Droits, devoirs et institutions",
+      "q": "Pourquoi faut-il payer ses impôts ?",
+      "why": "Lien entre devoir et fraternité : l'agent attend plus que « parce que c'est obligatoire ».",
+      "points": [
+        "Les impôts financent les services publics : école, hôpitaux, police, routes.",
+        "Chacun contribue selon ses moyens (article 13 de la Déclaration de 1789).",
+        "C'est la base de la solidarité nationale."
+      ],
+      "example": "Parce que les impôts paient l'école de mes enfants, l'hôpital, la police, les routes. Chacun contribue selon ses revenus : c'est ce qui permet la solidarité entre tous. Ne pas payer, c'est profiter des autres."
+    },
+    {
+      "theme": "Histoire, culture et vie quotidienne",
+      "q": "Que s'est-il passé le 14 juillet 1789 ? Pourquoi est-ce la fête nationale ?",
+      "why": "La date la plus demandée : il faut l'événement, le sens et la fête d'aujourd'hui.",
+      "points": [
+        "La prise de la Bastille, prison symbole de l'arbitraire royal : début de la Révolution française.",
+        "Le 14 juillet 1790, la fête de la Fédération célèbre l'unité du pays.",
+        "Fête nationale depuis 1880 : défilé militaire, bals et feux d'artifice."
+      ],
+      "example": "Le 14 juillet 1789, le peuple de Paris a pris la Bastille, une prison qui symbolisait le pouvoir absolu du roi. C'est le début de la Révolution. Depuis 1880, c'est la fête nationale, avec le défilé sur les Champs-Élysées, des bals et des feux d'artifice."
+    },
+    {
+      "theme": "Histoire, culture et vie quotidienne",
+      "q": "Citez quelques dates ou personnages importants de l'histoire de France.",
+      "why": "Question ouverte : choisissez trois ou quatre repères que vous maîtrisez vraiment.",
+      "points": [
+        "1789 : Révolution et Déclaration des droits de l'homme ; 1905 : séparation des Églises et de l'État.",
+        "1944 : droit de vote des femmes ; 1945 : Sécurité sociale ; 1958 : Ve République.",
+        "Un personnage : Jeanne d'Arc, Napoléon, Victor Hugo, Marie Curie, Jean Moulin, de Gaulle, Simone Veil."
+      ],
+      "example": "1789, la Révolution et la Déclaration des droits de l'homme ; 1905, la loi de séparation des Églises et de l'État ; 1944, le droit de vote des femmes ; 1958, la Ve République fondée par le général de Gaulle. J'admire aussi Marie Curie, qui a reçu deux prix Nobel."
+    },
+    {
+      "theme": "Histoire, culture et vie quotidienne",
+      "q": "Quels sont les symboles de la République ?",
+      "why": "Question simple et fréquente ; donnez-les tous avec un détail chacun.",
+      "points": [
+        "Le drapeau bleu, blanc, rouge et la devise « Liberté, Égalité, Fraternité ».",
+        "La Marseillaise, écrite par Rouget de Lisle en 1792, et Marianne, buste présent dans les mairies.",
+        "Le 14 juillet, fête nationale, et le coq, symbole non officiel."
+      ],
+      "example": "Le drapeau tricolore, la devise Liberté, Égalité, Fraternité, l'hymne La Marseillaise, Marianne qu'on voit dans les mairies, et la fête nationale du 14 juillet. Le coq est aussi un symbole, mais il n'est pas officiel."
+    },
+    {
+      "theme": "Histoire, culture et vie quotidienne",
+      "q": "Que savez-vous de l'Union européenne ?",
+      "why": "La France est un État fondateur ; l'agent attend trois ou quatre repères.",
+      "points": [
+        "27 États membres ; la France est membre fondateur (déclaration Schuman du 9 mai 1950, traité de Rome 1957).",
+        "L'euro depuis 2002, la libre circulation, le Parlement européen à Strasbourg.",
+        "Le drapeau à 12 étoiles, l'hymne Ode à la joie, la devise « Unie dans la diversité »."
+      ],
+      "example": "L'Union européenne regroupe 27 pays. La France en est un fondateur, depuis la déclaration de Robert Schuman en 1950. On a l'euro depuis 2002, on peut circuler et travailler librement dans les autres pays, et le Parlement européen siège à Strasbourg."
+    },
+    {
+      "theme": "Histoire, culture et vie quotidienne",
+      "q": "Quel numéro appelez-vous en cas d'urgence ?",
+      "why": "Vérifie une connaissance pratique indispensable.",
+      "points": [
+        "15 : SAMU (urgences médicales) ; 18 : pompiers ; 17 : police ou gendarmerie.",
+        "112 : numéro d'urgence européen, depuis n'importe quel téléphone.",
+        "114 par SMS pour les personnes sourdes ou malentendantes ; 3919 pour les violences conjugales."
+      ],
+      "example": "Le 15 pour le SAMU si quelqu'un est malade ou blessé, le 18 pour les pompiers, le 17 pour la police. Le 112 fonctionne pour toutes les urgences, partout en Europe."
+    },
+    {
+      "theme": "Histoire, culture et vie quotidienne",
+      "q": "Suivez-vous l'actualité française ? Comment vous informez-vous ?",
+      "why": "Montre votre intérêt pour la vie du pays et votre pratique du français.",
+      "points": [
+        "Citez vos sources : journal télévisé, radio, journaux en ligne, presse régionale.",
+        "Mentionnez un ou deux sujets récents que vous pouvez expliquer en quelques mots.",
+        "Évitez les sujets polémiques sur lesquels vous n'êtes pas à l'aise."
+      ],
+      "example": "Oui, je regarde le journal de 20 heures et j'écoute la radio dans la voiture. Je lis aussi le journal régional pour savoir ce qui se passe dans ma ville. Cette semaine, on a beaucoup parlé de [sujet récent]."
+    }
+  ]
+}

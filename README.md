@@ -14,6 +14,8 @@ Site d'entraînement non officiel. Le livret officiel reste la référence.
 - Des mises en situation : des cas concrets où il faut choisir le bon comportement, comme à l'examen.
 - Un examen blanc de 40 questions tirées au hasard dans tout le livret, en 45 minutes, avec 80 % requis pour réussir. Le résultat est détaillé par thème, avec la liste des erreurs à revoir.
 - Une page « À retenir » qui regroupe les 146 points clés, avec une recherche et une case « je sais » pour chaque point.
+- Une page « Mes erreurs » qui rejoue les questions ratées en quiz ou à l'examen blanc, jusqu'à ce qu'elles soient réussies.
+- Une partie bonus « Préparer l'entretien en préfecture » : déroulement, attitude attendue, 24 questions fréquentes avec ce que l'agent cherche, les points à donner et un exemple de réponse, et une simulation où l'on répond à voix haute avant de se noter. Ce guide est rédigé pour le site, il ne vient pas du livret.
 - Une application installable sur téléphone, qui fonctionne aussi hors connexion.
 - Un thème clair et un thème sombre, et un affichage adapté au mobile.
 
@@ -62,6 +64,7 @@ assets/js/welcome.js     fenêtre de bienvenue (prénom) et effacement des donn�
 assets/js/install.js     bouton d'installation de l'application
 assets/js/views/         une vue par écran
 data/*.json              contenu du livret : leçons, points à retenir, questions
+data/entretien.json      guide de l'entretien et fiches de la simulation (`drills`)
 ```
 
 ## Modifier le contenu

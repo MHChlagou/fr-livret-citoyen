@@ -2,7 +2,7 @@ const STORAGE_KEY = "livret-citoyen-progress-v1";
 export const PASS_RATIO = 0.8;
 
 function emptyProgress() {
-  return { sections: {}, memo: {}, exams: [], profile: { name: null, isNameAsked: false } };
+  return { sections: {}, memo: {}, exams: [], profile: { name: null, isNameAsked: false }, mistakes: {}, interview: {} };
 }
 
 export const NAME_MAX_LENGTH = 40;
@@ -76,6 +76,35 @@ export function recordExam(correct, total) {
 
 export function getExams() {
   return progress.exams;
+}
+
+/** A question joins the mistakes list when answered wrong and leaves it when answered right. */
+export function recordAnswers(answers) {
+  for (const { question, isCorrect } of answers) {
+    if (isCorrect) delete progress.mistakes[question.id];
+    else progress.mistakes[question.id] = new Date().toISOString();
+  }
+  save();
+}
+
+export function getMistakeIds() {
+  return Object.keys(progress.mistakes);
+}
+
+export function clearMistakes() {
+  progress.mistakes = {};
+  save();
+}
+
+/** "ok" | "retry" | null */
+export function getInterviewRating(drillId) {
+  return progress.interview[drillId] ?? null;
+}
+
+export function setInterviewRating(drillId, rating) {
+  if (rating) progress.interview[drillId] = rating;
+  else delete progress.interview[drillId];
+  save();
 }
 
 export function getUserName() {

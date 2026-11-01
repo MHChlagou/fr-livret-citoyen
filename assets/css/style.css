@@ -291,6 +291,33 @@ main:focus-visible { outline: none; }
   .install-card .btn { grid-column: 1 / -1; }
 }
 
+.mistakes-card {
+  display: grid; grid-template-columns: auto 1fr auto; gap: 16px; align-items: center;
+  padding: 16px 20px; margin: -16px 0 40px; text-decoration: none; color: var(--ink);
+  border-left: 4px solid var(--red); transition: transform 0.2s var(--ease);
+}
+.mistakes-card:hover { transform: translateX(4px); }
+.mistakes-card small { color: var(--ink-soft); }
+.mistakes-count {
+  font-family: var(--font-display); font-weight: 800; font-size: 1.8rem; line-height: 1;
+  min-width: 52px; height: 52px; padding: 0 10px; border-radius: 14px; display: grid; place-content: center;
+  background: var(--red-wash); color: var(--red);
+}
+
+.theme-row { display: flex; flex-wrap: wrap; gap: 6px; margin: 12px 0 4px; }
+.theme-chip {
+  border: 1px solid var(--line); background: var(--bg-elev); border-radius: 999px; padding: 6px 12px;
+  font-size: 0.85rem; cursor: pointer; color: var(--ink-soft);
+}
+.theme-chip[aria-pressed="true"] { background: var(--ink); color: var(--bg); border-color: var(--ink); }
+.drill-q { margin-top: 12px; }
+.drill-hint { color: var(--ink-faint); font-size: 0.92rem; }
+.drill-reveal { margin-top: 18px; padding-top: 18px; border-top: 1px dashed var(--line); }
+.drill-reveal ul { padding-left: 1.2em; }
+.drill-reveal li { margin-bottom: 0.4em; }
+.drill-reveal li::marker { color: var(--red); }
+.drill-rating { justify-content: space-between; }
+
 .how { display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; margin: -16px 0 44px; counter-reset: how; }
 .how li {
   list-style: none; padding: 16px; border-radius: var(--radius-sm); border: 1px dashed var(--line);
